@@ -4,6 +4,8 @@
 
 Build Process for Texture Packs
 
+![image](https://github.com/PixelMineStudio/PixelMiner/assets/6824189/4c984fce-561d-4dba-b8df-76e8f5b576c4)
+
 Been working on a project over the holidays that I've wanted to make for about 5 years. It's a resource pack builder. So it takes your textures in your resource pack and let's you organize them into a more artist friendly set of source file directories, then compiles versions of those textures for all minecraft versions, java and bedrock.
 
 ## Features
@@ -77,6 +79,31 @@ module_uuid: 649119bf-6fd5-4ee6-9c06-9c213e0b00f7
 ```
 
 **Source_Mapping.json**
+
+The source mapping file creates UIDs for every file in your resource pack, that is later used to match to a build UID mapping file for each version you want to build. This is a HUGE file with every texture and file that can be build for any version. Right now this is not connected to the editor, except that the editor looks at this file and loads all the file in it, if the file is missing it displays a placeholder image.
+
+```
+    "META_PACK_JAVA": {
+        "path"  : "pack/pack.mcmeta",
+        "inject": "TRUE"
+    },
+    "META_PACK_BEDROCK": {
+        "path"  : "pack/manifest.json",
+        "inject": "TRUE"
+    },
+    "TEXTURE_PACK": {
+        "path": "pack/pack.png",
+        "resolution": [128, 128]
+    }
+```
+
+### Source File Organization
+
+![image](https://github.com/PixelMineStudio/PixelMiner/assets/6824189/ba8e2134-986f-4700-b8e3-e5f1e50c50df)
+
+Since the source files are connected through the build process by the UIDs, it is possible to reloacte any of the images to other folders in any way that you want. Just be careful to update the source_mapping.json when you do. Disconnected images won't display in the editor, so they will be hard to find.
+
+You can have as many subdirectories as you want, although I would advise against it. All files are displayed in the editor by their root directory. So Mobs are all in their own subdirectories, but in the editor they all appear under the MOB folder.
 
 ## Resolution and Version Overrides
 
