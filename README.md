@@ -1,4 +1,6 @@
+![PIXELMINER](https://github.com/PixelMineStudio/PixelMiner/assets/11017383/07aa76af-0ae6-4d94-b2d1-fd111222a58b)
 # PixelMiner
+
 Build Process for Texture Packs
 
 Been working on a project over the holidays that I've wanted to make for about 5 years. It's a resource pack builder. So it takes your textures in your resource pack and let's you organize them into a more artist friendly set of source file directories, then compiles versions of those textures for all minecraft versions, java and bedrock.
