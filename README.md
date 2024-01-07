@@ -1,5 +1,6 @@
-![PIXELMINER](https://github.com/PixelMineStudio/PixelMiner/assets/11017383/07aa76af-0ae6-4d94-b2d1-fd111222a58b)
+![PIXELMINER](https://github.com/PixelMineStudio/PixelMiner/assets/6824189/dae85673-d7bf-42f5-8485-ce790923c45f)
 # PixelMiner
+
 
 Build Process for Texture Packs
 
