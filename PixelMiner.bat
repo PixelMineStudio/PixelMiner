@@ -1,2 +1,0 @@
-python PixelMiner.py
-pause
