@@ -1,0 +1,126 @@
+[
+    {
+        "source": "TEXTURE_BEEF_COOKED",
+        "destination": "textures/item/cooked_beef.png"
+    },
+    {
+        "source": "TEXTURE_BEEF_RAW",
+        "destination": "textures/item/beef.png"
+    },
+    {
+        "source": "TEXTURE_BREAD",
+        "destination": "textures/item/bread.png"
+    },
+    {
+        "source": "TEXTURE_CAKE",
+        "destination": "textures/item/cake.png"
+    },
+    {
+        "source": "TEXTURE_CAKE_BOTTOM",
+        "destination": "textures/block/cake_bottom.png"
+    },
+    {
+        "source": "TEXTURE_CAKE_INNER",
+        "destination": "textures/block/cake_inner.png"
+    },
+    {
+        "source": "TEXTURE_CAKE_SIDE",
+        "destination": "textures/block/cake_side.png"
+    },
+    {
+        "source": "TEXTURE_CAKE_TOP",
+        "destination": "textures/block/cake_top.png"
+    },
+    {
+        "source": "TEXTURE_CHICKEN_COOKED",
+        "destination": "textures/item/cooked_chicken.png"
+    },
+    {
+        "source": "TEXTURE_CHICKEN_RAW",
+        "destination": "textures/item/chicken.png"
+    },
+    {
+        "source": "TEXTURE_COOKIE",
+        "destination": "textures/item/cookie.png"
+    },
+    {
+        "source": "TEXTURE_EGG",
+        "destination": "textures/item/egg.png"
+    },
+    {
+        "source": "TEXTURE_FISH_COD_COOKED",
+        "destination": "textures/item/cooked_cod.png"
+    },
+    {
+        "source": "TEXTURE_FISH_COD_RAW",
+        "destination": "textures/item/cod.png"
+    },
+    {
+        "source": "TEXTURE_FISH_PUFFERFISH_RAW",
+        "destination": "textures/item/pufferfish.png"
+    },
+    {
+        "source": "TEXTURE_FISH_SALMON_COOKED",
+        "destination": "textures/item/cooked_salmon.png"
+    },
+    {
+        "source": "TEXTURE_FISH_SALMON_RAW",
+        "destination": "textures/item/salmon.png"
+    },
+    {
+        "source": "TEXTURE_FISH_TROPICAL_RAW",
+        "destination": "textures/item/tropical_fish.png"
+    },
+    {
+        "source": "TEXTURE_MUTTON_COOKED",
+        "destination": "textures/item/cooked_mutton.png"
+    },
+    {
+        "source": "TEXTURE_MUTTON_RAW",
+        "destination": "textures/item/mutton.png"
+    },
+    {
+        "source": "TEXTURE_PORKCHOP_COOKED",
+        "destination": "textures/item/cooked_porkchop.png"
+    },
+    {
+        "source": "TEXTURE_PORKCHOP_RAW",
+        "destination": "textures/item/porkchop.png"
+    },
+    {
+        "source": "TEXTURE_PUMPKIN_PIE",
+        "destination": "textures/item/pumpkin_pie.png"
+    },
+    {
+        "source": "TEXTURE_RABBIT_COOKED",
+        "destination": "textures/item/cooked_rabbit.png"
+    },
+    {
+        "source": "TEXTURE_RABBIT_RAW",
+        "destination": "textures/item/rabbit.png"
+    },
+    {
+        "source": "TEXTURE_SOUP_BEETROOT",
+        "destination": "textures/item/beetroot_soup.png"
+    },
+    {
+        "source": "TEXTURE_SOUP_BOWL",
+        "destination": "textures/item/bowl.png"
+    },
+    {
+        "source": "TEXTURE_SOUP_MUSHROOM",
+        "destination": "textures/item/mushroom_stew.png"
+    },
+    {
+        "source": "TEXTURE_SOUP_RABBIT",
+        "destination": "textures/item/rabbit_stew.png"
+    },
+    {
+        "source": "TEXTURE_SOUP_SUSPICIOUS",
+        "destination": "textures/item/suspicious_stew.png"
+    },
+    {
+        "source": "TEXTURE_SUGAR",
+        "destination": "textures/item/sugar.png"
+    }
+]

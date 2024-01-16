@@ -1,0 +1,1978 @@
+[
+    {
+        "source": "TEXTURE_GUI_CRAFTER",
+        "destination": "textures/gui/container/crafter.png"
+    },
+    {
+        "source": "TEXTURE_GUI_SNAPSHOT_REALMS",
+        "destination": "textures/gui/realms/snapshot_realms.png"
+    },
+    {
+        "source": "TEXTURE_GUI_DISABLED_SLOT",
+        "destination": "textures/gui/sprites/container/crafter/disabled_slot.png"
+    },
+    {
+        "source": "TEXTURE_GUI_POWERED_REDSTONE",
+        "destination": "textures/gui/sprites/container/crafter/powered_redstone.png"
+    },
+    {
+        "source": "TEXTURE_GUI_UNPOWERED_REDSTONE",
+        "destination": "textures/gui/sprites/container/crafter/unpowered_redstone.png"
+    },
+    {
+        "source": "TEXTURE_GUI_VILLAGER",
+        "destination": "textures/gui/container/villager.png"
+    },
+    {
+        "source": "TEXTURE_GUI_ADVENTURE",
+        "destination": "textures/gui/realms/adventure.png"
+    },
+    {
+        "source": "TEXTURE_GUI_EMPTY_FRAME",
+        "destination": "textures/gui/realms/empty_frame.png"
+    },
+    {
+        "source": "TEXTURE_GUI_EXPERIENCE",
+        "destination": "textures/gui/realms/experience.png"
+    },
+    {
+        "source": "TEXTURE_GUI_INSPIRATION",
+        "destination": "textures/gui/realms/inspiration.png"
+    },
+    {
+        "source": "TEXTURE_GUI_NEW_WORLD",
+        "destination": "textures/gui/realms/new_world.png"
+    },
+    {
+        "source": "TEXTURE_GUI_NO_REALMS",
+        "destination": "textures/gui/realms/no_realms.png"
+    },
+    {
+        "source": "TEXTURE_GUI_SURVIVAL_SPAWN",
+        "destination": "textures/gui/realms/survival_spawn.png"
+    },
+    {
+        "source": "TEXTURE_GUI_UPLOAD",
+        "destination": "textures/gui/realms/upload.png"
+    },
+    {
+        "source": "TEXTURE_GUI_BOX_OBTAINED",
+        "destination": "textures/gui/sprites/advancements/box_obtained.png"
+    },
+    {
+        "source": "TEXTURE_GUI_BOX_UNOBTAINED",
+        "destination": "textures/gui/sprites/advancements/box_unobtained.png"
+    },
+    {
+        "source": "TEXTURE_GUI_CHALLENGE_FRAME_OBTAINED",
+        "destination": "textures/gui/sprites/advancements/challenge_frame_obtained.png"
+    },
+    {
+        "source": "TEXTURE_GUI_CHALLENGE_FRAME_UNOBTAINED",
+        "destination": "textures/gui/sprites/advancements/challenge_frame_unobtained.png"
+    },
+    {
+        "source": "TEXTURE_GUI_GOAL_FRAME_OBTAINED",
+        "destination": "textures/gui/sprites/advancements/goal_frame_obtained.png"
+    },
+    {
+        "source": "TEXTURE_GUI_GOAL_FRAME_UNOBTAINED",
+        "destination": "textures/gui/sprites/advancements/goal_frame_unobtained.png"
+    },
+    {
+        "source": "TEXTURE_GUI_TAB_ABOVE_LEFT",
+        "destination": "textures/gui/sprites/advancements/tab_above_left.png"
+    },
+    {
+        "source": "TEXTURE_GUI_TAB_ABOVE_LEFT_SELECTED",
+        "destination": "textures/gui/sprites/advancements/tab_above_left_selected.png"
+    },
+    {
+        "source": "TEXTURE_GUI_TAB_ABOVE_MIDDLE",
+        "destination": "textures/gui/sprites/advancements/tab_above_middle.png"
+    },
+    {
+        "source": "TEXTURE_GUI_TAB_ABOVE_MIDDLE_SELECTED",
+        "destination": "textures/gui/sprites/advancements/tab_above_middle_selected.png"
+    },
+    {
+        "source": "TEXTURE_GUI_TAB_ABOVE_RIGHT",
+        "destination": "textures/gui/sprites/advancements/tab_above_right.png"
+    },
+    {
+        "source": "TEXTURE_GUI_TAB_ABOVE_RIGHT_SELECTED",
+        "destination": "textures/gui/sprites/advancements/tab_above_right_selected.png"
+    },
+    {
+        "source": "TEXTURE_GUI_TAB_BELOW_LEFT",
+        "destination": "textures/gui/sprites/advancements/tab_below_left.png"
+    },
+    {
+        "source": "TEXTURE_GUI_TAB_BELOW_LEFT_SELECTED",
+        "destination": "textures/gui/sprites/advancements/tab_below_left_selected.png"
+    },
+    {
+        "source": "TEXTURE_GUI_TAB_BELOW_MIDDLE",
+        "destination": "textures/gui/sprites/advancements/tab_below_middle.png"
+    },
+    {
+        "source": "TEXTURE_GUI_TAB_BELOW_MIDDLE_SELECTED",
+        "destination": "textures/gui/sprites/advancements/tab_below_middle_selected.png"
+    },
+    {
+        "source": "TEXTURE_GUI_TAB_BELOW_RIGHT",
+        "destination": "textures/gui/sprites/advancements/tab_below_right.png"
+    },
+    {
+        "source": "TEXTURE_GUI_TAB_BELOW_RIGHT_SELECTED",
+        "destination": "textures/gui/sprites/advancements/tab_below_right_selected.png"
+    },
+    {
+        "source": "TEXTURE_GUI_TAB_LEFT_BOTTOM",
+        "destination": "textures/gui/sprites/advancements/tab_left_bottom.png"
+    },
+    {
+        "source": "TEXTURE_GUI_TAB_LEFT_BOTTOM_SELECTED",
+        "destination": "textures/gui/sprites/advancements/tab_left_bottom_selected.png"
+    },
+    {
+        "source": "TEXTURE_GUI_TAB_LEFT_MIDDLE",
+        "destination": "textures/gui/sprites/advancements/tab_left_middle.png"
+    },
+    {
+        "source": "TEXTURE_GUI_TAB_LEFT_MIDDLE_SELECTED",
+        "destination": "textures/gui/sprites/advancements/tab_left_middle_selected.png"
+    },
+    {
+        "source": "TEXTURE_GUI_TAB_LEFT_TOP",
+        "destination": "textures/gui/sprites/advancements/tab_left_top.png"
+    },
+    {
+        "source": "TEXTURE_GUI_TAB_LEFT_TOP_SELECTED",
+        "destination": "textures/gui/sprites/advancements/tab_left_top_selected.png"
+    },
+    {
+        "source": "TEXTURE_GUI_TAB_RIGHT_BOTTOM",
+        "destination": "textures/gui/sprites/advancements/tab_right_bottom.png"
+    },
+    {
+        "source": "TEXTURE_GUI_TAB_RIGHT_BOTTOM_SELECTED",
+        "destination": "textures/gui/sprites/advancements/tab_right_bottom_selected.png"
+    },
+    {
+        "source": "TEXTURE_GUI_TAB_RIGHT_MIDDLE",
+        "destination": "textures/gui/sprites/advancements/tab_right_middle.png"
+    },
+    {
+        "source": "TEXTURE_GUI_TAB_RIGHT_MIDDLE_SELECTED",
+        "destination": "textures/gui/sprites/advancements/tab_right_middle_selected.png"
+    },
+    {
+        "source": "TEXTURE_GUI_TAB_RIGHT_TOP",
+        "destination": "textures/gui/sprites/advancements/tab_right_top.png"
+    },
+    {
+        "source": "TEXTURE_GUI_TAB_RIGHT_TOP_SELECTED",
+        "destination": "textures/gui/sprites/advancements/tab_right_top_selected.png"
+    },
+    {
+        "source": "TEXTURE_GUI_TASK_FRAME_OBTAINED",
+        "destination": "textures/gui/sprites/advancements/task_frame_obtained.png"
+    },
+    {
+        "source": "TEXTURE_GUI_TASK_FRAME_UNOBTAINED",
+        "destination": "textures/gui/sprites/advancements/task_frame_unobtained.png"
+    },
+    {
+        "source": "TEXTURE_GUI_TITLE_BOX",
+        "destination": "textures/gui/sprites/advancements/title_box.png"
+    },
+    {
+        "source": "TEXTURE_GUI_CHANGES",
+        "destination": "textures/gui/sprites/backup/changes.png"
+    },
+    {
+        "source": "TEXTURE_GUI_CHANGES_HIGHLIGHTED",
+        "destination": "textures/gui/sprites/backup/changes_highlighted.png"
+    },
+    {
+        "source": "TEXTURE_GUI_RESTORE",
+        "destination": "textures/gui/sprites/backup/restore.png"
+    },
+    {
+        "source": "TEXTURE_GUI_RESTORE_HIGHLIGHTED",
+        "destination": "textures/gui/sprites/backup/restore_highlighted.png"
+    },
+    {
+        "source": "TEXTURE_GUI_BLUE_BACKGROUND",
+        "destination": "textures/gui/sprites/boss_bar/blue_background.png"
+    },
+    {
+        "source": "TEXTURE_GUI_BLUE_PROGRESS",
+        "destination": "textures/gui/sprites/boss_bar/blue_progress.png"
+    },
+    {
+        "source": "TEXTURE_GUI_GREEN_BACKGROUND",
+        "destination": "textures/gui/sprites/boss_bar/green_background.png"
+    },
+    {
+        "source": "TEXTURE_GUI_GREEN_PROGRESS",
+        "destination": "textures/gui/sprites/boss_bar/green_progress.png"
+    },
+    {
+        "source": "TEXTURE_GUI_NOTCHED_10_BACKGROUND",
+        "destination": "textures/gui/sprites/boss_bar/notched_10_background.png"
+    },
+    {
+        "source": "TEXTURE_GUI_NOTCHED_10_PROGRESS",
+        "destination": "textures/gui/sprites/boss_bar/notched_10_progress.png"
+    },
+    {
+        "source": "TEXTURE_GUI_NOTCHED_12_BACKGROUND",
+        "destination": "textures/gui/sprites/boss_bar/notched_12_background.png"
+    },
+    {
+        "source": "TEXTURE_GUI_NOTCHED_12_PROGRESS",
+        "destination": "textures/gui/sprites/boss_bar/notched_12_progress.png"
+    },
+    {
+        "source": "TEXTURE_GUI_NOTCHED_20_BACKGROUND",
+        "destination": "textures/gui/sprites/boss_bar/notched_20_background.png"
+    },
+    {
+        "source": "TEXTURE_GUI_NOTCHED_20_PROGRESS",
+        "destination": "textures/gui/sprites/boss_bar/notched_20_progress.png"
+    },
+    {
+        "source": "TEXTURE_GUI_NOTCHED_6_BACKGROUND",
+        "destination": "textures/gui/sprites/boss_bar/notched_6_background.png"
+    },
+    {
+        "source": "TEXTURE_GUI_NOTCHED_6_PROGRESS",
+        "destination": "textures/gui/sprites/boss_bar/notched_6_progress.png"
+    },
+    {
+        "source": "TEXTURE_GUI_PINK_BACKGROUND",
+        "destination": "textures/gui/sprites/boss_bar/pink_background.png"
+    },
+    {
+        "source": "TEXTURE_GUI_PINK_PROGRESS",
+        "destination": "textures/gui/sprites/boss_bar/pink_progress.png"
+    },
+    {
+        "source": "TEXTURE_GUI_PURPLE_BACKGROUND",
+        "destination": "textures/gui/sprites/boss_bar/purple_background.png"
+    },
+    {
+        "source": "TEXTURE_GUI_PURPLE_PROGRESS",
+        "destination": "textures/gui/sprites/boss_bar/purple_progress.png"
+    },
+    {
+        "source": "TEXTURE_GUI_RED_BACKGROUND",
+        "destination": "textures/gui/sprites/boss_bar/red_background.png"
+    },
+    {
+        "source": "TEXTURE_GUI_RED_PROGRESS",
+        "destination": "textures/gui/sprites/boss_bar/red_progress.png"
+    },
+    {
+        "source": "TEXTURE_GUI_WHITE_BACKGROUND",
+        "destination": "textures/gui/sprites/boss_bar/white_background.png"
+    },
+    {
+        "source": "TEXTURE_GUI_WHITE_PROGRESS",
+        "destination": "textures/gui/sprites/boss_bar/white_progress.png"
+    },
+    {
+        "source": "TEXTURE_GUI_YELLOW_BACKGROUND",
+        "destination": "textures/gui/sprites/boss_bar/yellow_background.png"
+    },
+    {
+        "source": "TEXTURE_GUI_YELLOW_PROGRESS",
+        "destination": "textures/gui/sprites/boss_bar/yellow_progress.png"
+    },
+    {
+        "source": "TEXTURE_GUI_SLOT",
+        "destination": "textures/gui/sprites/container/slot.png"
+    },
+    {
+        "source": "TEXTURE_GUI_ERROR",
+        "destination": "textures/gui/sprites/container/anvil/error.png"
+    },
+    {
+        "source": "TEXTURE_GUI_TEXT_FIELD",
+        "destination": "textures/gui/sprites/container/anvil/text_field.png"
+    },
+    {
+        "source": "TEXTURE_GUI_TEXT_FIELD_DISABLED",
+        "destination": "textures/gui/sprites/container/anvil/text_field_disabled.png"
+    },
+    {
+        "source": "TEXTURE_GUI_BUTTON",
+        "destination": "textures/gui/sprites/container/beacon/button.png"
+    },
+    {
+        "source": "TEXTURE_GUI_BUTTON_DISABLED",
+        "destination": "textures/gui/sprites/container/beacon/button_disabled.png"
+    },
+    {
+        "source": "TEXTURE_GUI_BUTTON_HIGHLIGHTED",
+        "destination": "textures/gui/sprites/container/beacon/button_highlighted.png"
+    },
+    {
+        "source": "TEXTURE_GUI_BUTTON_SELECTED",
+        "destination": "textures/gui/sprites/container/beacon/button_selected.png"
+    },
+    {
+        "source": "TEXTURE_GUI_CANCEL",
+        "destination": "textures/gui/sprites/container/beacon/cancel.png"
+    },
+    {
+        "source": "TEXTURE_GUI_CONFIRM",
+        "destination": "textures/gui/sprites/container/beacon/confirm.png"
+    },
+    {
+        "source": "TEXTURE_GUI_BURN_PROGRESS",
+        "destination": "textures/gui/sprites/container/blast_furnace/burn_progress.png"
+    },
+    {
+        "source": "TEXTURE_GUI_LIT_PROGRESS",
+        "destination": "textures/gui/sprites/container/blast_furnace/lit_progress.png"
+    },
+    {
+        "source": "TEXTURE_GUI_BREW_PROGRESS",
+        "destination": "textures/gui/sprites/container/brewing_stand/brew_progress.png"
+    },
+    {
+        "source": "TEXTURE_GUI_BUBBLES",
+        "destination": "textures/gui/sprites/container/brewing_stand/bubbles.png"
+    },
+    {
+        "source": "TEXTURE_GUI_FUEL_LENGTH",
+        "destination": "textures/gui/sprites/container/brewing_stand/fuel_length.png"
+    },
+    {
+        "source": "TEXTURE_GUI_BACKGROUND",
+        "destination": "textures/gui/sprites/container/bundle/background.png"
+    },
+    {
+        "source": "TEXTURE_GUI_BLOCKED_SLOT",
+        "destination": "textures/gui/sprites/container/bundle/blocked_slot.png"
+    },
+    {
+        "source": "TEXTURE_GUI_SLOT",
+        "destination": "textures/gui/sprites/container/bundle/slot.png"
+    },
+    {
+        "source": "TEXTURE_GUI_DUPLICATED_MAP",
+        "destination": "textures/gui/sprites/container/cartography_table/duplicated_map.png"
+    },
+    {
+        "source": "TEXTURE_GUI_ERROR",
+        "destination": "textures/gui/sprites/container/cartography_table/error.png"
+    },
+    {
+        "source": "TEXTURE_GUI_LOCKED",
+        "destination": "textures/gui/sprites/container/cartography_table/locked.png"
+    },
+    {
+        "source": "TEXTURE_GUI_MAP",
+        "destination": "textures/gui/sprites/container/cartography_table/map.png"
+    },
+    {
+        "source": "TEXTURE_GUI_SCALED_MAP",
+        "destination": "textures/gui/sprites/container/cartography_table/scaled_map.png"
+    },
+    {
+        "source": "TEXTURE_GUI_SCROLLER",
+        "destination": "textures/gui/sprites/container/creative_inventory/scroller.png"
+    },
+    {
+        "source": "TEXTURE_GUI_SCROLLER_DISABLED",
+        "destination": "textures/gui/sprites/container/creative_inventory/scroller_disabled.png"
+    },
+    {
+        "source": "TEXTURE_GUI_TAB_BOTTOM_SELECTED_1",
+        "destination": "textures/gui/sprites/container/creative_inventory/tab_bottom_selected_1.png"
+    },
+    {
+        "source": "TEXTURE_GUI_TAB_BOTTOM_SELECTED_2",
+        "destination": "textures/gui/sprites/container/creative_inventory/tab_bottom_selected_2.png"
+    },
+    {
+        "source": "TEXTURE_GUI_TAB_BOTTOM_SELECTED_3",
+        "destination": "textures/gui/sprites/container/creative_inventory/tab_bottom_selected_3.png"
+    },
+    {
+        "source": "TEXTURE_GUI_TAB_BOTTOM_SELECTED_4",
+        "destination": "textures/gui/sprites/container/creative_inventory/tab_bottom_selected_4.png"
+    },
+    {
+        "source": "TEXTURE_GUI_TAB_BOTTOM_SELECTED_5",
+        "destination": "textures/gui/sprites/container/creative_inventory/tab_bottom_selected_5.png"
+    },
+    {
+        "source": "TEXTURE_GUI_TAB_BOTTOM_SELECTED_6",
+        "destination": "textures/gui/sprites/container/creative_inventory/tab_bottom_selected_6.png"
+    },
+    {
+        "source": "TEXTURE_GUI_TAB_BOTTOM_SELECTED_7",
+        "destination": "textures/gui/sprites/container/creative_inventory/tab_bottom_selected_7.png"
+    },
+    {
+        "source": "TEXTURE_GUI_TAB_BOTTOM_UNSELECTED_1",
+        "destination": "textures/gui/sprites/container/creative_inventory/tab_bottom_unselected_1.png"
+    },
+    {
+        "source": "TEXTURE_GUI_TAB_BOTTOM_UNSELECTED_2",
+        "destination": "textures/gui/sprites/container/creative_inventory/tab_bottom_unselected_2.png"
+    },
+    {
+        "source": "TEXTURE_GUI_TAB_BOTTOM_UNSELECTED_3",
+        "destination": "textures/gui/sprites/container/creative_inventory/tab_bottom_unselected_3.png"
+    },
+    {
+        "source": "TEXTURE_GUI_TAB_BOTTOM_UNSELECTED_4",
+        "destination": "textures/gui/sprites/container/creative_inventory/tab_bottom_unselected_4.png"
+    },
+    {
+        "source": "TEXTURE_GUI_TAB_BOTTOM_UNSELECTED_5",
+        "destination": "textures/gui/sprites/container/creative_inventory/tab_bottom_unselected_5.png"
+    },
+    {
+        "source": "TEXTURE_GUI_TAB_BOTTOM_UNSELECTED_6",
+        "destination": "textures/gui/sprites/container/creative_inventory/tab_bottom_unselected_6.png"
+    },
+    {
+        "source": "TEXTURE_GUI_TAB_BOTTOM_UNSELECTED_7",
+        "destination": "textures/gui/sprites/container/creative_inventory/tab_bottom_unselected_7.png"
+    },
+    {
+        "source": "TEXTURE_GUI_TAB_TOP_SELECTED_1",
+        "destination": "textures/gui/sprites/container/creative_inventory/tab_top_selected_1.png"
+    },
+    {
+        "source": "TEXTURE_GUI_TAB_TOP_SELECTED_2",
+        "destination": "textures/gui/sprites/container/creative_inventory/tab_top_selected_2.png"
+    },
+    {
+        "source": "TEXTURE_GUI_TAB_TOP_SELECTED_3",
+        "destination": "textures/gui/sprites/container/creative_inventory/tab_top_selected_3.png"
+    },
+    {
+        "source": "TEXTURE_GUI_TAB_TOP_SELECTED_4",
+        "destination": "textures/gui/sprites/container/creative_inventory/tab_top_selected_4.png"
+    },
+    {
+        "source": "TEXTURE_GUI_TAB_TOP_SELECTED_5",
+        "destination": "textures/gui/sprites/container/creative_inventory/tab_top_selected_5.png"
+    },
+    {
+        "source": "TEXTURE_GUI_TAB_TOP_SELECTED_6",
+        "destination": "textures/gui/sprites/container/creative_inventory/tab_top_selected_6.png"
+    },
+    {
+        "source": "TEXTURE_GUI_TAB_TOP_SELECTED_7",
+        "destination": "textures/gui/sprites/container/creative_inventory/tab_top_selected_7.png"
+    },
+    {
+        "source": "TEXTURE_GUI_TAB_TOP_UNSELECTED_1",
+        "destination": "textures/gui/sprites/container/creative_inventory/tab_top_unselected_1.png"
+    },
+    {
+        "source": "TEXTURE_GUI_TAB_TOP_UNSELECTED_2",
+        "destination": "textures/gui/sprites/container/creative_inventory/tab_top_unselected_2.png"
+    },
+    {
+        "source": "TEXTURE_GUI_TAB_TOP_UNSELECTED_3",
+        "destination": "textures/gui/sprites/container/creative_inventory/tab_top_unselected_3.png"
+    },
+    {
+        "source": "TEXTURE_GUI_TAB_TOP_UNSELECTED_4",
+        "destination": "textures/gui/sprites/container/creative_inventory/tab_top_unselected_4.png"
+    },
+    {
+        "source": "TEXTURE_GUI_TAB_TOP_UNSELECTED_5",
+        "destination": "textures/gui/sprites/container/creative_inventory/tab_top_unselected_5.png"
+    },
+    {
+        "source": "TEXTURE_GUI_TAB_TOP_UNSELECTED_6",
+        "destination": "textures/gui/sprites/container/creative_inventory/tab_top_unselected_6.png"
+    },
+    {
+        "source": "TEXTURE_GUI_TAB_TOP_UNSELECTED_7",
+        "destination": "textures/gui/sprites/container/creative_inventory/tab_top_unselected_7.png"
+    },
+    {
+        "source": "TEXTURE_GUI_ENCHANTMENT_SLOT",
+        "destination": "textures/gui/sprites/container/enchanting_table/enchantment_slot.png"
+    },
+    {
+        "source": "TEXTURE_GUI_ENCHANTMENT_SLOT_DISABLED",
+        "destination": "textures/gui/sprites/container/enchanting_table/enchantment_slot_disabled.png"
+    },
+    {
+        "source": "TEXTURE_GUI_ENCHANTMENT_SLOT_HIGHLIGHTED",
+        "destination": "textures/gui/sprites/container/enchanting_table/enchantment_slot_highlighted.png"
+    },
+    {
+        "source": "TEXTURE_GUI_LEVEL_1",
+        "destination": "textures/gui/sprites/container/enchanting_table/level_1.png"
+    },
+    {
+        "source": "TEXTURE_GUI_LEVEL_1_DISABLED",
+        "destination": "textures/gui/sprites/container/enchanting_table/level_1_disabled.png"
+    },
+    {
+        "source": "TEXTURE_GUI_LEVEL_2",
+        "destination": "textures/gui/sprites/container/enchanting_table/level_2.png"
+    },
+    {
+        "source": "TEXTURE_GUI_LEVEL_2_DISABLED",
+        "destination": "textures/gui/sprites/container/enchanting_table/level_2_disabled.png"
+    },
+    {
+        "source": "TEXTURE_GUI_LEVEL_3",
+        "destination": "textures/gui/sprites/container/enchanting_table/level_3.png"
+    },
+    {
+        "source": "TEXTURE_GUI_LEVEL_3_DISABLED",
+        "destination": "textures/gui/sprites/container/enchanting_table/level_3_disabled.png"
+    },
+    {
+        "source": "TEXTURE_GUI_BURN_PROGRESS",
+        "destination": "textures/gui/sprites/container/furnace/burn_progress.png"
+    },
+    {
+        "source": "TEXTURE_GUI_LIT_PROGRESS",
+        "destination": "textures/gui/sprites/container/furnace/lit_progress.png"
+    },
+    {
+        "source": "TEXTURE_GUI_ERROR",
+        "destination": "textures/gui/sprites/container/grindstone/error.png"
+    },
+    {
+        "source": "TEXTURE_GUI_ARMOR_SLOT",
+        "destination": "textures/gui/sprites/container/horse/armor_slot.png"
+    },
+    {
+        "source": "TEXTURE_GUI_CHEST_SLOTS",
+        "destination": "textures/gui/sprites/container/horse/chest_slots.png"
+    },
+    {
+        "source": "TEXTURE_GUI_LLAMA_ARMOR_SLOT",
+        "destination": "textures/gui/sprites/container/horse/llama_armor_slot.png"
+    },
+    {
+        "source": "TEXTURE_GUI_SADDLE_SLOT",
+        "destination": "textures/gui/sprites/container/horse/saddle_slot.png"
+    },
+    {
+        "source": "TEXTURE_GUI_EFFECT_BACKGROUND_LARGE",
+        "destination": "textures/gui/sprites/container/inventory/effect_background_large.png"
+    },
+    {
+        "source": "TEXTURE_GUI_EFFECT_BACKGROUND_SMALL",
+        "destination": "textures/gui/sprites/container/inventory/effect_background_small.png"
+    },
+    {
+        "source": "TEXTURE_GUI_BANNER_SLOT",
+        "destination": "textures/gui/sprites/container/loom/banner_slot.png"
+    },
+    {
+        "source": "TEXTURE_GUI_DYE_SLOT",
+        "destination": "textures/gui/sprites/container/loom/dye_slot.png"
+    },
+    {
+        "source": "TEXTURE_GUI_ERROR",
+        "destination": "textures/gui/sprites/container/loom/error.png"
+    },
+    {
+        "source": "TEXTURE_GUI_PATTERN",
+        "destination": "textures/gui/sprites/container/loom/pattern.png"
+    },
+    {
+        "source": "TEXTURE_GUI_PATTERN_HIGHLIGHTED",
+        "destination": "textures/gui/sprites/container/loom/pattern_highlighted.png"
+    },
+    {
+        "source": "TEXTURE_GUI_PATTERN_SELECTED",
+        "destination": "textures/gui/sprites/container/loom/pattern_selected.png"
+    },
+    {
+        "source": "TEXTURE_GUI_PATTERN_SLOT",
+        "destination": "textures/gui/sprites/container/loom/pattern_slot.png"
+    },
+    {
+        "source": "TEXTURE_GUI_SCROLLER",
+        "destination": "textures/gui/sprites/container/loom/scroller.png"
+    },
+    {
+        "source": "TEXTURE_GUI_SCROLLER_DISABLED",
+        "destination": "textures/gui/sprites/container/loom/scroller_disabled.png"
+    },
+    {
+        "source": "TEXTURE_GUI_ERROR",
+        "destination": "textures/gui/sprites/container/smithing/error.png"
+    },
+    {
+        "source": "TEXTURE_GUI_BURN_PROGRESS",
+        "destination": "textures/gui/sprites/container/smoker/burn_progress.png"
+    },
+    {
+        "source": "TEXTURE_GUI_LIT_PROGRESS",
+        "destination": "textures/gui/sprites/container/smoker/lit_progress.png"
+    },
+    {
+        "source": "TEXTURE_GUI_RECIPE",
+        "destination": "textures/gui/sprites/container/stonecutter/recipe.png"
+    },
+    {
+        "source": "TEXTURE_GUI_RECIPE_HIGHLIGHTED",
+        "destination": "textures/gui/sprites/container/stonecutter/recipe_highlighted.png"
+    },
+    {
+        "source": "TEXTURE_GUI_RECIPE_SELECTED",
+        "destination": "textures/gui/sprites/container/stonecutter/recipe_selected.png"
+    },
+    {
+        "source": "TEXTURE_GUI_SCROLLER",
+        "destination": "textures/gui/sprites/container/stonecutter/scroller.png"
+    },
+    {
+        "source": "TEXTURE_GUI_SCROLLER_DISABLED",
+        "destination": "textures/gui/sprites/container/stonecutter/scroller_disabled.png"
+    },
+    {
+        "source": "TEXTURE_GUI_DISCOUNT_STRIKETHROUGH",
+        "destination": "textures/gui/sprites/container/villager/discount_strikethrough.png"
+    },
+    {
+        "source": "TEXTURE_GUI_EXPERIENCE_BAR_BACKGROUND",
+        "destination": "textures/gui/sprites/container/villager/experience_bar_background.png"
+    },
+    {
+        "source": "TEXTURE_GUI_EXPERIENCE_BAR_CURRENT",
+        "destination": "textures/gui/sprites/container/villager/experience_bar_current.png"
+    },
+    {
+        "source": "TEXTURE_GUI_EXPERIENCE_BAR_RESULT",
+        "destination": "textures/gui/sprites/container/villager/experience_bar_result.png"
+    },
+    {
+        "source": "TEXTURE_GUI_OUT_OF_STOCK",
+        "destination": "textures/gui/sprites/container/villager/out_of_stock.png"
+    },
+    {
+        "source": "TEXTURE_GUI_SCROLLER",
+        "destination": "textures/gui/sprites/container/villager/scroller.png"
+    },
+    {
+        "source": "TEXTURE_GUI_SCROLLER_DISABLED",
+        "destination": "textures/gui/sprites/container/villager/scroller_disabled.png"
+    },
+    {
+        "source": "TEXTURE_GUI_TRADE_ARROW",
+        "destination": "textures/gui/sprites/container/villager/trade_arrow.png"
+    },
+    {
+        "source": "TEXTURE_GUI_TRADE_ARROW_OUT_OF_STOCK",
+        "destination": "textures/gui/sprites/container/villager/trade_arrow_out_of_stock.png"
+    },
+    {
+        "source": "TEXTURE_GUI_SELECTION",
+        "destination": "textures/gui/sprites/gamemode_switcher/selection.png"
+    },
+    {
+        "source": "TEXTURE_GUI_SLOT",
+        "destination": "textures/gui/sprites/gamemode_switcher/slot.png"
+    },
+    {
+        "source": "TEXTURE_GUI_AIR",
+        "destination": "textures/gui/sprites/hud/air.png"
+    },
+    {
+        "source": "TEXTURE_GUI_AIR_BURSTING",
+        "destination": "textures/gui/sprites/hud/air_bursting.png"
+    },
+    {
+        "source": "TEXTURE_GUI_ARMOR_EMPTY",
+        "destination": "textures/gui/sprites/hud/armor_empty.png"
+    },
+    {
+        "source": "TEXTURE_GUI_ARMOR_FULL",
+        "destination": "textures/gui/sprites/hud/armor_full.png"
+    },
+    {
+        "source": "TEXTURE_GUI_ARMOR_HALF",
+        "destination": "textures/gui/sprites/hud/armor_half.png"
+    },
+    {
+        "source": "TEXTURE_GUI_CROSSHAIR",
+        "destination": "textures/gui/sprites/hud/crosshair.png"
+    },
+    {
+        "source": "TEXTURE_GUI_CROSSHAIR_ATTACK_INDICATOR_BACKGROUND",
+        "destination": "textures/gui/sprites/hud/crosshair_attack_indicator_background.png"
+    },
+    {
+        "source": "TEXTURE_GUI_CROSSHAIR_ATTACK_INDICATOR_FULL",
+        "destination": "textures/gui/sprites/hud/crosshair_attack_indicator_full.png"
+    },
+    {
+        "source": "TEXTURE_GUI_CROSSHAIR_ATTACK_INDICATOR_PROGRESS",
+        "destination": "textures/gui/sprites/hud/crosshair_attack_indicator_progress.png"
+    },
+    {
+        "source": "TEXTURE_GUI_EFFECT_BACKGROUND",
+        "destination": "textures/gui/sprites/hud/effect_background.png"
+    },
+    {
+        "source": "TEXTURE_GUI_EFFECT_BACKGROUND_AMBIENT",
+        "destination": "textures/gui/sprites/hud/effect_background_ambient.png"
+    },
+    {
+        "source": "TEXTURE_GUI_EXPERIENCE_BAR_BACKGROUND",
+        "destination": "textures/gui/sprites/hud/experience_bar_background.png"
+    },
+    {
+        "source": "TEXTURE_GUI_EXPERIENCE_BAR_PROGRESS",
+        "destination": "textures/gui/sprites/hud/experience_bar_progress.png"
+    },
+    {
+        "source": "TEXTURE_GUI_FOOD_EMPTY",
+        "destination": "textures/gui/sprites/hud/food_empty.png"
+    },
+    {
+        "source": "TEXTURE_GUI_FOOD_EMPTY_HUNGER",
+        "destination": "textures/gui/sprites/hud/food_empty_hunger.png"
+    },
+    {
+        "source": "TEXTURE_GUI_FOOD_FULL",
+        "destination": "textures/gui/sprites/hud/food_full.png"
+    },
+    {
+        "source": "TEXTURE_GUI_FOOD_FULL_HUNGER",
+        "destination": "textures/gui/sprites/hud/food_full_hunger.png"
+    },
+    {
+        "source": "TEXTURE_GUI_FOOD_HALF",
+        "destination": "textures/gui/sprites/hud/food_half.png"
+    },
+    {
+        "source": "TEXTURE_GUI_FOOD_HALF_HUNGER",
+        "destination": "textures/gui/sprites/hud/food_half_hunger.png"
+    },
+    {
+        "source": "TEXTURE_GUI_HOTBAR",
+        "destination": "textures/gui/sprites/hud/hotbar.png"
+    },
+    {
+        "source": "TEXTURE_GUI_HOTBAR_ATTACK_INDICATOR_BACKGROUND",
+        "destination": "textures/gui/sprites/hud/hotbar_attack_indicator_background.png"
+    },
+    {
+        "source": "TEXTURE_GUI_HOTBAR_ATTACK_INDICATOR_PROGRESS",
+        "destination": "textures/gui/sprites/hud/hotbar_attack_indicator_progress.png"
+    },
+    {
+        "source": "TEXTURE_GUI_HOTBAR_OFFHAND_LEFT",
+        "destination": "textures/gui/sprites/hud/hotbar_offhand_left.png"
+    },
+    {
+        "source": "TEXTURE_GUI_HOTBAR_OFFHAND_RIGHT",
+        "destination": "textures/gui/sprites/hud/hotbar_offhand_right.png"
+    },
+    {
+        "source": "TEXTURE_GUI_HOTBAR_SELECTION",
+        "destination": "textures/gui/sprites/hud/hotbar_selection.png"
+    },
+    {
+        "source": "TEXTURE_GUI_JUMP_BAR_BACKGROUND",
+        "destination": "textures/gui/sprites/hud/jump_bar_background.png"
+    },
+    {
+        "source": "TEXTURE_GUI_JUMP_BAR_COOLDOWN",
+        "destination": "textures/gui/sprites/hud/jump_bar_cooldown.png"
+    },
+    {
+        "source": "TEXTURE_GUI_JUMP_BAR_PROGRESS",
+        "destination": "textures/gui/sprites/hud/jump_bar_progress.png"
+    },
+    {
+        "source": "TEXTURE_GUI_ABSORBING_FULL",
+        "destination": "textures/gui/sprites/hud/heart/absorbing_full.png"
+    },
+    {
+        "source": "TEXTURE_GUI_ABSORBING_FULL_BLINKING",
+        "destination": "textures/gui/sprites/hud/heart/absorbing_full_blinking.png"
+    },
+    {
+        "source": "TEXTURE_GUI_ABSORBING_HALF",
+        "destination": "textures/gui/sprites/hud/heart/absorbing_half.png"
+    },
+    {
+        "source": "TEXTURE_GUI_ABSORBING_HALF_BLINKING",
+        "destination": "textures/gui/sprites/hud/heart/absorbing_half_blinking.png"
+    },
+    {
+        "source": "TEXTURE_GUI_ABSORBING_HARDCORE_FULL",
+        "destination": "textures/gui/sprites/hud/heart/absorbing_hardcore_full.png"
+    },
+    {
+        "source": "TEXTURE_GUI_ABSORBING_HARDCORE_FULL_BLINKING",
+        "destination": "textures/gui/sprites/hud/heart/absorbing_hardcore_full_blinking.png"
+    },
+    {
+        "source": "TEXTURE_GUI_ABSORBING_HARDCORE_HALF",
+        "destination": "textures/gui/sprites/hud/heart/absorbing_hardcore_half.png"
+    },
+    {
+        "source": "TEXTURE_GUI_ABSORBING_HARDCORE_HALF_BLINKING",
+        "destination": "textures/gui/sprites/hud/heart/absorbing_hardcore_half_blinking.png"
+    },
+    {
+        "source": "TEXTURE_GUI_CONTAINER",
+        "destination": "textures/gui/sprites/hud/heart/container.png"
+    },
+    {
+        "source": "TEXTURE_GUI_CONTAINER_BLINKING",
+        "destination": "textures/gui/sprites/hud/heart/container_blinking.png"
+    },
+    {
+        "source": "TEXTURE_GUI_CONTAINER_HARDCORE",
+        "destination": "textures/gui/sprites/hud/heart/container_hardcore.png"
+    },
+    {
+        "source": "TEXTURE_GUI_CONTAINER_HARDCORE_BLINKING",
+        "destination": "textures/gui/sprites/hud/heart/container_hardcore_blinking.png"
+    },
+    {
+        "source": "TEXTURE_GUI_FROZEN_FULL",
+        "destination": "textures/gui/sprites/hud/heart/frozen_full.png"
+    },
+    {
+        "source": "TEXTURE_GUI_FROZEN_FULL_BLINKING",
+        "destination": "textures/gui/sprites/hud/heart/frozen_full_blinking.png"
+    },
+    {
+        "source": "TEXTURE_GUI_FROZEN_HALF",
+        "destination": "textures/gui/sprites/hud/heart/frozen_half.png"
+    },
+    {
+        "source": "TEXTURE_GUI_FROZEN_HALF_BLINKING",
+        "destination": "textures/gui/sprites/hud/heart/frozen_half_blinking.png"
+    },
+    {
+        "source": "TEXTURE_GUI_FROZEN_HARDCORE_FULL",
+        "destination": "textures/gui/sprites/hud/heart/frozen_hardcore_full.png"
+    },
+    {
+        "source": "TEXTURE_GUI_FROZEN_HARDCORE_FULL_BLINKING",
+        "destination": "textures/gui/sprites/hud/heart/frozen_hardcore_full_blinking.png"
+    },
+    {
+        "source": "TEXTURE_GUI_FROZEN_HARDCORE_HALF",
+        "destination": "textures/gui/sprites/hud/heart/frozen_hardcore_half.png"
+    },
+    {
+        "source": "TEXTURE_GUI_FROZEN_HARDCORE_HALF_BLINKING",
+        "destination": "textures/gui/sprites/hud/heart/frozen_hardcore_half_blinking.png"
+    },
+    {
+        "source": "TEXTURE_GUI_FULL",
+        "destination": "textures/gui/sprites/hud/heart/full.png"
+    },
+    {
+        "source": "TEXTURE_GUI_FULL_BLINKING",
+        "destination": "textures/gui/sprites/hud/heart/full_blinking.png"
+    },
+    {
+        "source": "TEXTURE_GUI_HALF",
+        "destination": "textures/gui/sprites/hud/heart/half.png"
+    },
+    {
+        "source": "TEXTURE_GUI_HALF_BLINKING",
+        "destination": "textures/gui/sprites/hud/heart/half_blinking.png"
+    },
+    {
+        "source": "TEXTURE_GUI_HARDCORE_FULL",
+        "destination": "textures/gui/sprites/hud/heart/hardcore_full.png"
+    },
+    {
+        "source": "TEXTURE_GUI_HARDCORE_FULL_BLINKING",
+        "destination": "textures/gui/sprites/hud/heart/hardcore_full_blinking.png"
+    },
+    {
+        "source": "TEXTURE_GUI_HARDCORE_HALF",
+        "destination": "textures/gui/sprites/hud/heart/hardcore_half.png"
+    },
+    {
+        "source": "TEXTURE_GUI_HARDCORE_HALF_BLINKING",
+        "destination": "textures/gui/sprites/hud/heart/hardcore_half_blinking.png"
+    },
+    {
+        "source": "TEXTURE_GUI_POISONED_FULL",
+        "destination": "textures/gui/sprites/hud/heart/poisoned_full.png"
+    },
+    {
+        "source": "TEXTURE_GUI_POISONED_FULL_BLINKING",
+        "destination": "textures/gui/sprites/hud/heart/poisoned_full_blinking.png"
+    },
+    {
+        "source": "TEXTURE_GUI_POISONED_HALF",
+        "destination": "textures/gui/sprites/hud/heart/poisoned_half.png"
+    },
+    {
+        "source": "TEXTURE_GUI_POISONED_HALF_BLINKING",
+        "destination": "textures/gui/sprites/hud/heart/poisoned_half_blinking.png"
+    },
+    {
+        "source": "TEXTURE_GUI_POISONED_HARDCORE_FULL",
+        "destination": "textures/gui/sprites/hud/heart/poisoned_hardcore_full.png"
+    },
+    {
+        "source": "TEXTURE_GUI_POISONED_HARDCORE_FULL_BLINKING",
+        "destination": "textures/gui/sprites/hud/heart/poisoned_hardcore_full_blinking.png"
+    },
+    {
+        "source": "TEXTURE_GUI_POISONED_HARDCORE_HALF",
+        "destination": "textures/gui/sprites/hud/heart/poisoned_hardcore_half.png"
+    },
+    {
+        "source": "TEXTURE_GUI_POISONED_HARDCORE_HALF_BLINKING",
+        "destination": "textures/gui/sprites/hud/heart/poisoned_hardcore_half_blinking.png"
+    },
+    {
+        "source": "TEXTURE_GUI_VEHICLE_CONTAINER",
+        "destination": "textures/gui/sprites/hud/heart/vehicle_container.png"
+    },
+    {
+        "source": "TEXTURE_GUI_VEHICLE_FULL",
+        "destination": "textures/gui/sprites/hud/heart/vehicle_full.png"
+    },
+    {
+        "source": "TEXTURE_GUI_VEHICLE_HALF",
+        "destination": "textures/gui/sprites/hud/heart/vehicle_half.png"
+    },
+    {
+        "source": "TEXTURE_GUI_WITHERED_FULL",
+        "destination": "textures/gui/sprites/hud/heart/withered_full.png"
+    },
+    {
+        "source": "TEXTURE_GUI_WITHERED_FULL_BLINKING",
+        "destination": "textures/gui/sprites/hud/heart/withered_full_blinking.png"
+    },
+    {
+        "source": "TEXTURE_GUI_WITHERED_HALF",
+        "destination": "textures/gui/sprites/hud/heart/withered_half.png"
+    },
+    {
+        "source": "TEXTURE_GUI_WITHERED_HALF_BLINKING",
+        "destination": "textures/gui/sprites/hud/heart/withered_half_blinking.png"
+    },
+    {
+        "source": "TEXTURE_GUI_WITHERED_HARDCORE_FULL",
+        "destination": "textures/gui/sprites/hud/heart/withered_hardcore_full.png"
+    },
+    {
+        "source": "TEXTURE_GUI_WITHERED_HARDCORE_FULL_BLINKING",
+        "destination": "textures/gui/sprites/hud/heart/withered_hardcore_full_blinking.png"
+    },
+    {
+        "source": "TEXTURE_GUI_WITHERED_HARDCORE_HALF",
+        "destination": "textures/gui/sprites/hud/heart/withered_hardcore_half.png"
+    },
+    {
+        "source": "TEXTURE_GUI_WITHERED_HARDCORE_HALF_BLINKING",
+        "destination": "textures/gui/sprites/hud/heart/withered_hardcore_half_blinking.png"
+    },
+    {
+        "source": "TEXTURE_GUI_ACCESSIBILITY",
+        "destination": "textures/gui/sprites/icon/accessibility.png"
+    },
+    {
+        "source": "TEXTURE_GUI_CHAT_MODIFIED",
+        "destination": "textures/gui/sprites/icon/chat_modified.png"
+    },
+    {
+        "source": "TEXTURE_GUI_CHECKMARK",
+        "destination": "textures/gui/sprites/icon/checkmark.png"
+    },
+    {
+        "source": "TEXTURE_GUI_DRAFT_REPORT",
+        "destination": "textures/gui/sprites/icon/draft_report.png"
+    },
+    {
+        "source": "TEXTURE_GUI_INFO",
+        "destination": "textures/gui/sprites/icon/info.png"
+    },
+    {
+        "source": "TEXTURE_GUI_INVITE",
+        "destination": "textures/gui/sprites/icon/invite.png"
+    },
+    {
+        "source": "TEXTURE_GUI_LANGUAGE",
+        "destination": "textures/gui/sprites/icon/language.png"
+    },
+    {
+        "source": "TEXTURE_GUI_LINK",
+        "destination": "textures/gui/sprites/icon/link.png"
+    },
+    {
+        "source": "TEXTURE_GUI_LINK_HIGHLIGHTED",
+        "destination": "textures/gui/sprites/icon/link_highlighted.png"
+    },
+    {
+        "source": "TEXTURE_GUI_NEWS",
+        "destination": "textures/gui/sprites/icon/news.png"
+    },
+    {
+        "source": "TEXTURE_GUI_NEW_REALM",
+        "destination": "textures/gui/sprites/icon/new_realm.png"
+    },
+    {
+        "source": "TEXTURE_GUI_PING_1",
+        "destination": "textures/gui/sprites/icon/ping_1.png"
+    },
+    {
+        "source": "TEXTURE_GUI_PING_2",
+        "destination": "textures/gui/sprites/icon/ping_2.png"
+    },
+    {
+        "source": "TEXTURE_GUI_PING_3",
+        "destination": "textures/gui/sprites/icon/ping_3.png"
+    },
+    {
+        "source": "TEXTURE_GUI_PING_4",
+        "destination": "textures/gui/sprites/icon/ping_4.png"
+    },
+    {
+        "source": "TEXTURE_GUI_PING_5",
+        "destination": "textures/gui/sprites/icon/ping_5.png"
+    },
+    {
+        "source": "TEXTURE_GUI_PING_UNKNOWN",
+        "destination": "textures/gui/sprites/icon/ping_unknown.png"
+    },
+    {
+        "source": "TEXTURE_GUI_SEARCH",
+        "destination": "textures/gui/sprites/icon/search.png"
+    },
+    {
+        "source": "TEXTURE_GUI_TRIAL_AVAILABLE",
+        "destination": "textures/gui/sprites/icon/trial_available.png"
+    },
+    {
+        "source": "TEXTURE_GUI_UNSEEN_NOTIFICATION",
+        "destination": "textures/gui/sprites/icon/unseen_notification.png"
+    },
+    {
+        "source": "TEXTURE_GUI_VIDEO_LINK",
+        "destination": "textures/gui/sprites/icon/video_link.png"
+    },
+    {
+        "source": "TEXTURE_GUI_VIDEO_LINK_HIGHLIGHTED",
+        "destination": "textures/gui/sprites/icon/video_link_highlighted.png"
+    },
+    {
+        "source": "TEXTURE_GUI_1",
+        "destination": "textures/gui/sprites/notification/1.png"
+    },
+    {
+        "source": "TEXTURE_GUI_2",
+        "destination": "textures/gui/sprites/notification/2.png"
+    },
+    {
+        "source": "TEXTURE_GUI_3",
+        "destination": "textures/gui/sprites/notification/3.png"
+    },
+    {
+        "source": "TEXTURE_GUI_4",
+        "destination": "textures/gui/sprites/notification/4.png"
+    },
+    {
+        "source": "TEXTURE_GUI_5",
+        "destination": "textures/gui/sprites/notification/5.png"
+    },
+    {
+        "source": "TEXTURE_GUI_MORE",
+        "destination": "textures/gui/sprites/notification/more.png"
+    },
+    {
+        "source": "TEXTURE_GUI_ACCEPT",
+        "destination": "textures/gui/sprites/pending_invite/accept.png"
+    },
+    {
+        "source": "TEXTURE_GUI_ACCEPT_HIGHLIGHTED",
+        "destination": "textures/gui/sprites/pending_invite/accept_highlighted.png"
+    },
+    {
+        "source": "TEXTURE_GUI_REJECT",
+        "destination": "textures/gui/sprites/pending_invite/reject.png"
+    },
+    {
+        "source": "TEXTURE_GUI_REJECT_HIGHLIGHTED",
+        "destination": "textures/gui/sprites/pending_invite/reject_highlighted.png"
+    },
+    {
+        "source": "TEXTURE_GUI_MAKE_OPERATOR",
+        "destination": "textures/gui/sprites/player_list/make_operator.png"
+    },
+    {
+        "source": "TEXTURE_GUI_MAKE_OPERATOR_HIGHLIGHTED",
+        "destination": "textures/gui/sprites/player_list/make_operator_highlighted.png"
+    },
+    {
+        "source": "TEXTURE_GUI_REMOVE_OPERATOR",
+        "destination": "textures/gui/sprites/player_list/remove_operator.png"
+    },
+    {
+        "source": "TEXTURE_GUI_REMOVE_OPERATOR_HIGHLIGHTED",
+        "destination": "textures/gui/sprites/player_list/remove_operator_highlighted.png"
+    },
+    {
+        "source": "TEXTURE_GUI_REMOVE_PLAYER",
+        "destination": "textures/gui/sprites/player_list/remove_player.png"
+    },
+    {
+        "source": "TEXTURE_GUI_REMOVE_PLAYER_HIGHLIGHTED",
+        "destination": "textures/gui/sprites/player_list/remove_player_highlighted.png"
+    },
+    {
+        "source": "TEXTURE_GUI_BACKGROUND",
+        "destination": "textures/gui/sprites/popup/background.png"
+    },
+    {
+        "source": "TEXTURE_GUI_CLOSED",
+        "destination": "textures/gui/sprites/realm_status/closed.png"
+    },
+    {
+        "source": "TEXTURE_GUI_EXPIRED",
+        "destination": "textures/gui/sprites/realm_status/expired.png"
+    },
+    {
+        "source": "TEXTURE_GUI_EXPIRES_SOON",
+        "destination": "textures/gui/sprites/realm_status/expires_soon.png"
+    },
+    {
+        "source": "TEXTURE_GUI_OPEN",
+        "destination": "textures/gui/sprites/realm_status/open.png"
+    },
+    {
+        "source": "TEXTURE_GUI_BUTTON",
+        "destination": "textures/gui/sprites/recipe_book/button.png"
+    },
+    {
+        "source": "TEXTURE_GUI_BUTTON_HIGHLIGHTED",
+        "destination": "textures/gui/sprites/recipe_book/button_highlighted.png"
+    },
+    {
+        "source": "TEXTURE_GUI_CRAFTING_OVERLAY",
+        "destination": "textures/gui/sprites/recipe_book/crafting_overlay.png"
+    },
+    {
+        "source": "TEXTURE_GUI_CRAFTING_OVERLAY_DISABLED",
+        "destination": "textures/gui/sprites/recipe_book/crafting_overlay_disabled.png"
+    },
+    {
+        "source": "TEXTURE_GUI_CRAFTING_OVERLAY_DISABLED_HIGHLIGHTED",
+        "destination": "textures/gui/sprites/recipe_book/crafting_overlay_disabled_highlighted.png"
+    },
+    {
+        "source": "TEXTURE_GUI_CRAFTING_OVERLAY_HIGHLIGHTED",
+        "destination": "textures/gui/sprites/recipe_book/crafting_overlay_highlighted.png"
+    },
+    {
+        "source": "TEXTURE_GUI_FILTER_DISABLED",
+        "destination": "textures/gui/sprites/recipe_book/filter_disabled.png"
+    },
+    {
+        "source": "TEXTURE_GUI_FILTER_DISABLED_HIGHLIGHTED",
+        "destination": "textures/gui/sprites/recipe_book/filter_disabled_highlighted.png"
+    },
+    {
+        "source": "TEXTURE_GUI_FILTER_ENABLED",
+        "destination": "textures/gui/sprites/recipe_book/filter_enabled.png"
+    },
+    {
+        "source": "TEXTURE_GUI_FILTER_ENABLED_HIGHLIGHTED",
+        "destination": "textures/gui/sprites/recipe_book/filter_enabled_highlighted.png"
+    },
+    {
+        "source": "TEXTURE_GUI_FURNACE_FILTER_DISABLED",
+        "destination": "textures/gui/sprites/recipe_book/furnace_filter_disabled.png"
+    },
+    {
+        "source": "TEXTURE_GUI_FURNACE_FILTER_DISABLED_HIGHLIGHTED",
+        "destination": "textures/gui/sprites/recipe_book/furnace_filter_disabled_highlighted.png"
+    },
+    {
+        "source": "TEXTURE_GUI_FURNACE_FILTER_ENABLED",
+        "destination": "textures/gui/sprites/recipe_book/furnace_filter_enabled.png"
+    },
+    {
+        "source": "TEXTURE_GUI_FURNACE_FILTER_ENABLED_HIGHLIGHTED",
+        "destination": "textures/gui/sprites/recipe_book/furnace_filter_enabled_highlighted.png"
+    },
+    {
+        "source": "TEXTURE_GUI_FURNACE_OVERLAY",
+        "destination": "textures/gui/sprites/recipe_book/furnace_overlay.png"
+    },
+    {
+        "source": "TEXTURE_GUI_FURNACE_OVERLAY_DISABLED",
+        "destination": "textures/gui/sprites/recipe_book/furnace_overlay_disabled.png"
+    },
+    {
+        "source": "TEXTURE_GUI_FURNACE_OVERLAY_DISABLED_HIGHLIGHTED",
+        "destination": "textures/gui/sprites/recipe_book/furnace_overlay_disabled_highlighted.png"
+    },
+    {
+        "source": "TEXTURE_GUI_FURNACE_OVERLAY_HIGHLIGHTED",
+        "destination": "textures/gui/sprites/recipe_book/furnace_overlay_highlighted.png"
+    },
+    {
+        "source": "TEXTURE_GUI_OVERLAY_RECIPE",
+        "destination": "textures/gui/sprites/recipe_book/overlay_recipe.png"
+    },
+    {
+        "source": "TEXTURE_GUI_PAGE_BACKWARD",
+        "destination": "textures/gui/sprites/recipe_book/page_backward.png"
+    },
+    {
+        "source": "TEXTURE_GUI_PAGE_BACKWARD_HIGHLIGHTED",
+        "destination": "textures/gui/sprites/recipe_book/page_backward_highlighted.png"
+    },
+    {
+        "source": "TEXTURE_GUI_PAGE_FORWARD",
+        "destination": "textures/gui/sprites/recipe_book/page_forward.png"
+    },
+    {
+        "source": "TEXTURE_GUI_PAGE_FORWARD_HIGHLIGHTED",
+        "destination": "textures/gui/sprites/recipe_book/page_forward_highlighted.png"
+    },
+    {
+        "source": "TEXTURE_GUI_SLOT_CRAFTABLE",
+        "destination": "textures/gui/sprites/recipe_book/slot_craftable.png"
+    },
+    {
+        "source": "TEXTURE_GUI_SLOT_MANY_CRAFTABLE",
+        "destination": "textures/gui/sprites/recipe_book/slot_many_craftable.png"
+    },
+    {
+        "source": "TEXTURE_GUI_SLOT_MANY_UNCRAFTABLE",
+        "destination": "textures/gui/sprites/recipe_book/slot_many_uncraftable.png"
+    },
+    {
+        "source": "TEXTURE_GUI_SLOT_UNCRAFTABLE",
+        "destination": "textures/gui/sprites/recipe_book/slot_uncraftable.png"
+    },
+    {
+        "source": "TEXTURE_GUI_TAB",
+        "destination": "textures/gui/sprites/recipe_book/tab.png"
+    },
+    {
+        "source": "TEXTURE_GUI_TAB_SELECTED",
+        "destination": "textures/gui/sprites/recipe_book/tab_selected.png"
+    },
+    {
+        "source": "TEXTURE_GUI_INCOMPATIBLE",
+        "destination": "textures/gui/sprites/server_list/incompatible.png"
+    },
+    {
+        "source": "TEXTURE_GUI_JOIN",
+        "destination": "textures/gui/sprites/server_list/join.png"
+    },
+    {
+        "source": "TEXTURE_GUI_JOIN_HIGHLIGHTED",
+        "destination": "textures/gui/sprites/server_list/join_highlighted.png"
+    },
+    {
+        "source": "TEXTURE_GUI_MOVE_DOWN",
+        "destination": "textures/gui/sprites/server_list/move_down.png"
+    },
+    {
+        "source": "TEXTURE_GUI_MOVE_DOWN_HIGHLIGHTED",
+        "destination": "textures/gui/sprites/server_list/move_down_highlighted.png"
+    },
+    {
+        "source": "TEXTURE_GUI_MOVE_UP",
+        "destination": "textures/gui/sprites/server_list/move_up.png"
+    },
+    {
+        "source": "TEXTURE_GUI_MOVE_UP_HIGHLIGHTED",
+        "destination": "textures/gui/sprites/server_list/move_up_highlighted.png"
+    },
+    {
+        "source": "TEXTURE_GUI_PINGING_1",
+        "destination": "textures/gui/sprites/server_list/pinging_1.png"
+    },
+    {
+        "source": "TEXTURE_GUI_PINGING_2",
+        "destination": "textures/gui/sprites/server_list/pinging_2.png"
+    },
+    {
+        "source": "TEXTURE_GUI_PINGING_3",
+        "destination": "textures/gui/sprites/server_list/pinging_3.png"
+    },
+    {
+        "source": "TEXTURE_GUI_PINGING_4",
+        "destination": "textures/gui/sprites/server_list/pinging_4.png"
+    },
+    {
+        "source": "TEXTURE_GUI_PINGING_5",
+        "destination": "textures/gui/sprites/server_list/pinging_5.png"
+    },
+    {
+        "source": "TEXTURE_GUI_PING_1",
+        "destination": "textures/gui/sprites/server_list/ping_1.png"
+    },
+    {
+        "source": "TEXTURE_GUI_PING_2",
+        "destination": "textures/gui/sprites/server_list/ping_2.png"
+    },
+    {
+        "source": "TEXTURE_GUI_PING_3",
+        "destination": "textures/gui/sprites/server_list/ping_3.png"
+    },
+    {
+        "source": "TEXTURE_GUI_PING_4",
+        "destination": "textures/gui/sprites/server_list/ping_4.png"
+    },
+    {
+        "source": "TEXTURE_GUI_PING_5",
+        "destination": "textures/gui/sprites/server_list/ping_5.png"
+    },
+    {
+        "source": "TEXTURE_GUI_UNREACHABLE",
+        "destination": "textures/gui/sprites/server_list/unreachable.png"
+    },
+    {
+        "source": "TEXTURE_GUI_BACKGROUND",
+        "destination": "textures/gui/sprites/social_interactions/background.png"
+    },
+    {
+        "source": "TEXTURE_GUI_MUTE_BUTTON",
+        "destination": "textures/gui/sprites/social_interactions/mute_button.png"
+    },
+    {
+        "source": "TEXTURE_GUI_MUTE_BUTTON_HIGHLIGHTED",
+        "destination": "textures/gui/sprites/social_interactions/mute_button_highlighted.png"
+    },
+    {
+        "source": "TEXTURE_GUI_REPORT_BUTTON",
+        "destination": "textures/gui/sprites/social_interactions/report_button.png"
+    },
+    {
+        "source": "TEXTURE_GUI_REPORT_BUTTON_DISABLED",
+        "destination": "textures/gui/sprites/social_interactions/report_button_disabled.png"
+    },
+    {
+        "source": "TEXTURE_GUI_REPORT_BUTTON_HIGHLIGHTED",
+        "destination": "textures/gui/sprites/social_interactions/report_button_highlighted.png"
+    },
+    {
+        "source": "TEXTURE_GUI_UNMUTE_BUTTON",
+        "destination": "textures/gui/sprites/social_interactions/unmute_button.png"
+    },
+    {
+        "source": "TEXTURE_GUI_UNMUTE_BUTTON_HIGHLIGHTED",
+        "destination": "textures/gui/sprites/social_interactions/unmute_button_highlighted.png"
+    },
+    {
+        "source": "TEXTURE_GUI_CLOSE",
+        "destination": "textures/gui/sprites/spectator/close.png"
+    },
+    {
+        "source": "TEXTURE_GUI_SCROLL_LEFT",
+        "destination": "textures/gui/sprites/spectator/scroll_left.png"
+    },
+    {
+        "source": "TEXTURE_GUI_SCROLL_RIGHT",
+        "destination": "textures/gui/sprites/spectator/scroll_right.png"
+    },
+    {
+        "source": "TEXTURE_GUI_TELEPORT_TO_PLAYER",
+        "destination": "textures/gui/sprites/spectator/teleport_to_player.png"
+    },
+    {
+        "source": "TEXTURE_GUI_TELEPORT_TO_TEAM",
+        "destination": "textures/gui/sprites/spectator/teleport_to_team.png"
+    },
+    {
+        "source": "TEXTURE_GUI_BLOCK_MINED",
+        "destination": "textures/gui/sprites/statistics/block_mined.png"
+    },
+    {
+        "source": "TEXTURE_GUI_HEADER",
+        "destination": "textures/gui/sprites/statistics/header.png"
+    },
+    {
+        "source": "TEXTURE_GUI_ITEM_BROKEN",
+        "destination": "textures/gui/sprites/statistics/item_broken.png"
+    },
+    {
+        "source": "TEXTURE_GUI_ITEM_CRAFTED",
+        "destination": "textures/gui/sprites/statistics/item_crafted.png"
+    },
+    {
+        "source": "TEXTURE_GUI_ITEM_DROPPED",
+        "destination": "textures/gui/sprites/statistics/item_dropped.png"
+    },
+    {
+        "source": "TEXTURE_GUI_ITEM_PICKED_UP",
+        "destination": "textures/gui/sprites/statistics/item_picked_up.png"
+    },
+    {
+        "source": "TEXTURE_GUI_ITEM_USED",
+        "destination": "textures/gui/sprites/statistics/item_used.png"
+    },
+    {
+        "source": "TEXTURE_GUI_SORT_DOWN",
+        "destination": "textures/gui/sprites/statistics/sort_down.png"
+    },
+    {
+        "source": "TEXTURE_GUI_SORT_UP",
+        "destination": "textures/gui/sprites/statistics/sort_up.png"
+    },
+    {
+        "source": "TEXTURE_GUI_ADVANCEMENT",
+        "destination": "textures/gui/sprites/toast/advancement.png"
+    },
+    {
+        "source": "TEXTURE_GUI_MOUSE",
+        "destination": "textures/gui/sprites/toast/mouse.png"
+    },
+    {
+        "source": "TEXTURE_GUI_MOVEMENT_KEYS",
+        "destination": "textures/gui/sprites/toast/movement_keys.png"
+    },
+    {
+        "source": "TEXTURE_GUI_RECIPE",
+        "destination": "textures/gui/sprites/toast/recipe.png"
+    },
+    {
+        "source": "TEXTURE_GUI_RECIPE_BOOK",
+        "destination": "textures/gui/sprites/toast/recipe_book.png"
+    },
+    {
+        "source": "TEXTURE_GUI_RIGHT_CLICK",
+        "destination": "textures/gui/sprites/toast/right_click.png"
+    },
+    {
+        "source": "TEXTURE_GUI_SOCIAL_INTERACTIONS",
+        "destination": "textures/gui/sprites/toast/social_interactions.png"
+    },
+    {
+        "source": "TEXTURE_GUI_SYSTEM",
+        "destination": "textures/gui/sprites/toast/system.png"
+    },
+    {
+        "source": "TEXTURE_GUI_TREE",
+        "destination": "textures/gui/sprites/toast/tree.png"
+    },
+    {
+        "source": "TEXTURE_GUI_TUTORIAL",
+        "destination": "textures/gui/sprites/toast/tutorial.png"
+    },
+    {
+        "source": "TEXTURE_GUI_WOODEN_PLANKS",
+        "destination": "textures/gui/sprites/toast/wooden_planks.png"
+    },
+    {
+        "source": "TEXTURE_GUI_MOVE_DOWN",
+        "destination": "textures/gui/sprites/transferable_list/move_down.png"
+    },
+    {
+        "source": "TEXTURE_GUI_MOVE_DOWN_HIGHLIGHTED",
+        "destination": "textures/gui/sprites/transferable_list/move_down_highlighted.png"
+    },
+    {
+        "source": "TEXTURE_GUI_MOVE_UP",
+        "destination": "textures/gui/sprites/transferable_list/move_up.png"
+    },
+    {
+        "source": "TEXTURE_GUI_MOVE_UP_HIGHLIGHTED",
+        "destination": "textures/gui/sprites/transferable_list/move_up_highlighted.png"
+    },
+    {
+        "source": "TEXTURE_GUI_SELECT",
+        "destination": "textures/gui/sprites/transferable_list/select.png"
+    },
+    {
+        "source": "TEXTURE_GUI_SELECT_HIGHLIGHTED",
+        "destination": "textures/gui/sprites/transferable_list/select_highlighted.png"
+    },
+    {
+        "source": "TEXTURE_GUI_UNSELECT",
+        "destination": "textures/gui/sprites/transferable_list/unselect.png"
+    },
+    {
+        "source": "TEXTURE_GUI_UNSELECT_HIGHLIGHTED",
+        "destination": "textures/gui/sprites/transferable_list/unselect_highlighted.png"
+    },
+    {
+        "source": "TEXTURE_GUI_BUTTON",
+        "destination": "textures/gui/sprites/widget/button.png"
+    },
+    {
+        "source": "TEXTURE_GUI_BUTTON_DISABLED",
+        "destination": "textures/gui/sprites/widget/button_disabled.png"
+    },
+    {
+        "source": "TEXTURE_GUI_BUTTON_HIGHLIGHTED",
+        "destination": "textures/gui/sprites/widget/button_highlighted.png"
+    },
+    {
+        "source": "TEXTURE_GUI_CHECKBOX",
+        "destination": "textures/gui/sprites/widget/checkbox.png"
+    },
+    {
+        "source": "TEXTURE_GUI_CHECKBOX_HIGHLIGHTED",
+        "destination": "textures/gui/sprites/widget/checkbox_highlighted.png"
+    },
+    {
+        "source": "TEXTURE_GUI_CHECKBOX_SELECTED",
+        "destination": "textures/gui/sprites/widget/checkbox_selected.png"
+    },
+    {
+        "source": "TEXTURE_GUI_CHECKBOX_SELECTED_HIGHLIGHTED",
+        "destination": "textures/gui/sprites/widget/checkbox_selected_highlighted.png"
+    },
+    {
+        "source": "TEXTURE_GUI_CROSS_BUTTON",
+        "destination": "textures/gui/sprites/widget/cross_button.png"
+    },
+    {
+        "source": "TEXTURE_GUI_CROSS_BUTTON_HIGHLIGHTED",
+        "destination": "textures/gui/sprites/widget/cross_button_highlighted.png"
+    },
+    {
+        "source": "TEXTURE_GUI_LOCKED_BUTTON",
+        "destination": "textures/gui/sprites/widget/locked_button.png"
+    },
+    {
+        "source": "TEXTURE_GUI_LOCKED_BUTTON_DISABLED",
+        "destination": "textures/gui/sprites/widget/locked_button_disabled.png"
+    },
+    {
+        "source": "TEXTURE_GUI_LOCKED_BUTTON_HIGHLIGHTED",
+        "destination": "textures/gui/sprites/widget/locked_button_highlighted.png"
+    },
+    {
+        "source": "TEXTURE_GUI_PAGE_BACKWARD",
+        "destination": "textures/gui/sprites/widget/page_backward.png"
+    },
+    {
+        "source": "TEXTURE_GUI_PAGE_BACKWARD_HIGHLIGHTED",
+        "destination": "textures/gui/sprites/widget/page_backward_highlighted.png"
+    },
+    {
+        "source": "TEXTURE_GUI_PAGE_FORWARD",
+        "destination": "textures/gui/sprites/widget/page_forward.png"
+    },
+    {
+        "source": "TEXTURE_GUI_PAGE_FORWARD_HIGHLIGHTED",
+        "destination": "textures/gui/sprites/widget/page_forward_highlighted.png"
+    },
+    {
+        "source": "TEXTURE_GUI_SCROLLER",
+        "destination": "textures/gui/sprites/widget/scroller.png"
+    },
+    {
+        "source": "TEXTURE_GUI_SLIDER",
+        "destination": "textures/gui/sprites/widget/slider.png"
+    },
+    {
+        "source": "TEXTURE_GUI_SLIDER_HANDLE",
+        "destination": "textures/gui/sprites/widget/slider_handle.png"
+    },
+    {
+        "source": "TEXTURE_GUI_SLIDER_HANDLE_HIGHLIGHTED",
+        "destination": "textures/gui/sprites/widget/slider_handle_highlighted.png"
+    },
+    {
+        "source": "TEXTURE_GUI_SLIDER_HIGHLIGHTED",
+        "destination": "textures/gui/sprites/widget/slider_highlighted.png"
+    },
+    {
+        "source": "TEXTURE_GUI_SLOT_FRAME",
+        "destination": "textures/gui/sprites/widget/slot_frame.png"
+    },
+    {
+        "source": "TEXTURE_GUI_TAB",
+        "destination": "textures/gui/sprites/widget/tab.png"
+    },
+    {
+        "source": "TEXTURE_GUI_TAB_HIGHLIGHTED",
+        "destination": "textures/gui/sprites/widget/tab_highlighted.png"
+    },
+    {
+        "source": "TEXTURE_GUI_TAB_SELECTED",
+        "destination": "textures/gui/sprites/widget/tab_selected.png"
+    },
+    {
+        "source": "TEXTURE_GUI_TAB_SELECTED_HIGHLIGHTED",
+        "destination": "textures/gui/sprites/widget/tab_selected_highlighted.png"
+    },
+    {
+        "source": "TEXTURE_GUI_TEXT_FIELD",
+        "destination": "textures/gui/sprites/widget/text_field.png"
+    },
+    {
+        "source": "TEXTURE_GUI_TEXT_FIELD_HIGHLIGHTED",
+        "destination": "textures/gui/sprites/widget/text_field_highlighted.png"
+    },
+    {
+        "source": "TEXTURE_GUI_UNLOCKED_BUTTON",
+        "destination": "textures/gui/sprites/widget/unlocked_button.png"
+    },
+    {
+        "source": "TEXTURE_GUI_UNLOCKED_BUTTON_DISABLED",
+        "destination": "textures/gui/sprites/widget/unlocked_button_disabled.png"
+    },
+    {
+        "source": "TEXTURE_GUI_UNLOCKED_BUTTON_HIGHLIGHTED",
+        "destination": "textures/gui/sprites/widget/unlocked_button_highlighted.png"
+    },
+    {
+        "source": "TEXTURE_GUI_ERROR",
+        "destination": "textures/gui/sprites/world_list/error.png"
+    },
+    {
+        "source": "TEXTURE_GUI_ERROR_HIGHLIGHTED",
+        "destination": "textures/gui/sprites/world_list/error_highlighted.png"
+    },
+    {
+        "source": "TEXTURE_GUI_JOIN",
+        "destination": "textures/gui/sprites/world_list/join.png"
+    },
+    {
+        "source": "TEXTURE_GUI_JOIN_HIGHLIGHTED",
+        "destination": "textures/gui/sprites/world_list/join_highlighted.png"
+    },
+    {
+        "source": "TEXTURE_GUI_MARKED_JOIN",
+        "destination": "textures/gui/sprites/world_list/marked_join.png"
+    },
+    {
+        "source": "TEXTURE_GUI_MARKED_JOIN_HIGHLIGHTED",
+        "destination": "textures/gui/sprites/world_list/marked_join_highlighted.png"
+    },
+    {
+        "source": "TEXTURE_GUI_WARNING",
+        "destination": "textures/gui/sprites/world_list/warning.png"
+    },
+    {
+        "source": "TEXTURE_GUI_WARNING_HIGHLIGHTED",
+        "destination": "textures/gui/sprites/world_list/warning_highlighted.png"
+    },
+    {
+        "source": "TEXTURE_GUI_REALMS",
+        "destination": "textures/gui/title/realms.png"
+    },
+    {
+        "source": "TEXTURE_GUI_MINCERAFT",
+        "destination": "textures/gui/title/minceraft.png"
+    },
+    {
+        "source": "TEXTURE_GUI_EMPTY_SLOT_AMETHYST_SHARD",
+        "destination": "textures/item/empty_slot_amethyst_shard.png"
+    },
+    {
+        "source": "TEXTURE_GUI_EMPTY_SLOT_AXE",
+        "destination": "textures/item/empty_slot_axe.png"
+    },
+    {
+        "source": "TEXTURE_GUI_EMPTY_SLOT_DIAMOND",
+        "destination": "textures/item/empty_slot_diamond.png"
+    },
+    {
+        "source": "TEXTURE_GUI_EMPTY_SLOT_EMERALD",
+        "destination": "textures/item/empty_slot_emerald.png"
+    },
+    {
+        "source": "TEXTURE_GUI_EMPTY_SLOT_HOE",
+        "destination": "textures/item/empty_slot_hoe.png"
+    },
+    {
+        "source": "TEXTURE_GUI_EMPTY_SLOT_INGOT",
+        "destination": "textures/item/empty_slot_ingot.png"
+    },
+    {
+        "source": "TEXTURE_GUI_EMPTY_SLOT_LAPIS_LAZULI",
+        "destination": "textures/item/empty_slot_lapis_lazuli.png"
+    },
+    {
+        "source": "TEXTURE_GUI_EMPTY_SLOT_PICKAXE",
+        "destination": "textures/item/empty_slot_pickaxe.png"
+    },
+    {
+        "source": "TEXTURE_GUI_EMPTY_SLOT_QUARTZ",
+        "destination": "textures/item/empty_slot_quartz.png"
+    },
+    {
+        "source": "TEXTURE_GUI_EMPTY_SLOT_REDSTONE_DUST",
+        "destination": "textures/item/empty_slot_redstone_dust.png"
+    },
+    {
+        "source": "TEXTURE_GUI_EMPTY_SLOT_SHOVEL",
+        "destination": "textures/item/empty_slot_shovel.png"
+    },
+    {
+        "source": "TEXTURE_GUI_EMPTY_SLOT_SMITHING_TEMPLATE_ARMOR_TRIM",
+        "destination": "textures/item/empty_slot_smithing_template_armor_trim.png"
+    },
+    {
+        "source": "TEXTURE_GUI_EMPTY_SLOT_SMITHING_TEMPLATE_NETHERITE_UPGRADE",
+        "destination": "textures/item/empty_slot_smithing_template_netherite_upgrade.png"
+    },
+    {
+        "source": "TEXTURE_GUI_EMPTY_SLOT_SWORD",
+        "destination": "textures/item/empty_slot_sword.png"
+    },
+    {
+        "source": "TEXTURE_GUI_FOOTER_SEPARATOR",
+        "destination": "textures/gui/footer_separator.png"
+    },
+    {
+        "source": "TEXTURE_GUI_HEADER_SEPARATOR",
+        "destination": "textures/gui/header_separator.png"
+    },
+    {
+        "source": "TEXTURE_GUI_LIGHT_DIRT_BACKGROUND",
+        "destination": "textures/gui/light_dirt_background.png"
+    },
+    {
+        "source": "TEXTURE_GUI_CHERRY_SIGN_HANGING",
+        "destination": "textures/gui/hanging_signs/cherry.png"
+    },
+    {
+        "source": "TEXTURE_GUI_BOOK",
+        "destination": "textures/gui/book.png"
+    },
+    {
+        "source": "TEXTURE_GUI_DEMO_BACKGROUND",
+        "destination": "textures/gui/demo_background.png"
+    },
+    {
+        "source": "TEXTURE_GUI_EMPTY_ARMOR_SLOT_BOOTS",
+        "destination": "textures/item/empty_armor_slot_boots.png"
+    },
+    {
+        "source": "TEXTURE_GUI_EMPTY_ARMOR_SLOT_CHESTPLATE",
+        "destination": "textures/item/empty_armor_slot_chestplate.png"
+    },
+    {
+        "source": "TEXTURE_GUI_EMPTY_ARMOR_SLOT_HELMET",
+        "destination": "textures/item/empty_armor_slot_helmet.png"
+    },
+    {
+        "source": "TEXTURE_GUI_EMPTY_ARMOR_SLOT_LEGGINGS",
+        "destination": "textures/item/empty_armor_slot_leggings.png"
+    },
+    {
+        "source": "TEXTURE_GUI_EMPTY_ARMOR_SLOT_SHIELD",
+        "destination": "textures/item/empty_armor_slot_shield.png"
+    },
+    {
+        "source": "TEXTURE_GUI_OPTIONS_BACKGROUND",
+        "destination": "textures/gui/options_background.png"
+    },
+    {
+        "source": "TEXTURE_GUI_PRESETS_ISLES",
+        "destination": "textures/gui/presets/isles.png"
+    },
+    {
+        "source": "TEXTURE_GUI_RECIPE_BOOK",
+        "destination": "textures/gui/recipe_book.png"
+    },
+    {
+        "source": "TEXTURE_GUI_UNKNOWN_PACK",
+        "destination": "textures/misc/unknown_pack.png"
+    },
+    {
+        "source": "TEXTURE_GUI_UNKNOWN_SERVER",
+        "destination": "textures/misc/unknown_server.png"
+    },
+    {
+        "source": "TEXTURE_GUI_ADVANCEMENTS_BACKGROUND_ADVENTURE",
+        "destination": "textures/gui/advancements/backgrounds/adventure.png"
+    },
+    {
+        "source": "TEXTURE_GUI_ADVANCEMENTS_BACKGROUND_END",
+        "destination": "textures/gui/advancements/backgrounds/end.png"
+    },
+    {
+        "source": "TEXTURE_GUI_ADVANCEMENTS_BACKGROUND_HUSBANDRY",
+        "destination": "textures/gui/advancements/backgrounds/husbandry.png"
+    },
+    {
+        "source": "TEXTURE_GUI_ADVANCEMENTS_BACKGROUND_NETHER",
+        "destination": "textures/gui/advancements/backgrounds/nether.png"
+    },
+    {
+        "source": "TEXTURE_GUI_ADVANCEMENTS_BACKGROUND_STONE",
+        "destination": "textures/gui/advancements/backgrounds/stone.png"
+    },
+    {
+        "source": "TEXTURE_GUI_ADVANCEMENTS_WINDOW",
+        "destination": "textures/gui/advancements/window.png"
+    },
+    {
+        "source": "TEXTURE_GUI_CONTAINER_ANVIL",
+        "destination": "textures/gui/container/anvil.png"
+    },
+    {
+        "source": "TEXTURE_GUI_CONTAINER_BEACON",
+        "destination": "textures/gui/container/beacon.png"
+    },
+    {
+        "source": "TEXTURE_GUI_CONTAINER_BLAST_FURNACE",
+        "destination": "textures/gui/container/blast_furnace.png"
+    },
+    {
+        "source": "TEXTURE_GUI_CONTAINER_BREWING_STAND",
+        "destination": "textures/gui/container/brewing_stand.png"
+    },
+    {
+        "source": "TEXTURE_GUI_CONTAINER_CARTOGRAPHY_TABLE",
+        "destination": "textures/gui/container/cartography_table.png"
+    },
+    {
+        "source": "TEXTURE_GUI_CONTAINER_CRAFTING_TABLE",
+        "destination": "textures/gui/container/crafting_table.png"
+    },
+    {
+        "source": "TEXTURE_GUI_CONTAINER_CREATIVE_TAB",
+        "destination": "textures/gui/container/creative_inventory/tab_inventory.png"
+    },
+    {
+        "source": "TEXTURE_GUI_CONTAINER_CREATIVE_TAB_ITEM_SEARCH",
+        "destination": "textures/gui/container/creative_inventory/tab_item_search.png"
+    },
+    {
+        "source": "TEXTURE_GUI_CONTAINER_CREATIVE_TAB_ITEMS",
+        "destination": "textures/gui/container/creative_inventory/tab_items.png"
+    },
+    {
+        "source": "TEXTURE_GUI_CONTAINER_DISPENSER",
+        "destination": "textures/gui/container/dispenser.png"
+    },
+    {
+        "source": "TEXTURE_GUI_CONTAINER_ENCHANTING_TABLE",
+        "destination": "textures/gui/container/enchanting_table.png"
+    },
+    {
+        "source": "TEXTURE_GUI_CONTAINER_FURNACE",
+        "destination": "textures/gui/container/furnace.png"
+    },
+    {
+        "source": "TEXTURE_GUI_CONTAINER_GAMEMODE_SWITCHER",
+        "destination": "textures/gui/container/gamemode_switcher.png"
+    },
+    {
+        "source": "TEXTURE_GUI_CONTAINER_GENERIC_54",
+        "destination": "textures/gui/container/generic_54.png"
+    },
+    {
+        "source": "TEXTURE_GUI_CONTAINER_GRINDSTONE",
+        "destination": "textures/gui/container/grindstone.png"
+    },
+    {
+        "source": "TEXTURE_GUI_CONTAINER_HOPPER",
+        "destination": "textures/gui/container/hopper.png"
+    },
+    {
+        "source": "TEXTURE_GUI_CONTAINER_HORSE",
+        "destination": "textures/gui/container/horse.png"
+    },
+    {
+        "source": "TEXTURE_GUI_CONTAINER_INVENTORY",
+        "destination": "textures/gui/container/inventory.png"
+    },
+    {
+        "source": "TEXTURE_GUI_CONTAINER_LOOM",
+        "destination": "textures/gui/container/loom.png"
+    },
+    {
+        "source": "TEXTURE_GUI_CONTAINER_SHULKER_BOX",
+        "destination": "textures/gui/container/shulker_box.png"
+    },
+    {
+        "source": "TEXTURE_GUI_CONTAINER_SMITHING",
+        "destination": "textures/gui/container/smithing.png"
+    },
+    {
+        "source": "TEXTURE_GUI_CONTAINER_SMOKER",
+        "destination": "textures/gui/container/smoker.png"
+    },
+    {
+        "source": "TEXTURE_GUI_CONTAINER_STONECUTTER",
+        "destination": "textures/gui/container/stonecutter.png"
+    },
+    {
+        "source": "TEXTURE_GUI_EDITION",
+        "destination": "textures/gui/title/edition.png"
+    },
+    {
+        "source": "TEXTURE_GUI_MINECRAFT",
+        "destination": "textures/gui/title/minecraft.png"
+    },
+    {
+        "source": "TEXTURE_GUI_MOJANGSTUDIOS",
+        "destination": "textures/gui/title/mojangstudios.png"
+    },
+    {
+        "source": "TEXTURE_GUI_PANORAMA_0",
+        "destination": "textures/gui/title/background/panorama_0.png"
+    },
+    {
+        "source": "TEXTURE_GUI_PANORAMA_1",
+        "destination": "textures/gui/title/background/panorama_1.png"
+    },
+    {
+        "source": "TEXTURE_GUI_PANORAMA_2",
+        "destination": "textures/gui/title/background/panorama_2.png"
+    },
+    {
+        "source": "TEXTURE_GUI_PANORAMA_3",
+        "destination": "textures/gui/title/background/panorama_3.png"
+    },
+    {
+        "source": "TEXTURE_GUI_PANORAMA_4",
+        "destination": "textures/gui/title/background/panorama_4.png"
+    },
+    {
+        "source": "TEXTURE_GUI_PANORAMA_5",
+        "destination": "textures/gui/title/background/panorama_5.png"
+    },
+    {
+        "source": "TEXTURE_GUI_PANORAMA_OVERLAY",
+        "destination": "textures/gui/title/background/panorama_overlay.png"
+    },
+    {
+        "source": "TEXTURE_MAP",
+        "destination": "textures/item/map.png"
+    },
+    {
+        "source": "TEXTURE_MAP_BACKGROUND",
+        "destination": "textures/map/map_background.png"
+    },
+    {
+        "source": "TEXTURE_MAP_BACKGROUND_CHECKERBOARD",
+        "destination": "textures/map/map_background_checkerboard.png"
+    },
+    {
+        "source": "TEXTURE_MAP_FILLED",
+        "destination": "textures/item/filled_map.png"
+    },
+    {
+        "source": "TEXTURE_MAP_FILLED_MARKINGS",
+        "destination": "textures/item/filled_map_markings.png"
+    },
+    {
+        "source": "TEXTURE_MAP_ICONS",
+        "destination": "textures/map/map_icons.png"
+    }
+]

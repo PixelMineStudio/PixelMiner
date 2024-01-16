@@ -1,0 +1,63 @@
+[
+    {
+        "source": "TEXTURE_MAP",
+        "destination": "assets/minecraft/textures/item/map.png"
+    },
+    {
+        "source": "TEXTURE_MAP_BACKGROUND",
+        "destination": "assets/minecraft/textures/map/map_background.png"
+    },
+    {
+        "source": "TEXTURE_MAP_BACKGROUND_CHECKERBOARD",
+        "destination": "assets/minecraft/textures/map/map_background_checkerboard.png"
+    },
+    {
+        "source": "TEXTURE_MAP_FILLED",
+        "destination": "assets/minecraft/textures/item/filled_map.png"
+    },
+    {
+        "source": "TEXTURE_MAP_FILLED_MARKINGS",
+        "destination": "assets/minecraft/textures/item/filled_map_markings.png"
+    },
+    {
+        "type": "stamp",
+        "source": [
+            { "uid": "TEXTURE_MAP_ICON_MARKER_WHITE",           "position": [0, 0] },
+            { "uid": "TEXTURE_MAP_ICON_MARKER_GREEN",           "position": [8, 0] },
+            { "uid": "TEXTURE_MAP_ICON_MARKER_RED",             "position": [16, 0] },
+            { "uid": "TEXTURE_MAP_ICON_MARKER_BLUE",            "position": [24, 0] },
+            { "uid": "TEXTURE_MAP_ICON_X_WHITE",                "position": [32, 0] },
+            { "uid": "TEXTURE_MAP_ICON_ARROW_LARGE_RED",        "position": [40, 0] },
+            { "uid": "TEXTURE_MAP_ICON_DOT_LARGE",              "position": [48, 0] },
+            { "uid": "TEXTURE_MAP_ICON_DOT_SMALL",              "position": [56, 0] },
+            { "uid": "TEXTURE_MAP_ICON_POI_MANSION",            "position": [64, 0] },
+            { "uid": "TEXTURE_MAP_ICON_POI_OCEAN_MONUMENT",     "position": [72, 0] },
+            { "uid": "TEXTURE_MAP_ICON_POI_BANNER_WHITE",       "position": [80, 0] },
+            { "uid": "TEXTURE_MAP_ICON_POI_BANNER_ORANGE",      "position": [88, 0] },
+            { "uid": "TEXTURE_MAP_ICON_POI_BANNER_MAGENTA",     "position": [96, 0] },
+            { "uid": "TEXTURE_MAP_ICON_POI_BANNER_LIGHT_BLUE",  "position": [104, 0] },
+            { "uid": "TEXTURE_MAP_ICON_POI_BANNER_YELLOW",      "position": [112, 0] },
+            { "uid": "TEXTURE_MAP_ICON_POI_BANNER_LIME",        "position": [120, 0] },
+            { "uid": "TEXTURE_MAP_ICON_POI_BANNER_PINK",        "position": [0, 8] },
+            { "uid": "TEXTURE_MAP_ICON_POI_BANNER_GRAY",        "position": [8, 8] },
+            { "uid": "TEXTURE_MAP_ICON_POI_BANNER_LIGHT_GRAY",  "position": [16, 8] },
+            { "uid": "TEXTURE_MAP_ICON_POI_BANNER_CYAN",        "position": [24, 8] },
+            { "uid": "TEXTURE_MAP_ICON_POI_BANNER_PURPLE",      "position": [32, 8] },
+            { "uid": "TEXTURE_MAP_ICON_POI_BANNER_BLUE",        "position": [40, 8] },
+            { "uid": "TEXTURE_MAP_ICON_POI_BANNER_BROWN",       "position": [48, 8] },
+            { "uid": "TEXTURE_MAP_ICON_POI_BANNER_GREEN",       "position": [56, 8] },
+            { "uid": "TEXTURE_MAP_ICON_POI_BANNER_RED",         "position": [64, 8] },
+            { "uid": "TEXTURE_MAP_ICON_POI_BANNER_BLACK",       "position": [72, 8] },
+            { "uid": "TEXTURE_MAP_ICON_X_RED",                  "position": [80, 8] },
+            { "uid": "TEXTURE_MAP_ICON_POI_VILLAGE_DESERT",     "position": [88, 8] },
+            { "uid": "TEXTURE_MAP_ICON_POI_VILLAGE_PLAINS",     "position": [96, 8] },
+            { "uid": "TEXTURE_MAP_ICON_POI_VILLAGE_SAVANNA",    "position": [104, 8] },
+            { "uid": "TEXTURE_MAP_ICON_POI_VILLAGE_SNOWY",      "position": [112, 8] },
+            { "uid": "TEXTURE_MAP_ICON_POI_VILLAGE_TIAGA",      "position": [120, 8] },
+            { "uid": "TEXTURE_MAP_ICON_POI_JUNGLE_TEMPLE",      "position": [0, 16] },
+            { "uid": "TEXTURE_MAP_ICON_POI_SWAMP_HUT",          "position": [8, 16] }
+        ],
+        "destination": "assets/minecraft/textures/map/map_icons.png",
+        "canvas_size": [128, 128]
+    }
+]

@@ -1,0 +1,186 @@
+[
+    {
+        "source": "TEXTURE_ARMOR_STAND",
+        "destination": "assets/minecraft/textures/item/armor_stand.png"
+    },
+    {
+        "source": "TEXTURE_ARMOR_STAND_WOOD",
+        "destination": "assets/minecraft/textures/entity/armorstand/wood.png"
+    },
+    {
+        "source": "TEXTURE_CHAINMAIL_BOOTS",
+        "destination": "assets/minecraft/textures/item/chainmail_boots.png"
+    },
+    {
+        "source": "TEXTURE_CHAINMAIL_CHESTPLATE",
+        "destination": "assets/minecraft/textures/item/chainmail_chestplate.png"
+    },
+    {
+        "source": "TEXTURE_CHAINMAIL_HELMET",
+        "destination": "assets/minecraft/textures/item/chainmail_helmet.png"
+    },
+    {
+        "source": "TEXTURE_CHAINMAIL_LAYER_1",
+        "destination": "assets/minecraft/textures/models/armor/chainmail_layer_1.png"
+    },
+    {
+        "source": "TEXTURE_CHAINMAIL_LAYER_2",
+        "destination": "assets/minecraft/textures/models/armor/chainmail_layer_2.png"
+    },
+    {
+        "source": "TEXTURE_CHAINMAIL_LEGGINGS",
+        "destination": "assets/minecraft/textures/item/chainmail_leggings.png"
+    },
+    {
+        "source": "TEXTURE_DIAMOND_BOOTS",
+        "destination": "assets/minecraft/textures/item/diamond_boots.png"
+    },
+    {
+        "source": "TEXTURE_DIAMOND_CHESTPLATE",
+        "destination": "assets/minecraft/textures/item/diamond_chestplate.png"
+    },
+    {
+        "source": "TEXTURE_DIAMOND_HELMET",
+        "destination": "assets/minecraft/textures/item/diamond_helmet.png"
+    },
+    {
+        "source": "TEXTURE_DIAMOND_LAYER_1",
+        "destination": "assets/minecraft/textures/models/armor/diamond_layer_1.png"
+    },
+    {
+        "source": "TEXTURE_DIAMOND_LAYER_2",
+        "destination": "assets/minecraft/textures/models/armor/diamond_layer_2.png"
+    },
+    {
+        "source": "TEXTURE_DIAMOND_LEGGINGS",
+        "destination": "assets/minecraft/textures/item/diamond_leggings.png"
+    },
+    {
+        "source": "TEXTURE_GOLD_LAYER_1",
+        "destination": "assets/minecraft/textures/models/armor/gold_layer_1.png"
+    },
+    {
+        "source": "TEXTURE_GOLD_LAYER_2",
+        "destination": "assets/minecraft/textures/models/armor/gold_layer_2.png"
+    },
+    {
+        "source": "TEXTURE_GOLDEN_BOOTS",
+        "destination": "assets/minecraft/textures/item/golden_boots.png"
+    },
+    {
+        "source": "TEXTURE_GOLDEN_CHESTPLATE",
+        "destination": "assets/minecraft/textures/item/golden_chestplate.png"
+    },
+    {
+        "source": "TEXTURE_GOLDEN_HELMET",
+        "destination": "assets/minecraft/textures/item/golden_helmet.png"
+    },
+    {
+        "source": "TEXTURE_GOLDEN_LEGGINGS",
+        "destination": "assets/minecraft/textures/item/golden_leggings.png"
+    },
+    {
+        "source": "TEXTURE_IRON_BOOTS",
+        "destination": "assets/minecraft/textures/item/iron_boots.png"
+    },
+    {
+        "source": "TEXTURE_IRON_CHESTPLATE",
+        "destination": "assets/minecraft/textures/item/iron_chestplate.png"
+    },
+    {
+        "source": "TEXTURE_IRON_HELMET",
+        "destination": "assets/minecraft/textures/item/iron_helmet.png"
+    },
+    {
+        "source": "TEXTURE_IRON_LAYER_1",
+        "destination": "assets/minecraft/textures/models/armor/iron_layer_1.png"
+    },
+    {
+        "source": "TEXTURE_IRON_LAYER_2",
+        "destination": "assets/minecraft/textures/models/armor/iron_layer_2.png"
+    },
+    {
+        "source": "TEXTURE_IRON_LEGGINGS",
+        "destination": "assets/minecraft/textures/item/iron_leggings.png"
+    },
+    {
+        "source": "TEXTURE_LEATHER_BOOTS",
+        "destination": "assets/minecraft/textures/item/leather_boots.png"
+    },
+    {
+        "source": "TEXTURE_LEATHER_BOOTS_OVERLAY",
+        "destination": "assets/minecraft/textures/item/leather_boots_overlay.png"
+    },
+    {
+        "source": "TEXTURE_LEATHER_CHESTPLATE",
+        "destination": "assets/minecraft/textures/item/leather_chestplate.png"
+    },
+    {
+        "source": "TEXTURE_LEATHER_CHESTPLATE_OVERLAY",
+        "destination": "assets/minecraft/textures/item/leather_chestplate_overlay.png"
+    },
+    {
+        "source": "TEXTURE_LEATHER_HELMET",
+        "destination": "assets/minecraft/textures/item/leather_helmet.png"
+    },
+    {
+        "source": "TEXTURE_LEATHER_HELMET_OVERLAY",
+        "destination": "assets/minecraft/textures/item/leather_helmet_overlay.png"
+    },
+    {
+        "source": "TEXTURE_LEATHER_LAYER_1",
+        "destination": "assets/minecraft/textures/models/armor/leather_layer_1.png"
+    },
+    {
+        "source": "TEXTURE_LEATHER_LAYER_1_OVERLAY",
+        "destination": "assets/minecraft/textures/models/armor/leather_layer_1_overlay.png"
+    },
+    {
+        "source": "TEXTURE_LEATHER_LAYER_2",
+        "destination": "assets/minecraft/textures/models/armor/leather_layer_2.png"
+    },
+    {
+        "source": "TEXTURE_LEATHER_LAYER_2_OVERLAY",
+        "destination": "assets/minecraft/textures/models/armor/leather_layer_2_overlay.png"
+    },
+    {
+        "source": "TEXTURE_LEATHER_LEGGINGS",
+        "destination": "assets/minecraft/textures/item/leather_leggings.png"
+    },
+    {
+        "source": "TEXTURE_LEATHER_LEGGINGS_OVERLAY",
+        "destination": "assets/minecraft/textures/item/leather_leggings_overlay.png"
+    },
+    {
+        "source": "TEXTURE_NETHERITE_BOOTS",
+        "destination": "assets/minecraft/textures/item/netherite_boots.png"
+    },
+    {
+        "source": "TEXTURE_NETHERITE_CHESTPLATE",
+        "destination": "assets/minecraft/textures/item/netherite_chestplate.png"
+    },
+    {
+        "source": "TEXTURE_NETHERITE_HELMET",
+        "destination": "assets/minecraft/textures/item/netherite_helmet.png"
+    },
+    {
+        "source": "TEXTURE_NETHERITE_LAYER_1",
+        "destination": "assets/minecraft/textures/models/armor/netherite_layer_1.png"
+    },
+    {
+        "source": "TEXTURE_NETHERITE_LAYER_2",
+        "destination": "assets/minecraft/textures/models/armor/netherite_layer_2.png"
+    },
+    {
+        "source": "TEXTURE_NETHERITE_LEGGINGS",
+        "destination": "assets/minecraft/textures/item/netherite_leggings.png"
+    },
+    {
+        "source": "TEXTURE_TURTLE_HELMET",
+        "destination": "assets/minecraft/textures/item/turtle_helmet.png"
+    },
+    {
+        "source": "TEXTURE_TURTLE_LAYER_1",
+        "destination": "assets/minecraft/textures/models/armor/turtle_layer_1.png"
+    }
+]

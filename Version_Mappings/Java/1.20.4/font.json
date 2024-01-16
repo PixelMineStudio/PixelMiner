@@ -1,0 +1,22 @@
+[
+    {
+        "source": "TEXTURE_ASCIILLAGER",
+        "destination": "assets/minecraft/textures/font/asciillager.png"
+    },
+    {
+        "source": "TEXTURE_ACCENTED",
+        "destination": "assets/minecraft/textures/font/accented.png"
+    },
+    {
+        "source": "TEXTURE_ASCII",
+        "destination": "assets/minecraft/textures/font/ascii.png"
+    },
+    {
+        "source": "TEXTURE_ASCII_SGA",
+        "destination": "assets/minecraft/textures/font/ascii_sga.png"
+    },
+    {
+        "source": "TEXTURE_NONLATIN_EUROPEAN",
+        "destination": "assets/minecraft/textures/font/nonlatin_european.png"
+    }
+]
