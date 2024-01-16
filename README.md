@@ -8,6 +8,13 @@ Build Process for Texture Packs
 
 Been working on a project over the holidays that I've wanted to make for about 5 years. It's a resource pack builder. So it takes your textures in your resource pack and let's you organize them into a more artist friendly set of source file directories, then compiles versions of those textures for all minecraft versions, java and bedrock.
 
+## Installation
+
+1. Download the latest release here: https://github.com/PixelMineStudio/PixelMiner/releases
+2. Copy to your preferred working dirctory
+3. Run PixelMiner.exe
+4. Some folders and files should be automatically created
+
 ## Features
 
 So far the list of features is something like this:
