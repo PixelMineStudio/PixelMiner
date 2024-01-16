@@ -10,7 +10,7 @@ Been working on a project over the holidays that I've wanted to make for about 5
 
 ## Installation
 
-1. Download the latest release here: https://github.com/PixelMineStudio/PixelMiner/releases
+1. Download the latest release here: https://github.com/PixelMineStudio/PixelMiner/releases/latest
 2. Copy to your preferred working dirctory
 3. Run PixelMiner.exe
 4. Some folders and files should be automatically created
