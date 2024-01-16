@@ -1,0 +1,30 @@
+[
+    {
+        "source": "TEXTURE_GUI_EMPTY_ARMOR_SLOT_BOOTS",
+        "destination": "textures/items/empty_armor_slot_boots.png"
+    },
+    {
+        "source": "TEXTURE_GUI_EMPTY_ARMOR_SLOT_CHESTPLATE",
+        "destination": "textures/items/empty_armor_slot_chestplate.png"
+    },
+    {
+        "source": "TEXTURE_GUI_EMPTY_ARMOR_SLOT_HELMET",
+        "destination": "textures/items/empty_armor_slot_helmet.png"
+    },
+    {
+        "source": "TEXTURE_GUI_EMPTY_ARMOR_SLOT_LEGGINGS",
+        "destination": "textures/items/empty_armor_slot_leggings.png"
+    },
+    {
+        "source": "TEXTURE_GUI_EMPTY_ARMOR_SLOT_SHIELD",
+        "destination": "textures/items/empty_armor_slot_shield.png"
+    },
+    {
+        "source": "TEXTURE_MAP_BACKGROUND",
+        "destination": "textures/map/map_background.png"
+    },
+    {
+        "source": "TEXTURE_MAP_ICONS",
+        "destination": "textures/map/map_icons.png"
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {   
+        "source": "TEXTURE_BED_ITEM",
+        "destination": "assets/minecraft/textures/items/bed.png"
+    },
+    {
+        "type": "stamp",
+        "source": [
+            { "uid": "TEXTURE_BED_RED", "copy": [6, 6, 22, 22], "rotate": 90, "position": [0, 0] }
+        ],
+        "destination": "assets/minecraft/textures/blocks/bed_head_top.png",
+        "canvas_size": [16, 16]
+    },
+    {
+        "type": "stamp",
+        "source": [
+            { "uid": "TEXTURE_BED_RED", "copy": [6, 0, 22, 6], "rotate": 180, "position": [0, 7] },
+            { "uid": "TEXTURE_BED_RED", "copy": [53, 21, 56, 24], "position": [0, 13] },
+            { "uid": "TEXTURE_BED_RED", "copy": [50, 9, 53, 12], "position": [13, 13] }
+        ],
+        "destination": "assets/minecraft/textures/blocks/bed_head_end.png",
+        "canvas_size": [16, 16]
+    },
+    {
+        "type": "stamp",
+        "source": [
+            { "uid": "TEXTURE_BED_RED", "copy": [22, 6, 28, 22], "rotate": 90, "position": [0, 7] },
+            { "uid": "TEXTURE_BED_RED", "copy": [50, 21, 53, 24], "position": [13, 13] }
+        ],
+        "destination": "assets/minecraft/textures/blocks/bed_head_side.png",
+        "canvas_size": [16, 16]
+    },
+    {
+        "type": "stamp",
+        "source": [
+            { "uid": "TEXTURE_BED_RED", "copy": [6, 22, 22, 38], "rotate": 90, "position": [0, 0] }
+        ],
+        "destination": "assets/minecraft/textures/blocks/bed_feet_top.png",
+        "canvas_size": [16, 16]
+    },
+    {
+        "type": "stamp",
+        "source": [
+            { "uid": "TEXTURE_BED_RED", "copy": [6, 38, 22, 44], "position": [0, 7] },
+            { "uid": "TEXTURE_BED_RED", "copy": [50, 15, 53, 18], "rotate": 180, "flip": "Vertical", "position": [0, 13] },
+            { "uid": "TEXTURE_BED_RED", "copy": [53, 3, 56, 6], "rotate": 180, "flip": "Vertical", "position": [13, 13] }
+        ],
+        "destination": "assets/minecraft/textures/blocks/bed_feet_end.png",
+        "canvas_size": [16, 16]
+    },
+    {
+        "type": "stamp",
+        "source": [
+            { "uid": "TEXTURE_BED_RED", "copy": [22, 22, 28, 38], "rotate": 90, "position": [0, 7] },
+            { "uid": "TEXTURE_BED_RED", "copy": [53, 15, 56, 18], "position": [0, 13] }
+        ],
+        "destination": "assets/minecraft/textures/blocks/bed_feet_side.png",
+        "canvas_size": [16, 16]
+    }
+]

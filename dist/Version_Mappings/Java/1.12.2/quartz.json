@@ -1,0 +1,38 @@
+[
+    {
+        "source": "TEXTURE_NETHER_QUARTZ_ORE",
+        "destination": "assets/minecraft/textures/blocks/quartz_ore.png"
+    },
+    {
+        "source": "TEXTURE_QUARTZ",
+        "destination": "assets/minecraft/textures/items/quartz.png"
+    },
+    {
+        "source": "TEXTURE_QUARTZ_BLOCK_BOTTOM",
+        "destination": "assets/minecraft/textures/blocks/quartz_block_bottom.png"
+    },
+    {
+        "source": "TEXTURE_QUARTZ_BLOCK_CHISELED",
+        "destination": "assets/minecraft/textures/blocks/quartz_block_chiseled.png"
+    },
+    {
+        "source": "TEXTURE_QUARTZ_BLOCK_SIDE",
+        "destination": "assets/minecraft/textures/blocks/quartz_block_side.png"
+    },
+    {
+        "source": "TEXTURE_QUARTZ_BLOCK_TOP",
+        "destination": "assets/minecraft/textures/blocks/quartz_block_top.png"
+    },
+    {
+        "source": "TEXTURE_QUARTZ_BLOCK_TOP_CHISELED",
+        "destination": "assets/minecraft/textures/blocks/quartz_block_chiseled_top.png"
+    },
+    {
+        "source": "TEXTURE_QUARTZ_PILLAR",
+        "destination": "assets/minecraft/textures/blocks/quartz_block_lines.png"
+    },
+    {
+        "source": "TEXTURE_QUARTZ_PILLAR_TOP",
+        "destination": "assets/minecraft/textures/blocks/quartz_block_lines_top.png"
+    }
+]

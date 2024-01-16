@@ -1,0 +1,22 @@
+[
+    {
+        "source": "TEXTURE_QUARTZ",
+        "destination": "textures/items/quartz.png"
+    },
+    {
+        "source": "TEXTURE_QUARTZ_BLOCK_BOTTOM",
+        "destination": "textures/blocks/quartz_block_bottom.png"
+    },
+    {
+        "source": "TEXTURE_QUARTZ_BLOCK_SIDE",
+        "destination": "textures/blocks/quartz_block_side.png"
+    },
+    {
+        "source": "TEXTURE_QUARTZ_BLOCK_TOP",
+        "destination": "textures/blocks/quartz_block_top.png"
+    },
+    {
+        "source": "TEXTURE_QUARTZ_BRICKS",
+        "destination": "textures/blocks/quartz_bricks.png"
+    }
+]

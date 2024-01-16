@@ -1,0 +1,154 @@
+[
+    {
+        "source": "TEXTURE_BLACK_GLAZED_TERRACOTTA",
+        "destination": "assets/minecraft/textures/blocks/glazed_terracotta_black.png"
+    },
+    {
+        "source": "TEXTURE_BLACK_TERRACOTTA",
+        "destination": "assets/minecraft/textures/blocks/hardened_clay_stained_black.png"
+    },
+    {
+        "source": "TEXTURE_BLUE_GLAZED_TERRACOTTA",
+        "destination": "assets/minecraft/textures/blocks/glazed_terracotta_blue.png"
+    },
+    {
+        "source": "TEXTURE_BLUE_TERRACOTTA",
+        "destination": "assets/minecraft/textures/blocks/hardened_clay_stained_blue.png"
+    },
+    {
+        "source": "TEXTURE_BRICK",
+        "destination": "assets/minecraft/textures/items/bricks.png"
+    },
+    {
+        "source": "TEXTURE_BROWN_GLAZED_TERRACOTTA",
+        "destination": "assets/minecraft/textures/blocks/glazed_terracotta_brown.png"
+    },
+    {
+        "source": "TEXTURE_BROWN_TERRACOTTA",
+        "destination": "assets/minecraft/textures/blocks/hardened_clay_stained_brown.png"
+    },
+    {
+        "source": "TEXTURE_CLAY_BALL",
+        "destination": "assets/minecraft/textures/items/clay_ball.png"
+    },
+    {
+        "source": "TEXTURE_CLAY_BLOCK",
+        "destination": "assets/minecraft/textures/blocks/clay.png"
+    },
+    {
+        "source": "TEXTURE_CYAN_GLAZED_TERRACOTTA",
+        "destination": "assets/minecraft/textures/blocks/glazed_terracotta_cyan.png"
+    },
+    {
+        "source": "TEXTURE_CYAN_TERRACOTTA",
+        "destination": "assets/minecraft/textures/blocks/hardened_clay_stained_cyan.png"
+    },
+    {
+        "source": "TEXTURE_FLOWER_POT",
+        "destination": "assets/minecraft/textures/blocks/flower_pot.png"
+    },
+    {
+        "source": "TEXTURE_FLOWER_POT_ITEM",
+        "destination": "assets/minecraft/textures/items/flower_pot.png"
+    },
+    {
+        "source": "TEXTURE_GRAY_GLAZED_TERRACOTTA",
+        "destination": "assets/minecraft/textures/blocks/glazed_terracotta_gray.png"
+    },
+    {
+        "source": "TEXTURE_GRAY_TERRACOTTA",
+        "destination": "assets/minecraft/textures/blocks/hardened_clay_stained_gray.png"
+    },
+    {
+        "source": "TEXTURE_GREEN_GLAZED_TERRACOTTA",
+        "destination": "assets/minecraft/textures/blocks/glazed_terracotta_green.png"
+    },
+    {
+        "source": "TEXTURE_GREEN_TERRACOTTA",
+        "destination": "assets/minecraft/textures/blocks/hardened_clay_stained_green.png"
+    },
+    {
+        "source": "TEXTURE_LIGHT_BLUE_GLAZED_TERRACOTTA",
+        "destination": "assets/minecraft/textures/blocks/glazed_terracotta_light_blue.png"
+    },
+    {
+        "source": "TEXTURE_LIGHT_BLUE_TERRACOTTA",
+        "destination": "assets/minecraft/textures/blocks/hardened_clay_stained_light_blue.png"
+    },
+    {
+        "source": "TEXTURE_LIGHT_GRAY_GLAZED_TERRACOTTA",
+        "destination": "assets/minecraft/textures/blocks/glazed_terracotta_silver.png"
+    },
+    {
+        "source": "TEXTURE_LIGHT_GRAY_TERRACOTTA",
+        "destination": "assets/minecraft/textures/blocks/hardened_clay_stained_silver.png"
+    },
+    {
+        "source": "TEXTURE_LIME_GLAZED_TERRACOTTA",
+        "destination": "assets/minecraft/textures/blocks/glazed_terracotta_lime.png"
+    },
+    {
+        "source": "TEXTURE_LIME_TERRACOTTA",
+        "destination": "assets/minecraft/textures/blocks/hardened_clay_stained_lime.png"
+    },
+    {
+        "source": "TEXTURE_MAGENTA_GLAZED_TERRACOTTA",
+        "destination": "assets/minecraft/textures/blocks/glazed_terracotta_magenta.png"
+    },
+    {
+        "source": "TEXTURE_MAGENTA_TERRACOTTA",
+        "destination": "assets/minecraft/textures/blocks/hardened_clay_stained_magenta.png"
+    },
+    {
+        "source": "TEXTURE_ORANGE_GLAZED_TERRACOTTA",
+        "destination": "assets/minecraft/textures/blocks/glazed_terracotta_orange.png"
+    },
+    {
+        "source": "TEXTURE_ORANGE_TERRACOTTA",
+        "destination": "assets/minecraft/textures/blocks/hardened_clay_stained_orange.png"
+    },
+    {
+        "source": "TEXTURE_PINK_GLAZED_TERRACOTTA",
+        "destination": "assets/minecraft/textures/blocks/glazed_terracotta_pink.png"
+    },
+    {
+        "source": "TEXTURE_PINK_TERRACOTTA",
+        "destination": "assets/minecraft/textures/blocks/hardened_clay_stained_pink.png"
+    },
+    {
+        "source": "TEXTURE_PURPLE_GLAZED_TERRACOTTA",
+        "destination": "assets/minecraft/textures/blocks/glazed_terracotta_purple.png"
+    },
+    {
+        "source": "TEXTURE_PURPLE_TERRACOTTA",
+        "destination": "assets/minecraft/textures/blocks/hardened_clay_stained_purple.png"
+    },
+    {
+        "source": "TEXTURE_RED_GLAZED_TERRACOTTA",
+        "destination": "assets/minecraft/textures/blocks/glazed_terracotta_red.png"
+    },
+    {
+        "source": "TEXTURE_RED_TERRACOTTA",
+        "destination": "assets/minecraft/textures/blocks/hardened_clay_stained_red.png"
+    },
+    {
+        "source": "TEXTURE_TERRACOTTA",
+        "destination": "assets/minecraft/textures/blocks/hardened_clay.png"
+    },
+    {
+        "source": "TEXTURE_WHITE_GLAZED_TERRACOTTA",
+        "destination": "assets/minecraft/textures/blocks/glazed_terracotta_white.png"
+    },
+    {
+        "source": "TEXTURE_WHITE_TERRACOTTA",
+        "destination": "assets/minecraft/textures/blocks/hardened_clay_stained_white.png"
+    },
+    {
+        "source": "TEXTURE_YELLOW_GLAZED_TERRACOTTA",
+        "destination": "assets/minecraft/textures/blocks/glazed_terracotta_yellow.png"
+    },
+    {
+        "source": "TEXTURE_YELLOW_TERRACOTTA",
+        "destination": "assets/minecraft/textures/blocks/hardened_clay_stained_yellow.png"
+    }
+]

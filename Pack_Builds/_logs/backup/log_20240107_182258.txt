@@ -1,0 +1,108 @@
+2024-01-07 17:43:41,213: Starting the resource pack generator...
+2024-01-07 17:43:41,220: Loading mappings from: Version_Mappings\Java\1.16.5
+2024-01-07 17:43:41,220: Files in the directory: ['armor.json', 'banner.json', 'block.json', 'clay.json', 'concrete.json', 'coral.json', 'craftingtable.json', 'crops.json', 'dye.json', 'environment.json', 'font.json', 'food.json', 'glass.json', 'gui.json', 'item.json', 'map.json', 'mob.json', 'ore.json', 'pack.json', 'painting.json', 'plants.json', 'prismarine.json', 'quartz.json', 'redstone.json', 'storage.json', 'tools.json', 'vfx.json', 'wood.json']
+2024-01-07 17:43:41,225: Processing regular texture 'TEXTURE_ARMOR_STAND': armor/armor_stand.png
+2024-01-07 17:43:41,225: Downsample 'TEXTURE_ARMOR_STAND'?: 
+2024-01-07 17:43:41,236: target_height: 256
+2024-01-07 17:43:41,236: resolution_suffix: _256px.png
+2024-01-07 17:43:41,236: Checking for 256px height texture version of: armor/armor_stand.png
+2024-01-07 17:43:41,236: At location: [java][1165][256x]pixelmine_smoothoperator_0945\armor\armor_stand_256px.png
+2024-01-07 17:43:41,236: Resolution-specific texture not found, using original: [java][1165][256x]pixelmine_smoothoperator_0945\armor/armor_stand.png
+2024-01-07 17:43:41,251: Processing regular texture 'TEXTURE_ARMOR_STAND_WOOD': armor/armor_stand_wood.png
+2024-01-07 17:43:41,251: Downsample 'TEXTURE_ARMOR_STAND_WOOD'?: 
+2024-01-07 17:43:41,251: target_height: 1024
+2024-01-07 17:43:41,251: resolution_suffix: _1024px.png
+2024-01-07 17:43:41,251: Checking for 1024px height texture version of: armor/armor_stand_wood.png
+2024-01-07 17:43:41,251: At location: [java][1165][256x]pixelmine_smoothoperator_0945\armor\armor_stand_wood_1024px.png
+2024-01-07 17:43:41,251: Resolution-specific texture not found, using original: [java][1165][256x]pixelmine_smoothoperator_0945\armor/armor_stand_wood.png
+2024-01-07 17:43:41,382: Processing regular texture 'TEXTURE_CHAINMAIL_BOOTS': armor/chainmail_boots.png
+2024-01-07 17:43:41,382: Downsample 'TEXTURE_CHAINMAIL_BOOTS'?: 
+2024-01-07 17:43:41,383: target_height: 256
+2024-01-07 17:43:41,383: resolution_suffix: _256px.png
+2024-01-07 17:43:41,383: Checking for 256px height texture version of: armor/chainmail_boots.png
+2024-01-07 17:43:41,383: At location: [java][1165][256x]pixelmine_smoothoperator_0945\armor\chainmail_boots_256px.png
+2024-01-07 17:43:41,383: Resolution-specific texture not found, using original: [java][1165][256x]pixelmine_smoothoperator_0945\armor/chainmail_boots.png
+2024-01-07 17:43:41,393: Processing regular texture 'TEXTURE_CHAINMAIL_CHESTPLATE': armor/chainmail_chestplate.png
+2024-01-07 17:43:41,393: Downsample 'TEXTURE_CHAINMAIL_CHESTPLATE'?: 
+2024-01-07 17:43:41,394: target_height: 256
+2024-01-07 17:43:41,394: resolution_suffix: _256px.png
+2024-01-07 17:43:41,394: Checking for 256px height texture version of: armor/chainmail_chestplate.png
+2024-01-07 17:43:41,394: At location: [java][1165][256x]pixelmine_smoothoperator_0945\armor\chainmail_chestplate_256px.png
+2024-01-07 17:43:41,394: Resolution-specific texture not found, using original: [java][1165][256x]pixelmine_smoothoperator_0945\armor/chainmail_chestplate.png
+2024-01-07 17:43:41,408: Processing regular texture 'TEXTURE_CHAINMAIL_HELMET': armor/chainmail_helmet.png
+2024-01-07 17:43:41,409: Downsample 'TEXTURE_CHAINMAIL_HELMET'?: 
+2024-01-07 17:43:41,409: target_height: 256
+2024-01-07 17:43:41,409: resolution_suffix: _256px.png
+2024-01-07 17:43:41,409: Checking for 256px height texture version of: armor/chainmail_helmet.png
+2024-01-07 17:43:41,409: At location: [java][1165][256x]pixelmine_smoothoperator_0945\armor\chainmail_helmet_256px.png
+2024-01-07 17:43:41,409: Resolution-specific texture not found, using original: [java][1165][256x]pixelmine_smoothoperator_0945\armor/chainmail_helmet.png
+2024-01-07 17:43:41,423: Processing regular texture 'TEXTURE_CHAINMAIL_LAYER_1': armor/chainmail_layer_1.png
+2024-01-07 17:43:41,423: Downsample 'TEXTURE_CHAINMAIL_LAYER_1'?: 
+2024-01-07 17:43:41,423: target_height: 512
+2024-01-07 17:43:41,423: resolution_suffix: _512px.png
+2024-01-07 17:43:41,423: Checking for 512px height texture version of: armor/chainmail_layer_1.png
+2024-01-07 17:43:41,424: At location: [java][1165][256x]pixelmine_smoothoperator_0945\armor\chainmail_layer_1_512px.png
+2024-01-07 17:43:41,424: Resolution-specific texture not found, using original: [java][1165][256x]pixelmine_smoothoperator_0945\armor/chainmail_layer_1.png
+2024-01-07 17:43:41,468: Processing regular texture 'TEXTURE_CHAINMAIL_LAYER_2': armor/chainmail_layer_2.png
+2024-01-07 17:43:41,468: Downsample 'TEXTURE_CHAINMAIL_LAYER_2'?: 
+2024-01-07 17:43:41,469: target_height: 512
+2024-01-07 17:43:41,469: resolution_suffix: _512px.png
+2024-01-07 17:43:41,469: Checking for 512px height texture version of: armor/chainmail_layer_2.png
+2024-01-07 17:43:41,469: At location: [java][1165][256x]pixelmine_smoothoperator_0945\armor\chainmail_layer_2_512px.png
+2024-01-07 17:43:41,469: Resolution-specific texture not found, using original: [java][1165][256x]pixelmine_smoothoperator_0945\armor/chainmail_layer_2.png
+2024-01-07 17:43:41,506: Processing regular texture 'TEXTURE_CHAINMAIL_LEGGINGS': armor/chainmail_leggings.png
+2024-01-07 17:43:41,506: Downsample 'TEXTURE_CHAINMAIL_LEGGINGS'?: 
+2024-01-07 17:43:41,507: target_height: 256
+2024-01-07 17:43:41,507: resolution_suffix: _256px.png
+2024-01-07 17:43:41,507: Checking for 256px height texture version of: armor/chainmail_leggings.png
+2024-01-07 17:43:41,507: At location: [java][1165][256x]pixelmine_smoothoperator_0945\armor\chainmail_leggings_256px.png
+2024-01-07 17:43:41,507: Resolution-specific texture not found, using original: [java][1165][256x]pixelmine_smoothoperator_0945\armor/chainmail_leggings.png
+2024-01-07 17:43:41,518: Processing regular texture 'TEXTURE_DIAMOND_BOOTS': armor/diamond_boots.png
+2024-01-07 17:43:41,518: Downsample 'TEXTURE_DIAMOND_BOOTS'?: 
+2024-01-07 17:43:41,518: target_height: 256
+2024-01-07 17:43:41,519: resolution_suffix: _256px.png
+2024-01-07 17:43:41,519: Checking for 256px height texture version of: armor/diamond_boots.png
+2024-01-07 17:43:41,519: At location: [java][1165][256x]pixelmine_smoothoperator_0945\armor\diamond_boots_256px.png
+2024-01-07 17:43:41,519: Resolution-specific texture not found, using original: [java][1165][256x]pixelmine_smoothoperator_0945\armor/diamond_boots.png
+2024-01-07 17:43:41,528: Processing regular texture 'TEXTURE_DIAMOND_CHESTPLATE': armor/diamond_chestplate.png
+2024-01-07 17:43:41,528: Downsample 'TEXTURE_DIAMOND_CHESTPLATE'?: 
+2024-01-07 17:43:41,528: target_height: 256
+2024-01-07 17:43:41,528: resolution_suffix: _256px.png
+2024-01-07 17:43:41,528: Checking for 256px height texture version of: armor/diamond_chestplate.png
+2024-01-07 17:43:41,528: At location: [java][1165][256x]pixelmine_smoothoperator_0945\armor\diamond_chestplate_256px.png
+2024-01-07 17:43:41,528: Resolution-specific texture not found, using original: [java][1165][256x]pixelmine_smoothoperator_0945\armor/diamond_chestplate.png
+2024-01-07 17:43:41,545: Processing regular texture 'TEXTURE_DIAMOND_HELMET': armor/diamond_helmet.png
+2024-01-07 17:43:41,545: Downsample 'TEXTURE_DIAMOND_HELMET'?: 
+2024-01-07 17:43:41,546: target_height: 256
+2024-01-07 17:43:41,546: resolution_suffix: _256px.png
+2024-01-07 17:43:41,546: Checking for 256px height texture version of: armor/diamond_helmet.png
+2024-01-07 17:43:41,546: At location: [java][1165][256x]pixelmine_smoothoperator_0945\armor\diamond_helmet_256px.png
+2024-01-07 17:43:41,546: Resolution-specific texture not found, using original: [java][1165][256x]pixelmine_smoothoperator_0945\armor/diamond_helmet.png
+2024-01-07 17:43:41,556: Processing regular texture 'TEXTURE_DIAMOND_LAYER_1': armor/diamond_layer_1.png
+2024-01-07 17:43:41,556: Downsample 'TEXTURE_DIAMOND_LAYER_1'?: 
+2024-01-07 17:43:41,556: target_height: 512
+2024-01-07 17:43:41,557: resolution_suffix: _512px.png
+2024-01-07 17:43:41,557: Checking for 512px height texture version of: armor/diamond_layer_1.png
+2024-01-07 17:43:41,557: At location: [java][1165][256x]pixelmine_smoothoperator_0945\armor\diamond_layer_1_512px.png
+2024-01-07 17:43:41,557: Resolution-specific texture not found, using original: [java][1165][256x]pixelmine_smoothoperator_0945\armor/diamond_layer_1.png
+2024-01-07 17:43:41,637: Processing regular texture 'TEXTURE_DIAMOND_LAYER_2': armor/diamond_layer_2.png
+2024-01-07 17:43:41,637: Downsample 'TEXTURE_DIAMOND_LAYER_2'?: 
+2024-01-07 17:43:41,638: target_height: 512
+2024-01-07 17:43:41,638: resolution_suffix: _512px.png
+2024-01-07 17:43:41,638: Checking for 512px height texture version of: armor/diamond_layer_2.png
+2024-01-07 17:43:41,638: At location: [java][1165][256x]pixelmine_smoothoperator_0945\armor\diamond_layer_2_512px.png
+2024-01-07 17:43:41,638: Resolution-specific texture not found, using original: [java][1165][256x]pixelmine_smoothoperator_0945\armor/diamond_layer_2.png
+2024-01-07 17:43:41,689: Processing regular texture 'TEXTURE_DIAMOND_LEGGINGS': armor/diamond_leggings.png
+2024-01-07 17:43:41,689: Downsample 'TEXTURE_DIAMOND_LEGGINGS'?: 
+2024-01-07 17:43:41,689: target_height: 256
+2024-01-07 17:43:41,689: resolution_suffix: _256px.png
+2024-01-07 17:43:41,690: Checking for 256px height texture version of: armor/diamond_leggings.png
+2024-01-07 17:43:41,690: At location: [java][1165][256x]pixelmine_smoothoperator_0945\armor\diamond_leggings_256px.png
+2024-01-07 17:43:41,690: Resolution-specific texture not found, using original: [java][1165][256x]pixelmine_smoothoperator_0945\armor/diamond_leggings.png
+2024-01-07 17:43:41,700: Processing regular texture 'TEXTURE_GOLD_LAYER_1': armor/gold_layer_1.png
+2024-01-07 17:43:41,700: Downsample 'TEXTURE_GOLD_LAYER_1'?: 
+2024-01-07 17:43:41,700: target_height: 512
+2024-01-07 17:43:41,700: resolution_suffix: _512px.png
+2024-01-07 17:43:41,700: Checking for 512px height texture version of: armor/gold_layer_1.png
+2024-01-07 17:43:41,700: At location: [java][1165][256x]pixelmine_smoothoperator_0945\armor\gold_layer_1_512px.png
+2024-01-07 17:43:41,700: Resolution-specific texture not found, using original: [java][1165][256x]pixelmine_smoothoperator_0945\armor/gold_layer_1.png

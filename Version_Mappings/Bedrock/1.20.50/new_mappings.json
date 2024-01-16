@@ -1,0 +1,5635 @@
+[
+    {
+        "source": "TEXTURE_FORCEFIELD_ATLAS",
+        "destination": "textures/forcefield_atlas.png"
+    },
+    {
+        "source": "TEXTURE_ACACIA_TRAPDOOR",
+        "destination": "textures/blocks/acacia_trapdoor.png"
+    },
+    {
+        "source": "TEXTURE_ANGLER_POTTERY_PATTERN",
+        "destination": "textures/blocks/angler_pottery_pattern.png"
+    },
+    {
+        "source": "TEXTURE_ANVIL_BASE",
+        "destination": "textures/blocks/anvil_base.png"
+    },
+    {
+        "source": "TEXTURE_ANVIL_TOP_DAMAGED_0",
+        "destination": "textures/blocks/anvil_top_damaged_0.png"
+    },
+    {
+        "source": "TEXTURE_ANVIL_TOP_DAMAGED_1",
+        "destination": "textures/blocks/anvil_top_damaged_1.png"
+    },
+    {
+        "source": "TEXTURE_ANVIL_TOP_DAMAGED_2",
+        "destination": "textures/blocks/anvil_top_damaged_2.png"
+    },
+    {
+        "source": "TEXTURE_ARCHER_POTTERY_PATTERN",
+        "destination": "textures/blocks/archer_pottery_pattern.png"
+    },
+    {
+        "source": "TEXTURE_ARMS_UP_POTTERY_PATTERN",
+        "destination": "textures/blocks/arms_up_pottery_pattern.png"
+    },
+    {
+        "source": "TEXTURE_AZALEA_LEAVES_FLOWERS",
+        "destination": "textures/blocks/azalea_leaves_flowers.png"
+    },
+    {
+        "source": "TEXTURE_AZALEA_LEAVES_FLOWERS_OPAQUE",
+        "destination": "textures/blocks/azalea_leaves_flowers_opaque.png"
+    },
+    {
+        "source": "TEXTURE_AZALEA_LEAVES_OPAQUE",
+        "destination": "textures/blocks/azalea_leaves_opaque.png"
+    },
+    {
+        "source": "TEXTURE_BAMBOO_BLOCK",
+        "destination": "textures/blocks/bamboo_block.png"
+    },
+    {
+        "source": "TEXTURE_BAMBOO_BLOCK_TOP",
+        "destination": "textures/blocks/bamboo_block_top.png"
+    },
+    {
+        "source": "TEXTURE_BAMBOO_DOOR_BOTTOM",
+        "destination": "textures/blocks/bamboo_door_bottom.png"
+    },
+    {
+        "source": "TEXTURE_BAMBOO_DOOR_TOP",
+        "destination": "textures/blocks/bamboo_door_top.png"
+    },
+    {
+        "source": "TEXTURE_BAMBOO_FENCE",
+        "destination": "textures/blocks/bamboo_fence.png"
+    },
+    {
+        "source": "TEXTURE_BAMBOO_FENCE_GATE",
+        "destination": "textures/blocks/bamboo_fence_gate.png"
+    },
+    {
+        "source": "TEXTURE_BAMBOO_LEAF",
+        "destination": "textures/blocks/bamboo_leaf.png"
+    },
+    {
+        "source": "TEXTURE_BAMBOO_MOSAIC",
+        "destination": "textures/blocks/bamboo_mosaic.png"
+    },
+    {
+        "source": "TEXTURE_BAMBOO_PLANKS",
+        "destination": "textures/blocks/bamboo_planks.png"
+    },
+    {
+        "source": "TEXTURE_BAMBOO_SAPLING",
+        "destination": "textures/blocks/bamboo_sapling.png"
+    },
+    {
+        "source": "TEXTURE_BAMBOO_SMALL_LEAF",
+        "destination": "textures/blocks/bamboo_small_leaf.png"
+    },
+    {
+        "source": "TEXTURE_BAMBOO_STEM",
+        "destination": "textures/blocks/bamboo_stem.png"
+    },
+    {
+        "source": "TEXTURE_BAMBOO_TRAPDOOR",
+        "destination": "textures/blocks/bamboo_trapdoor.png"
+    },
+    {
+        "source": "TEXTURE_BARRIER",
+        "destination": "textures/blocks/barrier.png"
+    },
+    {
+        "source": "TEXTURE_BED_FEET_END",
+        "destination": "textures/blocks/bed_feet_end.png"
+    },
+    {
+        "source": "TEXTURE_BED_FEET_SIDE",
+        "destination": "textures/blocks/bed_feet_side.png"
+    },
+    {
+        "source": "TEXTURE_BED_FEET_TOP",
+        "destination": "textures/blocks/bed_feet_top.png"
+    },
+    {
+        "source": "TEXTURE_BED_HEAD_END",
+        "destination": "textures/blocks/bed_head_end.png"
+    },
+    {
+        "source": "TEXTURE_BED_HEAD_SIDE",
+        "destination": "textures/blocks/bed_head_side.png"
+    },
+    {
+        "source": "TEXTURE_BED_HEAD_TOP",
+        "destination": "textures/blocks/bed_head_top.png"
+    },
+    {
+        "source": "TEXTURE_BEEHIVE_TOP",
+        "destination": "textures/blocks/beehive_top.png"
+    },
+    {
+        "source": "TEXTURE_BEETROOTS_STAGE_0",
+        "destination": "textures/blocks/beetroots_stage_0.png"
+    },
+    {
+        "source": "TEXTURE_BEETROOTS_STAGE_1",
+        "destination": "textures/blocks/beetroots_stage_1.png"
+    },
+    {
+        "source": "TEXTURE_BEETROOTS_STAGE_2",
+        "destination": "textures/blocks/beetroots_stage_2.png"
+    },
+    {
+        "source": "TEXTURE_BEETROOTS_STAGE_3",
+        "destination": "textures/blocks/beetroots_stage_3.png"
+    },
+    {
+        "source": "TEXTURE_BIG_DRIPLEAF_SIDE1",
+        "destination": "textures/blocks/big_dripleaf_side1.png"
+    },
+    {
+        "source": "TEXTURE_BIG_DRIPLEAF_SIDE2",
+        "destination": "textures/blocks/big_dripleaf_side2.png"
+    },
+    {
+        "source": "TEXTURE_BIRCH_TRAPDOOR",
+        "destination": "textures/blocks/birch_trapdoor.png"
+    },
+    {
+        "source": "TEXTURE_BLADE_POTTERY_PATTERN",
+        "destination": "textures/blocks/blade_pottery_pattern.png"
+    },
+    {
+        "source": "TEXTURE_BLAST_FURNACE_FRONT_OFF",
+        "destination": "textures/blocks/blast_furnace_front_off.png"
+    },
+    {
+        "source": "TEXTURE_BORDER",
+        "destination": "textures/blocks/border.png"
+    },
+    {
+        "source": "TEXTURE_BREWER_POTTERY_PATTERN",
+        "destination": "textures/blocks/brewer_pottery_pattern.png"
+    },
+    {
+        "source": "TEXTURE_BRICK",
+        "destination": "textures/blocks/brick.png"
+    },
+    {
+        "source": "TEXTURE_BUBBLE_COLUMN_DOWN_TOP_A",
+        "destination": "textures/blocks/bubble_column_down_top_a.png"
+    },
+    {
+        "source": "TEXTURE_BUBBLE_COLUMN_DOWN_TOP_B",
+        "destination": "textures/blocks/bubble_column_down_top_b.png"
+    },
+    {
+        "source": "TEXTURE_BUBBLE_COLUMN_DOWN_TOP_C",
+        "destination": "textures/blocks/bubble_column_down_top_c.png"
+    },
+    {
+        "source": "TEXTURE_BUBBLE_COLUMN_DOWN_TOP_D",
+        "destination": "textures/blocks/bubble_column_down_top_d.png"
+    },
+    {
+        "source": "TEXTURE_BUBBLE_COLUMN_INNER_A",
+        "destination": "textures/blocks/bubble_column_inner_a.png"
+    },
+    {
+        "source": "TEXTURE_BUBBLE_COLUMN_INNER_B",
+        "destination": "textures/blocks/bubble_column_inner_b.png"
+    },
+    {
+        "source": "TEXTURE_BUBBLE_COLUMN_OUTER_A",
+        "destination": "textures/blocks/bubble_column_outer_a.png"
+    },
+    {
+        "source": "TEXTURE_BUBBLE_COLUMN_OUTER_B",
+        "destination": "textures/blocks/bubble_column_outer_b.png"
+    },
+    {
+        "source": "TEXTURE_BUBBLE_COLUMN_OUTER_C",
+        "destination": "textures/blocks/bubble_column_outer_c.png"
+    },
+    {
+        "source": "TEXTURE_BUBBLE_COLUMN_OUTER_D",
+        "destination": "textures/blocks/bubble_column_outer_d.png"
+    },
+    {
+        "source": "TEXTURE_BUBBLE_COLUMN_OUTER_E",
+        "destination": "textures/blocks/bubble_column_outer_e.png"
+    },
+    {
+        "source": "TEXTURE_BUBBLE_COLUMN_OUTER_F",
+        "destination": "textures/blocks/bubble_column_outer_f.png"
+    },
+    {
+        "source": "TEXTURE_BUBBLE_COLUMN_OUTER_G",
+        "destination": "textures/blocks/bubble_column_outer_g.png"
+    },
+    {
+        "source": "TEXTURE_BUBBLE_COLUMN_OUTER_H",
+        "destination": "textures/blocks/bubble_column_outer_h.png"
+    },
+    {
+        "source": "TEXTURE_BUBBLE_COLUMN_UP_TOP_A",
+        "destination": "textures/blocks/bubble_column_up_top_a.png"
+    },
+    {
+        "source": "TEXTURE_BUBBLE_COLUMN_UP_TOP_B",
+        "destination": "textures/blocks/bubble_column_up_top_b.png"
+    },
+    {
+        "source": "TEXTURE_BUBBLE_COLUMN_UP_TOP_C",
+        "destination": "textures/blocks/bubble_column_up_top_c.png"
+    },
+    {
+        "source": "TEXTURE_BUBBLE_COLUMN_UP_TOP_D",
+        "destination": "textures/blocks/bubble_column_up_top_d.png"
+    },
+    {
+        "source": "TEXTURE_BUILD_ALLOW",
+        "destination": "textures/blocks/build_allow.png"
+    },
+    {
+        "source": "TEXTURE_BUILD_DENY",
+        "destination": "textures/blocks/build_deny.png"
+    },
+    {
+        "source": "TEXTURE_BURN_POTTERY_PATTERN",
+        "destination": "textures/blocks/burn_pottery_pattern.png"
+    },
+    {
+        "source": "TEXTURE_CAMERA_BACK",
+        "destination": "textures/blocks/camera_back.png"
+    },
+    {
+        "source": "TEXTURE_CAMERA_FRONT",
+        "destination": "textures/blocks/camera_front.png"
+    },
+    {
+        "source": "TEXTURE_CAMERA_SIDE",
+        "destination": "textures/blocks/camera_side.png"
+    },
+    {
+        "source": "TEXTURE_CAMERA_TOP",
+        "destination": "textures/blocks/camera_top.png"
+    },
+    {
+        "source": "TEXTURE_CAMPFIRE",
+        "destination": "textures/blocks/campfire.png"
+    },
+    {
+        "source": "TEXTURE_CARRIED_WATERLILY",
+        "destination": "textures/blocks/carried_waterlily.png"
+    },
+    {
+        "source": "TEXTURE_CARROTS_STAGE_0",
+        "destination": "textures/blocks/carrots_stage_0.png"
+    },
+    {
+        "source": "TEXTURE_CARROTS_STAGE_1",
+        "destination": "textures/blocks/carrots_stage_1.png"
+    },
+    {
+        "source": "TEXTURE_CARROTS_STAGE_2",
+        "destination": "textures/blocks/carrots_stage_2.png"
+    },
+    {
+        "source": "TEXTURE_CARROTS_STAGE_3",
+        "destination": "textures/blocks/carrots_stage_3.png"
+    },
+    {
+        "source": "TEXTURE_CAULDRON_WATER",
+        "destination": "textures/blocks/cauldron_water.png"
+    },
+    {
+        "source": "TEXTURE_CAULDRON_WATER_PLACEHOLDER",
+        "destination": "textures/blocks/cauldron_water_placeholder.png"
+    },
+    {
+        "source": "TEXTURE_CAVE_VINES_BODY",
+        "destination": "textures/blocks/cave_vines_body.png"
+    },
+    {
+        "source": "TEXTURE_CAVE_VINES_BODY_BERRIES",
+        "destination": "textures/blocks/cave_vines_body_berries.png"
+    },
+    {
+        "source": "TEXTURE_CAVE_VINES_HEAD",
+        "destination": "textures/blocks/cave_vines_head.png"
+    },
+    {
+        "source": "TEXTURE_CAVE_VINES_HEAD_BERRIES",
+        "destination": "textures/blocks/cave_vines_head_berries.png"
+    },
+    {
+        "source": "TEXTURE_CHAIN1",
+        "destination": "textures/blocks/chain1.png"
+    },
+    {
+        "source": "TEXTURE_CHAIN2",
+        "destination": "textures/blocks/chain2.png"
+    },
+    {
+        "source": "TEXTURE_CHAIN_COMMAND_BLOCK_BACK_MIPMAP",
+        "destination": "textures/blocks/chain_command_block_back_mipmap.png"
+    },
+    {
+        "source": "TEXTURE_CHAIN_COMMAND_BLOCK_CONDITIONAL_MIPMAP",
+        "destination": "textures/blocks/chain_command_block_conditional_mipmap.png"
+    },
+    {
+        "source": "TEXTURE_CHAIN_COMMAND_BLOCK_FRONT_MIPMAP",
+        "destination": "textures/blocks/chain_command_block_front_mipmap.png"
+    },
+    {
+        "source": "TEXTURE_CHAIN_COMMAND_BLOCK_SIDE_MIPMAP",
+        "destination": "textures/blocks/chain_command_block_side_mipmap.png"
+    },
+    {
+        "source": "TEXTURE_CHERRY_DOOR_BOTTOM",
+        "destination": "textures/blocks/cherry_door_bottom.png"
+    },
+    {
+        "source": "TEXTURE_CHERRY_DOOR_TOP",
+        "destination": "textures/blocks/cherry_door_top.png"
+    },
+    {
+        "source": "TEXTURE_CHERRY_LEAVES",
+        "destination": "textures/blocks/cherry_leaves.png"
+    },
+    {
+        "source": "TEXTURE_CHERRY_LEAVES_OPAQUE",
+        "destination": "textures/blocks/cherry_leaves_opaque.png"
+    },
+    {
+        "source": "TEXTURE_CHERRY_LOG_SIDE",
+        "destination": "textures/blocks/cherry_log_side.png"
+    },
+    {
+        "source": "TEXTURE_CHERRY_LOG_TOP",
+        "destination": "textures/blocks/cherry_log_top.png"
+    },
+    {
+        "source": "TEXTURE_CHERRY_PLANKS",
+        "destination": "textures/blocks/cherry_planks.png"
+    },
+    {
+        "source": "TEXTURE_CHERRY_TRAPDOOR",
+        "destination": "textures/blocks/cherry_trapdoor.png"
+    },
+    {
+        "source": "TEXTURE_CHEST_FRONT",
+        "destination": "textures/blocks/chest_front.png"
+    },
+    {
+        "source": "TEXTURE_CHEST_SIDE",
+        "destination": "textures/blocks/chest_side.png"
+    },
+    {
+        "source": "TEXTURE_CHEST_TOP",
+        "destination": "textures/blocks/chest_top.png"
+    },
+    {
+        "source": "TEXTURE_COBBLESTONE_MOSSY",
+        "destination": "textures/blocks/cobblestone_mossy.png"
+    },
+    {
+        "source": "TEXTURE_COCOA_STAGE_0",
+        "destination": "textures/blocks/cocoa_stage_0.png"
+    },
+    {
+        "source": "TEXTURE_COCOA_STAGE_1",
+        "destination": "textures/blocks/cocoa_stage_1.png"
+    },
+    {
+        "source": "TEXTURE_COCOA_STAGE_2",
+        "destination": "textures/blocks/cocoa_stage_2.png"
+    },
+    {
+        "source": "TEXTURE_COMMAND_BLOCK",
+        "destination": "textures/blocks/command_block.png"
+    },
+    {
+        "source": "TEXTURE_COMMAND_BLOCK_BACK_MIPMAP",
+        "destination": "textures/blocks/command_block_back_mipmap.png"
+    },
+    {
+        "source": "TEXTURE_COMMAND_BLOCK_CONDITIONAL_MIPMAP",
+        "destination": "textures/blocks/command_block_conditional_mipmap.png"
+    },
+    {
+        "source": "TEXTURE_COMMAND_BLOCK_FRONT_MIPMAP",
+        "destination": "textures/blocks/command_block_front_mipmap.png"
+    },
+    {
+        "source": "TEXTURE_COMMAND_BLOCK_SIDE_MIPMAP",
+        "destination": "textures/blocks/command_block_side_mipmap.png"
+    },
+    {
+        "source": "TEXTURE_COMPARATOR_OFF",
+        "destination": "textures/blocks/comparator_off.png"
+    },
+    {
+        "source": "TEXTURE_COMPOST",
+        "destination": "textures/blocks/compost.png"
+    },
+    {
+        "source": "TEXTURE_COMPOST_READY",
+        "destination": "textures/blocks/compost_ready.png"
+    },
+    {
+        "source": "TEXTURE_CONCRETE_BLACK",
+        "destination": "textures/blocks/concrete_black.png"
+    },
+    {
+        "source": "TEXTURE_CONCRETE_BLUE",
+        "destination": "textures/blocks/concrete_blue.png"
+    },
+    {
+        "source": "TEXTURE_CONCRETE_BROWN",
+        "destination": "textures/blocks/concrete_brown.png"
+    },
+    {
+        "source": "TEXTURE_CONCRETE_CYAN",
+        "destination": "textures/blocks/concrete_cyan.png"
+    },
+    {
+        "source": "TEXTURE_CONCRETE_GRAY",
+        "destination": "textures/blocks/concrete_gray.png"
+    },
+    {
+        "source": "TEXTURE_CONCRETE_GREEN",
+        "destination": "textures/blocks/concrete_green.png"
+    },
+    {
+        "source": "TEXTURE_CONCRETE_LIGHT_BLUE",
+        "destination": "textures/blocks/concrete_light_blue.png"
+    },
+    {
+        "source": "TEXTURE_CONCRETE_LIME",
+        "destination": "textures/blocks/concrete_lime.png"
+    },
+    {
+        "source": "TEXTURE_CONCRETE_MAGENTA",
+        "destination": "textures/blocks/concrete_magenta.png"
+    },
+    {
+        "source": "TEXTURE_CONCRETE_ORANGE",
+        "destination": "textures/blocks/concrete_orange.png"
+    },
+    {
+        "source": "TEXTURE_CONCRETE_PINK",
+        "destination": "textures/blocks/concrete_pink.png"
+    },
+    {
+        "source": "TEXTURE_CONCRETE_POWDER_BLACK",
+        "destination": "textures/blocks/concrete_powder_black.png"
+    },
+    {
+        "source": "TEXTURE_CONCRETE_POWDER_BLUE",
+        "destination": "textures/blocks/concrete_powder_blue.png"
+    },
+    {
+        "source": "TEXTURE_CONCRETE_POWDER_BROWN",
+        "destination": "textures/blocks/concrete_powder_brown.png"
+    },
+    {
+        "source": "TEXTURE_CONCRETE_POWDER_CYAN",
+        "destination": "textures/blocks/concrete_powder_cyan.png"
+    },
+    {
+        "source": "TEXTURE_CONCRETE_POWDER_GRAY",
+        "destination": "textures/blocks/concrete_powder_gray.png"
+    },
+    {
+        "source": "TEXTURE_CONCRETE_POWDER_GREEN",
+        "destination": "textures/blocks/concrete_powder_green.png"
+    },
+    {
+        "source": "TEXTURE_CONCRETE_POWDER_LIGHT_BLUE",
+        "destination": "textures/blocks/concrete_powder_light_blue.png"
+    },
+    {
+        "source": "TEXTURE_CONCRETE_POWDER_LIME",
+        "destination": "textures/blocks/concrete_powder_lime.png"
+    },
+    {
+        "source": "TEXTURE_CONCRETE_POWDER_MAGENTA",
+        "destination": "textures/blocks/concrete_powder_magenta.png"
+    },
+    {
+        "source": "TEXTURE_CONCRETE_POWDER_ORANGE",
+        "destination": "textures/blocks/concrete_powder_orange.png"
+    },
+    {
+        "source": "TEXTURE_CONCRETE_POWDER_PINK",
+        "destination": "textures/blocks/concrete_powder_pink.png"
+    },
+    {
+        "source": "TEXTURE_CONCRETE_POWDER_PURPLE",
+        "destination": "textures/blocks/concrete_powder_purple.png"
+    },
+    {
+        "source": "TEXTURE_CONCRETE_POWDER_RED",
+        "destination": "textures/blocks/concrete_powder_red.png"
+    },
+    {
+        "source": "TEXTURE_CONCRETE_POWDER_SILVER",
+        "destination": "textures/blocks/concrete_powder_silver.png"
+    },
+    {
+        "source": "TEXTURE_CONCRETE_POWDER_WHITE",
+        "destination": "textures/blocks/concrete_powder_white.png"
+    },
+    {
+        "source": "TEXTURE_CONCRETE_POWDER_YELLOW",
+        "destination": "textures/blocks/concrete_powder_yellow.png"
+    },
+    {
+        "source": "TEXTURE_CONCRETE_PURPLE",
+        "destination": "textures/blocks/concrete_purple.png"
+    },
+    {
+        "source": "TEXTURE_CONCRETE_RED",
+        "destination": "textures/blocks/concrete_red.png"
+    },
+    {
+        "source": "TEXTURE_CONCRETE_SILVER",
+        "destination": "textures/blocks/concrete_silver.png"
+    },
+    {
+        "source": "TEXTURE_CONCRETE_WHITE",
+        "destination": "textures/blocks/concrete_white.png"
+    },
+    {
+        "source": "TEXTURE_CONCRETE_YELLOW",
+        "destination": "textures/blocks/concrete_yellow.png"
+    },
+    {
+        "source": "TEXTURE_CONDUIT_BASE",
+        "destination": "textures/blocks/conduit_base.png"
+    },
+    {
+        "source": "TEXTURE_CONDUIT_CAGE",
+        "destination": "textures/blocks/conduit_cage.png"
+    },
+    {
+        "source": "TEXTURE_CONDUIT_CLOSED",
+        "destination": "textures/blocks/conduit_closed.png"
+    },
+    {
+        "source": "TEXTURE_CONDUIT_OPEN",
+        "destination": "textures/blocks/conduit_open.png"
+    },
+    {
+        "source": "TEXTURE_CONDUIT_WIND_HORIZONTAL",
+        "destination": "textures/blocks/conduit_wind_horizontal.png"
+    },
+    {
+        "source": "TEXTURE_CONDUIT_WIND_VERTICAL",
+        "destination": "textures/blocks/conduit_wind_vertical.png"
+    },
+    {
+        "source": "TEXTURE_CORAL_BLUE",
+        "destination": "textures/blocks/coral_blue.png"
+    },
+    {
+        "source": "TEXTURE_CORAL_BLUE_DEAD",
+        "destination": "textures/blocks/coral_blue_dead.png"
+    },
+    {
+        "source": "TEXTURE_CORAL_FAN_BLUE",
+        "destination": "textures/blocks/coral_fan_blue.png"
+    },
+    {
+        "source": "TEXTURE_CORAL_FAN_BLUE_DEAD",
+        "destination": "textures/blocks/coral_fan_blue_dead.png"
+    },
+    {
+        "source": "TEXTURE_CORAL_FAN_PINK",
+        "destination": "textures/blocks/coral_fan_pink.png"
+    },
+    {
+        "source": "TEXTURE_CORAL_FAN_PINK_DEAD",
+        "destination": "textures/blocks/coral_fan_pink_dead.png"
+    },
+    {
+        "source": "TEXTURE_CORAL_FAN_PURPLE",
+        "destination": "textures/blocks/coral_fan_purple.png"
+    },
+    {
+        "source": "TEXTURE_CORAL_FAN_PURPLE_DEAD",
+        "destination": "textures/blocks/coral_fan_purple_dead.png"
+    },
+    {
+        "source": "TEXTURE_CORAL_FAN_RED",
+        "destination": "textures/blocks/coral_fan_red.png"
+    },
+    {
+        "source": "TEXTURE_CORAL_FAN_RED_DEAD",
+        "destination": "textures/blocks/coral_fan_red_dead.png"
+    },
+    {
+        "source": "TEXTURE_CORAL_FAN_YELLOW",
+        "destination": "textures/blocks/coral_fan_yellow.png"
+    },
+    {
+        "source": "TEXTURE_CORAL_FAN_YELLOW_DEAD",
+        "destination": "textures/blocks/coral_fan_yellow_dead.png"
+    },
+    {
+        "source": "TEXTURE_CORAL_PINK",
+        "destination": "textures/blocks/coral_pink.png"
+    },
+    {
+        "source": "TEXTURE_CORAL_PINK_DEAD",
+        "destination": "textures/blocks/coral_pink_dead.png"
+    },
+    {
+        "source": "TEXTURE_CORAL_PLANT_BLUE",
+        "destination": "textures/blocks/coral_plant_blue.png"
+    },
+    {
+        "source": "TEXTURE_CORAL_PLANT_BLUE_DEAD",
+        "destination": "textures/blocks/coral_plant_blue_dead.png"
+    },
+    {
+        "source": "TEXTURE_CORAL_PLANT_PINK",
+        "destination": "textures/blocks/coral_plant_pink.png"
+    },
+    {
+        "source": "TEXTURE_CORAL_PLANT_PINK_DEAD",
+        "destination": "textures/blocks/coral_plant_pink_dead.png"
+    },
+    {
+        "source": "TEXTURE_CORAL_PLANT_PURPLE",
+        "destination": "textures/blocks/coral_plant_purple.png"
+    },
+    {
+        "source": "TEXTURE_CORAL_PLANT_PURPLE_DEAD",
+        "destination": "textures/blocks/coral_plant_purple_dead.png"
+    },
+    {
+        "source": "TEXTURE_CORAL_PLANT_RED",
+        "destination": "textures/blocks/coral_plant_red.png"
+    },
+    {
+        "source": "TEXTURE_CORAL_PLANT_RED_DEAD",
+        "destination": "textures/blocks/coral_plant_red_dead.png"
+    },
+    {
+        "source": "TEXTURE_CORAL_PLANT_YELLOW",
+        "destination": "textures/blocks/coral_plant_yellow.png"
+    },
+    {
+        "source": "TEXTURE_CORAL_PLANT_YELLOW_DEAD",
+        "destination": "textures/blocks/coral_plant_yellow_dead.png"
+    },
+    {
+        "source": "TEXTURE_CORAL_PURPLE",
+        "destination": "textures/blocks/coral_purple.png"
+    },
+    {
+        "source": "TEXTURE_CORAL_PURPLE_DEAD",
+        "destination": "textures/blocks/coral_purple_dead.png"
+    },
+    {
+        "source": "TEXTURE_CORAL_RED",
+        "destination": "textures/blocks/coral_red.png"
+    },
+    {
+        "source": "TEXTURE_CORAL_RED_DEAD",
+        "destination": "textures/blocks/coral_red_dead.png"
+    },
+    {
+        "source": "TEXTURE_CORAL_YELLOW",
+        "destination": "textures/blocks/coral_yellow.png"
+    },
+    {
+        "source": "TEXTURE_CORAL_YELLOW_DEAD",
+        "destination": "textures/blocks/coral_yellow_dead.png"
+    },
+    {
+        "source": "TEXTURE_CRIMSON_NYLIUM_TOP",
+        "destination": "textures/blocks/crimson_nylium_top.png"
+    },
+    {
+        "source": "TEXTURE_DANGER_POTTERY_PATTERN",
+        "destination": "textures/blocks/danger_pottery_pattern.png"
+    },
+    {
+        "source": "TEXTURE_DARK_OAK_TRAPDOOR",
+        "destination": "textures/blocks/dark_oak_trapdoor.png"
+    },
+    {
+        "source": "TEXTURE_DEADBUSH",
+        "destination": "textures/blocks/deadbush.png"
+    },
+    {
+        "source": "TEXTURE_DECORATED_POT_BASE",
+        "destination": "textures/blocks/decorated_pot_base.png"
+    },
+    {
+        "source": "TEXTURE_DECORATED_POT_SIDE",
+        "destination": "textures/blocks/decorated_pot_side.png"
+    },
+    {
+        "source": "TEXTURE_DIRT_PODZOL_SIDE",
+        "destination": "textures/blocks/dirt_podzol_side.png"
+    },
+    {
+        "source": "TEXTURE_DIRT_PODZOL_TOP",
+        "destination": "textures/blocks/dirt_podzol_top.png"
+    },
+    {
+        "source": "TEXTURE_DIRT_WITH_ROOTS",
+        "destination": "textures/blocks/dirt_with_roots.png"
+    },
+    {
+        "source": "TEXTURE_DISPENSER_FRONT_HORIZONTAL",
+        "destination": "textures/blocks/dispenser_front_horizontal.png"
+    },
+    {
+        "source": "TEXTURE_DOOR_ACACIA_LOWER",
+        "destination": "textures/blocks/door_acacia_lower.png"
+    },
+    {
+        "source": "TEXTURE_DOOR_ACACIA_UPPER",
+        "destination": "textures/blocks/door_acacia_upper.png"
+    },
+    {
+        "source": "TEXTURE_DOOR_BIRCH_LOWER",
+        "destination": "textures/blocks/door_birch_lower.png"
+    },
+    {
+        "source": "TEXTURE_DOOR_BIRCH_UPPER",
+        "destination": "textures/blocks/door_birch_upper.png"
+    },
+    {
+        "source": "TEXTURE_DOOR_DARK_OAK_LOWER",
+        "destination": "textures/blocks/door_dark_oak_lower.png"
+    },
+    {
+        "source": "TEXTURE_DOOR_DARK_OAK_UPPER",
+        "destination": "textures/blocks/door_dark_oak_upper.png"
+    },
+    {
+        "source": "TEXTURE_DOOR_IRON_LOWER",
+        "destination": "textures/blocks/door_iron_lower.png"
+    },
+    {
+        "source": "TEXTURE_DOOR_IRON_UPPER",
+        "destination": "textures/blocks/door_iron_upper.png"
+    },
+    {
+        "source": "TEXTURE_DOOR_JUNGLE_LOWER",
+        "destination": "textures/blocks/door_jungle_lower.png"
+    },
+    {
+        "source": "TEXTURE_DOOR_JUNGLE_UPPER",
+        "destination": "textures/blocks/door_jungle_upper.png"
+    },
+    {
+        "source": "TEXTURE_DOOR_SPRUCE_LOWER",
+        "destination": "textures/blocks/door_spruce_lower.png"
+    },
+    {
+        "source": "TEXTURE_DOOR_SPRUCE_UPPER",
+        "destination": "textures/blocks/door_spruce_upper.png"
+    },
+    {
+        "source": "TEXTURE_DOOR_WOOD_LOWER",
+        "destination": "textures/blocks/door_wood_lower.png"
+    },
+    {
+        "source": "TEXTURE_DOOR_WOOD_UPPER",
+        "destination": "textures/blocks/door_wood_upper.png"
+    },
+    {
+        "source": "TEXTURE_DOUBLE_PLANT_FERN_CARRIED",
+        "destination": "textures/blocks/double_plant_fern_carried.png"
+    },
+    {
+        "source": "TEXTURE_DOUBLE_PLANT_GRASS_CARRIED",
+        "destination": "textures/blocks/double_plant_grass_carried.png"
+    },
+    {
+        "source": "TEXTURE_DOUBLE_PLANT_PAEONIA_BOTTOM",
+        "destination": "textures/blocks/double_plant_paeonia_bottom.png"
+    },
+    {
+        "source": "TEXTURE_DOUBLE_PLANT_PAEONIA_TOP",
+        "destination": "textures/blocks/double_plant_paeonia_top.png"
+    },
+    {
+        "source": "TEXTURE_DOUBLE_PLANT_ROSE_BOTTOM",
+        "destination": "textures/blocks/double_plant_rose_bottom.png"
+    },
+    {
+        "source": "TEXTURE_DOUBLE_PLANT_ROSE_TOP",
+        "destination": "textures/blocks/double_plant_rose_top.png"
+    },
+    {
+        "source": "TEXTURE_DOUBLE_PLANT_SUNFLOWER_BACK",
+        "destination": "textures/blocks/double_plant_sunflower_back.png"
+    },
+    {
+        "source": "TEXTURE_DOUBLE_PLANT_SUNFLOWER_BOTTOM",
+        "destination": "textures/blocks/double_plant_sunflower_bottom.png"
+    },
+    {
+        "source": "TEXTURE_DOUBLE_PLANT_SUNFLOWER_FRONT",
+        "destination": "textures/blocks/double_plant_sunflower_front.png"
+    },
+    {
+        "source": "TEXTURE_DOUBLE_PLANT_SUNFLOWER_TOP",
+        "destination": "textures/blocks/double_plant_sunflower_top.png"
+    },
+    {
+        "source": "TEXTURE_DRIED_KELP_SIDE_A",
+        "destination": "textures/blocks/dried_kelp_side_a.png"
+    },
+    {
+        "source": "TEXTURE_DRIED_KELP_SIDE_B",
+        "destination": "textures/blocks/dried_kelp_side_b.png"
+    },
+    {
+        "source": "TEXTURE_DROPPER_FRONT_HORIZONTAL",
+        "destination": "textures/blocks/dropper_front_horizontal.png"
+    },
+    {
+        "source": "TEXTURE_ENDER_CHEST_FRONT",
+        "destination": "textures/blocks/ender_chest_front.png"
+    },
+    {
+        "source": "TEXTURE_ENDER_CHEST_SIDE",
+        "destination": "textures/blocks/ender_chest_side.png"
+    },
+    {
+        "source": "TEXTURE_ENDER_CHEST_TOP",
+        "destination": "textures/blocks/ender_chest_top.png"
+    },
+    {
+        "source": "TEXTURE_ENDFRAME_EYE",
+        "destination": "textures/blocks/endframe_eye.png"
+    },
+    {
+        "source": "TEXTURE_ENDFRAME_SIDE",
+        "destination": "textures/blocks/endframe_side.png"
+    },
+    {
+        "source": "TEXTURE_ENDFRAME_TOP",
+        "destination": "textures/blocks/endframe_top.png"
+    },
+    {
+        "source": "TEXTURE_END_BRICKS",
+        "destination": "textures/blocks/end_bricks.png"
+    },
+    {
+        "source": "TEXTURE_END_GATEWAY",
+        "destination": "textures/blocks/end_gateway.png"
+    },
+    {
+        "source": "TEXTURE_END_PORTAL",
+        "destination": "textures/blocks/end_portal.png"
+    },
+    {
+        "source": "TEXTURE_EXPLORER_POTTERY_PATTERN",
+        "destination": "textures/blocks/explorer_pottery_pattern.png"
+    },
+    {
+        "source": "TEXTURE_FARMLAND_DRY",
+        "destination": "textures/blocks/farmland_dry.png"
+    },
+    {
+        "source": "TEXTURE_FARMLAND_WET",
+        "destination": "textures/blocks/farmland_wet.png"
+    },
+    {
+        "source": "TEXTURE_FLETCHER_TABLE_SIDE1",
+        "destination": "textures/blocks/fletcher_table_side1.png"
+    },
+    {
+        "source": "TEXTURE_FLETCHER_TABLE_SIDE2",
+        "destination": "textures/blocks/fletcher_table_side2.png"
+    },
+    {
+        "source": "TEXTURE_FLETCHER_TABLE_TOP",
+        "destination": "textures/blocks/fletcher_table_top.png"
+    },
+    {
+        "source": "TEXTURE_FLOWER_ALLIUM",
+        "destination": "textures/blocks/flower_allium.png"
+    },
+    {
+        "source": "TEXTURE_FLOWER_BLUE_ORCHID",
+        "destination": "textures/blocks/flower_blue_orchid.png"
+    },
+    {
+        "source": "TEXTURE_FLOWER_CORNFLOWER",
+        "destination": "textures/blocks/flower_cornflower.png"
+    },
+    {
+        "source": "TEXTURE_FLOWER_DANDELION",
+        "destination": "textures/blocks/flower_dandelion.png"
+    },
+    {
+        "source": "TEXTURE_FLOWER_HOUSTONIA",
+        "destination": "textures/blocks/flower_houstonia.png"
+    },
+    {
+        "source": "TEXTURE_FLOWER_LILY_OF_THE_VALLEY",
+        "destination": "textures/blocks/flower_lily_of_the_valley.png"
+    },
+    {
+        "source": "TEXTURE_FLOWER_OXEYE_DAISY",
+        "destination": "textures/blocks/flower_oxeye_daisy.png"
+    },
+    {
+        "source": "TEXTURE_FLOWER_PAEONIA",
+        "destination": "textures/blocks/flower_paeonia.png"
+    },
+    {
+        "source": "TEXTURE_FLOWER_ROSE",
+        "destination": "textures/blocks/flower_rose.png"
+    },
+    {
+        "source": "TEXTURE_FLOWER_ROSE_BLUE",
+        "destination": "textures/blocks/flower_rose_blue.png"
+    },
+    {
+        "source": "TEXTURE_FLOWER_TULIP_ORANGE",
+        "destination": "textures/blocks/flower_tulip_orange.png"
+    },
+    {
+        "source": "TEXTURE_FLOWER_TULIP_PINK",
+        "destination": "textures/blocks/flower_tulip_pink.png"
+    },
+    {
+        "source": "TEXTURE_FLOWER_TULIP_RED",
+        "destination": "textures/blocks/flower_tulip_red.png"
+    },
+    {
+        "source": "TEXTURE_FLOWER_TULIP_WHITE",
+        "destination": "textures/blocks/flower_tulip_white.png"
+    },
+    {
+        "source": "TEXTURE_FLOWER_WITHER_ROSE",
+        "destination": "textures/blocks/flower_wither_rose.png"
+    },
+    {
+        "source": "TEXTURE_FRIEND_POTTERY_PATTERN",
+        "destination": "textures/blocks/friend_pottery_pattern.png"
+    },
+    {
+        "source": "TEXTURE_FURNACE_FRONT_OFF",
+        "destination": "textures/blocks/furnace_front_off.png"
+    },
+    {
+        "source": "TEXTURE_GLASS_BLACK",
+        "destination": "textures/blocks/glass_black.png"
+    },
+    {
+        "source": "TEXTURE_GLASS_BLUE",
+        "destination": "textures/blocks/glass_blue.png"
+    },
+    {
+        "source": "TEXTURE_GLASS_BROWN",
+        "destination": "textures/blocks/glass_brown.png"
+    },
+    {
+        "source": "TEXTURE_GLASS_CYAN",
+        "destination": "textures/blocks/glass_cyan.png"
+    },
+    {
+        "source": "TEXTURE_GLASS_GRAY",
+        "destination": "textures/blocks/glass_gray.png"
+    },
+    {
+        "source": "TEXTURE_GLASS_GREEN",
+        "destination": "textures/blocks/glass_green.png"
+    },
+    {
+        "source": "TEXTURE_GLASS_LIGHT_BLUE",
+        "destination": "textures/blocks/glass_light_blue.png"
+    },
+    {
+        "source": "TEXTURE_GLASS_LIME",
+        "destination": "textures/blocks/glass_lime.png"
+    },
+    {
+        "source": "TEXTURE_GLASS_MAGENTA",
+        "destination": "textures/blocks/glass_magenta.png"
+    },
+    {
+        "source": "TEXTURE_GLASS_ORANGE",
+        "destination": "textures/blocks/glass_orange.png"
+    },
+    {
+        "source": "TEXTURE_GLASS_PANE_TOP_BLACK",
+        "destination": "textures/blocks/glass_pane_top_black.png"
+    },
+    {
+        "source": "TEXTURE_GLASS_PANE_TOP_BLUE",
+        "destination": "textures/blocks/glass_pane_top_blue.png"
+    },
+    {
+        "source": "TEXTURE_GLASS_PANE_TOP_BROWN",
+        "destination": "textures/blocks/glass_pane_top_brown.png"
+    },
+    {
+        "source": "TEXTURE_GLASS_PANE_TOP_CYAN",
+        "destination": "textures/blocks/glass_pane_top_cyan.png"
+    },
+    {
+        "source": "TEXTURE_GLASS_PANE_TOP_GRAY",
+        "destination": "textures/blocks/glass_pane_top_gray.png"
+    },
+    {
+        "source": "TEXTURE_GLASS_PANE_TOP_GREEN",
+        "destination": "textures/blocks/glass_pane_top_green.png"
+    },
+    {
+        "source": "TEXTURE_GLASS_PANE_TOP_LIGHT_BLUE",
+        "destination": "textures/blocks/glass_pane_top_light_blue.png"
+    },
+    {
+        "source": "TEXTURE_GLASS_PANE_TOP_LIME",
+        "destination": "textures/blocks/glass_pane_top_lime.png"
+    },
+    {
+        "source": "TEXTURE_GLASS_PANE_TOP_MAGENTA",
+        "destination": "textures/blocks/glass_pane_top_magenta.png"
+    },
+    {
+        "source": "TEXTURE_GLASS_PANE_TOP_ORANGE",
+        "destination": "textures/blocks/glass_pane_top_orange.png"
+    },
+    {
+        "source": "TEXTURE_GLASS_PANE_TOP_PINK",
+        "destination": "textures/blocks/glass_pane_top_pink.png"
+    },
+    {
+        "source": "TEXTURE_GLASS_PANE_TOP_PURPLE",
+        "destination": "textures/blocks/glass_pane_top_purple.png"
+    },
+    {
+        "source": "TEXTURE_GLASS_PANE_TOP_RED",
+        "destination": "textures/blocks/glass_pane_top_red.png"
+    },
+    {
+        "source": "TEXTURE_GLASS_PANE_TOP_SILVER",
+        "destination": "textures/blocks/glass_pane_top_silver.png"
+    },
+    {
+        "source": "TEXTURE_GLASS_PANE_TOP_WHITE",
+        "destination": "textures/blocks/glass_pane_top_white.png"
+    },
+    {
+        "source": "TEXTURE_GLASS_PANE_TOP_YELLOW",
+        "destination": "textures/blocks/glass_pane_top_yellow.png"
+    },
+    {
+        "source": "TEXTURE_GLASS_PINK",
+        "destination": "textures/blocks/glass_pink.png"
+    },
+    {
+        "source": "TEXTURE_GLASS_PURPLE",
+        "destination": "textures/blocks/glass_purple.png"
+    },
+    {
+        "source": "TEXTURE_GLASS_RED",
+        "destination": "textures/blocks/glass_red.png"
+    },
+    {
+        "source": "TEXTURE_GLASS_SILVER",
+        "destination": "textures/blocks/glass_silver.png"
+    },
+    {
+        "source": "TEXTURE_GLASS_WHITE",
+        "destination": "textures/blocks/glass_white.png"
+    },
+    {
+        "source": "TEXTURE_GLASS_YELLOW",
+        "destination": "textures/blocks/glass_yellow.png"
+    },
+    {
+        "source": "TEXTURE_GLAZED_TERRACOTTA_BLACK",
+        "destination": "textures/blocks/glazed_terracotta_black.png"
+    },
+    {
+        "source": "TEXTURE_GLAZED_TERRACOTTA_BLUE",
+        "destination": "textures/blocks/glazed_terracotta_blue.png"
+    },
+    {
+        "source": "TEXTURE_GLAZED_TERRACOTTA_BROWN",
+        "destination": "textures/blocks/glazed_terracotta_brown.png"
+    },
+    {
+        "source": "TEXTURE_GLAZED_TERRACOTTA_CYAN",
+        "destination": "textures/blocks/glazed_terracotta_cyan.png"
+    },
+    {
+        "source": "TEXTURE_GLAZED_TERRACOTTA_GRAY",
+        "destination": "textures/blocks/glazed_terracotta_gray.png"
+    },
+    {
+        "source": "TEXTURE_GLAZED_TERRACOTTA_GREEN",
+        "destination": "textures/blocks/glazed_terracotta_green.png"
+    },
+    {
+        "source": "TEXTURE_GLAZED_TERRACOTTA_LIGHT_BLUE",
+        "destination": "textures/blocks/glazed_terracotta_light_blue.png"
+    },
+    {
+        "source": "TEXTURE_GLAZED_TERRACOTTA_LIME",
+        "destination": "textures/blocks/glazed_terracotta_lime.png"
+    },
+    {
+        "source": "TEXTURE_GLAZED_TERRACOTTA_MAGENTA",
+        "destination": "textures/blocks/glazed_terracotta_magenta.png"
+    },
+    {
+        "source": "TEXTURE_GLAZED_TERRACOTTA_ORANGE",
+        "destination": "textures/blocks/glazed_terracotta_orange.png"
+    },
+    {
+        "source": "TEXTURE_GLAZED_TERRACOTTA_PINK",
+        "destination": "textures/blocks/glazed_terracotta_pink.png"
+    },
+    {
+        "source": "TEXTURE_GLAZED_TERRACOTTA_PURPLE",
+        "destination": "textures/blocks/glazed_terracotta_purple.png"
+    },
+    {
+        "source": "TEXTURE_GLAZED_TERRACOTTA_RED",
+        "destination": "textures/blocks/glazed_terracotta_red.png"
+    },
+    {
+        "source": "TEXTURE_GLAZED_TERRACOTTA_SILVER",
+        "destination": "textures/blocks/glazed_terracotta_silver.png"
+    },
+    {
+        "source": "TEXTURE_GLAZED_TERRACOTTA_WHITE",
+        "destination": "textures/blocks/glazed_terracotta_white.png"
+    },
+    {
+        "source": "TEXTURE_GLAZED_TERRACOTTA_YELLOW",
+        "destination": "textures/blocks/glazed_terracotta_yellow.png"
+    },
+    {
+        "source": "TEXTURE_GLOWING_OBSIDIAN",
+        "destination": "textures/blocks/glowing_obsidian.png"
+    },
+    {
+        "source": "TEXTURE_GRASS_CARRIED",
+        "destination": "textures/blocks/grass_carried.png"
+    },
+    {
+        "source": "TEXTURE_GRASS_PATH_SIDE",
+        "destination": "textures/blocks/grass_path_side.png"
+    },
+    {
+        "source": "TEXTURE_GRASS_PATH_TOP",
+        "destination": "textures/blocks/grass_path_top.png"
+    },
+    {
+        "source": "TEXTURE_GRASS_SIDE_CARRIED",
+        "destination": "textures/blocks/grass_side_carried.png"
+    },
+    {
+        "source": "TEXTURE_GRASS_SIDE_SNOWED",
+        "destination": "textures/blocks/grass_side_snowed.png"
+    },
+    {
+        "source": "TEXTURE_GRASS_TOP",
+        "destination": "textures/blocks/grass_top.png"
+    },
+    {
+        "source": "TEXTURE_HARDENED_CLAY",
+        "destination": "textures/blocks/hardened_clay.png"
+    },
+    {
+        "source": "TEXTURE_HARDENED_CLAY_STAINED_BLACK",
+        "destination": "textures/blocks/hardened_clay_stained_black.png"
+    },
+    {
+        "source": "TEXTURE_HARDENED_CLAY_STAINED_BLUE",
+        "destination": "textures/blocks/hardened_clay_stained_blue.png"
+    },
+    {
+        "source": "TEXTURE_HARDENED_CLAY_STAINED_BROWN",
+        "destination": "textures/blocks/hardened_clay_stained_brown.png"
+    },
+    {
+        "source": "TEXTURE_HARDENED_CLAY_STAINED_CYAN",
+        "destination": "textures/blocks/hardened_clay_stained_cyan.png"
+    },
+    {
+        "source": "TEXTURE_HARDENED_CLAY_STAINED_GRAY",
+        "destination": "textures/blocks/hardened_clay_stained_gray.png"
+    },
+    {
+        "source": "TEXTURE_HARDENED_CLAY_STAINED_GREEN",
+        "destination": "textures/blocks/hardened_clay_stained_green.png"
+    },
+    {
+        "source": "TEXTURE_HARDENED_CLAY_STAINED_LIGHT_BLUE",
+        "destination": "textures/blocks/hardened_clay_stained_light_blue.png"
+    },
+    {
+        "source": "TEXTURE_HARDENED_CLAY_STAINED_LIME",
+        "destination": "textures/blocks/hardened_clay_stained_lime.png"
+    },
+    {
+        "source": "TEXTURE_HARDENED_CLAY_STAINED_MAGENTA",
+        "destination": "textures/blocks/hardened_clay_stained_magenta.png"
+    },
+    {
+        "source": "TEXTURE_HARDENED_CLAY_STAINED_ORANGE",
+        "destination": "textures/blocks/hardened_clay_stained_orange.png"
+    },
+    {
+        "source": "TEXTURE_HARDENED_CLAY_STAINED_PINK",
+        "destination": "textures/blocks/hardened_clay_stained_pink.png"
+    },
+    {
+        "source": "TEXTURE_HARDENED_CLAY_STAINED_PURPLE",
+        "destination": "textures/blocks/hardened_clay_stained_purple.png"
+    },
+    {
+        "source": "TEXTURE_HARDENED_CLAY_STAINED_RED",
+        "destination": "textures/blocks/hardened_clay_stained_red.png"
+    },
+    {
+        "source": "TEXTURE_HARDENED_CLAY_STAINED_SILVER",
+        "destination": "textures/blocks/hardened_clay_stained_silver.png"
+    },
+    {
+        "source": "TEXTURE_HARDENED_CLAY_STAINED_WHITE",
+        "destination": "textures/blocks/hardened_clay_stained_white.png"
+    },
+    {
+        "source": "TEXTURE_HARDENED_CLAY_STAINED_YELLOW",
+        "destination": "textures/blocks/hardened_clay_stained_yellow.png"
+    },
+    {
+        "source": "TEXTURE_HEARTBREAK_POTTERY_PATTERN",
+        "destination": "textures/blocks/heartbreak_pottery_pattern.png"
+    },
+    {
+        "source": "TEXTURE_HEART_POTTERY_PATTERN",
+        "destination": "textures/blocks/heart_pottery_pattern.png"
+    },
+    {
+        "source": "TEXTURE_HONEYCOMB",
+        "destination": "textures/blocks/honeycomb.png"
+    },
+    {
+        "source": "TEXTURE_HONEY_BOTTOM",
+        "destination": "textures/blocks/honey_bottom.png"
+    },
+    {
+        "source": "TEXTURE_HONEY_SIDE",
+        "destination": "textures/blocks/honey_side.png"
+    },
+    {
+        "source": "TEXTURE_HONEY_TOP",
+        "destination": "textures/blocks/honey_top.png"
+    },
+    {
+        "source": "TEXTURE_HOWL_POTTERY_PATTERN",
+        "destination": "textures/blocks/howl_pottery_pattern.png"
+    },
+    {
+        "source": "TEXTURE_ICE_PACKED",
+        "destination": "textures/blocks/ice_packed.png"
+    },
+    {
+        "source": "TEXTURE_ITEMFRAME_BACKGROUND",
+        "destination": "textures/blocks/itemframe_background.png"
+    },
+    {
+        "source": "TEXTURE_JIGSAW_BACK",
+        "destination": "textures/blocks/jigsaw_back.png"
+    },
+    {
+        "source": "TEXTURE_JIGSAW_FRONT",
+        "destination": "textures/blocks/jigsaw_front.png"
+    },
+    {
+        "source": "TEXTURE_JUNGLE_TRAPDOOR",
+        "destination": "textures/blocks/jungle_trapdoor.png"
+    },
+    {
+        "source": "TEXTURE_LADDER",
+        "destination": "textures/blocks/ladder.png"
+    },
+    {
+        "source": "TEXTURE_LAVA_PLACEHOLDER",
+        "destination": "textures/blocks/lava_placeholder.png"
+    },
+    {
+        "source": "TEXTURE_LEAVES_ACACIA_OPAQUE",
+        "destination": "textures/blocks/leaves_acacia_opaque.png"
+    },
+    {
+        "source": "TEXTURE_LEAVES_BIG_OAK_OPAQUE",
+        "destination": "textures/blocks/leaves_big_oak_opaque.png"
+    },
+    {
+        "source": "TEXTURE_LEAVES_BIRCH_OPAQUE",
+        "destination": "textures/blocks/leaves_birch_opaque.png"
+    },
+    {
+        "source": "TEXTURE_LEAVES_JUNGLE_OPAQUE",
+        "destination": "textures/blocks/leaves_jungle_opaque.png"
+    },
+    {
+        "source": "TEXTURE_LEAVES_OAK_OPAQUE",
+        "destination": "textures/blocks/leaves_oak_opaque.png"
+    },
+    {
+        "source": "TEXTURE_LEAVES_SPRUCE_OPAQUE",
+        "destination": "textures/blocks/leaves_spruce_opaque.png"
+    },
+    {
+        "source": "TEXTURE_LOG_ACACIA",
+        "destination": "textures/blocks/log_acacia.png"
+    },
+    {
+        "source": "TEXTURE_LOG_ACACIA_TOP",
+        "destination": "textures/blocks/log_acacia_top.png"
+    },
+    {
+        "source": "TEXTURE_LOG_BIG_OAK",
+        "destination": "textures/blocks/log_big_oak.png"
+    },
+    {
+        "source": "TEXTURE_LOG_BIG_OAK_TOP",
+        "destination": "textures/blocks/log_big_oak_top.png"
+    },
+    {
+        "source": "TEXTURE_LOG_BIRCH",
+        "destination": "textures/blocks/log_birch.png"
+    },
+    {
+        "source": "TEXTURE_LOG_BIRCH_TOP",
+        "destination": "textures/blocks/log_birch_top.png"
+    },
+    {
+        "source": "TEXTURE_LOG_JUNGLE",
+        "destination": "textures/blocks/log_jungle.png"
+    },
+    {
+        "source": "TEXTURE_LOG_JUNGLE_TOP",
+        "destination": "textures/blocks/log_jungle_top.png"
+    },
+    {
+        "source": "TEXTURE_LOG_OAK",
+        "destination": "textures/blocks/log_oak.png"
+    },
+    {
+        "source": "TEXTURE_LOG_OAK_TOP",
+        "destination": "textures/blocks/log_oak_top.png"
+    },
+    {
+        "source": "TEXTURE_LOG_SPRUCE",
+        "destination": "textures/blocks/log_spruce.png"
+    },
+    {
+        "source": "TEXTURE_LOG_SPRUCE_TOP",
+        "destination": "textures/blocks/log_spruce_top.png"
+    },
+    {
+        "source": "TEXTURE_MANGROVE_DOOR_BOTTOM",
+        "destination": "textures/blocks/mangrove_door_bottom.png"
+    },
+    {
+        "source": "TEXTURE_MANGROVE_DOOR_TOP",
+        "destination": "textures/blocks/mangrove_door_top.png"
+    },
+    {
+        "source": "TEXTURE_MANGROVE_LOG_SIDE",
+        "destination": "textures/blocks/mangrove_log_side.png"
+    },
+    {
+        "source": "TEXTURE_MANGROVE_LOG_TOP",
+        "destination": "textures/blocks/mangrove_log_top.png"
+    },
+    {
+        "source": "TEXTURE_MANGROVE_PLANKS",
+        "destination": "textures/blocks/mangrove_planks.png"
+    },
+    {
+        "source": "TEXTURE_MANGROVE_ROOTS_SIDE",
+        "destination": "textures/blocks/mangrove_roots_side.png"
+    },
+    {
+        "source": "TEXTURE_MANGROVE_ROOTS_TOP",
+        "destination": "textures/blocks/mangrove_roots_top.png"
+    },
+    {
+        "source": "TEXTURE_MANGROVE_TRAPDOOR",
+        "destination": "textures/blocks/mangrove_trapdoor.png"
+    },
+    {
+        "source": "TEXTURE_MELON_STEM_CONNECTED",
+        "destination": "textures/blocks/melon_stem_connected.png"
+    },
+    {
+        "source": "TEXTURE_MELON_STEM_DISCONNECTED",
+        "destination": "textures/blocks/melon_stem_disconnected.png"
+    },
+    {
+        "source": "TEXTURE_MINER_POTTERY_PATTERN",
+        "destination": "textures/blocks/miner_pottery_pattern.png"
+    },
+    {
+        "source": "TEXTURE_MISSING_TILE",
+        "destination": "textures/blocks/missing_tile.png"
+    },
+    {
+        "source": "TEXTURE_MOB_SPAWNER",
+        "destination": "textures/blocks/mob_spawner.png"
+    },
+    {
+        "source": "TEXTURE_MOURNER_POTTERY_PATTERN",
+        "destination": "textures/blocks/mourner_pottery_pattern.png"
+    },
+    {
+        "source": "TEXTURE_MUDDY_MANGROVE_ROOTS_SIDE",
+        "destination": "textures/blocks/muddy_mangrove_roots_side.png"
+    },
+    {
+        "source": "TEXTURE_MUDDY_MANGROVE_ROOTS_TOP",
+        "destination": "textures/blocks/muddy_mangrove_roots_top.png"
+    },
+    {
+        "source": "TEXTURE_MUSHROOM_BLOCK_SKIN_BROWN",
+        "destination": "textures/blocks/mushroom_block_skin_brown.png"
+    },
+    {
+        "source": "TEXTURE_MUSHROOM_BLOCK_SKIN_RED",
+        "destination": "textures/blocks/mushroom_block_skin_red.png"
+    },
+    {
+        "source": "TEXTURE_MUSHROOM_BLOCK_SKIN_STEM",
+        "destination": "textures/blocks/mushroom_block_skin_stem.png"
+    },
+    {
+        "source": "TEXTURE_MUSHROOM_BROWN",
+        "destination": "textures/blocks/mushroom_brown.png"
+    },
+    {
+        "source": "TEXTURE_MUSHROOM_RED",
+        "destination": "textures/blocks/mushroom_red.png"
+    },
+    {
+        "source": "TEXTURE_NETHER_BRICK",
+        "destination": "textures/blocks/nether_brick.png"
+    },
+    {
+        "source": "TEXTURE_NETHER_WART_BLOCK",
+        "destination": "textures/blocks/nether_wart_block.png"
+    },
+    {
+        "source": "TEXTURE_NETHER_WART_STAGE_0",
+        "destination": "textures/blocks/nether_wart_stage_0.png"
+    },
+    {
+        "source": "TEXTURE_NETHER_WART_STAGE_1",
+        "destination": "textures/blocks/nether_wart_stage_1.png"
+    },
+    {
+        "source": "TEXTURE_NETHER_WART_STAGE_2",
+        "destination": "textures/blocks/nether_wart_stage_2.png"
+    },
+    {
+        "source": "TEXTURE_NOTEBLOCK",
+        "destination": "textures/blocks/noteblock.png"
+    },
+    {
+        "source": "TEXTURE_OBSERVER_BACK_LIT",
+        "destination": "textures/blocks/observer_back_lit.png"
+    },
+    {
+        "source": "TEXTURE_PISTON_TOP_NORMAL",
+        "destination": "textures/blocks/piston_top_normal.png"
+    },
+    {
+        "source": "TEXTURE_PLANKS_ACACIA",
+        "destination": "textures/blocks/planks_acacia.png"
+    },
+    {
+        "source": "TEXTURE_PLANKS_BIG_OAK",
+        "destination": "textures/blocks/planks_big_oak.png"
+    },
+    {
+        "source": "TEXTURE_PLANKS_BIRCH",
+        "destination": "textures/blocks/planks_birch.png"
+    },
+    {
+        "source": "TEXTURE_PLANKS_JUNGLE",
+        "destination": "textures/blocks/planks_jungle.png"
+    },
+    {
+        "source": "TEXTURE_PLANKS_OAK",
+        "destination": "textures/blocks/planks_oak.png"
+    },
+    {
+        "source": "TEXTURE_PLANKS_SPRUCE",
+        "destination": "textures/blocks/planks_spruce.png"
+    },
+    {
+        "source": "TEXTURE_PLENTY_POTTERY_PATTERN",
+        "destination": "textures/blocks/plenty_pottery_pattern.png"
+    },
+    {
+        "source": "TEXTURE_POINTED_DRIPSTONE_DOWN_MERGE",
+        "destination": "textures/blocks/pointed_dripstone_down_merge.png"
+    },
+    {
+        "source": "TEXTURE_POINTED_DRIPSTONE_UP_MERGE",
+        "destination": "textures/blocks/pointed_dripstone_up_merge.png"
+    },
+    {
+        "source": "TEXTURE_PORTAL",
+        "destination": "textures/blocks/portal.png"
+    },
+    {
+        "source": "TEXTURE_PORTAL_PLACEHOLDER",
+        "destination": "textures/blocks/portal_placeholder.png"
+    },
+    {
+        "source": "TEXTURE_POTATOES_STAGE_0",
+        "destination": "textures/blocks/potatoes_stage_0.png"
+    },
+    {
+        "source": "TEXTURE_POTATOES_STAGE_1",
+        "destination": "textures/blocks/potatoes_stage_1.png"
+    },
+    {
+        "source": "TEXTURE_POTATOES_STAGE_2",
+        "destination": "textures/blocks/potatoes_stage_2.png"
+    },
+    {
+        "source": "TEXTURE_POTATOES_STAGE_3",
+        "destination": "textures/blocks/potatoes_stage_3.png"
+    },
+    {
+        "source": "TEXTURE_PRISMARINE_DARK",
+        "destination": "textures/blocks/prismarine_dark.png"
+    },
+    {
+        "source": "TEXTURE_PRISMARINE_ROUGH",
+        "destination": "textures/blocks/prismarine_rough.png"
+    },
+    {
+        "source": "TEXTURE_PRIZE_POTTERY_PATTERN",
+        "destination": "textures/blocks/prize_pottery_pattern.png"
+    },
+    {
+        "source": "TEXTURE_PUMPKIN_FACE_OFF",
+        "destination": "textures/blocks/pumpkin_face_off.png"
+    },
+    {
+        "source": "TEXTURE_PUMPKIN_FACE_ON",
+        "destination": "textures/blocks/pumpkin_face_on.png"
+    },
+    {
+        "source": "TEXTURE_PUMPKIN_STEM_CONNECTED",
+        "destination": "textures/blocks/pumpkin_stem_connected.png"
+    },
+    {
+        "source": "TEXTURE_PUMPKIN_STEM_DISCONNECTED",
+        "destination": "textures/blocks/pumpkin_stem_disconnected.png"
+    },
+    {
+        "source": "TEXTURE_QUARTZ_BLOCK_CHISELED",
+        "destination": "textures/blocks/quartz_block_chiseled.png"
+    },
+    {
+        "source": "TEXTURE_QUARTZ_BLOCK_CHISELED_TOP",
+        "destination": "textures/blocks/quartz_block_chiseled_top.png"
+    },
+    {
+        "source": "TEXTURE_QUARTZ_BLOCK_LINES",
+        "destination": "textures/blocks/quartz_block_lines.png"
+    },
+    {
+        "source": "TEXTURE_QUARTZ_BLOCK_LINES_TOP",
+        "destination": "textures/blocks/quartz_block_lines_top.png"
+    },
+    {
+        "source": "TEXTURE_QUARTZ_ORE",
+        "destination": "textures/blocks/quartz_ore.png"
+    },
+    {
+        "source": "TEXTURE_RAIL_ACTIVATOR",
+        "destination": "textures/blocks/rail_activator.png"
+    },
+    {
+        "source": "TEXTURE_RAIL_ACTIVATOR_POWERED",
+        "destination": "textures/blocks/rail_activator_powered.png"
+    },
+    {
+        "source": "TEXTURE_RAIL_DETECTOR",
+        "destination": "textures/blocks/rail_detector.png"
+    },
+    {
+        "source": "TEXTURE_RAIL_DETECTOR_POWERED",
+        "destination": "textures/blocks/rail_detector_powered.png"
+    },
+    {
+        "source": "TEXTURE_RAIL_GOLDEN",
+        "destination": "textures/blocks/rail_golden.png"
+    },
+    {
+        "source": "TEXTURE_RAIL_GOLDEN_POWERED",
+        "destination": "textures/blocks/rail_golden_powered.png"
+    },
+    {
+        "source": "TEXTURE_RAIL_NORMAL",
+        "destination": "textures/blocks/rail_normal.png"
+    },
+    {
+        "source": "TEXTURE_RAIL_NORMAL_TURNED",
+        "destination": "textures/blocks/rail_normal_turned.png"
+    },
+    {
+        "source": "TEXTURE_REACTOR_CORE_STAGE_0",
+        "destination": "textures/blocks/reactor_core_stage_0.png"
+    },
+    {
+        "source": "TEXTURE_REACTOR_CORE_STAGE_1",
+        "destination": "textures/blocks/reactor_core_stage_1.png"
+    },
+    {
+        "source": "TEXTURE_REACTOR_CORE_STAGE_2",
+        "destination": "textures/blocks/reactor_core_stage_2.png"
+    },
+    {
+        "source": "TEXTURE_REDSTONE_DUST_CROSS",
+        "destination": "textures/blocks/redstone_dust_cross.png"
+    },
+    {
+        "source": "TEXTURE_REDSTONE_DUST_LINE",
+        "destination": "textures/blocks/redstone_dust_line.png"
+    },
+    {
+        "source": "TEXTURE_REDSTONE_LAMP_OFF",
+        "destination": "textures/blocks/redstone_lamp_off.png"
+    },
+    {
+        "source": "TEXTURE_REDSTONE_TORCH_ON",
+        "destination": "textures/blocks/redstone_torch_on.png"
+    },
+    {
+        "source": "TEXTURE_RED_NETHER_BRICK",
+        "destination": "textures/blocks/red_nether_brick.png"
+    },
+    {
+        "source": "TEXTURE_RED_SANDSTONE_CARVED",
+        "destination": "textures/blocks/red_sandstone_carved.png"
+    },
+    {
+        "source": "TEXTURE_RED_SANDSTONE_NORMAL",
+        "destination": "textures/blocks/red_sandstone_normal.png"
+    },
+    {
+        "source": "TEXTURE_RED_SANDSTONE_SMOOTH",
+        "destination": "textures/blocks/red_sandstone_smooth.png"
+    },
+    {
+        "source": "TEXTURE_REPEATER_OFF",
+        "destination": "textures/blocks/repeater_off.png"
+    },
+    {
+        "source": "TEXTURE_REPEATING_COMMAND_BLOCK_BACK_MIPMAP",
+        "destination": "textures/blocks/repeating_command_block_back_mipmap.png"
+    },
+    {
+        "source": "TEXTURE_REPEATING_COMMAND_BLOCK_CONDITIONAL_MIPMAP",
+        "destination": "textures/blocks/repeating_command_block_conditional_mipmap.png"
+    },
+    {
+        "source": "TEXTURE_REPEATING_COMMAND_BLOCK_FRONT_MIPMAP",
+        "destination": "textures/blocks/repeating_command_block_front_mipmap.png"
+    },
+    {
+        "source": "TEXTURE_REPEATING_COMMAND_BLOCK_SIDE_MIPMAP",
+        "destination": "textures/blocks/repeating_command_block_side_mipmap.png"
+    },
+    {
+        "source": "TEXTURE_SANDSTONE_CARVED",
+        "destination": "textures/blocks/sandstone_carved.png"
+    },
+    {
+        "source": "TEXTURE_SANDSTONE_NORMAL",
+        "destination": "textures/blocks/sandstone_normal.png"
+    },
+    {
+        "source": "TEXTURE_SANDSTONE_SMOOTH",
+        "destination": "textures/blocks/sandstone_smooth.png"
+    },
+    {
+        "source": "TEXTURE_SAPLING_ACACIA",
+        "destination": "textures/blocks/sapling_acacia.png"
+    },
+    {
+        "source": "TEXTURE_SAPLING_BIRCH",
+        "destination": "textures/blocks/sapling_birch.png"
+    },
+    {
+        "source": "TEXTURE_SAPLING_JUNGLE",
+        "destination": "textures/blocks/sapling_jungle.png"
+    },
+    {
+        "source": "TEXTURE_SAPLING_OAK",
+        "destination": "textures/blocks/sapling_oak.png"
+    },
+    {
+        "source": "TEXTURE_SAPLING_ROOFED_OAK",
+        "destination": "textures/blocks/sapling_roofed_oak.png"
+    },
+    {
+        "source": "TEXTURE_SAPLING_SPRUCE",
+        "destination": "textures/blocks/sapling_spruce.png"
+    },
+    {
+        "source": "TEXTURE_SEAGRASS_CARRIED",
+        "destination": "textures/blocks/seagrass_carried.png"
+    },
+    {
+        "source": "TEXTURE_SHEAF_POTTERY_PATTERN",
+        "destination": "textures/blocks/sheaf_pottery_pattern.png"
+    },
+    {
+        "source": "TEXTURE_SHELTER_POTTERY_PATTERN",
+        "destination": "textures/blocks/shelter_pottery_pattern.png"
+    },
+    {
+        "source": "TEXTURE_SHULKER_TOP_BLACK",
+        "destination": "textures/blocks/shulker_top_black.png"
+    },
+    {
+        "source": "TEXTURE_SHULKER_TOP_BLUE",
+        "destination": "textures/blocks/shulker_top_blue.png"
+    },
+    {
+        "source": "TEXTURE_SHULKER_TOP_BROWN",
+        "destination": "textures/blocks/shulker_top_brown.png"
+    },
+    {
+        "source": "TEXTURE_SHULKER_TOP_CYAN",
+        "destination": "textures/blocks/shulker_top_cyan.png"
+    },
+    {
+        "source": "TEXTURE_SHULKER_TOP_GRAY",
+        "destination": "textures/blocks/shulker_top_gray.png"
+    },
+    {
+        "source": "TEXTURE_SHULKER_TOP_GREEN",
+        "destination": "textures/blocks/shulker_top_green.png"
+    },
+    {
+        "source": "TEXTURE_SHULKER_TOP_LIGHT_BLUE",
+        "destination": "textures/blocks/shulker_top_light_blue.png"
+    },
+    {
+        "source": "TEXTURE_SHULKER_TOP_LIME",
+        "destination": "textures/blocks/shulker_top_lime.png"
+    },
+    {
+        "source": "TEXTURE_SHULKER_TOP_MAGENTA",
+        "destination": "textures/blocks/shulker_top_magenta.png"
+    },
+    {
+        "source": "TEXTURE_SHULKER_TOP_ORANGE",
+        "destination": "textures/blocks/shulker_top_orange.png"
+    },
+    {
+        "source": "TEXTURE_SHULKER_TOP_PINK",
+        "destination": "textures/blocks/shulker_top_pink.png"
+    },
+    {
+        "source": "TEXTURE_SHULKER_TOP_PURPLE",
+        "destination": "textures/blocks/shulker_top_purple.png"
+    },
+    {
+        "source": "TEXTURE_SHULKER_TOP_RED",
+        "destination": "textures/blocks/shulker_top_red.png"
+    },
+    {
+        "source": "TEXTURE_SHULKER_TOP_SILVER",
+        "destination": "textures/blocks/shulker_top_silver.png"
+    },
+    {
+        "source": "TEXTURE_SHULKER_TOP_UNDYED",
+        "destination": "textures/blocks/shulker_top_undyed.png"
+    },
+    {
+        "source": "TEXTURE_SHULKER_TOP_WHITE",
+        "destination": "textures/blocks/shulker_top_white.png"
+    },
+    {
+        "source": "TEXTURE_SHULKER_TOP_YELLOW",
+        "destination": "textures/blocks/shulker_top_yellow.png"
+    },
+    {
+        "source": "TEXTURE_SKULL_POTTERY_PATTERN",
+        "destination": "textures/blocks/skull_pottery_pattern.png"
+    },
+    {
+        "source": "TEXTURE_SLIME",
+        "destination": "textures/blocks/slime.png"
+    },
+    {
+        "source": "TEXTURE_SMOKER_FRONT_OFF",
+        "destination": "textures/blocks/smoker_front_off.png"
+    },
+    {
+        "source": "TEXTURE_SNORT_POTTERY_PATTERN",
+        "destination": "textures/blocks/snort_pottery_pattern.png"
+    },
+    {
+        "source": "TEXTURE_SOUL_CAMPFIRE",
+        "destination": "textures/blocks/soul_campfire.png"
+    },
+    {
+        "source": "TEXTURE_SPONGE_WET",
+        "destination": "textures/blocks/sponge_wet.png"
+    },
+    {
+        "source": "TEXTURE_SPRUCE_TRAPDOOR",
+        "destination": "textures/blocks/spruce_trapdoor.png"
+    },
+    {
+        "source": "TEXTURE_STONEBRICK",
+        "destination": "textures/blocks/stonebrick.png"
+    },
+    {
+        "source": "TEXTURE_STONEBRICK_CARVED",
+        "destination": "textures/blocks/stonebrick_carved.png"
+    },
+    {
+        "source": "TEXTURE_STONEBRICK_CRACKED",
+        "destination": "textures/blocks/stonebrick_cracked.png"
+    },
+    {
+        "source": "TEXTURE_STONEBRICK_MOSSY",
+        "destination": "textures/blocks/stonebrick_mossy.png"
+    },
+    {
+        "source": "TEXTURE_STONECUTTER2_BOTTOM",
+        "destination": "textures/blocks/stonecutter2_bottom.png"
+    },
+    {
+        "source": "TEXTURE_STONECUTTER2_SIDE",
+        "destination": "textures/blocks/stonecutter2_side.png"
+    },
+    {
+        "source": "TEXTURE_STONECUTTER2_TOP",
+        "destination": "textures/blocks/stonecutter2_top.png"
+    },
+    {
+        "source": "TEXTURE_STONECUTTER_OTHER_SIDE",
+        "destination": "textures/blocks/stonecutter_other_side.png"
+    },
+    {
+        "source": "TEXTURE_STONE_ANDESITE",
+        "destination": "textures/blocks/stone_andesite.png"
+    },
+    {
+        "source": "TEXTURE_STONE_ANDESITE_SMOOTH",
+        "destination": "textures/blocks/stone_andesite_smooth.png"
+    },
+    {
+        "source": "TEXTURE_STONE_DIORITE",
+        "destination": "textures/blocks/stone_diorite.png"
+    },
+    {
+        "source": "TEXTURE_STONE_DIORITE_SMOOTH",
+        "destination": "textures/blocks/stone_diorite_smooth.png"
+    },
+    {
+        "source": "TEXTURE_STONE_GRANITE",
+        "destination": "textures/blocks/stone_granite.png"
+    },
+    {
+        "source": "TEXTURE_STONE_GRANITE_SMOOTH",
+        "destination": "textures/blocks/stone_granite_smooth.png"
+    },
+    {
+        "source": "TEXTURE_STONE_SLAB_SIDE",
+        "destination": "textures/blocks/stone_slab_side.png"
+    },
+    {
+        "source": "TEXTURE_STONE_SLAB_TOP",
+        "destination": "textures/blocks/stone_slab_top.png"
+    },
+    {
+        "source": "TEXTURE_STRIPPED_ACACIA_LOG",
+        "destination": "textures/blocks/stripped_acacia_log.png"
+    },
+    {
+        "source": "TEXTURE_STRIPPED_ACACIA_LOG_TOP",
+        "destination": "textures/blocks/stripped_acacia_log_top.png"
+    },
+    {
+        "source": "TEXTURE_STRIPPED_BAMBOO_BLOCK",
+        "destination": "textures/blocks/stripped_bamboo_block.png"
+    },
+    {
+        "source": "TEXTURE_STRIPPED_BAMBOO_BLOCK_TOP",
+        "destination": "textures/blocks/stripped_bamboo_block_top.png"
+    },
+    {
+        "source": "TEXTURE_STRIPPED_BIRCH_LOG",
+        "destination": "textures/blocks/stripped_birch_log.png"
+    },
+    {
+        "source": "TEXTURE_STRIPPED_BIRCH_LOG_TOP",
+        "destination": "textures/blocks/stripped_birch_log_top.png"
+    },
+    {
+        "source": "TEXTURE_STRIPPED_CHERRY_LOG_SIDE",
+        "destination": "textures/blocks/stripped_cherry_log_side.png"
+    },
+    {
+        "source": "TEXTURE_STRIPPED_CHERRY_LOG_TOP",
+        "destination": "textures/blocks/stripped_cherry_log_top.png"
+    },
+    {
+        "source": "TEXTURE_STRIPPED_DARK_OAK_LOG",
+        "destination": "textures/blocks/stripped_dark_oak_log.png"
+    },
+    {
+        "source": "TEXTURE_STRIPPED_DARK_OAK_LOG_TOP",
+        "destination": "textures/blocks/stripped_dark_oak_log_top.png"
+    },
+    {
+        "source": "TEXTURE_STRIPPED_JUNGLE_LOG",
+        "destination": "textures/blocks/stripped_jungle_log.png"
+    },
+    {
+        "source": "TEXTURE_STRIPPED_JUNGLE_LOG_TOP",
+        "destination": "textures/blocks/stripped_jungle_log_top.png"
+    },
+    {
+        "source": "TEXTURE_STRIPPED_MANGROVE_LOG_SIDE",
+        "destination": "textures/blocks/stripped_mangrove_log_side.png"
+    },
+    {
+        "source": "TEXTURE_STRIPPED_MANGROVE_LOG_TOP",
+        "destination": "textures/blocks/stripped_mangrove_log_top.png"
+    },
+    {
+        "source": "TEXTURE_STRIPPED_OAK_LOG",
+        "destination": "textures/blocks/stripped_oak_log.png"
+    },
+    {
+        "source": "TEXTURE_STRIPPED_OAK_LOG_TOP",
+        "destination": "textures/blocks/stripped_oak_log_top.png"
+    },
+    {
+        "source": "TEXTURE_STRIPPED_SPRUCE_LOG",
+        "destination": "textures/blocks/stripped_spruce_log.png"
+    },
+    {
+        "source": "TEXTURE_STRIPPED_SPRUCE_LOG_TOP",
+        "destination": "textures/blocks/stripped_spruce_log_top.png"
+    },
+    {
+        "source": "TEXTURE_STRUCTURE_AIR",
+        "destination": "textures/blocks/structure_air.png"
+    },
+    {
+        "source": "TEXTURE_STRUCTURE_BLOCK_EXPORT",
+        "destination": "textures/blocks/structure_block_export.png"
+    },
+    {
+        "source": "TEXTURE_STRUCTURE_VOID",
+        "destination": "textures/blocks/structure_void.png"
+    },
+    {
+        "source": "TEXTURE_TALLGRASS",
+        "destination": "textures/blocks/tallgrass.png"
+    },
+    {
+        "source": "TEXTURE_TORCHFLOWER_CROP_STAGE_0",
+        "destination": "textures/blocks/torchflower_crop_stage_0.png"
+    },
+    {
+        "source": "TEXTURE_TORCHFLOWER_CROP_STAGE_1",
+        "destination": "textures/blocks/torchflower_crop_stage_1.png"
+    },
+    {
+        "source": "TEXTURE_TORCH_ON",
+        "destination": "textures/blocks/torch_on.png"
+    },
+    {
+        "source": "TEXTURE_TRAPDOOR",
+        "destination": "textures/blocks/trapdoor.png"
+    },
+    {
+        "source": "TEXTURE_TRAPPED_CHEST_FRONT",
+        "destination": "textures/blocks/trapped_chest_front.png"
+    },
+    {
+        "source": "TEXTURE_TRIP_WIRE",
+        "destination": "textures/blocks/trip_wire.png"
+    },
+    {
+        "source": "TEXTURE_TRIP_WIRE_SOURCE",
+        "destination": "textures/blocks/trip_wire_source.png"
+    },
+    {
+        "source": "TEXTURE_TURTLE_EGG_NOT_CRACKED",
+        "destination": "textures/blocks/turtle_egg_not_cracked.png"
+    },
+    {
+        "source": "TEXTURE_TWISTING_VINES_BASE",
+        "destination": "textures/blocks/twisting_vines_base.png"
+    },
+    {
+        "source": "TEXTURE_TWISTING_VINES_BOTTOM",
+        "destination": "textures/blocks/twisting_vines_bottom.png"
+    },
+    {
+        "source": "TEXTURE_VINE_CARRIED",
+        "destination": "textures/blocks/vine_carried.png"
+    },
+    {
+        "source": "TEXTURE_WARPED_NYLIUM_TOP",
+        "destination": "textures/blocks/warped_nylium_top.png"
+    },
+    {
+        "source": "TEXTURE_WARPED_WART_BLOCK",
+        "destination": "textures/blocks/warped_wart_block.png"
+    },
+    {
+        "source": "TEXTURE_WATERLILY",
+        "destination": "textures/blocks/waterlily.png"
+    },
+    {
+        "source": "TEXTURE_WATER_FLOW_GREY",
+        "destination": "textures/blocks/water_flow_grey.png"
+    },
+    {
+        "source": "TEXTURE_WATER_PLACEHOLDER",
+        "destination": "textures/blocks/water_placeholder.png"
+    },
+    {
+        "source": "TEXTURE_WATER_STILL_GREY",
+        "destination": "textures/blocks/water_still_grey.png"
+    },
+    {
+        "source": "TEXTURE_WEB",
+        "destination": "textures/blocks/web.png"
+    },
+    {
+        "source": "TEXTURE_WEEPING_VINES_BASE",
+        "destination": "textures/blocks/weeping_vines_base.png"
+    },
+    {
+        "source": "TEXTURE_WEEPING_VINES_BOTTOM",
+        "destination": "textures/blocks/weeping_vines_bottom.png"
+    },
+    {
+        "source": "TEXTURE_WHEAT_STAGE_0",
+        "destination": "textures/blocks/wheat_stage_0.png"
+    },
+    {
+        "source": "TEXTURE_WHEAT_STAGE_1",
+        "destination": "textures/blocks/wheat_stage_1.png"
+    },
+    {
+        "source": "TEXTURE_WHEAT_STAGE_2",
+        "destination": "textures/blocks/wheat_stage_2.png"
+    },
+    {
+        "source": "TEXTURE_WHEAT_STAGE_3",
+        "destination": "textures/blocks/wheat_stage_3.png"
+    },
+    {
+        "source": "TEXTURE_WHEAT_STAGE_4",
+        "destination": "textures/blocks/wheat_stage_4.png"
+    },
+    {
+        "source": "TEXTURE_WHEAT_STAGE_5",
+        "destination": "textures/blocks/wheat_stage_5.png"
+    },
+    {
+        "source": "TEXTURE_WHEAT_STAGE_6",
+        "destination": "textures/blocks/wheat_stage_6.png"
+    },
+    {
+        "source": "TEXTURE_WHEAT_STAGE_7",
+        "destination": "textures/blocks/wheat_stage_7.png"
+    },
+    {
+        "source": "TEXTURE_WOOL_COLORED_BLACK",
+        "destination": "textures/blocks/wool_colored_black.png"
+    },
+    {
+        "source": "TEXTURE_WOOL_COLORED_BLUE",
+        "destination": "textures/blocks/wool_colored_blue.png"
+    },
+    {
+        "source": "TEXTURE_WOOL_COLORED_BROWN",
+        "destination": "textures/blocks/wool_colored_brown.png"
+    },
+    {
+        "source": "TEXTURE_WOOL_COLORED_CYAN",
+        "destination": "textures/blocks/wool_colored_cyan.png"
+    },
+    {
+        "source": "TEXTURE_WOOL_COLORED_GRAY",
+        "destination": "textures/blocks/wool_colored_gray.png"
+    },
+    {
+        "source": "TEXTURE_WOOL_COLORED_GREEN",
+        "destination": "textures/blocks/wool_colored_green.png"
+    },
+    {
+        "source": "TEXTURE_WOOL_COLORED_LIGHT_BLUE",
+        "destination": "textures/blocks/wool_colored_light_blue.png"
+    },
+    {
+        "source": "TEXTURE_WOOL_COLORED_LIME",
+        "destination": "textures/blocks/wool_colored_lime.png"
+    },
+    {
+        "source": "TEXTURE_WOOL_COLORED_MAGENTA",
+        "destination": "textures/blocks/wool_colored_magenta.png"
+    },
+    {
+        "source": "TEXTURE_WOOL_COLORED_ORANGE",
+        "destination": "textures/blocks/wool_colored_orange.png"
+    },
+    {
+        "source": "TEXTURE_WOOL_COLORED_PINK",
+        "destination": "textures/blocks/wool_colored_pink.png"
+    },
+    {
+        "source": "TEXTURE_WOOL_COLORED_PURPLE",
+        "destination": "textures/blocks/wool_colored_purple.png"
+    },
+    {
+        "source": "TEXTURE_WOOL_COLORED_RED",
+        "destination": "textures/blocks/wool_colored_red.png"
+    },
+    {
+        "source": "TEXTURE_WOOL_COLORED_SILVER",
+        "destination": "textures/blocks/wool_colored_silver.png"
+    },
+    {
+        "source": "TEXTURE_WOOL_COLORED_WHITE",
+        "destination": "textures/blocks/wool_colored_white.png"
+    },
+    {
+        "source": "TEXTURE_WOOL_COLORED_YELLOW",
+        "destination": "textures/blocks/wool_colored_yellow.png"
+    },
+    {
+        "source": "TEXTURE_CHISELED_DEEPSLATE",
+        "destination": "textures/blocks/deepslate/chiseled_deepslate.png"
+    },
+    {
+        "source": "TEXTURE_COBBLED_DEEPSLATE",
+        "destination": "textures/blocks/deepslate/cobbled_deepslate.png"
+    },
+    {
+        "source": "TEXTURE_CRACKED_DEEPSLATE_BRICKS",
+        "destination": "textures/blocks/deepslate/cracked_deepslate_bricks.png"
+    },
+    {
+        "source": "TEXTURE_CRACKED_DEEPSLATE_TILES",
+        "destination": "textures/blocks/deepslate/cracked_deepslate_tiles.png"
+    },
+    {
+        "source": "TEXTURE_DEEPSLATE",
+        "destination": "textures/blocks/deepslate/deepslate.png"
+    },
+    {
+        "source": "TEXTURE_DEEPSLATE_BRICKS",
+        "destination": "textures/blocks/deepslate/deepslate_bricks.png"
+    },
+    {
+        "source": "TEXTURE_DEEPSLATE_COAL_ORE",
+        "destination": "textures/blocks/deepslate/deepslate_coal_ore.png"
+    },
+    {
+        "source": "TEXTURE_DEEPSLATE_COPPER_ORE",
+        "destination": "textures/blocks/deepslate/deepslate_copper_ore.png"
+    },
+    {
+        "source": "TEXTURE_DEEPSLATE_DIAMOND_ORE",
+        "destination": "textures/blocks/deepslate/deepslate_diamond_ore.png"
+    },
+    {
+        "source": "TEXTURE_DEEPSLATE_EMERALD_ORE",
+        "destination": "textures/blocks/deepslate/deepslate_emerald_ore.png"
+    },
+    {
+        "source": "TEXTURE_DEEPSLATE_GOLD_ORE",
+        "destination": "textures/blocks/deepslate/deepslate_gold_ore.png"
+    },
+    {
+        "source": "TEXTURE_DEEPSLATE_IRON_ORE",
+        "destination": "textures/blocks/deepslate/deepslate_iron_ore.png"
+    },
+    {
+        "source": "TEXTURE_DEEPSLATE_LAPIS_ORE",
+        "destination": "textures/blocks/deepslate/deepslate_lapis_ore.png"
+    },
+    {
+        "source": "TEXTURE_DEEPSLATE_REDSTONE_ORE",
+        "destination": "textures/blocks/deepslate/deepslate_redstone_ore.png"
+    },
+    {
+        "source": "TEXTURE_DEEPSLATE_TILES",
+        "destination": "textures/blocks/deepslate/deepslate_tiles.png"
+    },
+    {
+        "source": "TEXTURE_DEEPSLATE_TOP",
+        "destination": "textures/blocks/deepslate/deepslate_top.png"
+    },
+    {
+        "source": "TEXTURE_POLISHED_DEEPSLATE",
+        "destination": "textures/blocks/deepslate/polished_deepslate.png"
+    },
+    {
+        "source": "TEXTURE_CRIMSON_DOOR_LOWER",
+        "destination": "textures/blocks/huge_fungus/crimson_door_lower.png"
+    },
+    {
+        "source": "TEXTURE_CRIMSON_DOOR_TOP",
+        "destination": "textures/blocks/huge_fungus/crimson_door_top.png"
+    },
+    {
+        "source": "TEXTURE_CRIMSON_LOG_SIDE",
+        "destination": "textures/blocks/huge_fungus/crimson_log_side.png"
+    },
+    {
+        "source": "TEXTURE_CRIMSON_LOG_TOP",
+        "destination": "textures/blocks/huge_fungus/crimson_log_top.png"
+    },
+    {
+        "source": "TEXTURE_CRIMSON_PLANKS",
+        "destination": "textures/blocks/huge_fungus/crimson_planks.png"
+    },
+    {
+        "source": "TEXTURE_CRIMSON_TRAPDOOR",
+        "destination": "textures/blocks/huge_fungus/crimson_trapdoor.png"
+    },
+    {
+        "source": "TEXTURE_STRIPPED_CRIMSON_STEM_SIDE",
+        "destination": "textures/blocks/huge_fungus/stripped_crimson_stem_side.png"
+    },
+    {
+        "source": "TEXTURE_STRIPPED_CRIMSON_STEM_TOP",
+        "destination": "textures/blocks/huge_fungus/stripped_crimson_stem_top.png"
+    },
+    {
+        "source": "TEXTURE_STRIPPED_WARPED_STEM_SIDE",
+        "destination": "textures/blocks/huge_fungus/stripped_warped_stem_side.png"
+    },
+    {
+        "source": "TEXTURE_STRIPPED_WARPED_STEM_TOP",
+        "destination": "textures/blocks/huge_fungus/stripped_warped_stem_top.png"
+    },
+    {
+        "source": "TEXTURE_WARPED_DOOR_LOWER",
+        "destination": "textures/blocks/huge_fungus/warped_door_lower.png"
+    },
+    {
+        "source": "TEXTURE_WARPED_DOOR_TOP",
+        "destination": "textures/blocks/huge_fungus/warped_door_top.png"
+    },
+    {
+        "source": "TEXTURE_WARPED_PLANKS",
+        "destination": "textures/blocks/huge_fungus/warped_planks.png"
+    },
+    {
+        "source": "TEXTURE_WARPED_STEM_SIDE",
+        "destination": "textures/blocks/huge_fungus/warped_stem_side.png"
+    },
+    {
+        "source": "TEXTURE_WARPED_STEM_TOP",
+        "destination": "textures/blocks/huge_fungus/warped_stem_top.png"
+    },
+    {
+        "source": "TEXTURE_WARPED_TRAPDOOR",
+        "destination": "textures/blocks/huge_fungus/warped_trapdoor.png"
+    },
+    {
+        "source": "TEXTURE_BIRCH",
+        "destination": "textures/colormap/birch.png"
+    },
+    {
+        "source": "TEXTURE_EVERGREEN",
+        "destination": "textures/colormap/evergreen.png"
+    },
+    {
+        "source": "TEXTURE_MANGROVE_SWAMP_FOLIAGE",
+        "destination": "textures/colormap/mangrove_swamp_foliage.png"
+    },
+    {
+        "source": "TEXTURE_SWAMP_FOLIAGE",
+        "destination": "textures/colormap/swamp_foliage.png"
+    },
+    {
+        "source": "TEXTURE_SWAMP_GRASS",
+        "destination": "textures/colormap/swamp_grass.png"
+    },
+    {
+        "source": "TEXTURE_ACACIA_HANGING_SIGN",
+        "destination": "textures/entity/acacia_hanging_sign.png"
+    },
+    {
+        "source": "TEXTURE_AGENT",
+        "destination": "textures/entity/agent.png"
+    },
+    {
+        "source": "TEXTURE_ALEX",
+        "destination": "textures/entity/alex.png"
+    },
+    {
+        "source": "TEXTURE_ARROWS",
+        "destination": "textures/entity/arrows.png"
+    },
+    {
+        "source": "TEXTURE_BAMBOO_HANGING_SIGN",
+        "destination": "textures/entity/bamboo_hanging_sign.png"
+    },
+    {
+        "source": "TEXTURE_BAMBOO_SIGN",
+        "destination": "textures/entity/bamboo_sign.png"
+    },
+    {
+        "source": "TEXTURE_BAT_V2",
+        "destination": "textures/entity/bat_v2.png"
+    },
+    {
+        "source": "TEXTURE_BIRCH_HANGING_SIGN",
+        "destination": "textures/entity/birch_hanging_sign.png"
+    },
+    {
+        "source": "TEXTURE_CAMERA_TRIPOD",
+        "destination": "textures/entity/camera_tripod.png"
+    },
+    {
+        "source": "TEXTURE_CAPE_INVISIBLE",
+        "destination": "textures/entity/cape_invisible.png"
+    },
+    {
+        "source": "TEXTURE_CHAR",
+        "destination": "textures/entity/char.png"
+    },
+    {
+        "source": "TEXTURE_CHERRY_HANGING_SIGN",
+        "destination": "textures/entity/cherry_hanging_sign.png"
+    },
+    {
+        "source": "TEXTURE_CHERRY_SIGN",
+        "destination": "textures/entity/cherry_sign.png"
+    },
+    {
+        "source": "TEXTURE_CRIMSON_HANGING_SIGN",
+        "destination": "textures/entity/crimson_hanging_sign.png"
+    },
+    {
+        "source": "TEXTURE_DARK_OAK_HANGING_SIGN",
+        "destination": "textures/entity/dark_oak_hanging_sign.png"
+    },
+    {
+        "source": "TEXTURE_DUMMY",
+        "destination": "textures/entity/dummy.png"
+    },
+    {
+        "source": "TEXTURE_ENCHANTING_TABLE_BOOK_SHADOW",
+        "destination": "textures/entity/enchanting_table_book_shadow.png"
+    },
+    {
+        "source": "TEXTURE_FIREWORKS",
+        "destination": "textures/entity/fireworks.png"
+    },
+    {
+        "source": "TEXTURE_FISHHOOK",
+        "destination": "textures/entity/fishhook.png"
+    },
+    {
+        "source": "TEXTURE_IRON_GOLEM",
+        "destination": "textures/entity/iron_golem.png"
+    },
+    {
+        "source": "TEXTURE_JUNGLE_HANGING_SIGN",
+        "destination": "textures/entity/jungle_hanging_sign.png"
+    },
+    {
+        "source": "TEXTURE_LEAD_ROPE",
+        "destination": "textures/entity/lead_rope.png"
+    },
+    {
+        "source": "TEXTURE_LOYALTY_ROPE",
+        "destination": "textures/entity/loyalty_rope.png"
+    },
+    {
+        "source": "TEXTURE_MANGROVE_HANGING_SIGN",
+        "destination": "textures/entity/mangrove_hanging_sign.png"
+    },
+    {
+        "source": "TEXTURE_MANGROVE_SIGN",
+        "destination": "textures/entity/mangrove_sign.png"
+    },
+    {
+        "source": "TEXTURE_OAK_HANGING_SIGN",
+        "destination": "textures/entity/oak_hanging_sign.png"
+    },
+    {
+        "source": "TEXTURE_PILLAGER",
+        "destination": "textures/entity/pillager.png"
+    },
+    {
+        "source": "TEXTURE_POLARBEAR",
+        "destination": "textures/entity/polarbear.png"
+    },
+    {
+        "source": "TEXTURE_SADDLE",
+        "destination": "textures/entity/saddle.png"
+    },
+    {
+        "source": "TEXTURE_SEA_TURTLE",
+        "destination": "textures/entity/sea_turtle.png"
+    },
+    {
+        "source": "TEXTURE_SHIELD",
+        "destination": "textures/entity/shield.png"
+    },
+    {
+        "source": "TEXTURE_SIGN",
+        "destination": "textures/entity/sign.png"
+    },
+    {
+        "source": "TEXTURE_SIGN_ACACIA",
+        "destination": "textures/entity/sign_acacia.png"
+    },
+    {
+        "source": "TEXTURE_SIGN_BIRCH",
+        "destination": "textures/entity/sign_birch.png"
+    },
+    {
+        "source": "TEXTURE_SIGN_CRIMSON",
+        "destination": "textures/entity/sign_crimson.png"
+    },
+    {
+        "source": "TEXTURE_SIGN_DARKOAK",
+        "destination": "textures/entity/sign_darkoak.png"
+    },
+    {
+        "source": "TEXTURE_SIGN_JUNGLE",
+        "destination": "textures/entity/sign_jungle.png"
+    },
+    {
+        "source": "TEXTURE_SIGN_SPRUCE",
+        "destination": "textures/entity/sign_spruce.png"
+    },
+    {
+        "source": "TEXTURE_SIGN_WARPED",
+        "destination": "textures/entity/sign_warped.png"
+    },
+    {
+        "source": "TEXTURE_SPRUCE_HANGING_SIGN",
+        "destination": "textures/entity/spruce_hanging_sign.png"
+    },
+    {
+        "source": "TEXTURE_SPYGLASS",
+        "destination": "textures/entity/spyglass.png"
+    },
+    {
+        "source": "TEXTURE_SQUID",
+        "destination": "textures/entity/squid.png"
+    },
+    {
+        "source": "TEXTURE_STEVE",
+        "destination": "textures/entity/steve.png"
+    },
+    {
+        "source": "TEXTURE_VINDICATOR",
+        "destination": "textures/entity/vindicator.png"
+    },
+    {
+        "source": "TEXTURE_WARPED_HANGING_SIGN",
+        "destination": "textures/entity/warped_hanging_sign.png"
+    },
+    {
+        "source": "TEXTURE_BANNER_PIGLIN",
+        "destination": "textures/entity/banner/banner_piglin.png"
+    },
+    {
+        "source": "TEXTURE_SILVER",
+        "destination": "textures/entity/bed/silver.png"
+    },
+    {
+        "source": "TEXTURE_BELL",
+        "destination": "textures/entity/bell/bell.png"
+    },
+    {
+        "source": "TEXTURE_BAMBOO_RAFT",
+        "destination": "textures/entity/boat/bamboo_raft.png"
+    },
+    {
+        "source": "TEXTURE_BOAT_ACACIA",
+        "destination": "textures/entity/boat/boat_acacia.png"
+    },
+    {
+        "source": "TEXTURE_BOAT_BIRCH",
+        "destination": "textures/entity/boat/boat_birch.png"
+    },
+    {
+        "source": "TEXTURE_BOAT_DARKOAK",
+        "destination": "textures/entity/boat/boat_darkoak.png"
+    },
+    {
+        "source": "TEXTURE_BOAT_JUNGLE",
+        "destination": "textures/entity/boat/boat_jungle.png"
+    },
+    {
+        "source": "TEXTURE_BOAT_OAK",
+        "destination": "textures/entity/boat/boat_oak.png"
+    },
+    {
+        "source": "TEXTURE_BOAT_SPRUCE",
+        "destination": "textures/entity/boat/boat_spruce.png"
+    },
+    {
+        "source": "TEXTURE_CHERRY_BOAT",
+        "destination": "textures/entity/boat/cherry_boat.png"
+    },
+    {
+        "source": "TEXTURE_CHEST_BOAT_ACACIA",
+        "destination": "textures/entity/boat/chest_boat_acacia.png"
+    },
+    {
+        "source": "TEXTURE_CHEST_BOAT_BAMBOO",
+        "destination": "textures/entity/boat/chest_boat_bamboo.png"
+    },
+    {
+        "source": "TEXTURE_CHEST_BOAT_BIRCH",
+        "destination": "textures/entity/boat/chest_boat_birch.png"
+    },
+    {
+        "source": "TEXTURE_CHEST_BOAT_CHERRY",
+        "destination": "textures/entity/boat/chest_boat_cherry.png"
+    },
+    {
+        "source": "TEXTURE_CHEST_BOAT_DARKOAK",
+        "destination": "textures/entity/boat/chest_boat_darkoak.png"
+    },
+    {
+        "source": "TEXTURE_CHEST_BOAT_JUNGLE",
+        "destination": "textures/entity/boat/chest_boat_jungle.png"
+    },
+    {
+        "source": "TEXTURE_CHEST_BOAT_MANGROVE",
+        "destination": "textures/entity/boat/chest_boat_mangrove.png"
+    },
+    {
+        "source": "TEXTURE_CHEST_BOAT_OAK",
+        "destination": "textures/entity/boat/chest_boat_oak.png"
+    },
+    {
+        "source": "TEXTURE_CHEST_BOAT_SPRUCE",
+        "destination": "textures/entity/boat/chest_boat_spruce.png"
+    },
+    {
+        "source": "TEXTURE_MANGROVE_BOAT",
+        "destination": "textures/entity/boat/mangrove_boat.png"
+    },
+    {
+        "source": "TEXTURE_ALLBLACKCAT",
+        "destination": "textures/entity/cat/allblackcat.png"
+    },
+    {
+        "source": "TEXTURE_BLACKCAT",
+        "destination": "textures/entity/cat/blackcat.png"
+    },
+    {
+        "source": "TEXTURE_BRITISHSHORTHAIR",
+        "destination": "textures/entity/cat/britishshorthair.png"
+    },
+    {
+        "source": "TEXTURE_REDTABBY",
+        "destination": "textures/entity/cat/redtabby.png"
+    },
+    {
+        "source": "TEXTURE_SIAMESECAT",
+        "destination": "textures/entity/cat/siamesecat.png"
+    },
+    {
+        "source": "TEXTURE_TUXEDO",
+        "destination": "textures/entity/cat/tuxedo.png"
+    },
+    {
+        "source": "TEXTURE_DOUBLE_NORMAL",
+        "destination": "textures/entity/chest/double_normal.png"
+    },
+    {
+        "source": "TEXTURE_TRAPPED_DOUBLE",
+        "destination": "textures/entity/chest/trapped_double.png"
+    },
+    {
+        "source": "TEXTURE_MOOSHROOM",
+        "destination": "textures/entity/cow/mooshroom.png"
+    },
+    {
+        "source": "TEXTURE_DRAGON_EXPLODING",
+        "destination": "textures/entity/dragon/dragon_exploding.png"
+    },
+    {
+        "source": "TEXTURE_DRAGON_EYES",
+        "destination": "textures/entity/dragon/dragon_eyes.png"
+    },
+    {
+        "source": "TEXTURE_ENDERCRYSTAL",
+        "destination": "textures/entity/endercrystal/endercrystal.png"
+    },
+    {
+        "source": "TEXTURE_ENDERCRYSTAL_BEAM",
+        "destination": "textures/entity/endercrystal/endercrystal_beam.png"
+    },
+    {
+        "source": "TEXTURE_CLOWNFISH",
+        "destination": "textures/entity/fish/clownfish.png"
+    },
+    {
+        "source": "TEXTURE_FISH",
+        "destination": "textures/entity/fish/fish.png"
+    },
+    {
+        "source": "TEXTURE_ARCTIC_FOX",
+        "destination": "textures/entity/fox/arctic_fox.png"
+    },
+    {
+        "source": "TEXTURE_FANGS",
+        "destination": "textures/entity/illager/fangs.png"
+    },
+    {
+        "source": "TEXTURE_CRACKED_HIGH",
+        "destination": "textures/entity/iron_golem/cracked_high.png"
+    },
+    {
+        "source": "TEXTURE_CRACKED_LOW",
+        "destination": "textures/entity/iron_golem/cracked_low.png"
+    },
+    {
+        "source": "TEXTURE_CRACKED_MEDIUM",
+        "destination": "textures/entity/iron_golem/cracked_medium.png"
+    },
+    {
+        "source": "TEXTURE_LLAMA",
+        "destination": "textures/entity/llama/llama.png"
+    },
+    {
+        "source": "TEXTURE_LLAMA_BROWN",
+        "destination": "textures/entity/llama/llama_brown.png"
+    },
+    {
+        "source": "TEXTURE_LLAMA_CREAMY",
+        "destination": "textures/entity/llama/llama_creamy.png"
+    },
+    {
+        "source": "TEXTURE_LLAMA_GRAY",
+        "destination": "textures/entity/llama/llama_gray.png"
+    },
+    {
+        "source": "TEXTURE_LLAMA_WHITE",
+        "destination": "textures/entity/llama/llama_white.png"
+    },
+    {
+        "source": "TEXTURE_DECOR_BLACK",
+        "destination": "textures/entity/llama/decor/decor_black.png"
+    },
+    {
+        "source": "TEXTURE_DECOR_BLUE",
+        "destination": "textures/entity/llama/decor/decor_blue.png"
+    },
+    {
+        "source": "TEXTURE_DECOR_BROWN",
+        "destination": "textures/entity/llama/decor/decor_brown.png"
+    },
+    {
+        "source": "TEXTURE_DECOR_CYAN",
+        "destination": "textures/entity/llama/decor/decor_cyan.png"
+    },
+    {
+        "source": "TEXTURE_DECOR_GRAY",
+        "destination": "textures/entity/llama/decor/decor_gray.png"
+    },
+    {
+        "source": "TEXTURE_DECOR_GREEN",
+        "destination": "textures/entity/llama/decor/decor_green.png"
+    },
+    {
+        "source": "TEXTURE_DECOR_LIGHT_BLUE",
+        "destination": "textures/entity/llama/decor/decor_light_blue.png"
+    },
+    {
+        "source": "TEXTURE_DECOR_LIME",
+        "destination": "textures/entity/llama/decor/decor_lime.png"
+    },
+    {
+        "source": "TEXTURE_DECOR_MAGENTA",
+        "destination": "textures/entity/llama/decor/decor_magenta.png"
+    },
+    {
+        "source": "TEXTURE_DECOR_ORANGE",
+        "destination": "textures/entity/llama/decor/decor_orange.png"
+    },
+    {
+        "source": "TEXTURE_DECOR_PINK",
+        "destination": "textures/entity/llama/decor/decor_pink.png"
+    },
+    {
+        "source": "TEXTURE_DECOR_PURPLE",
+        "destination": "textures/entity/llama/decor/decor_purple.png"
+    },
+    {
+        "source": "TEXTURE_DECOR_RED",
+        "destination": "textures/entity/llama/decor/decor_red.png"
+    },
+    {
+        "source": "TEXTURE_DECOR_SILVER",
+        "destination": "textures/entity/llama/decor/decor_silver.png"
+    },
+    {
+        "source": "TEXTURE_DECOR_WHITE",
+        "destination": "textures/entity/llama/decor/decor_white.png"
+    },
+    {
+        "source": "TEXTURE_DECOR_YELLOW",
+        "destination": "textures/entity/llama/decor/decor_yellow.png"
+    },
+    {
+        "source": "TEXTURE_TRADER_LLAMA_DECOR",
+        "destination": "textures/entity/llama/decor/trader_llama_decor.png"
+    },
+    {
+        "source": "TEXTURE_NPC_1",
+        "destination": "textures/entity/npc/npc_1.png"
+    },
+    {
+        "source": "TEXTURE_NPC_10",
+        "destination": "textures/entity/npc/npc_10.png"
+    },
+    {
+        "source": "TEXTURE_NPC_2",
+        "destination": "textures/entity/npc/npc_2.png"
+    },
+    {
+        "source": "TEXTURE_NPC_3",
+        "destination": "textures/entity/npc/npc_3.png"
+    },
+    {
+        "source": "TEXTURE_NPC_4",
+        "destination": "textures/entity/npc/npc_4.png"
+    },
+    {
+        "source": "TEXTURE_NPC_5",
+        "destination": "textures/entity/npc/npc_5.png"
+    },
+    {
+        "source": "TEXTURE_NPC_6",
+        "destination": "textures/entity/npc/npc_6.png"
+    },
+    {
+        "source": "TEXTURE_NPC_7",
+        "destination": "textures/entity/npc/npc_7.png"
+    },
+    {
+        "source": "TEXTURE_NPC_8",
+        "destination": "textures/entity/npc/npc_8.png"
+    },
+    {
+        "source": "TEXTURE_NPC_9",
+        "destination": "textures/entity/npc/npc_9.png"
+    },
+    {
+        "source": "TEXTURE_NPC_AGRICULTURE_1",
+        "destination": "textures/entity/npc/npc_Agriculture_1.png"
+    },
+    {
+        "source": "TEXTURE_NPC_AGRICULTURE_10",
+        "destination": "textures/entity/npc/npc_Agriculture_10.png"
+    },
+    {
+        "source": "TEXTURE_NPC_AGRICULTURE_2",
+        "destination": "textures/entity/npc/npc_Agriculture_2.png"
+    },
+    {
+        "source": "TEXTURE_NPC_AGRICULTURE_3",
+        "destination": "textures/entity/npc/npc_Agriculture_3.png"
+    },
+    {
+        "source": "TEXTURE_NPC_AGRICULTURE_4",
+        "destination": "textures/entity/npc/npc_Agriculture_4.png"
+    },
+    {
+        "source": "TEXTURE_NPC_AGRICULTURE_5",
+        "destination": "textures/entity/npc/npc_Agriculture_5.png"
+    },
+    {
+        "source": "TEXTURE_NPC_AGRICULTURE_6",
+        "destination": "textures/entity/npc/npc_Agriculture_6.png"
+    },
+    {
+        "source": "TEXTURE_NPC_AGRICULTURE_7",
+        "destination": "textures/entity/npc/npc_Agriculture_7.png"
+    },
+    {
+        "source": "TEXTURE_NPC_AGRICULTURE_8",
+        "destination": "textures/entity/npc/npc_Agriculture_8.png"
+    },
+    {
+        "source": "TEXTURE_NPC_AGRICULTURE_9",
+        "destination": "textures/entity/npc/npc_Agriculture_9.png"
+    },
+    {
+        "source": "TEXTURE_NPC_APIARY_1",
+        "destination": "textures/entity/npc/npc_apiary_1.png"
+    },
+    {
+        "source": "TEXTURE_NPC_APIARY_2",
+        "destination": "textures/entity/npc/npc_apiary_2.png"
+    },
+    {
+        "source": "TEXTURE_NPC_APIARY_3",
+        "destination": "textures/entity/npc/npc_apiary_3.png"
+    },
+    {
+        "source": "TEXTURE_NPC_APIARY_4",
+        "destination": "textures/entity/npc/npc_apiary_4.png"
+    },
+    {
+        "source": "TEXTURE_NPC_APIARY_5",
+        "destination": "textures/entity/npc/npc_apiary_5.png"
+    },
+    {
+        "source": "TEXTURE_NPC_BUSINESSMOBS_1",
+        "destination": "textures/entity/npc/npc_BusinessMobs_1.png"
+    },
+    {
+        "source": "TEXTURE_NPC_BUSINESSMOBS_2",
+        "destination": "textures/entity/npc/npc_BusinessMobs_2.png"
+    },
+    {
+        "source": "TEXTURE_NPC_BUSINESSMOBS_3",
+        "destination": "textures/entity/npc/npc_BusinessMobs_3.png"
+    },
+    {
+        "source": "TEXTURE_NPC_BUSINESSMOBS_4",
+        "destination": "textures/entity/npc/npc_BusinessMobs_4.png"
+    },
+    {
+        "source": "TEXTURE_NPC_BUSINESSMOBS_5",
+        "destination": "textures/entity/npc/npc_BusinessMobs_5.png"
+    },
+    {
+        "source": "TEXTURE_NPC_CONSTRUCTION_1",
+        "destination": "textures/entity/npc/npc_construction_1.png"
+    },
+    {
+        "source": "TEXTURE_NPC_CONSTRUCTION_2",
+        "destination": "textures/entity/npc/npc_construction_2.png"
+    },
+    {
+        "source": "TEXTURE_NPC_CONSTRUCTION_3",
+        "destination": "textures/entity/npc/npc_construction_3.png"
+    },
+    {
+        "source": "TEXTURE_NPC_CONSTRUCTION_4",
+        "destination": "textures/entity/npc/npc_construction_4.png"
+    },
+    {
+        "source": "TEXTURE_NPC_CONSTRUCTION_5",
+        "destination": "textures/entity/npc/npc_construction_5.png"
+    },
+    {
+        "source": "TEXTURE_NPC_EVERYDAYBUSINESS_1",
+        "destination": "textures/entity/npc/npc_EverydayBusiness_1.png"
+    },
+    {
+        "source": "TEXTURE_NPC_EVERYDAYBUSINESS_2",
+        "destination": "textures/entity/npc/npc_EverydayBusiness_2.png"
+    },
+    {
+        "source": "TEXTURE_NPC_EVERYDAYBUSINESS_3",
+        "destination": "textures/entity/npc/npc_EverydayBusiness_3.png"
+    },
+    {
+        "source": "TEXTURE_NPC_EVERYDAYBUSINESS_4",
+        "destination": "textures/entity/npc/npc_EverydayBusiness_4.png"
+    },
+    {
+        "source": "TEXTURE_NPC_EVERYDAYBUSINESS_5",
+        "destination": "textures/entity/npc/npc_EverydayBusiness_5.png"
+    },
+    {
+        "source": "TEXTURE_NPC_KIOSK_1",
+        "destination": "textures/entity/npc/npc_Kiosk_1.png"
+    },
+    {
+        "source": "TEXTURE_NPC_KIOSK_2",
+        "destination": "textures/entity/npc/npc_Kiosk_2.png"
+    },
+    {
+        "source": "TEXTURE_NPC_KIOSK_3",
+        "destination": "textures/entity/npc/npc_Kiosk_3.png"
+    },
+    {
+        "source": "TEXTURE_NPC_KIOSK_4",
+        "destination": "textures/entity/npc/npc_Kiosk_4.png"
+    },
+    {
+        "source": "TEXTURE_NPC_KIOSK_5",
+        "destination": "textures/entity/npc/npc_Kiosk_5.png"
+    },
+    {
+        "source": "TEXTURE_NPC_SCIENTIST_1",
+        "destination": "textures/entity/npc/npc_scientist_1.png"
+    },
+    {
+        "source": "TEXTURE_NPC_SCIENTIST_10",
+        "destination": "textures/entity/npc/npc_scientist_10.png"
+    },
+    {
+        "source": "TEXTURE_NPC_SCIENTIST_2",
+        "destination": "textures/entity/npc/npc_scientist_2.png"
+    },
+    {
+        "source": "TEXTURE_NPC_SCIENTIST_3",
+        "destination": "textures/entity/npc/npc_scientist_3.png"
+    },
+    {
+        "source": "TEXTURE_NPC_SCIENTIST_4",
+        "destination": "textures/entity/npc/npc_scientist_4.png"
+    },
+    {
+        "source": "TEXTURE_NPC_SCIENTIST_5",
+        "destination": "textures/entity/npc/npc_scientist_5.png"
+    },
+    {
+        "source": "TEXTURE_NPC_SCIENTIST_6",
+        "destination": "textures/entity/npc/npc_scientist_6.png"
+    },
+    {
+        "source": "TEXTURE_NPC_SCIENTIST_7",
+        "destination": "textures/entity/npc/npc_scientist_7.png"
+    },
+    {
+        "source": "TEXTURE_NPC_SCIENTIST_8",
+        "destination": "textures/entity/npc/npc_scientist_8.png"
+    },
+    {
+        "source": "TEXTURE_NPC_SCIENTIST_9",
+        "destination": "textures/entity/npc/npc_scientist_9.png"
+    },
+    {
+        "source": "TEXTURE_NPC_TEACHER_1",
+        "destination": "textures/entity/npc/npc_teacher_1.png"
+    },
+    {
+        "source": "TEXTURE_NPC_TEACHER_2",
+        "destination": "textures/entity/npc/npc_teacher_2.png"
+    },
+    {
+        "source": "TEXTURE_NPC_TEACHER_3",
+        "destination": "textures/entity/npc/npc_teacher_3.png"
+    },
+    {
+        "source": "TEXTURE_NPC_TEACHER_4",
+        "destination": "textures/entity/npc/npc_teacher_4.png"
+    },
+    {
+        "source": "TEXTURE_NPC_TEACHER_5",
+        "destination": "textures/entity/npc/npc_teacher_5.png"
+    },
+    {
+        "source": "TEXTURE_PANDA_AGGRESSIVE",
+        "destination": "textures/entity/panda/panda_aggressive.png"
+    },
+    {
+        "source": "TEXTURE_PANDA_BROWN",
+        "destination": "textures/entity/panda/panda_brown.png"
+    },
+    {
+        "source": "TEXTURE_PANDA_LAZY",
+        "destination": "textures/entity/panda/panda_lazy.png"
+    },
+    {
+        "source": "TEXTURE_PANDA_PLAYFUL",
+        "destination": "textures/entity/panda/panda_playful.png"
+    },
+    {
+        "source": "TEXTURE_PANDA_SNEEZY",
+        "destination": "textures/entity/panda/panda_sneezy.png"
+    },
+    {
+        "source": "TEXTURE_PANDA_WORRIED",
+        "destination": "textures/entity/panda/panda_worried.png"
+    },
+    {
+        "source": "TEXTURE_PIGZOMBIE",
+        "destination": "textures/entity/pig/pigzombie.png"
+    },
+    {
+        "source": "TEXTURE_ZOMBIE_PIGLIN",
+        "destination": "textures/entity/piglin/zombie_piglin.png"
+    },
+    {
+        "source": "TEXTURE_PISTONARM",
+        "destination": "textures/entity/pistonarm/pistonArm.png"
+    },
+    {
+        "source": "TEXTURE_PISTONARMSTICKY",
+        "destination": "textures/entity/pistonarm/pistonArmSticky.png"
+    },
+    {
+        "source": "TEXTURE_BLACKRABBIT",
+        "destination": "textures/entity/rabbit/blackrabbit.png"
+    },
+    {
+        "source": "TEXTURE_BASE",
+        "destination": "textures/entity/shield_patterns/base.png"
+    },
+    {
+        "source": "TEXTURE_BORDER",
+        "destination": "textures/entity/shield_patterns/border.png"
+    },
+    {
+        "source": "TEXTURE_BRICKS",
+        "destination": "textures/entity/shield_patterns/bricks.png"
+    },
+    {
+        "source": "TEXTURE_CIRCLE",
+        "destination": "textures/entity/shield_patterns/circle.png"
+    },
+    {
+        "source": "TEXTURE_CREEPER",
+        "destination": "textures/entity/shield_patterns/creeper.png"
+    },
+    {
+        "source": "TEXTURE_CROSS",
+        "destination": "textures/entity/shield_patterns/cross.png"
+    },
+    {
+        "source": "TEXTURE_CURLY_BORDER",
+        "destination": "textures/entity/shield_patterns/curly_border.png"
+    },
+    {
+        "source": "TEXTURE_DIAGONAL_LEFT",
+        "destination": "textures/entity/shield_patterns/diagonal_left.png"
+    },
+    {
+        "source": "TEXTURE_DIAGONAL_RIGHT",
+        "destination": "textures/entity/shield_patterns/diagonal_right.png"
+    },
+    {
+        "source": "TEXTURE_DIAGONAL_UP_LEFT",
+        "destination": "textures/entity/shield_patterns/diagonal_up_left.png"
+    },
+    {
+        "source": "TEXTURE_DIAGONAL_UP_RIGHT",
+        "destination": "textures/entity/shield_patterns/diagonal_up_right.png"
+    },
+    {
+        "source": "TEXTURE_FLOWER",
+        "destination": "textures/entity/shield_patterns/flower.png"
+    },
+    {
+        "source": "TEXTURE_GLOBE",
+        "destination": "textures/entity/shield_patterns/globe.png"
+    },
+    {
+        "source": "TEXTURE_GRADIENT",
+        "destination": "textures/entity/shield_patterns/gradient.png"
+    },
+    {
+        "source": "TEXTURE_GRADIENT_UP",
+        "destination": "textures/entity/shield_patterns/gradient_up.png"
+    },
+    {
+        "source": "TEXTURE_HALF_HORIZONTAL",
+        "destination": "textures/entity/shield_patterns/half_horizontal.png"
+    },
+    {
+        "source": "TEXTURE_HALF_HORIZONTAL_BOTTOM",
+        "destination": "textures/entity/shield_patterns/half_horizontal_bottom.png"
+    },
+    {
+        "source": "TEXTURE_HALF_VERTICAL",
+        "destination": "textures/entity/shield_patterns/half_vertical.png"
+    },
+    {
+        "source": "TEXTURE_HALF_VERTICAL_RIGHT",
+        "destination": "textures/entity/shield_patterns/half_vertical_right.png"
+    },
+    {
+        "source": "TEXTURE_ILLAGER",
+        "destination": "textures/entity/shield_patterns/illager.png"
+    },
+    {
+        "source": "TEXTURE_MOJANG",
+        "destination": "textures/entity/shield_patterns/mojang.png"
+    },
+    {
+        "source": "TEXTURE_PIGLIN",
+        "destination": "textures/entity/shield_patterns/piglin.png"
+    },
+    {
+        "source": "TEXTURE_RHOMBUS",
+        "destination": "textures/entity/shield_patterns/rhombus.png"
+    },
+    {
+        "source": "TEXTURE_SKULL",
+        "destination": "textures/entity/shield_patterns/skull.png"
+    },
+    {
+        "source": "TEXTURE_SMALL_STRIPES",
+        "destination": "textures/entity/shield_patterns/small_stripes.png"
+    },
+    {
+        "source": "TEXTURE_SQUARE_BOTTOM_LEFT",
+        "destination": "textures/entity/shield_patterns/square_bottom_left.png"
+    },
+    {
+        "source": "TEXTURE_SQUARE_BOTTOM_RIGHT",
+        "destination": "textures/entity/shield_patterns/square_bottom_right.png"
+    },
+    {
+        "source": "TEXTURE_SQUARE_TOP_LEFT",
+        "destination": "textures/entity/shield_patterns/square_top_left.png"
+    },
+    {
+        "source": "TEXTURE_SQUARE_TOP_RIGHT",
+        "destination": "textures/entity/shield_patterns/square_top_right.png"
+    },
+    {
+        "source": "TEXTURE_STRAIGHT_CROSS",
+        "destination": "textures/entity/shield_patterns/straight_cross.png"
+    },
+    {
+        "source": "TEXTURE_STRIPE_BOTTOM",
+        "destination": "textures/entity/shield_patterns/stripe_bottom.png"
+    },
+    {
+        "source": "TEXTURE_STRIPE_CENTER",
+        "destination": "textures/entity/shield_patterns/stripe_center.png"
+    },
+    {
+        "source": "TEXTURE_STRIPE_DOWNLEFT",
+        "destination": "textures/entity/shield_patterns/stripe_downleft.png"
+    },
+    {
+        "source": "TEXTURE_STRIPE_DOWNRIGHT",
+        "destination": "textures/entity/shield_patterns/stripe_downright.png"
+    },
+    {
+        "source": "TEXTURE_STRIPE_LEFT",
+        "destination": "textures/entity/shield_patterns/stripe_left.png"
+    },
+    {
+        "source": "TEXTURE_STRIPE_MIDDLE",
+        "destination": "textures/entity/shield_patterns/stripe_middle.png"
+    },
+    {
+        "source": "TEXTURE_STRIPE_RIGHT",
+        "destination": "textures/entity/shield_patterns/stripe_right.png"
+    },
+    {
+        "source": "TEXTURE_STRIPE_TOP",
+        "destination": "textures/entity/shield_patterns/stripe_top.png"
+    },
+    {
+        "source": "TEXTURE_TRIANGLES_BOTTOM",
+        "destination": "textures/entity/shield_patterns/triangles_bottom.png"
+    },
+    {
+        "source": "TEXTURE_TRIANGLES_TOP",
+        "destination": "textures/entity/shield_patterns/triangles_top.png"
+    },
+    {
+        "source": "TEXTURE_TRIANGLE_BOTTOM",
+        "destination": "textures/entity/shield_patterns/triangle_bottom.png"
+    },
+    {
+        "source": "TEXTURE_TRIANGLE_TOP",
+        "destination": "textures/entity/shield_patterns/triangle_top.png"
+    },
+    {
+        "source": "TEXTURE_SHULKER_SILVER",
+        "destination": "textures/entity/shulker/shulker_silver.png"
+    },
+    {
+        "source": "TEXTURE_SHULKER_UNDYED",
+        "destination": "textures/entity/shulker/shulker_undyed.png"
+    },
+    {
+        "source": "TEXTURE_CREEPER",
+        "destination": "textures/entity/skulls/creeper.png"
+    },
+    {
+        "source": "TEXTURE_SKELETON",
+        "destination": "textures/entity/skulls/skeleton.png"
+    },
+    {
+        "source": "TEXTURE_WITHER_SKELETON",
+        "destination": "textures/entity/skulls/wither_skeleton.png"
+    },
+    {
+        "source": "TEXTURE_ZOMBIE",
+        "destination": "textures/entity/skulls/zombie.png"
+    },
+    {
+        "source": "TEXTURE_STRIDER_SADDLED",
+        "destination": "textures/entity/strider/strider_saddled.png"
+    },
+    {
+        "source": "TEXTURE_STRIDER_SUFFOCATED",
+        "destination": "textures/entity/strider/strider_suffocated.png"
+    },
+    {
+        "source": "TEXTURE_STRIDER_SUFFOCATED_SADDLED",
+        "destination": "textures/entity/strider/strider_suffocated_saddled.png"
+    },
+    {
+        "source": "TEXTURE_VEX",
+        "destination": "textures/entity/vex/vex.png"
+    },
+    {
+        "source": "TEXTURE_VEX_CHARGING",
+        "destination": "textures/entity/vex/vex_charging.png"
+    },
+    {
+        "source": "TEXTURE_BUTCHER",
+        "destination": "textures/entity/villager/butcher.png"
+    },
+    {
+        "source": "TEXTURE_FARMER",
+        "destination": "textures/entity/villager/farmer.png"
+    },
+    {
+        "source": "TEXTURE_LIBRARIAN",
+        "destination": "textures/entity/villager/librarian.png"
+    },
+    {
+        "source": "TEXTURE_PRIEST",
+        "destination": "textures/entity/villager/priest.png"
+    },
+    {
+        "source": "TEXTURE_SMITH",
+        "destination": "textures/entity/villager/smith.png"
+    },
+    {
+        "source": "TEXTURE_VILLAGER",
+        "destination": "textures/entity/villager2/villager.png"
+    },
+    {
+        "source": "TEXTURE_BIOME_DESERT",
+        "destination": "textures/entity/villager2/biomes/biome_desert.png"
+    },
+    {
+        "source": "TEXTURE_BIOME_JUNGLE",
+        "destination": "textures/entity/villager2/biomes/biome_jungle.png"
+    },
+    {
+        "source": "TEXTURE_BIOME_PLAINS",
+        "destination": "textures/entity/villager2/biomes/biome_plains.png"
+    },
+    {
+        "source": "TEXTURE_BIOME_SAVANNA",
+        "destination": "textures/entity/villager2/biomes/biome_savanna.png"
+    },
+    {
+        "source": "TEXTURE_BIOME_SNOW",
+        "destination": "textures/entity/villager2/biomes/biome_snow.png"
+    },
+    {
+        "source": "TEXTURE_BIOME_SWAMP",
+        "destination": "textures/entity/villager2/biomes/biome_swamp.png"
+    },
+    {
+        "source": "TEXTURE_BIOME_TAIGA",
+        "destination": "textures/entity/villager2/biomes/biome_taiga.png"
+    },
+    {
+        "source": "TEXTURE_LEVEL_DIAMOND",
+        "destination": "textures/entity/villager2/levels/level_diamond.png"
+    },
+    {
+        "source": "TEXTURE_LEVEL_EMERALD",
+        "destination": "textures/entity/villager2/levels/level_emerald.png"
+    },
+    {
+        "source": "TEXTURE_LEVEL_GOLD",
+        "destination": "textures/entity/villager2/levels/level_gold.png"
+    },
+    {
+        "source": "TEXTURE_LEVEL_IRON",
+        "destination": "textures/entity/villager2/levels/level_iron.png"
+    },
+    {
+        "source": "TEXTURE_LEVEL_STONE",
+        "destination": "textures/entity/villager2/levels/level_stone.png"
+    },
+    {
+        "source": "TEXTURE_WARDEN_EARS",
+        "destination": "textures/entity/warden/warden_ears.png"
+    },
+    {
+        "source": "TEXTURE_WARDEN_TENDRILS",
+        "destination": "textures/entity/warden/warden_tendrils.png"
+    },
+    {
+        "source": "TEXTURE_WITHER",
+        "destination": "textures/entity/wither_boss/wither.png"
+    },
+    {
+        "source": "TEXTURE_WITHER_ARMOR_BLUE",
+        "destination": "textures/entity/wither_boss/wither_armor_blue.png"
+    },
+    {
+        "source": "TEXTURE_WITHER_ARMOR_WHITE",
+        "destination": "textures/entity/wither_boss/wither_armor_white.png"
+    },
+    {
+        "source": "TEXTURE_WITHER_INVULNERABLE",
+        "destination": "textures/entity/wither_boss/wither_invulnerable.png"
+    },
+    {
+        "source": "TEXTURE_ZOGLIN",
+        "destination": "textures/entity/zoglin/zoglin.png"
+    },
+    {
+        "source": "TEXTURE_ZOMBIE_BUTCHER",
+        "destination": "textures/entity/zombie_villager/zombie_butcher.png"
+    },
+    {
+        "source": "TEXTURE_ZOMBIE_FARMER",
+        "destination": "textures/entity/zombie_villager/zombie_farmer.png"
+    },
+    {
+        "source": "TEXTURE_ZOMBIE_LIBRARIAN",
+        "destination": "textures/entity/zombie_villager/zombie_librarian.png"
+    },
+    {
+        "source": "TEXTURE_ZOMBIE_PRIEST",
+        "destination": "textures/entity/zombie_villager/zombie_priest.png"
+    },
+    {
+        "source": "TEXTURE_ZOMBIE_SMITH",
+        "destination": "textures/entity/zombie_villager/zombie_smith.png"
+    },
+    {
+        "source": "TEXTURE_ZOMBIE-VILLAGER",
+        "destination": "textures/entity/zombie_villager2/zombie-villager.png"
+    },
+    {
+        "source": "TEXTURE_BIOME-DESERT-ZOMBIE",
+        "destination": "textures/entity/zombie_villager2/biomes/biome-desert-zombie.png"
+    },
+    {
+        "source": "TEXTURE_BIOME-JUNGLE-ZOMBIE",
+        "destination": "textures/entity/zombie_villager2/biomes/biome-jungle-zombie.png"
+    },
+    {
+        "source": "TEXTURE_BIOME-PLAINS-ZOMBIE",
+        "destination": "textures/entity/zombie_villager2/biomes/biome-plains-zombie.png"
+    },
+    {
+        "source": "TEXTURE_BIOME-SAVANNA-ZOMBIE",
+        "destination": "textures/entity/zombie_villager2/biomes/biome-savanna-zombie.png"
+    },
+    {
+        "source": "TEXTURE_BIOME-SNOW-ZOMBIE",
+        "destination": "textures/entity/zombie_villager2/biomes/biome-snow-zombie.png"
+    },
+    {
+        "source": "TEXTURE_BIOME-SWAMP-ZOMBIE",
+        "destination": "textures/entity/zombie_villager2/biomes/biome-swamp-zombie.png"
+    },
+    {
+        "source": "TEXTURE_BIOME-TAIGA-ZOMBIE",
+        "destination": "textures/entity/zombie_villager2/biomes/biome-taiga-zombie.png"
+    },
+    {
+        "source": "TEXTURE_DESTROY_STAGE_0",
+        "destination": "textures/environment/destroy_stage_0.png"
+    },
+    {
+        "source": "TEXTURE_DESTROY_STAGE_1",
+        "destination": "textures/environment/destroy_stage_1.png"
+    },
+    {
+        "source": "TEXTURE_DESTROY_STAGE_2",
+        "destination": "textures/environment/destroy_stage_2.png"
+    },
+    {
+        "source": "TEXTURE_DESTROY_STAGE_3",
+        "destination": "textures/environment/destroy_stage_3.png"
+    },
+    {
+        "source": "TEXTURE_DESTROY_STAGE_4",
+        "destination": "textures/environment/destroy_stage_4.png"
+    },
+    {
+        "source": "TEXTURE_DESTROY_STAGE_5",
+        "destination": "textures/environment/destroy_stage_5.png"
+    },
+    {
+        "source": "TEXTURE_DESTROY_STAGE_6",
+        "destination": "textures/environment/destroy_stage_6.png"
+    },
+    {
+        "source": "TEXTURE_DESTROY_STAGE_7",
+        "destination": "textures/environment/destroy_stage_7.png"
+    },
+    {
+        "source": "TEXTURE_DESTROY_STAGE_8",
+        "destination": "textures/environment/destroy_stage_8.png"
+    },
+    {
+        "source": "TEXTURE_DESTROY_STAGE_9",
+        "destination": "textures/environment/destroy_stage_9.png"
+    },
+    {
+        "source": "TEXTURE_END_PORTAL_COLORS",
+        "destination": "textures/environment/end_portal_colors.png"
+    },
+    {
+        "source": "TEXTURE_WEATHER",
+        "destination": "textures/environment/weather.png"
+    },
+    {
+        "source": "TEXTURE_ENCHANTING_TABLE",
+        "destination": "textures/gui/enchanting_table.png"
+    },
+    {
+        "source": "TEXTURE_GUI",
+        "destination": "textures/gui/gui.png"
+    },
+    {
+        "source": "TEXTURE_GUI2",
+        "destination": "textures/gui/gui2.png"
+    },
+    {
+        "source": "TEXTURE_ICONS",
+        "destination": "textures/gui/icons.png"
+    },
+    {
+        "source": "TEXTURE_SPRITESHEET",
+        "destination": "textures/gui/spritesheet.png"
+    },
+    {
+        "source": "TEXTURE_SPRITESHEET2",
+        "destination": "textures/gui/spritesheet2.png"
+    },
+    {
+        "source": "TEXTURE_TOUCHGUI",
+        "destination": "textures/gui/touchgui.png"
+    },
+    {
+        "source": "TEXTURE_TOUCHGUI2",
+        "destination": "textures/gui/touchgui2.png"
+    },
+    {
+        "source": "TEXTURE_ANVIL-ARROW",
+        "destination": "textures/gui/newgui/anvil-arrow.png"
+    },
+    {
+        "source": "TEXTURE_ANVIL-CROSSOUT",
+        "destination": "textures/gui/newgui/anvil-crossout.png"
+    },
+    {
+        "source": "TEXTURE_ANVIL-HAMMER",
+        "destination": "textures/gui/newgui/anvil-hammer.png"
+    },
+    {
+        "source": "TEXTURE_ARROWLEFT",
+        "destination": "textures/gui/newgui/arrowLeft.png"
+    },
+    {
+        "source": "TEXTURE_ARROW_LARGE",
+        "destination": "textures/gui/newgui/arrow_large.png"
+    },
+    {
+        "source": "TEXTURE_AUTO_SAVE",
+        "destination": "textures/gui/newgui/auto_save.png"
+    },
+    {
+        "source": "TEXTURE_BUTTONNEW",
+        "destination": "textures/gui/newgui/buttonNew.png"
+    },
+    {
+        "source": "TEXTURE_BUTTONWITHBORDER",
+        "destination": "textures/gui/newgui/ButtonWithBorder.png"
+    },
+    {
+        "source": "TEXTURE_BUTTONWITHBORDERHOVER",
+        "destination": "textures/gui/newgui/ButtonWithBorderHover.png"
+    },
+    {
+        "source": "TEXTURE_BUTTONWITHBORDERPRESSED",
+        "destination": "textures/gui/newgui/ButtonWithBorderPressed.png"
+    },
+    {
+        "source": "TEXTURE_BUTTONWITHBORDERPRESSEDNOHOVER",
+        "destination": "textures/gui/newgui/ButtonWithBorderPressedNoHover.png"
+    },
+    {
+        "source": "TEXTURE_CHECK1",
+        "destination": "textures/gui/newgui/check1.png"
+    },
+    {
+        "source": "TEXTURE_CHECK2",
+        "destination": "textures/gui/newgui/check2.png"
+    },
+    {
+        "source": "TEXTURE_CLOUDS",
+        "destination": "textures/gui/newgui/clouds.png"
+    },
+    {
+        "source": "TEXTURE_DARKBUTTONNOSTROKE",
+        "destination": "textures/gui/newgui/DarkButtonNoStroke.png"
+    },
+    {
+        "source": "TEXTURE_DARKBUTTONSTROKE",
+        "destination": "textures/gui/newgui/DarkButtonStroke.png"
+    },
+    {
+        "source": "TEXTURE_DARKBUTTONTHIN",
+        "destination": "textures/gui/newgui/DarkButtonThin.png"
+    },
+    {
+        "source": "TEXTURE_DIALOG-BACKGROUND-ATLAS",
+        "destination": "textures/gui/newgui/dialog-background-atlas.png"
+    },
+    {
+        "source": "TEXTURE_DOT1",
+        "destination": "textures/gui/newgui/Dot1.png"
+    },
+    {
+        "source": "TEXTURE_DOT2",
+        "destination": "textures/gui/newgui/Dot2.png"
+    },
+    {
+        "source": "TEXTURE_DOT3",
+        "destination": "textures/gui/newgui/Dot3.png"
+    },
+    {
+        "source": "TEXTURE_DOUBLE_SIDE_TRANSPARENT",
+        "destination": "textures/gui/newgui/double_side_transparent.png"
+    },
+    {
+        "source": "TEXTURE_DOWNARROW",
+        "destination": "textures/gui/newgui/DownArrow.png"
+    },
+    {
+        "source": "TEXTURE_EVENTBARS",
+        "destination": "textures/gui/newgui/EventBars.png"
+    },
+    {
+        "source": "TEXTURE_FOCUSBORDER",
+        "destination": "textures/gui/newgui/focusBorder.png"
+    },
+    {
+        "source": "TEXTURE_FRIENDS",
+        "destination": "textures/gui/newgui/Friends.png"
+    },
+    {
+        "source": "TEXTURE_GREENBG",
+        "destination": "textures/gui/newgui/GreenBG.png"
+    },
+    {
+        "source": "TEXTURE_INDENT",
+        "destination": "textures/gui/newgui/Indent.png"
+    },
+    {
+        "source": "TEXTURE_LANGUAGE16",
+        "destination": "textures/gui/newgui/Language16.png"
+    },
+    {
+        "source": "TEXTURE_LANGUAGE18",
+        "destination": "textures/gui/newgui/Language18.png"
+    },
+    {
+        "source": "TEXTURE_LEFTARROW",
+        "destination": "textures/gui/newgui/LeftArrow.png"
+    },
+    {
+        "source": "TEXTURE_LEFTTABFRONT",
+        "destination": "textures/gui/newgui/LeftTabFront.png"
+    },
+    {
+        "source": "TEXTURE_LOCAL",
+        "destination": "textures/gui/newgui/Local.png"
+    },
+    {
+        "source": "TEXTURE_MAINBANNERS",
+        "destination": "textures/gui/newgui/MainBanners.png"
+    },
+    {
+        "source": "TEXTURE_MIDDLETABFRONT",
+        "destination": "textures/gui/newgui/MiddleTabFront.png"
+    },
+    {
+        "source": "TEXTURE_OFFLINELIGHT",
+        "destination": "textures/gui/newgui/offlineLight.png"
+    },
+    {
+        "source": "TEXTURE_PROPELLER2",
+        "destination": "textures/gui/newgui/Propeller2.png"
+    },
+    {
+        "source": "TEXTURE_REALMS",
+        "destination": "textures/gui/newgui/Realms.png"
+    },
+    {
+        "source": "TEXTURE_REALMSART",
+        "destination": "textures/gui/newgui/RealmsArt.png"
+    },
+    {
+        "source": "TEXTURE_REALMS_TOGGLE_OFF",
+        "destination": "textures/gui/newgui/realms_toggle_off.png"
+    },
+    {
+        "source": "TEXTURE_REALMS_TOGGLE_ON",
+        "destination": "textures/gui/newgui/realms_toggle_on.png"
+    },
+    {
+        "source": "TEXTURE_RIGHTARROW",
+        "destination": "textures/gui/newgui/RightArrow.png"
+    },
+    {
+        "source": "TEXTURE_RIGHTTABFRONT",
+        "destination": "textures/gui/newgui/RightTabFront.png"
+    },
+    {
+        "source": "TEXTURE_SCROLLGUTTER",
+        "destination": "textures/gui/newgui/ScrollGutter.png"
+    },
+    {
+        "source": "TEXTURE_SHARE",
+        "destination": "textures/gui/newgui/share.png"
+    },
+    {
+        "source": "TEXTURE_TABBACK",
+        "destination": "textures/gui/newgui/TabBack.png"
+    },
+    {
+        "source": "TEXTURE_TABBACKINGAME",
+        "destination": "textures/gui/newgui/TabBackInGame.png"
+    },
+    {
+        "source": "TEXTURE_TABBACKINGAMELEFTMOST",
+        "destination": "textures/gui/newgui/TabBackInGameLeftMost.png"
+    },
+    {
+        "source": "TEXTURE_TABFRONT",
+        "destination": "textures/gui/newgui/TabFront.png"
+    },
+    {
+        "source": "TEXTURE_TABFRONTINGAME",
+        "destination": "textures/gui/newgui/TabFrontInGame.png"
+    },
+    {
+        "source": "TEXTURE_TABFRONTINGAMELEFTMOST",
+        "destination": "textures/gui/newgui/TabFrontInGameLeftMost.png"
+    },
+    {
+        "source": "TEXTURE_TOPBAR",
+        "destination": "textures/gui/newgui/TopBar.png"
+    },
+    {
+        "source": "TEXTURE_TRASH",
+        "destination": "textures/gui/newgui/trash.png"
+    },
+    {
+        "source": "TEXTURE_UNDO",
+        "destination": "textures/gui/newgui/undo.png"
+    },
+    {
+        "source": "TEXTURE_UPARROW",
+        "destination": "textures/gui/newgui/UpArrow.png"
+    },
+    {
+        "source": "TEXTURE_VIEWCOLLAPSED",
+        "destination": "textures/gui/newgui/viewCollapsed.png"
+    },
+    {
+        "source": "TEXTURE_VIEWEXPANDED",
+        "destination": "textures/gui/newgui/viewExpanded.png"
+    },
+    {
+        "source": "TEXTURE_WHITEBORDER",
+        "destination": "textures/gui/newgui/WhiteBorder.png"
+    },
+    {
+        "source": "TEXTURE_WRENCHES2",
+        "destination": "textures/gui/newgui/Wrenches2.png"
+    },
+    {
+        "source": "TEXTURE_X",
+        "destination": "textures/gui/newgui/X.png"
+    },
+    {
+        "source": "TEXTURE_XHOVER",
+        "destination": "textures/gui/newgui/XHover.png"
+    },
+    {
+        "source": "TEXTURE_XPRESS",
+        "destination": "textures/gui/newgui/XPress.png"
+    },
+    {
+        "source": "TEXTURE_YELLOWSTRIKETHRU",
+        "destination": "textures/gui/newgui/yellowStrikethru.png"
+    },
+    {
+        "source": "TEXTURE_PAINTBRUSH",
+        "destination": "textures/gui/newgui/Bundle/PaintBrush.png"
+    },
+    {
+        "source": "TEXTURE_BASE",
+        "destination": "textures/gui/newgui/buttons/border/base.png"
+    },
+    {
+        "source": "TEXTURE_BASEPRESS",
+        "destination": "textures/gui/newgui/buttons/border/basePress.png"
+    },
+    {
+        "source": "TEXTURE_HOVER",
+        "destination": "textures/gui/newgui/buttons/border/hover.png"
+    },
+    {
+        "source": "TEXTURE_HOVERPRESS",
+        "destination": "textures/gui/newgui/buttons/border/hoverPress.png"
+    },
+    {
+        "source": "TEXTURE_DARK",
+        "destination": "textures/gui/newgui/buttons/borderless/dark.png"
+    },
+    {
+        "source": "TEXTURE_DARKHOVER",
+        "destination": "textures/gui/newgui/buttons/borderless/darkhover.png"
+    },
+    {
+        "source": "TEXTURE_DARKPRESSED",
+        "destination": "textures/gui/newgui/buttons/borderless/darkpressed.png"
+    },
+    {
+        "source": "TEXTURE_DARKPRESSEDNOHOVER",
+        "destination": "textures/gui/newgui/buttons/borderless/darkpressednohover.png"
+    },
+    {
+        "source": "TEXTURE_IMAGELESSHOVERBG",
+        "destination": "textures/gui/newgui/buttons/borderless/imagelesshoverbg.png"
+    },
+    {
+        "source": "TEXTURE_LIGHT",
+        "destination": "textures/gui/newgui/buttons/borderless/light.png"
+    },
+    {
+        "source": "TEXTURE_LIGHTHOVER",
+        "destination": "textures/gui/newgui/buttons/borderless/lighthover.png"
+    },
+    {
+        "source": "TEXTURE_LIGHTPRESSED",
+        "destination": "textures/gui/newgui/buttons/borderless/lightpressed.png"
+    },
+    {
+        "source": "TEXTURE_LIGHTPRESSEDNOHOVER",
+        "destination": "textures/gui/newgui/buttons/borderless/lightpressednohover.png"
+    },
+    {
+        "source": "TEXTURE_CHECK",
+        "destination": "textures/gui/newgui/buttons/checkbox/Check.png"
+    },
+    {
+        "source": "TEXTURE_CHECKBOXFILLED",
+        "destination": "textures/gui/newgui/buttons/checkbox/checkboxFilled.png"
+    },
+    {
+        "source": "TEXTURE_CHECKBOXFILLEDWHITEBORDER",
+        "destination": "textures/gui/newgui/buttons/checkbox/checkboxFilledWhiteBorder.png"
+    },
+    {
+        "source": "TEXTURE_CHECKBOXFILLEDYELLOW_WHITEBORDER",
+        "destination": "textures/gui/newgui/buttons/checkbox/checkboxFilledYellow_WhiteBorder.png"
+    },
+    {
+        "source": "TEXTURE_CHECKBOXFILLED_HOVER",
+        "destination": "textures/gui/newgui/buttons/checkbox/checkboxFilled_hover.png"
+    },
+    {
+        "source": "TEXTURE_CHECKBOXUNFILLED_HOVER",
+        "destination": "textures/gui/newgui/buttons/checkbox/checkboxUnFilled_hover.png"
+    },
+    {
+        "source": "TEXTURE_CHECKBOXUNFILLED_WHITEBORDER",
+        "destination": "textures/gui/newgui/buttons/checkbox/checkboxUnFilled_WhiteBorder.png"
+    },
+    {
+        "source": "TEXTURE_CHECKBOX_CHECKED",
+        "destination": "textures/gui/newgui/buttons/checkbox/checkbox_checked.png"
+    },
+    {
+        "source": "TEXTURE_CHECKBOX_CHECKED_DISABLED",
+        "destination": "textures/gui/newgui/buttons/checkbox/checkbox_checked_disabled.png"
+    },
+    {
+        "source": "TEXTURE_CHECKBOX_CHECKED_HOVER",
+        "destination": "textures/gui/newgui/buttons/checkbox/checkbox_checked_hover.png"
+    },
+    {
+        "source": "TEXTURE_CHECKBOX_CHECKED_WHITEBORDER",
+        "destination": "textures/gui/newgui/buttons/checkbox/checkbox_checked_WhiteBorder.png"
+    },
+    {
+        "source": "TEXTURE_CHECKBOX_CHECKED_WHITEBORDER_DISABLED",
+        "destination": "textures/gui/newgui/buttons/checkbox/checkbox_checked_WhiteBorder_disabled.png"
+    },
+    {
+        "source": "TEXTURE_CHECKBOX_FILLED",
+        "destination": "textures/gui/newgui/buttons/checkbox/checkbox_filled.png"
+    },
+    {
+        "source": "TEXTURE_CHECKBOX_FILLED_WHITEBORDER",
+        "destination": "textures/gui/newgui/buttons/checkbox/checkbox_filled_WhiteBorder.png"
+    },
+    {
+        "source": "TEXTURE_CHECKBOX_FILLED_WHITEBORDER_DISABLED",
+        "destination": "textures/gui/newgui/buttons/checkbox/checkbox_filled_WhiteBorder_disabled.png"
+    },
+    {
+        "source": "TEXTURE_CHECKBOX_UNCHECKED",
+        "destination": "textures/gui/newgui/buttons/checkbox/checkbox_unchecked.png"
+    },
+    {
+        "source": "TEXTURE_CHECKBOX_UNCHECKED_DISABLED",
+        "destination": "textures/gui/newgui/buttons/checkbox/checkbox_unchecked_disabled.png"
+    },
+    {
+        "source": "TEXTURE_CHECKBOX_UNCHECKED_HOVER",
+        "destination": "textures/gui/newgui/buttons/checkbox/checkbox_unchecked_hover.png"
+    },
+    {
+        "source": "TEXTURE_CHECKBOX_UNCHECKED_WHITEBORDER",
+        "destination": "textures/gui/newgui/buttons/checkbox/checkbox_unchecked_WhiteBorder.png"
+    },
+    {
+        "source": "TEXTURE_CHECKBOX_UNCHECKED_WHITEBORDER_DISABLED",
+        "destination": "textures/gui/newgui/buttons/checkbox/checkbox_unchecked_WhiteBorder_disabled.png"
+    },
+    {
+        "source": "TEXTURE_CHECK",
+        "destination": "textures/gui/newgui/buttons/new_checkbox/check.png"
+    },
+    {
+        "source": "TEXTURE_CHECKDISABLED",
+        "destination": "textures/gui/newgui/buttons/new_checkbox/checkDisabled.png"
+    },
+    {
+        "source": "TEXTURE_CHECKHOVER",
+        "destination": "textures/gui/newgui/buttons/new_checkbox/checkHover.png"
+    },
+    {
+        "source": "TEXTURE_SPACE",
+        "destination": "textures/gui/newgui/buttons/new_checkbox/space.png"
+    },
+    {
+        "source": "TEXTURE_SPACEDISABLED",
+        "destination": "textures/gui/newgui/buttons/new_checkbox/spaceDisabled.png"
+    },
+    {
+        "source": "TEXTURE_SPACEHOVER",
+        "destination": "textures/gui/newgui/buttons/new_checkbox/spaceHover.png"
+    },
+    {
+        "source": "TEXTURE_BAD_OMEN_EFFECT",
+        "destination": "textures/gui/newgui/mob_effects/bad_omen_effect.png"
+    },
+    {
+        "source": "TEXTURE_BLINDNESS_EFFECT",
+        "destination": "textures/gui/newgui/mob_effects/blindness_effect.png"
+    },
+    {
+        "source": "TEXTURE_FIRE_RESISTANCE_EFFECT",
+        "destination": "textures/gui/newgui/mob_effects/fire_resistance_effect.png"
+    },
+    {
+        "source": "TEXTURE_HASTE_EFFECT",
+        "destination": "textures/gui/newgui/mob_effects/haste_effect.png"
+    },
+    {
+        "source": "TEXTURE_HUNGER_EFFECT",
+        "destination": "textures/gui/newgui/mob_effects/hunger_effect.png"
+    },
+    {
+        "source": "TEXTURE_INVISIBILITY_EFFECT",
+        "destination": "textures/gui/newgui/mob_effects/invisibility_effect.png"
+    },
+    {
+        "source": "TEXTURE_JUMP_BOOST_EFFECT",
+        "destination": "textures/gui/newgui/mob_effects/jump_boost_effect.png"
+    },
+    {
+        "source": "TEXTURE_LEVITATION_EFFECT",
+        "destination": "textures/gui/newgui/mob_effects/levitation_effect.png"
+    },
+    {
+        "source": "TEXTURE_MINING_FATIGUE_EFFECT",
+        "destination": "textures/gui/newgui/mob_effects/mining_fatigue_effect.png"
+    },
+    {
+        "source": "TEXTURE_NAUSEA_EFFECT",
+        "destination": "textures/gui/newgui/mob_effects/nausea_effect.png"
+    },
+    {
+        "source": "TEXTURE_NIGHT_VISION_EFFECT",
+        "destination": "textures/gui/newgui/mob_effects/night_vision_effect.png"
+    },
+    {
+        "source": "TEXTURE_POISON_EFFECT",
+        "destination": "textures/gui/newgui/mob_effects/poison_effect.png"
+    },
+    {
+        "source": "TEXTURE_REGENERATION_EFFECT",
+        "destination": "textures/gui/newgui/mob_effects/regeneration_effect.png"
+    },
+    {
+        "source": "TEXTURE_RESISTANCE_EFFECT",
+        "destination": "textures/gui/newgui/mob_effects/resistance_effect.png"
+    },
+    {
+        "source": "TEXTURE_SLOWNESS_EFFECT",
+        "destination": "textures/gui/newgui/mob_effects/slowness_effect.png"
+    },
+    {
+        "source": "TEXTURE_SPEED_EFFECT",
+        "destination": "textures/gui/newgui/mob_effects/speed_effect.png"
+    },
+    {
+        "source": "TEXTURE_STRENGTH_EFFECT",
+        "destination": "textures/gui/newgui/mob_effects/strength_effect.png"
+    },
+    {
+        "source": "TEXTURE_VILLAGE_HERO_EFFECT",
+        "destination": "textures/gui/newgui/mob_effects/village_hero_effect.png"
+    },
+    {
+        "source": "TEXTURE_WATER_BREATHING_EFFECT",
+        "destination": "textures/gui/newgui/mob_effects/water_breathing_effect.png"
+    },
+    {
+        "source": "TEXTURE_WEAKNESS_EFFECT",
+        "destination": "textures/gui/newgui/mob_effects/weakness_effect.png"
+    },
+    {
+        "source": "TEXTURE_WITHER_EFFECT",
+        "destination": "textures/gui/newgui/mob_effects/wither_effect.png"
+    },
+    {
+        "source": "TEXTURE_DARKBUTTONTHINSTROKE1",
+        "destination": "textures/gui/newgui/play_screen/DarkButtonThinStroke1.png"
+    },
+    {
+        "source": "TEXTURE_HOVERBUTTONTHINNEWBEVEL",
+        "destination": "textures/gui/newgui/play_screen/HoverButtonThinNewBevel.png"
+    },
+    {
+        "source": "TEXTURE_HOVERBUTTONTHINNEWBEVEL2",
+        "destination": "textures/gui/newgui/play_screen/HoverButtonThinNewBevel2.png"
+    },
+    {
+        "source": "TEXTURE_HOVERBUTTONTHINNEWBEVEL3",
+        "destination": "textures/gui/newgui/play_screen/HoverButtonThinNewBevel3.png"
+    },
+    {
+        "source": "TEXTURE_HOVERBUTTONTHINNEWBEVEL4",
+        "destination": "textures/gui/newgui/play_screen/HoverButtonThinNewBevel4.png"
+    },
+    {
+        "source": "TEXTURE_HOVERBUTTONTHINSTROKE",
+        "destination": "textures/gui/newgui/play_screen/HoverButtonThinStroke.png"
+    },
+    {
+        "source": "TEXTURE_INDENT2",
+        "destination": "textures/gui/newgui/play_screen/Indent2.png"
+    },
+    {
+        "source": "TEXTURE_LEFTTABFRONT",
+        "destination": "textures/gui/newgui/play_screen/LeftTabFront.png"
+    },
+    {
+        "source": "TEXTURE_MIDDLETABFRONT",
+        "destination": "textures/gui/newgui/play_screen/MiddleTabFront.png"
+    },
+    {
+        "source": "TEXTURE_NORMALBUTTONTHINNEWBEVEL",
+        "destination": "textures/gui/newgui/play_screen/NormalButtonThinNewBevel.png"
+    },
+    {
+        "source": "TEXTURE_PRESSEDBUTTONTHINSTROKE",
+        "destination": "textures/gui/newgui/play_screen/PressedButtonThinStroke.png"
+    },
+    {
+        "source": "TEXTURE_RIGHTTABFRONT",
+        "destination": "textures/gui/newgui/play_screen/RightTabFront.png"
+    },
+    {
+        "source": "TEXTURE_TABBACKDARKER",
+        "destination": "textures/gui/newgui/play_screen/TabBackDarker.png"
+    },
+    {
+        "source": "TEXTURE_TABFRONT",
+        "destination": "textures/gui/newgui/play_screen/TabFront.png"
+    },
+    {
+        "source": "TEXTURE_GREY_BUTTON_DEFAULT",
+        "destination": "textures/gui/newgui/portfolio/grey_button_default.png"
+    },
+    {
+        "source": "TEXTURE_GREY_BUTTON_HOVER",
+        "destination": "textures/gui/newgui/portfolio/grey_button_hover.png"
+    },
+    {
+        "source": "TEXTURE_GREY_BUTTON_PRESSED",
+        "destination": "textures/gui/newgui/portfolio/grey_button_pressed.png"
+    },
+    {
+        "source": "TEXTURE_GLYPH_ATLAS",
+        "destination": "textures/gui/newgui/settings/glyph_atlas.png"
+    },
+    {
+        "source": "TEXTURE_GLYPH_COLOR_ATLAS",
+        "destination": "textures/gui/newgui/settings/glyph_color_atlas.png"
+    },
+    {
+        "source": "TEXTURE_RADIO_CHECKED",
+        "destination": "textures/gui/newgui/settings/radio_checked.png"
+    },
+    {
+        "source": "TEXTURE_RADIO_CHECKED_HOVER",
+        "destination": "textures/gui/newgui/settings/radio_checked_hover.png"
+    },
+    {
+        "source": "TEXTURE_RADIO_OFF",
+        "destination": "textures/gui/newgui/settings/radio_off.png"
+    },
+    {
+        "source": "TEXTURE_RADIO_OFF_HOVER",
+        "destination": "textures/gui/newgui/settings/radio_off_hover.png"
+    },
+    {
+        "source": "TEXTURE_APPLE_GOLDEN",
+        "destination": "textures/items/apple_golden.png"
+    },
+    {
+        "source": "TEXTURE_BANNER_PATTERN",
+        "destination": "textures/items/banner_pattern.png"
+    },
+    {
+        "source": "TEXTURE_BED_BLACK",
+        "destination": "textures/items/bed_black.png"
+    },
+    {
+        "source": "TEXTURE_BED_BLUE",
+        "destination": "textures/items/bed_blue.png"
+    },
+    {
+        "source": "TEXTURE_BED_BROWN",
+        "destination": "textures/items/bed_brown.png"
+    },
+    {
+        "source": "TEXTURE_BED_CYAN",
+        "destination": "textures/items/bed_cyan.png"
+    },
+    {
+        "source": "TEXTURE_BED_GRAY",
+        "destination": "textures/items/bed_gray.png"
+    },
+    {
+        "source": "TEXTURE_BED_GREEN",
+        "destination": "textures/items/bed_green.png"
+    },
+    {
+        "source": "TEXTURE_BED_LIGHT_BLUE",
+        "destination": "textures/items/bed_light_blue.png"
+    },
+    {
+        "source": "TEXTURE_BED_LIME",
+        "destination": "textures/items/bed_lime.png"
+    },
+    {
+        "source": "TEXTURE_BED_MAGENTA",
+        "destination": "textures/items/bed_magenta.png"
+    },
+    {
+        "source": "TEXTURE_BED_ORANGE",
+        "destination": "textures/items/bed_orange.png"
+    },
+    {
+        "source": "TEXTURE_BED_PINK",
+        "destination": "textures/items/bed_pink.png"
+    },
+    {
+        "source": "TEXTURE_BED_PURPLE",
+        "destination": "textures/items/bed_purple.png"
+    },
+    {
+        "source": "TEXTURE_BED_RED",
+        "destination": "textures/items/bed_red.png"
+    },
+    {
+        "source": "TEXTURE_BED_SILVER",
+        "destination": "textures/items/bed_silver.png"
+    },
+    {
+        "source": "TEXTURE_BED_WHITE",
+        "destination": "textures/items/bed_white.png"
+    },
+    {
+        "source": "TEXTURE_BED_YELLOW",
+        "destination": "textures/items/bed_yellow.png"
+    },
+    {
+        "source": "TEXTURE_BEEF_COOKED",
+        "destination": "textures/items/beef_cooked.png"
+    },
+    {
+        "source": "TEXTURE_BEEF_RAW",
+        "destination": "textures/items/beef_raw.png"
+    },
+    {
+        "source": "TEXTURE_BOAT",
+        "destination": "textures/items/boat.png"
+    },
+    {
+        "source": "TEXTURE_BOAT_ACACIA",
+        "destination": "textures/items/boat_acacia.png"
+    },
+    {
+        "source": "TEXTURE_BOAT_BIRCH",
+        "destination": "textures/items/boat_birch.png"
+    },
+    {
+        "source": "TEXTURE_BOAT_DARKOAK",
+        "destination": "textures/items/boat_darkoak.png"
+    },
+    {
+        "source": "TEXTURE_BOAT_DARK_OAK",
+        "destination": "textures/items/boat_dark_oak.png"
+    },
+    {
+        "source": "TEXTURE_BOAT_JUNGLE",
+        "destination": "textures/items/boat_jungle.png"
+    },
+    {
+        "source": "TEXTURE_BOAT_OAK",
+        "destination": "textures/items/boat_oak.png"
+    },
+    {
+        "source": "TEXTURE_BOAT_SPRUCE",
+        "destination": "textures/items/boat_spruce.png"
+    },
+    {
+        "source": "TEXTURE_BOOK_ENCHANTED",
+        "destination": "textures/items/book_enchanted.png"
+    },
+    {
+        "source": "TEXTURE_BOOK_NORMAL",
+        "destination": "textures/items/book_normal.png"
+    },
+    {
+        "source": "TEXTURE_BOOK_PORTFOLIO",
+        "destination": "textures/items/book_portfolio.png"
+    },
+    {
+        "source": "TEXTURE_BOOK_WRITABLE",
+        "destination": "textures/items/book_writable.png"
+    },
+    {
+        "source": "TEXTURE_BOOK_WRITTEN",
+        "destination": "textures/items/book_written.png"
+    },
+    {
+        "source": "TEXTURE_BOW_STANDBY",
+        "destination": "textures/items/bow_standby.png"
+    },
+    {
+        "source": "TEXTURE_BUCKET_AXOLOTL",
+        "destination": "textures/items/bucket_axolotl.png"
+    },
+    {
+        "source": "TEXTURE_BUCKET_COD",
+        "destination": "textures/items/bucket_cod.png"
+    },
+    {
+        "source": "TEXTURE_BUCKET_EMPTY",
+        "destination": "textures/items/bucket_empty.png"
+    },
+    {
+        "source": "TEXTURE_BUCKET_LAVA",
+        "destination": "textures/items/bucket_lava.png"
+    },
+    {
+        "source": "TEXTURE_BUCKET_MILK",
+        "destination": "textures/items/bucket_milk.png"
+    },
+    {
+        "source": "TEXTURE_BUCKET_POWDER_SNOW",
+        "destination": "textures/items/bucket_powder_snow.png"
+    },
+    {
+        "source": "TEXTURE_BUCKET_PUFFERFISH",
+        "destination": "textures/items/bucket_pufferfish.png"
+    },
+    {
+        "source": "TEXTURE_BUCKET_SALMON",
+        "destination": "textures/items/bucket_salmon.png"
+    },
+    {
+        "source": "TEXTURE_BUCKET_TADPOLE",
+        "destination": "textures/items/bucket_tadpole.png"
+    },
+    {
+        "source": "TEXTURE_BUCKET_TROPICAL",
+        "destination": "textures/items/bucket_tropical.png"
+    },
+    {
+        "source": "TEXTURE_BUCKET_WATER",
+        "destination": "textures/items/bucket_water.png"
+    },
+    {
+        "source": "TEXTURE_CARROT_GOLDEN",
+        "destination": "textures/items/carrot_golden.png"
+    },
+    {
+        "source": "TEXTURE_CHALKBOARD_LARGE",
+        "destination": "textures/items/chalkboard_large.png"
+    },
+    {
+        "source": "TEXTURE_CHALKBOARD_MEDIUM",
+        "destination": "textures/items/chalkboard_medium.png"
+    },
+    {
+        "source": "TEXTURE_CHALKBOARD_SMALL",
+        "destination": "textures/items/chalkboard_small.png"
+    },
+    {
+        "source": "TEXTURE_CHICKEN_COOKED",
+        "destination": "textures/items/chicken_cooked.png"
+    },
+    {
+        "source": "TEXTURE_CHICKEN_RAW",
+        "destination": "textures/items/chicken_raw.png"
+    },
+    {
+        "source": "TEXTURE_CHORUS_FRUIT_POPPED",
+        "destination": "textures/items/chorus_fruit_popped.png"
+    },
+    {
+        "source": "TEXTURE_CLOCK_ITEM",
+        "destination": "textures/items/clock_item.png"
+    },
+    {
+        "source": "TEXTURE_COMPASS_ATLAS",
+        "destination": "textures/items/compass_atlas.png"
+    },
+    {
+        "source": "TEXTURE_COMPASS_ITEM",
+        "destination": "textures/items/compass_item.png"
+    },
+    {
+        "source": "TEXTURE_DOOR_ACACIA",
+        "destination": "textures/items/door_acacia.png"
+    },
+    {
+        "source": "TEXTURE_DOOR_BIRCH",
+        "destination": "textures/items/door_birch.png"
+    },
+    {
+        "source": "TEXTURE_DOOR_DARK_OAK",
+        "destination": "textures/items/door_dark_oak.png"
+    },
+    {
+        "source": "TEXTURE_DOOR_IRON",
+        "destination": "textures/items/door_iron.png"
+    },
+    {
+        "source": "TEXTURE_DOOR_JUNGLE",
+        "destination": "textures/items/door_jungle.png"
+    },
+    {
+        "source": "TEXTURE_DOOR_SPRUCE",
+        "destination": "textures/items/door_spruce.png"
+    },
+    {
+        "source": "TEXTURE_DOOR_WOOD",
+        "destination": "textures/items/door_wood.png"
+    },
+    {
+        "source": "TEXTURE_DRAGONS_BREATH",
+        "destination": "textures/items/dragons_breath.png"
+    },
+    {
+        "source": "TEXTURE_DRAGON_FIREBALL",
+        "destination": "textures/items/dragon_fireball.png"
+    },
+    {
+        "source": "TEXTURE_DYE_POWDER_BLACK",
+        "destination": "textures/items/dye_powder_black.png"
+    },
+    {
+        "source": "TEXTURE_DYE_POWDER_BLACK_NEW",
+        "destination": "textures/items/dye_powder_black_new.png"
+    },
+    {
+        "source": "TEXTURE_DYE_POWDER_BLUE",
+        "destination": "textures/items/dye_powder_blue.png"
+    },
+    {
+        "source": "TEXTURE_DYE_POWDER_BLUE_NEW",
+        "destination": "textures/items/dye_powder_blue_new.png"
+    },
+    {
+        "source": "TEXTURE_DYE_POWDER_BROWN",
+        "destination": "textures/items/dye_powder_brown.png"
+    },
+    {
+        "source": "TEXTURE_DYE_POWDER_BROWN_NEW",
+        "destination": "textures/items/dye_powder_brown_new.png"
+    },
+    {
+        "source": "TEXTURE_DYE_POWDER_CYAN",
+        "destination": "textures/items/dye_powder_cyan.png"
+    },
+    {
+        "source": "TEXTURE_DYE_POWDER_GLOW",
+        "destination": "textures/items/dye_powder_glow.png"
+    },
+    {
+        "source": "TEXTURE_DYE_POWDER_GRAY",
+        "destination": "textures/items/dye_powder_gray.png"
+    },
+    {
+        "source": "TEXTURE_DYE_POWDER_GREEN",
+        "destination": "textures/items/dye_powder_green.png"
+    },
+    {
+        "source": "TEXTURE_DYE_POWDER_LIGHT_BLUE",
+        "destination": "textures/items/dye_powder_light_blue.png"
+    },
+    {
+        "source": "TEXTURE_DYE_POWDER_LIME",
+        "destination": "textures/items/dye_powder_lime.png"
+    },
+    {
+        "source": "TEXTURE_DYE_POWDER_MAGENTA",
+        "destination": "textures/items/dye_powder_magenta.png"
+    },
+    {
+        "source": "TEXTURE_DYE_POWDER_ORANGE",
+        "destination": "textures/items/dye_powder_orange.png"
+    },
+    {
+        "source": "TEXTURE_DYE_POWDER_PINK",
+        "destination": "textures/items/dye_powder_pink.png"
+    },
+    {
+        "source": "TEXTURE_DYE_POWDER_PURPLE",
+        "destination": "textures/items/dye_powder_purple.png"
+    },
+    {
+        "source": "TEXTURE_DYE_POWDER_RED",
+        "destination": "textures/items/dye_powder_red.png"
+    },
+    {
+        "source": "TEXTURE_DYE_POWDER_SILVER",
+        "destination": "textures/items/dye_powder_silver.png"
+    },
+    {
+        "source": "TEXTURE_DYE_POWDER_WHITE",
+        "destination": "textures/items/dye_powder_white.png"
+    },
+    {
+        "source": "TEXTURE_DYE_POWDER_WHITE_NEW",
+        "destination": "textures/items/dye_powder_white_new.png"
+    },
+    {
+        "source": "TEXTURE_DYE_POWDER_YELLOW",
+        "destination": "textures/items/dye_powder_yellow.png"
+    },
+    {
+        "source": "TEXTURE_EGG_AGENT",
+        "destination": "textures/items/egg_agent.png"
+    },
+    {
+        "source": "TEXTURE_EGG_BAT",
+        "destination": "textures/items/egg_bat.png"
+    },
+    {
+        "source": "TEXTURE_EGG_BEE",
+        "destination": "textures/items/egg_bee.png"
+    },
+    {
+        "source": "TEXTURE_EGG_BLAZE",
+        "destination": "textures/items/egg_blaze.png"
+    },
+    {
+        "source": "TEXTURE_EGG_CAT",
+        "destination": "textures/items/egg_cat.png"
+    },
+    {
+        "source": "TEXTURE_EGG_CAVE_SPIDER",
+        "destination": "textures/items/egg_cave_spider.png"
+    },
+    {
+        "source": "TEXTURE_EGG_CHICKEN",
+        "destination": "textures/items/egg_chicken.png"
+    },
+    {
+        "source": "TEXTURE_EGG_CLOWNFISH",
+        "destination": "textures/items/egg_clownfish.png"
+    },
+    {
+        "source": "TEXTURE_EGG_COD",
+        "destination": "textures/items/egg_cod.png"
+    },
+    {
+        "source": "TEXTURE_EGG_COW",
+        "destination": "textures/items/egg_cow.png"
+    },
+    {
+        "source": "TEXTURE_EGG_CREEPER",
+        "destination": "textures/items/egg_creeper.png"
+    },
+    {
+        "source": "TEXTURE_EGG_DOLPHIN",
+        "destination": "textures/items/egg_dolphin.png"
+    },
+    {
+        "source": "TEXTURE_EGG_DONKEY",
+        "destination": "textures/items/egg_donkey.png"
+    },
+    {
+        "source": "TEXTURE_EGG_DROWNED",
+        "destination": "textures/items/egg_drowned.png"
+    },
+    {
+        "source": "TEXTURE_EGG_ELDERGUARDIAN",
+        "destination": "textures/items/egg_elderguardian.png"
+    },
+    {
+        "source": "TEXTURE_EGG_ENDERMAN",
+        "destination": "textures/items/egg_enderman.png"
+    },
+    {
+        "source": "TEXTURE_EGG_ENDERMITE",
+        "destination": "textures/items/egg_endermite.png"
+    },
+    {
+        "source": "TEXTURE_EGG_EVOKER",
+        "destination": "textures/items/egg_evoker.png"
+    },
+    {
+        "source": "TEXTURE_EGG_FISH",
+        "destination": "textures/items/egg_fish.png"
+    },
+    {
+        "source": "TEXTURE_EGG_FOX",
+        "destination": "textures/items/egg_fox.png"
+    },
+    {
+        "source": "TEXTURE_EGG_GHAST",
+        "destination": "textures/items/egg_ghast.png"
+    },
+    {
+        "source": "TEXTURE_EGG_GLOW_SQUID",
+        "destination": "textures/items/egg_glow_squid.png"
+    },
+    {
+        "source": "TEXTURE_EGG_GUARDIAN",
+        "destination": "textures/items/egg_guardian.png"
+    },
+    {
+        "source": "TEXTURE_EGG_HORSE",
+        "destination": "textures/items/egg_horse.png"
+    },
+    {
+        "source": "TEXTURE_EGG_HUSK",
+        "destination": "textures/items/egg_husk.png"
+    },
+    {
+        "source": "TEXTURE_EGG_LAVA_SLIME",
+        "destination": "textures/items/egg_lava_slime.png"
+    },
+    {
+        "source": "TEXTURE_EGG_LLAMA",
+        "destination": "textures/items/egg_llama.png"
+    },
+    {
+        "source": "TEXTURE_EGG_MASK",
+        "destination": "textures/items/egg_mask.png"
+    },
+    {
+        "source": "TEXTURE_EGG_MULE",
+        "destination": "textures/items/egg_mule.png"
+    },
+    {
+        "source": "TEXTURE_EGG_MUSHROOMCOW",
+        "destination": "textures/items/egg_mushroomcow.png"
+    },
+    {
+        "source": "TEXTURE_EGG_NPC",
+        "destination": "textures/items/egg_npc.png"
+    },
+    {
+        "source": "TEXTURE_EGG_NULL",
+        "destination": "textures/items/egg_null.png"
+    },
+    {
+        "source": "TEXTURE_EGG_OCELOT",
+        "destination": "textures/items/egg_ocelot.png"
+    },
+    {
+        "source": "TEXTURE_EGG_PANDA",
+        "destination": "textures/items/egg_panda.png"
+    },
+    {
+        "source": "TEXTURE_EGG_PARROT",
+        "destination": "textures/items/egg_parrot.png"
+    },
+    {
+        "source": "TEXTURE_EGG_PHANTOM",
+        "destination": "textures/items/egg_phantom.png"
+    },
+    {
+        "source": "TEXTURE_EGG_PIG",
+        "destination": "textures/items/egg_pig.png"
+    },
+    {
+        "source": "TEXTURE_EGG_PIGZOMBIE",
+        "destination": "textures/items/egg_pigzombie.png"
+    },
+    {
+        "source": "TEXTURE_EGG_PILLAGER",
+        "destination": "textures/items/egg_pillager.png"
+    },
+    {
+        "source": "TEXTURE_EGG_POLARBEAR",
+        "destination": "textures/items/egg_polarbear.png"
+    },
+    {
+        "source": "TEXTURE_EGG_PUFFERFISH",
+        "destination": "textures/items/egg_pufferfish.png"
+    },
+    {
+        "source": "TEXTURE_EGG_RABBIT",
+        "destination": "textures/items/egg_rabbit.png"
+    },
+    {
+        "source": "TEXTURE_EGG_RAVAGER",
+        "destination": "textures/items/egg_ravager.png"
+    },
+    {
+        "source": "TEXTURE_EGG_SALMON",
+        "destination": "textures/items/egg_salmon.png"
+    },
+    {
+        "source": "TEXTURE_EGG_SHEEP",
+        "destination": "textures/items/egg_sheep.png"
+    },
+    {
+        "source": "TEXTURE_EGG_SHULKER",
+        "destination": "textures/items/egg_shulker.png"
+    },
+    {
+        "source": "TEXTURE_EGG_SILVERFISH",
+        "destination": "textures/items/egg_silverfish.png"
+    },
+    {
+        "source": "TEXTURE_EGG_SKELETON",
+        "destination": "textures/items/egg_skeleton.png"
+    },
+    {
+        "source": "TEXTURE_EGG_SKELETONHORSE",
+        "destination": "textures/items/egg_skeletonhorse.png"
+    },
+    {
+        "source": "TEXTURE_EGG_SLIME",
+        "destination": "textures/items/egg_slime.png"
+    },
+    {
+        "source": "TEXTURE_EGG_SPIDER",
+        "destination": "textures/items/egg_spider.png"
+    },
+    {
+        "source": "TEXTURE_EGG_SQUID",
+        "destination": "textures/items/egg_squid.png"
+    },
+    {
+        "source": "TEXTURE_EGG_STRAY",
+        "destination": "textures/items/egg_stray.png"
+    },
+    {
+        "source": "TEXTURE_EGG_TURTLE",
+        "destination": "textures/items/egg_turtle.png"
+    },
+    {
+        "source": "TEXTURE_EGG_VEX",
+        "destination": "textures/items/egg_vex.png"
+    },
+    {
+        "source": "TEXTURE_EGG_VILLAGER",
+        "destination": "textures/items/egg_villager.png"
+    },
+    {
+        "source": "TEXTURE_EGG_VINDICATOR",
+        "destination": "textures/items/egg_vindicator.png"
+    },
+    {
+        "source": "TEXTURE_EGG_WANDERINGTRADER",
+        "destination": "textures/items/egg_wanderingtrader.png"
+    },
+    {
+        "source": "TEXTURE_EGG_WITCH",
+        "destination": "textures/items/egg_witch.png"
+    },
+    {
+        "source": "TEXTURE_EGG_WITHER",
+        "destination": "textures/items/egg_wither.png"
+    },
+    {
+        "source": "TEXTURE_EGG_WOLF",
+        "destination": "textures/items/egg_wolf.png"
+    },
+    {
+        "source": "TEXTURE_EGG_ZOMBIE",
+        "destination": "textures/items/egg_zombie.png"
+    },
+    {
+        "source": "TEXTURE_EGG_ZOMBIEHORSE",
+        "destination": "textures/items/egg_zombiehorse.png"
+    },
+    {
+        "source": "TEXTURE_EGG_ZOMBIEVILLAGER",
+        "destination": "textures/items/egg_zombievillager.png"
+    },
+    {
+        "source": "TEXTURE_FIREBALL",
+        "destination": "textures/items/fireball.png"
+    },
+    {
+        "source": "TEXTURE_FIREWORKS",
+        "destination": "textures/items/fireworks.png"
+    },
+    {
+        "source": "TEXTURE_FISHING_ROD_UNCAST",
+        "destination": "textures/items/fishing_rod_uncast.png"
+    },
+    {
+        "source": "TEXTURE_FISH_CLOWNFISH_RAW",
+        "destination": "textures/items/fish_clownfish_raw.png"
+    },
+    {
+        "source": "TEXTURE_FISH_COOKED",
+        "destination": "textures/items/fish_cooked.png"
+    },
+    {
+        "source": "TEXTURE_FISH_PUFFERFISH_RAW",
+        "destination": "textures/items/fish_pufferfish_raw.png"
+    },
+    {
+        "source": "TEXTURE_FISH_RAW",
+        "destination": "textures/items/fish_raw.png"
+    },
+    {
+        "source": "TEXTURE_FISH_SALMON_COOKED",
+        "destination": "textures/items/fish_salmon_cooked.png"
+    },
+    {
+        "source": "TEXTURE_FISH_SALMON_RAW",
+        "destination": "textures/items/fish_salmon_raw.png"
+    },
+
+    {
+        "source": "TEXTURE_HANGING_ROOTS",
+        "destination": "textures/items/hanging_roots.png"
+    },
+    {
+        "source": "TEXTURE_HEARTOFTHESEA_CLOSED",
+        "destination": "textures/items/heartofthesea_closed.png"
+    },
+    {
+        "source": "TEXTURE_HOGLIN_MEAT_COOKED",
+        "destination": "textures/items/hoglin_meat_cooked.png"
+    },
+    {
+        "source": "TEXTURE_HOGLIN_MEAT_RAW",
+        "destination": "textures/items/hoglin_meat_raw.png"
+    },
+    {
+        "source": "TEXTURE_LEVER",
+        "destination": "textures/items/lever.png"
+    },
+    {
+        "source": "TEXTURE_LIGHT_BLOCK_0",
+        "destination": "textures/items/light_block_0.png"
+    },
+    {
+        "source": "TEXTURE_LIGHT_BLOCK_1",
+        "destination": "textures/items/light_block_1.png"
+    },
+    {
+        "source": "TEXTURE_LIGHT_BLOCK_10",
+        "destination": "textures/items/light_block_10.png"
+    },
+    {
+        "source": "TEXTURE_LIGHT_BLOCK_11",
+        "destination": "textures/items/light_block_11.png"
+    },
+    {
+        "source": "TEXTURE_LIGHT_BLOCK_12",
+        "destination": "textures/items/light_block_12.png"
+    },
+    {
+        "source": "TEXTURE_LIGHT_BLOCK_13",
+        "destination": "textures/items/light_block_13.png"
+    },
+    {
+        "source": "TEXTURE_LIGHT_BLOCK_14",
+        "destination": "textures/items/light_block_14.png"
+    },
+    {
+        "source": "TEXTURE_LIGHT_BLOCK_15",
+        "destination": "textures/items/light_block_15.png"
+    },
+    {
+        "source": "TEXTURE_LIGHT_BLOCK_2",
+        "destination": "textures/items/light_block_2.png"
+    },
+    {
+        "source": "TEXTURE_LIGHT_BLOCK_3",
+        "destination": "textures/items/light_block_3.png"
+    },
+    {
+        "source": "TEXTURE_LIGHT_BLOCK_4",
+        "destination": "textures/items/light_block_4.png"
+    },
+    {
+        "source": "TEXTURE_LIGHT_BLOCK_5",
+        "destination": "textures/items/light_block_5.png"
+    },
+    {
+        "source": "TEXTURE_LIGHT_BLOCK_6",
+        "destination": "textures/items/light_block_6.png"
+    },
+    {
+        "source": "TEXTURE_LIGHT_BLOCK_7",
+        "destination": "textures/items/light_block_7.png"
+    },
+    {
+        "source": "TEXTURE_LIGHT_BLOCK_8",
+        "destination": "textures/items/light_block_8.png"
+    },
+    {
+        "source": "TEXTURE_LIGHT_BLOCK_9",
+        "destination": "textures/items/light_block_9.png"
+    },
+    {
+        "source": "TEXTURE_LODESTONECOMPASS_ATLAS",
+        "destination": "textures/items/lodestonecompass_atlas.png"
+    },
+    {
+        "source": "TEXTURE_LODESTONECOMPASS_ITEM",
+        "destination": "textures/items/lodestonecompass_item.png"
+    },
+    {
+        "source": "TEXTURE_MAP_EMPTY",
+        "destination": "textures/items/map_empty.png"
+    },
+    {
+        "source": "TEXTURE_MAP_FILLED",
+        "destination": "textures/items/map_filled.png"
+    },
+    {
+        "source": "TEXTURE_MAP_LOCKED",
+        "destination": "textures/items/map_locked.png"
+    },
+    {
+        "source": "TEXTURE_MAP_MANSION",
+        "destination": "textures/items/map_mansion.png"
+    },
+    {
+        "source": "TEXTURE_MAP_MONUMENT",
+        "destination": "textures/items/map_monument.png"
+    },
+    {
+        "source": "TEXTURE_MAP_NAUTILUS",
+        "destination": "textures/items/map_nautilus.png"
+    },
+    {
+        "source": "TEXTURE_MELON",
+        "destination": "textures/items/melon.png"
+    },
+    {
+        "source": "TEXTURE_MELON_SPECKLED",
+        "destination": "textures/items/melon_speckled.png"
+    },
+    {
+        "source": "TEXTURE_MINECART_CHEST",
+        "destination": "textures/items/minecart_chest.png"
+    },
+    {
+        "source": "TEXTURE_MINECART_COMMAND_BLOCK",
+        "destination": "textures/items/minecart_command_block.png"
+    },
+    {
+        "source": "TEXTURE_MINECART_FURNACE",
+        "destination": "textures/items/minecart_furnace.png"
+    },
+    {
+        "source": "TEXTURE_MINECART_HOPPER",
+        "destination": "textures/items/minecart_hopper.png"
+    },
+    {
+        "source": "TEXTURE_MINECART_NORMAL",
+        "destination": "textures/items/minecart_normal.png"
+    },
+    {
+        "source": "TEXTURE_MINECART_TNT",
+        "destination": "textures/items/minecart_tnt.png"
+    },
+    {
+        "source": "TEXTURE_MUTTON_COOKED",
+        "destination": "textures/items/mutton_cooked.png"
+    },
+    {
+        "source": "TEXTURE_MUTTON_RAW",
+        "destination": "textures/items/mutton_raw.png"
+    },
+    {
+        "source": "TEXTURE_NAUTILUS",
+        "destination": "textures/items/nautilus.png"
+    },
+    {
+        "source": "TEXTURE_NETHERBRICK",
+        "destination": "textures/items/netherbrick.png"
+    },
+    {
+        "source": "TEXTURE_PORKCHOP_COOKED",
+        "destination": "textures/items/porkchop_cooked.png"
+    },
+    {
+        "source": "TEXTURE_PORKCHOP_RAW",
+        "destination": "textures/items/porkchop_raw.png"
+    },
+    {
+        "source": "TEXTURE_POTATO_BAKED",
+        "destination": "textures/items/potato_baked.png"
+    },
+    {
+        "source": "TEXTURE_POTATO_POISONOUS",
+        "destination": "textures/items/potato_poisonous.png"
+    },
+    {
+        "source": "TEXTURE_POTION_BOTTLE_ABSORPTION",
+        "destination": "textures/items/potion_bottle_absorption.png"
+    },
+    {
+        "source": "TEXTURE_POTION_BOTTLE_BLINDNESS",
+        "destination": "textures/items/potion_bottle_blindness.png"
+    },
+    {
+        "source": "TEXTURE_POTION_BOTTLE_CONFUSION",
+        "destination": "textures/items/potion_bottle_confusion.png"
+    },
+    {
+        "source": "TEXTURE_POTION_BOTTLE_DAMAGEBOOST",
+        "destination": "textures/items/potion_bottle_damageBoost.png"
+    },
+    {
+        "source": "TEXTURE_POTION_BOTTLE_DIGSLOWDOWN",
+        "destination": "textures/items/potion_bottle_digSlowdown.png"
+    },
+    {
+        "source": "TEXTURE_POTION_BOTTLE_DIGSPEED",
+        "destination": "textures/items/potion_bottle_digSpeed.png"
+    },
+    {
+        "source": "TEXTURE_POTION_BOTTLE_DRINKABLE",
+        "destination": "textures/items/potion_bottle_drinkable.png"
+    },
+    {
+        "source": "TEXTURE_POTION_BOTTLE_EMPTY",
+        "destination": "textures/items/potion_bottle_empty.png"
+    },
+    {
+        "source": "TEXTURE_POTION_BOTTLE_FIRERESISTANCE",
+        "destination": "textures/items/potion_bottle_fireResistance.png"
+    },
+    {
+        "source": "TEXTURE_POTION_BOTTLE_HARM",
+        "destination": "textures/items/potion_bottle_harm.png"
+    },
+    {
+        "source": "TEXTURE_POTION_BOTTLE_HEAL",
+        "destination": "textures/items/potion_bottle_heal.png"
+    },
+    {
+        "source": "TEXTURE_POTION_BOTTLE_HEALTHBOOST",
+        "destination": "textures/items/potion_bottle_healthBoost.png"
+    },
+    {
+        "source": "TEXTURE_POTION_BOTTLE_HUNGER",
+        "destination": "textures/items/potion_bottle_hunger.png"
+    },
+    {
+        "source": "TEXTURE_POTION_BOTTLE_INVISIBILITY",
+        "destination": "textures/items/potion_bottle_invisibility.png"
+    },
+    {
+        "source": "TEXTURE_POTION_BOTTLE_JUMP",
+        "destination": "textures/items/potion_bottle_jump.png"
+    },
+    {
+        "source": "TEXTURE_POTION_BOTTLE_LEVITATION",
+        "destination": "textures/items/potion_bottle_levitation.png"
+    },
+    {
+        "source": "TEXTURE_POTION_BOTTLE_LINGERING",
+        "destination": "textures/items/potion_bottle_lingering.png"
+    },
+    {
+        "source": "TEXTURE_POTION_BOTTLE_LINGERING_DAMAGEBOOST",
+        "destination": "textures/items/potion_bottle_lingering_damageBoost.png"
+    },
+    {
+        "source": "TEXTURE_POTION_BOTTLE_LINGERING_EMPTY",
+        "destination": "textures/items/potion_bottle_lingering_empty.png"
+    },
+    {
+        "source": "TEXTURE_POTION_BOTTLE_LINGERING_FIRERESISTANCE",
+        "destination": "textures/items/potion_bottle_lingering_fireResistance.png"
+    },
+    {
+        "source": "TEXTURE_POTION_BOTTLE_LINGERING_HARM",
+        "destination": "textures/items/potion_bottle_lingering_harm.png"
+    },
+    {
+        "source": "TEXTURE_POTION_BOTTLE_LINGERING_HEAL",
+        "destination": "textures/items/potion_bottle_lingering_heal.png"
+    },
+    {
+        "source": "TEXTURE_POTION_BOTTLE_LINGERING_INVISIBILITY",
+        "destination": "textures/items/potion_bottle_lingering_invisibility.png"
+    },
+    {
+        "source": "TEXTURE_POTION_BOTTLE_LINGERING_JUMP",
+        "destination": "textures/items/potion_bottle_lingering_jump.png"
+    },
+    {
+        "source": "TEXTURE_POTION_BOTTLE_LINGERING_LUCK",
+        "destination": "textures/items/potion_bottle_lingering_luck.png"
+    },
+    {
+        "source": "TEXTURE_POTION_BOTTLE_LINGERING_MOVESLOWDOWN",
+        "destination": "textures/items/potion_bottle_lingering_moveSlowdown.png"
+    },
+    {
+        "source": "TEXTURE_POTION_BOTTLE_LINGERING_MOVESPEED",
+        "destination": "textures/items/potion_bottle_lingering_moveSpeed.png"
+    },
+    {
+        "source": "TEXTURE_POTION_BOTTLE_LINGERING_NIGHTVISION",
+        "destination": "textures/items/potion_bottle_lingering_nightVision.png"
+    },
+    {
+        "source": "TEXTURE_POTION_BOTTLE_LINGERING_POISON",
+        "destination": "textures/items/potion_bottle_lingering_poison.png"
+    },
+    {
+        "source": "TEXTURE_POTION_BOTTLE_LINGERING_REGENERATION",
+        "destination": "textures/items/potion_bottle_lingering_regeneration.png"
+    },
+    {
+        "source": "TEXTURE_POTION_BOTTLE_LINGERING_SLOWFALL",
+        "destination": "textures/items/potion_bottle_lingering_slowFall.png"
+    },
+    {
+        "source": "TEXTURE_POTION_BOTTLE_LINGERING_TURTLEMASTER",
+        "destination": "textures/items/potion_bottle_lingering_turtleMaster.png"
+    },
+    {
+        "source": "TEXTURE_POTION_BOTTLE_LINGERING_WATERBREATHING",
+        "destination": "textures/items/potion_bottle_lingering_waterBreathing.png"
+    },
+    {
+        "source": "TEXTURE_POTION_BOTTLE_LINGERING_WEAKNESS",
+        "destination": "textures/items/potion_bottle_lingering_weakness.png"
+    },
+    {
+        "source": "TEXTURE_POTION_BOTTLE_LINGERING_WITHER",
+        "destination": "textures/items/potion_bottle_lingering_wither.png"
+    },
+    {
+        "source": "TEXTURE_POTION_BOTTLE_MOVESLOWDOWN",
+        "destination": "textures/items/potion_bottle_moveSlowdown.png"
+    },
+    {
+        "source": "TEXTURE_POTION_BOTTLE_MOVESPEED",
+        "destination": "textures/items/potion_bottle_moveSpeed.png"
+    },
+    {
+        "source": "TEXTURE_POTION_BOTTLE_NIGHTVISION",
+        "destination": "textures/items/potion_bottle_nightVision.png"
+    },
+    {
+        "source": "TEXTURE_POTION_BOTTLE_POISON",
+        "destination": "textures/items/potion_bottle_poison.png"
+    },
+    {
+        "source": "TEXTURE_POTION_BOTTLE_REGENERATION",
+        "destination": "textures/items/potion_bottle_regeneration.png"
+    },
+    {
+        "source": "TEXTURE_POTION_BOTTLE_RESISTANCE",
+        "destination": "textures/items/potion_bottle_resistance.png"
+    },
+    {
+        "source": "TEXTURE_POTION_BOTTLE_SATURATION",
+        "destination": "textures/items/potion_bottle_saturation.png"
+    },
+    {
+        "source": "TEXTURE_POTION_BOTTLE_SLOWFALL",
+        "destination": "textures/items/potion_bottle_slowFall.png"
+    },
+    {
+        "source": "TEXTURE_POTION_BOTTLE_SPLASH",
+        "destination": "textures/items/potion_bottle_splash.png"
+    },
+    {
+        "source": "TEXTURE_POTION_BOTTLE_SPLASH_ABSORPTION",
+        "destination": "textures/items/potion_bottle_splash_absorption.png"
+    },
+    {
+        "source": "TEXTURE_POTION_BOTTLE_SPLASH_BLINDNESS",
+        "destination": "textures/items/potion_bottle_splash_blindness.png"
+    },
+    {
+        "source": "TEXTURE_POTION_BOTTLE_SPLASH_CONFUSION",
+        "destination": "textures/items/potion_bottle_splash_confusion.png"
+    },
+    {
+        "source": "TEXTURE_POTION_BOTTLE_SPLASH_DAMAGEBOOST",
+        "destination": "textures/items/potion_bottle_splash_damageBoost.png"
+    },
+    {
+        "source": "TEXTURE_POTION_BOTTLE_SPLASH_DIGSLOWDOWN",
+        "destination": "textures/items/potion_bottle_splash_digSlowdown.png"
+    },
+    {
+        "source": "TEXTURE_POTION_BOTTLE_SPLASH_DIGSPEED",
+        "destination": "textures/items/potion_bottle_splash_digSpeed.png"
+    },
+    {
+        "source": "TEXTURE_POTION_BOTTLE_SPLASH_FIRERESISTANCE",
+        "destination": "textures/items/potion_bottle_splash_fireResistance.png"
+    },
+    {
+        "source": "TEXTURE_POTION_BOTTLE_SPLASH_HARM",
+        "destination": "textures/items/potion_bottle_splash_harm.png"
+    },
+    {
+        "source": "TEXTURE_POTION_BOTTLE_SPLASH_HEAL",
+        "destination": "textures/items/potion_bottle_splash_heal.png"
+    },
+    {
+        "source": "TEXTURE_POTION_BOTTLE_SPLASH_HEALTHBOOST",
+        "destination": "textures/items/potion_bottle_splash_healthBoost.png"
+    },
+    {
+        "source": "TEXTURE_POTION_BOTTLE_SPLASH_HUNGER",
+        "destination": "textures/items/potion_bottle_splash_hunger.png"
+    },
+    {
+        "source": "TEXTURE_POTION_BOTTLE_SPLASH_INVISIBILITY",
+        "destination": "textures/items/potion_bottle_splash_invisibility.png"
+    },
+    {
+        "source": "TEXTURE_POTION_BOTTLE_SPLASH_JUMP",
+        "destination": "textures/items/potion_bottle_splash_jump.png"
+    },
+    {
+        "source": "TEXTURE_POTION_BOTTLE_SPLASH_LEVITATION",
+        "destination": "textures/items/potion_bottle_splash_levitation.png"
+    },
+    {
+        "source": "TEXTURE_POTION_BOTTLE_SPLASH_MOVESLOWDOWN",
+        "destination": "textures/items/potion_bottle_splash_moveSlowdown.png"
+    },
+    {
+        "source": "TEXTURE_POTION_BOTTLE_SPLASH_MOVESPEED",
+        "destination": "textures/items/potion_bottle_splash_moveSpeed.png"
+    },
+    {
+        "source": "TEXTURE_POTION_BOTTLE_SPLASH_NIGHTVISION",
+        "destination": "textures/items/potion_bottle_splash_nightVision.png"
+    },
+    {
+        "source": "TEXTURE_POTION_BOTTLE_SPLASH_POISON",
+        "destination": "textures/items/potion_bottle_splash_poison.png"
+    },
+    {
+        "source": "TEXTURE_POTION_BOTTLE_SPLASH_REGENERATION",
+        "destination": "textures/items/potion_bottle_splash_regeneration.png"
+    },
+    {
+        "source": "TEXTURE_POTION_BOTTLE_SPLASH_RESISTANCE",
+        "destination": "textures/items/potion_bottle_splash_resistance.png"
+    },
+    {
+        "source": "TEXTURE_POTION_BOTTLE_SPLASH_SATURATION",
+        "destination": "textures/items/potion_bottle_splash_saturation.png"
+    },
+    {
+        "source": "TEXTURE_POTION_BOTTLE_SPLASH_SLOWFALL",
+        "destination": "textures/items/potion_bottle_splash_slowFall.png"
+    },
+    {
+        "source": "TEXTURE_POTION_BOTTLE_SPLASH_TURTLEMASTER",
+        "destination": "textures/items/potion_bottle_splash_turtleMaster.png"
+    },
+    {
+        "source": "TEXTURE_POTION_BOTTLE_SPLASH_WATERBREATHING",
+        "destination": "textures/items/potion_bottle_splash_waterBreathing.png"
+    },
+    {
+        "source": "TEXTURE_POTION_BOTTLE_SPLASH_WEAKNESS",
+        "destination": "textures/items/potion_bottle_splash_weakness.png"
+    },
+    {
+        "source": "TEXTURE_POTION_BOTTLE_SPLASH_WITHER",
+        "destination": "textures/items/potion_bottle_splash_wither.png"
+    },
+    {
+        "source": "TEXTURE_POTION_BOTTLE_TURTLEMASTER",
+        "destination": "textures/items/potion_bottle_turtleMaster.png"
+    },
+    {
+        "source": "TEXTURE_POTION_BOTTLE_WATERBREATHING",
+        "destination": "textures/items/potion_bottle_waterBreathing.png"
+    },
+    {
+        "source": "TEXTURE_POTION_BOTTLE_WEAKNESS",
+        "destination": "textures/items/potion_bottle_weakness.png"
+    },
+    {
+        "source": "TEXTURE_POTION_BOTTLE_WITHER",
+        "destination": "textures/items/potion_bottle_wither.png"
+    },
+    {
+        "source": "TEXTURE_QUIVER",
+        "destination": "textures/items/quiver.png"
+    },
+    {
+        "source": "TEXTURE_RABBIT_COOKED",
+        "destination": "textures/items/rabbit_cooked.png"
+    },
+    {
+        "source": "TEXTURE_RABBIT_RAW",
+        "destination": "textures/items/rabbit_raw.png"
+    },
+    {
+        "source": "TEXTURE_RECORD_11",
+        "destination": "textures/items/record_11.png"
+    },
+    {
+        "source": "TEXTURE_RECORD_13",
+        "destination": "textures/items/record_13.png"
+    },
+    {
+        "source": "TEXTURE_RECORD_5",
+        "destination": "textures/items/record_5.png"
+    },
+    {
+        "source": "TEXTURE_RECORD_BLOCKS",
+        "destination": "textures/items/record_blocks.png"
+    },
+    {
+        "source": "TEXTURE_RECORD_CAT",
+        "destination": "textures/items/record_cat.png"
+    },
+    {
+        "source": "TEXTURE_RECORD_CHIRP",
+        "destination": "textures/items/record_chirp.png"
+    },
+    {
+        "source": "TEXTURE_RECORD_FAR",
+        "destination": "textures/items/record_far.png"
+    },
+    {
+        "source": "TEXTURE_RECORD_MALL",
+        "destination": "textures/items/record_mall.png"
+    },
+    {
+        "source": "TEXTURE_RECORD_MELLOHI",
+        "destination": "textures/items/record_mellohi.png"
+    },
+    {
+        "source": "TEXTURE_RECORD_OTHERSIDE",
+        "destination": "textures/items/record_otherside.png"
+    },
+    {
+        "source": "TEXTURE_RECORD_PIGSTEP",
+        "destination": "textures/items/record_pigstep.png"
+    },
+    {
+        "source": "TEXTURE_RECORD_STAL",
+        "destination": "textures/items/record_stal.png"
+    },
+    {
+        "source": "TEXTURE_RECORD_STRAD",
+        "destination": "textures/items/record_strad.png"
+    },
+    {
+        "source": "TEXTURE_RECORD_WAIT",
+        "destination": "textures/items/record_wait.png"
+    },
+    {
+        "source": "TEXTURE_RECORD_WARD",
+        "destination": "textures/items/record_ward.png"
+    },
+    {
+        "source": "TEXTURE_RECOVERY_COMPASS_ATLAS",
+        "destination": "textures/items/recovery_compass_atlas.png"
+    },
+    {
+        "source": "TEXTURE_RECOVERY_COMPASS_ITEM",
+        "destination": "textures/items/recovery_compass_item.png"
+    },
+    {
+        "source": "TEXTURE_REDSTONE_DUST",
+        "destination": "textures/items/redstone_dust.png"
+    },
+    {
+        "source": "TEXTURE_REEDS",
+        "destination": "textures/items/reeds.png"
+    },
+    {
+        "source": "TEXTURE_RUBY",
+        "destination": "textures/items/ruby.png"
+    },
+    {
+        "source": "TEXTURE_SEEDS_BEETROOT",
+        "destination": "textures/items/seeds_beetroot.png"
+    },
+    {
+        "source": "TEXTURE_SEEDS_MELON",
+        "destination": "textures/items/seeds_melon.png"
+    },
+    {
+        "source": "TEXTURE_SEEDS_PUMPKIN",
+        "destination": "textures/items/seeds_pumpkin.png"
+    },
+    {
+        "source": "TEXTURE_SEEDS_WHEAT",
+        "destination": "textures/items/seeds_wheat.png"
+    },
+    {
+        "source": "TEXTURE_SIGN",
+        "destination": "textures/items/sign.png"
+    },
+    {
+        "source": "TEXTURE_SIGN_ACACIA",
+        "destination": "textures/items/sign_acacia.png"
+    },
+    {
+        "source": "TEXTURE_SIGN_BIRCH",
+        "destination": "textures/items/sign_birch.png"
+    },
+    {
+        "source": "TEXTURE_SIGN_CRIMSON",
+        "destination": "textures/items/sign_crimson.png"
+    },
+    {
+        "source": "TEXTURE_SIGN_DARKOAK",
+        "destination": "textures/items/sign_darkoak.png"
+    },
+    {
+        "source": "TEXTURE_SIGN_JUNGLE",
+        "destination": "textures/items/sign_jungle.png"
+    },
+    {
+        "source": "TEXTURE_SIGN_SPRUCE",
+        "destination": "textures/items/sign_spruce.png"
+    },
+    {
+        "source": "TEXTURE_SIGN_WARPED",
+        "destination": "textures/items/sign_warped.png"
+    },
+    {
+        "source": "TEXTURE_SLIMEBALL",
+        "destination": "textures/items/slimeball.png"
+    },
+    {
+        "source": "TEXTURE_SPIDER_EYE_FERMENTED",
+        "destination": "textures/items/spider_eye_fermented.png"
+    },
+    {
+        "source": "TEXTURE_TIPPED_ARROW",
+        "destination": "textures/items/tipped_arrow.png"
+    },
+    {
+        "source": "TEXTURE_TIPPED_ARROW_FIRERES",
+        "destination": "textures/items/tipped_arrow_fireres.png"
+    },
+    {
+        "source": "TEXTURE_TIPPED_ARROW_HARM",
+        "destination": "textures/items/tipped_arrow_harm.png"
+    },
+    {
+        "source": "TEXTURE_TIPPED_ARROW_HEALING",
+        "destination": "textures/items/tipped_arrow_healing.png"
+    },
+    {
+        "source": "TEXTURE_TIPPED_ARROW_INVISIBILITY",
+        "destination": "textures/items/tipped_arrow_invisibility.png"
+    },
+    {
+        "source": "TEXTURE_TIPPED_ARROW_LEAPING",
+        "destination": "textures/items/tipped_arrow_leaping.png"
+    },
+    {
+        "source": "TEXTURE_TIPPED_ARROW_LUCK",
+        "destination": "textures/items/tipped_arrow_luck.png"
+    },
+    {
+        "source": "TEXTURE_TIPPED_ARROW_NIGHTVISION",
+        "destination": "textures/items/tipped_arrow_nightvision.png"
+    },
+    {
+        "source": "TEXTURE_TIPPED_ARROW_POISON",
+        "destination": "textures/items/tipped_arrow_poison.png"
+    },
+    {
+        "source": "TEXTURE_TIPPED_ARROW_REGEN",
+        "destination": "textures/items/tipped_arrow_regen.png"
+    },
+    {
+        "source": "TEXTURE_TIPPED_ARROW_SLOW",
+        "destination": "textures/items/tipped_arrow_slow.png"
+    },
+    {
+        "source": "TEXTURE_TIPPED_ARROW_SLOWFALLING",
+        "destination": "textures/items/tipped_arrow_slowfalling.png"
+    },
+    {
+        "source": "TEXTURE_TIPPED_ARROW_STRENGTH",
+        "destination": "textures/items/tipped_arrow_strength.png"
+    },
+    {
+        "source": "TEXTURE_TIPPED_ARROW_SWIFT",
+        "destination": "textures/items/tipped_arrow_swift.png"
+    },
+    {
+        "source": "TEXTURE_TIPPED_ARROW_TURTLEMASTER",
+        "destination": "textures/items/tipped_arrow_turtlemaster.png"
+    },
+    {
+        "source": "TEXTURE_TIPPED_ARROW_WATERBREATHING",
+        "destination": "textures/items/tipped_arrow_waterbreathing.png"
+    },
+    {
+        "source": "TEXTURE_TIPPED_ARROW_WEAKNESS",
+        "destination": "textures/items/tipped_arrow_weakness.png"
+    },
+    {
+        "source": "TEXTURE_TIPPED_ARROW_WITHER",
+        "destination": "textures/items/tipped_arrow_wither.png"
+    },
+    {
+        "source": "TEXTURE_TOTEM",
+        "destination": "textures/items/totem.png"
+    },
+    {
+        "source": "TEXTURE_TURTLE_SHELL_PIECE",
+        "destination": "textures/items/turtle_shell_piece.png"
+    },
+    {
+        "source": "TEXTURE_VILLAGEBELL",
+        "destination": "textures/items/villagebell.png"
+    },
+    {
+        "source": "TEXTURE_WATCH_ATLAS",
+        "destination": "textures/items/watch_atlas.png"
+    },
+    {
+        "source": "TEXTURE_WOOD_AXE",
+        "destination": "textures/items/wood_axe.png"
+    },
+    {
+        "source": "TEXTURE_WOOD_HOE",
+        "destination": "textures/items/wood_hoe.png"
+    },
+    {
+        "source": "TEXTURE_WOOD_PICKAXE",
+        "destination": "textures/items/wood_pickaxe.png"
+    },
+    {
+        "source": "TEXTURE_WOOD_SHOVEL",
+        "destination": "textures/items/wood_shovel.png"
+    },
+    {
+        "source": "TEXTURE_WOOD_SWORD",
+        "destination": "textures/items/wood_sword.png"
+    },
+    {
+        "source": "TEXTURE_BLACK_CANDLE",
+        "destination": "textures/items/candles/black_candle.png"
+    },
+    {
+        "source": "TEXTURE_BLUE_CANDLE",
+        "destination": "textures/items/candles/blue_candle.png"
+    },
+    {
+        "source": "TEXTURE_BROWN_CANDLE",
+        "destination": "textures/items/candles/brown_candle.png"
+    },
+    {
+        "source": "TEXTURE_CANDLE",
+        "destination": "textures/items/candles/candle.png"
+    },
+    {
+        "source": "TEXTURE_CYAN_CANDLE",
+        "destination": "textures/items/candles/cyan_candle.png"
+    },
+    {
+        "source": "TEXTURE_GRAY_CANDLE",
+        "destination": "textures/items/candles/gray_candle.png"
+    },
+    {
+        "source": "TEXTURE_GREEN_CANDLE",
+        "destination": "textures/items/candles/green_candle.png"
+    },
+    {
+        "source": "TEXTURE_LIGHT_BLUE_CANDLE",
+        "destination": "textures/items/candles/light_blue_candle.png"
+    },
+    {
+        "source": "TEXTURE_LIGHT_GRAY_CANDLE",
+        "destination": "textures/items/candles/light_gray_candle.png"
+    },
+    {
+        "source": "TEXTURE_LIME_CANDLE",
+        "destination": "textures/items/candles/lime_candle.png"
+    },
+    {
+        "source": "TEXTURE_MAGENTA_CANDLE",
+        "destination": "textures/items/candles/magenta_candle.png"
+    },
+    {
+        "source": "TEXTURE_ORANGE_CANDLE",
+        "destination": "textures/items/candles/orange_candle.png"
+    },
+    {
+        "source": "TEXTURE_PINK_CANDLE",
+        "destination": "textures/items/candles/pink_candle.png"
+    },
+    {
+        "source": "TEXTURE_PURPLE_CANDLE",
+        "destination": "textures/items/candles/purple_candle.png"
+    },
+    {
+        "source": "TEXTURE_RED_CANDLE",
+        "destination": "textures/items/candles/red_candle.png"
+    },
+    {
+        "source": "TEXTURE_WHITE_CANDLE",
+        "destination": "textures/items/candles/white_candle.png"
+    },
+    {
+        "source": "TEXTURE_YELLOW_CANDLE",
+        "destination": "textures/items/candles/yellow_candle.png"
+    },
+    {
+        "source": "TEXTURE_JUNGLE_TEMPLE",
+        "destination": "textures/map/jungle_temple.png"
+    },
+    {
+        "source": "TEXTURE_PLAYER_ICON_BACKGROUND",
+        "destination": "textures/map/player_icon_background.png"
+    },
+    {
+        "source": "TEXTURE_SWAMP_HUT",
+        "destination": "textures/map/swamp_hut.png"
+    },
+    {
+        "source": "TEXTURE_VILLAGE_DESERT",
+        "destination": "textures/map/village_desert.png"
+    },
+    {
+        "source": "TEXTURE_VILLAGE_PLAINS",
+        "destination": "textures/map/village_plains.png"
+    },
+    {
+        "source": "TEXTURE_VILLAGE_SAVANNA",
+        "destination": "textures/map/village_savanna.png"
+    },
+    {
+        "source": "TEXTURE_VILLAGE_SNOWY",
+        "destination": "textures/map/village_snowy.png"
+    },
+    {
+        "source": "TEXTURE_VILLAGE_TAIGA",
+        "destination": "textures/map/village_taiga.png"
+    },
+    {
+        "source": "TEXTURE_ENCHANTED_ACTOR_GLINT",
+        "destination": "textures/misc/enchanted_actor_glint.png"
+    },
+    {
+        "source": "TEXTURE_ENCHANTED_ITEM_GLINT",
+        "destination": "textures/misc/enchanted_item_glint.png"
+    },
+    {
+        "source": "TEXTURE_MISSING_TEXTURE",
+        "destination": "textures/misc/missing_texture.png"
+    },
+    {
+        "source": "TEXTURE_KZ",
+        "destination": "textures/painting/kz.png"
+    },
+    {
+        "source": "TEXTURE_CAMPFIRE_SMOKE",
+        "destination": "textures/particle/campfire_smoke.png"
+    },
+    {
+        "source": "TEXTURE_CHERRY_PETAL_ATLAS",
+        "destination": "textures/particle/cherry_petal_atlas.png"
+    },
+    {
+        "source": "TEXTURE_PARTICLES",
+        "destination": "textures/particle/particles.png"
+    },
+    {
+        "source": "TEXTURE_SCULK_CHARGE",
+        "destination": "textures/particle/sculk_charge.png"
+    },
+    {
+        "source": "TEXTURE_SCULK_CHARGE_POP",
+        "destination": "textures/particle/sculk_charge_pop.png"
+    },
+    {
+        "source": "TEXTURE_SCULK_SOUL",
+        "destination": "textures/particle/sculk_soul.png"
+    },
+    {
+        "source": "TEXTURE_SONIC_EXPLOSION",
+        "destination": "textures/particle/sonic_explosion.png"
+    },
+    {
+        "source": "TEXTURE_SOUL",
+        "destination": "textures/particle/soul.png"
+    },
+    {
+        "source": "TEXTURE_VIBRATION_SIGNAL",
+        "destination": "textures/particle/vibration_signal.png"
+    },
+    {
+        "source": "TEXTURE_BASIC_CLAP_THUMBNAIL_0",
+        "destination": "textures/persona_thumbnails/basic_clap_thumbnail_0.png"
+    },
+    {
+        "source": "TEXTURE_COMMUNICATION_FOLLOW_ME_THUMBNAIL_0",
+        "destination": "textures/persona_thumbnails/communication_follow_me_thumbnail_0.png"
+    },
+    {
+        "source": "TEXTURE_COMMUNICATION_POINT_THUMBNAIL_0",
+        "destination": "textures/persona_thumbnails/communication_point_thumbnail_0.png"
+    },
+    {
+        "source": "TEXTURE_OVERHEAD_WAVE_THUMBNAIL_0",
+        "destination": "textures/persona_thumbnails/overhead_wave_thumbnail_0.png"
+    }
+]

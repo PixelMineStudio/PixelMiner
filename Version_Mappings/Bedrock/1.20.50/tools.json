@@ -1,0 +1,206 @@
+[
+    {
+        "source": "TEXTURE_GOLDEN_AXE",
+        "destination": "textures/items/gold_axe.png"
+    },
+    {
+        "source": "TEXTURE_GOLDEN_HOE",
+        "destination": "textures/items/gold_hoe.png"
+    },
+    {
+        "source": "TEXTURE_GOLDEN_PICKAXE",
+        "destination": "textures/items/gold_pickaxe.png"
+    },
+    {
+        "source": "TEXTURE_GOLDEN_SHOVEL",
+        "destination": "textures/items/gold_shovel.png"
+    },
+    {
+        "source": "TEXTURE_GOLDEN_SWORD",
+        "destination": "textures/items/gold_sword.png"
+    },
+    {
+        "source": "TEXTURE_BRUSH",
+        "destination": "textures/items/brush.png"
+    },
+    {
+        "source": "TEXTURE_SPYGLASS",
+        "destination": "textures/items/spyglass.png"
+    },
+    {
+        "source": "TEXTURE_ARROW_ITEM",
+        "destination": "textures/items/arrow.png"
+    },
+    {
+        "source": "TEXTURE_BOW_PULLING_0",
+        "destination": "textures/items/bow_pulling_0.png"
+    },
+    {
+        "source": "TEXTURE_BOW_PULLING_1",
+        "destination": "textures/items/bow_pulling_1.png"
+    },
+    {
+        "source": "TEXTURE_BOW_PULLING_2",
+        "destination": "textures/items/bow_pulling_2.png"
+    },
+    {
+        "source": "TEXTURE_CARROT_ON_A_STICK",
+        "destination": "textures/items/carrot_on_a_stick.png"
+    },
+    {
+        "source": "TEXTURE_CROSSBOW_BOLT",
+        "destination": "textures/items/crossbow_arrow.png"
+    },
+    {
+        "source": "TEXTURE_CROSSBOW_FIREWORK",
+        "destination": "textures/items/crossbow_firework.png"
+    },
+    {
+        "source": "TEXTURE_CROSSBOW_PULLING_0",
+        "destination": "textures/items/crossbow_pulling_0.png"
+    },
+    {
+        "source": "TEXTURE_CROSSBOW_PULLING_1",
+        "destination": "textures/items/crossbow_pulling_1.png"
+    },
+    {
+        "source": "TEXTURE_CROSSBOW_PULLING_2",
+        "destination": "textures/items/crossbow_pulling_2.png"
+    },
+    {
+        "source": "TEXTURE_CROSSBOW_STANDBY",
+        "destination": "textures/items/crossbow_standby.png"
+    },
+    {
+        "source": "TEXTURE_DIAMOND_AXE",
+        "destination": "textures/items/diamond_axe.png"
+    },
+    {
+        "source": "TEXTURE_DIAMOND_HOE",
+        "destination": "textures/items/diamond_hoe.png"
+    },
+    {
+        "source": "TEXTURE_DIAMOND_PICKAXE",
+        "destination": "textures/items/diamond_pickaxe.png"
+    },
+    {
+        "source": "TEXTURE_DIAMOND_SHOVEL",
+        "destination": "textures/items/diamond_shovel.png"
+    },
+    {
+        "source": "TEXTURE_DIAMOND_SWORD",
+        "destination": "textures/items/diamond_sword.png"
+    },
+    {
+        "source": "TEXTURE_ELYTRA_BROKEN",
+        "destination": "textures/items/broken_elytra.png"
+    },
+    {
+        "source": "TEXTURE_ELYTRA_ITEM",
+        "destination": "textures/items/elytra.png"
+    },
+    {
+        "source": "TEXTURE_FISHING_ROD_CAST",
+        "destination": "textures/items/fishing_rod_cast.png"
+    },
+    {
+        "source": "TEXTURE_FLINT_AND_STEEL",
+        "destination": "textures/items/flint_and_steel.png"
+    },
+    {
+        "source": "TEXTURE_IRON_AXE",
+        "destination": "textures/items/iron_axe.png"
+    },
+    {
+        "source": "TEXTURE_IRON_HOE",
+        "destination": "textures/items/iron_hoe.png"
+    },
+    {
+        "source": "TEXTURE_IRON_PICKAXE",
+        "destination": "textures/items/iron_pickaxe.png"
+    },
+    {
+        "source": "TEXTURE_IRON_SHOVEL",
+        "destination": "textures/items/iron_shovel.png"
+    },
+    {
+        "source": "TEXTURE_IRON_SWORD",
+        "destination": "textures/items/iron_sword.png"
+    },
+    {
+        "source": "TEXTURE_LEAD",
+        "destination": "textures/items/lead.png"
+    },
+    {
+        "source": "TEXTURE_LEAD_KNOT",
+        "destination": "textures/entity/lead_knot.png"
+    },
+    {
+        "source": "TEXTURE_NETHERITE_AXE",
+        "destination": "textures/items/netherite_axe.png"
+    },
+    {
+        "source": "TEXTURE_NETHERITE_HOE",
+        "destination": "textures/items/netherite_hoe.png"
+    },
+    {
+        "source": "TEXTURE_NETHERITE_PICKAXE",
+        "destination": "textures/items/netherite_pickaxe.png"
+    },
+    {
+        "source": "TEXTURE_NETHERITE_SHOVEL",
+        "destination": "textures/items/netherite_shovel.png"
+    },
+    {
+        "source": "TEXTURE_NETHERITE_SWORD",
+        "destination": "textures/items/netherite_sword.png"
+    },
+    {
+        "source": "TEXTURE_SHEARS",
+        "destination": "textures/items/shears.png"
+    },
+    {
+        "source": "TEXTURE_STONE_AXE",
+        "destination": "textures/items/stone_axe.png"
+    },
+    {
+        "source": "TEXTURE_STONE_HOE",
+        "destination": "textures/items/stone_hoe.png"
+    },
+    {
+        "source": "TEXTURE_STONE_PICKAXE",
+        "destination": "textures/items/stone_pickaxe.png"
+    },
+    {
+        "source": "TEXTURE_STONE_SHOVEL",
+        "destination": "textures/items/stone_shovel.png"
+    },
+    {
+        "source": "TEXTURE_STONE_SWORD",
+        "destination": "textures/items/stone_sword.png"
+    },
+    {
+        "source": "TEXTURE_TIPPED_ARROW_BASE",
+        "destination": "textures/items/tipped_arrow_base.png"
+    },
+    {
+        "source": "TEXTURE_TIPPED_ARROW_HEAD",
+        "destination": "textures/items/tipped_arrow_head.png"
+    },
+    {
+        "source": "TEXTURE_TRIDENT",
+        "destination": "textures/entity/trident.png"
+    },
+    {
+        "source": "TEXTURE_TRIDENT_ITEM",
+        "destination": "textures/items/trident.png"
+    },
+    {
+        "source": "TEXTURE_TRIDENT_RIPTIDE",
+        "destination": "textures/entity/trident_riptide.png"
+    },
+    {
+        "source": "TEXTURE_WARPED_FUNGUS_ON_A_STICK",
+        "destination": "textures/items/warped_fungus_on_a_stick.png"
+    }
+]

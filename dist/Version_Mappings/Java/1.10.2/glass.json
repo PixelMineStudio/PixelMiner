@@ -1,0 +1,138 @@
+[
+    {
+        "source": "TEXTURE_GLASS",
+        "destination": "assets/minecraft/textures/blocks/glass.png"
+    },
+    {
+        "source": "TEXTURE_GLASS_PANE_TOP",
+        "destination": "assets/minecraft/textures/blocks/glass_pane_top.png"
+    },
+    {
+        "source": "TEXTURE_GLASS_STAINE_PANE_TOP_YELLOW",
+        "destination": "assets/minecraft/textures/blocks/glass_pane_top_yellow.png"
+    },
+    {
+        "source": "TEXTURE_GLASS_STAINED_BLACK",
+        "destination": "assets/minecraft/textures/blocks/glass_black.png"
+    },
+    {
+        "source": "TEXTURE_GLASS_STAINED_BLUE",
+        "destination": "assets/minecraft/textures/blocks/glass_blue.png"
+    },
+    {
+        "source": "TEXTURE_GLASS_STAINED_BROWN",
+        "destination": "assets/minecraft/textures/blocks/glass_brown.png"
+    },
+    {
+        "source": "TEXTURE_GLASS_STAINED_CYAN",
+        "destination": "assets/minecraft/textures/blocks/glass_cyan.png"
+    },
+    {
+        "source": "TEXTURE_GLASS_STAINED_GRAY",
+        "destination": "assets/minecraft/textures/blocks/glass_gray.png"
+    },
+    {
+        "source": "TEXTURE_GLASS_STAINED_GREEN",
+        "destination": "assets/minecraft/textures/blocks/glass_green.png"
+    },
+    {
+        "source": "TEXTURE_GLASS_STAINED_LIGHTBLUE",
+        "destination": "assets/minecraft/textures/blocks/glass_light_blue.png"
+    },
+    {
+        "source": "TEXTURE_GLASS_STAINED_LIGHTGRAY",
+        "destination": "assets/minecraft/textures/blocks/glass_silver.png"
+    },
+    {
+        "source": "TEXTURE_GLASS_STAINED_LIME",
+        "destination": "assets/minecraft/textures/blocks/glass_lime.png"
+    },
+    {
+        "source": "TEXTURE_GLASS_STAINED_MAGENTA",
+        "destination": "assets/minecraft/textures/blocks/glass_magenta.png"
+    },
+    {
+        "source": "TEXTURE_GLASS_STAINED_ORANGE",
+        "destination": "assets/minecraft/textures/blocks/glass_orange.png"
+    },
+    {
+        "source": "TEXTURE_GLASS_STAINED_PANE_TOP_BLACK",
+        "destination": "assets/minecraft/textures/blocks/glass_pane_top_black.png"
+    },
+    {
+        "source": "TEXTURE_GLASS_STAINED_PANE_TOP_BLUE",
+        "destination": "assets/minecraft/textures/blocks/glass_pane_top_blue.png"
+    },
+    {
+        "source": "TEXTURE_GLASS_STAINED_PANE_TOP_BROWN",
+        "destination": "assets/minecraft/textures/blocks/glass_pane_top_brown.png"
+    },
+    {
+        "source": "TEXTURE_GLASS_STAINED_PANE_TOP_CYAN",
+        "destination": "assets/minecraft/textures/blocks/glass_pane_top_cyan.png"
+    },
+    {
+        "source": "TEXTURE_GLASS_STAINED_PANE_TOP_GRAY",
+        "destination": "assets/minecraft/textures/blocks/glass_pane_top_gray.png"
+    },
+    {
+        "source": "TEXTURE_GLASS_STAINED_PANE_TOP_GREEN",
+        "destination": "assets/minecraft/textures/blocks/glass_pane_top_green.png"
+    },
+    {
+        "source": "TEXTURE_GLASS_STAINED_PANE_TOP_LIGHTBLUE",
+        "destination": "assets/minecraft/textures/blocks/glass_pane_top_light_blue.png"
+    },
+    {
+        "source": "TEXTURE_GLASS_STAINED_PANE_TOP_LIGHTGRAY",
+        "destination": "assets/minecraft/textures/blocks/glass_pane_top_silver.png"
+    },
+    {
+        "source": "TEXTURE_GLASS_STAINED_PANE_TOP_LIME",
+        "destination": "assets/minecraft/textures/blocks/glass_pane_top_lime.png"
+    },
+    {
+        "source": "TEXTURE_GLASS_STAINED_PANE_TOP_MAGENTA",
+        "destination": "assets/minecraft/textures/blocks/glass_pane_top_magenta.png"
+    },
+    {
+        "source": "TEXTURE_GLASS_STAINED_PANE_TOP_ORANGE",
+        "destination": "assets/minecraft/textures/blocks/glass_pane_top_orange.png"
+    },
+    {
+        "source": "TEXTURE_GLASS_STAINED_PANE_TOP_PINK",
+        "destination": "assets/minecraft/textures/blocks/glass_pane_top_pink.png"
+    },
+    {
+        "source": "TEXTURE_GLASS_STAINED_PANE_TOP_PURPLE",
+        "destination": "assets/minecraft/textures/blocks/glass_pane_top_purple.png"
+    },
+    {
+        "source": "TEXTURE_GLASS_STAINED_PANE_TOP_RED",
+        "destination": "assets/minecraft/textures/blocks/glass_pane_top_red.png"
+    },
+    {
+        "source": "TEXTURE_GLASS_STAINED_PANE_TOP_WHITE",
+        "destination": "assets/minecraft/textures/blocks/glass_pane_top_white.png"
+    },
+    {
+        "source": "TEXTURE_GLASS_STAINED_PINK",
+        "destination": "assets/minecraft/textures/blocks/glass_pink.png"
+    },
+    {
+        "source": "TEXTURE_GLASS_STAINED_PURPLE",
+        "destination": "assets/minecraft/textures/blocks/glass_purple.png"
+    },
+    {
+        "source": "TEXTURE_GLASS_STAINED_RED",
+        "destination": "assets/minecraft/textures/blocks/glass_red.png"
+    },
+    {
+        "source": "TEXTURE_GLASS_STAINED_WHITE",
+        "destination": "assets/minecraft/textures/blocks/glass_white.png"
+    },
+    {
+        "source": "TEXTURE_GLASS_STAINED_YELLOW",
+        "destination": "assets/minecraft/textures/blocks/glass_yellow.png"
+    }
+]

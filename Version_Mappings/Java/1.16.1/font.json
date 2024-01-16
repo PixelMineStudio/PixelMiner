@@ -1,0 +1,906 @@
+[
+    {
+        "source": "TEXTURE_ACCENTED",
+        "destination": "assets/minecraft/textures/font/accented.png"
+    },
+    {
+        "source": "TEXTURE_ASCII",
+        "destination": "assets/minecraft/textures/font/ascii.png"
+    },
+    {
+        "source": "TEXTURE_ASCII_SGA",
+        "destination": "assets/minecraft/textures/font/ascii_sga.png"
+    },
+    {
+        "source": "TEXTURE_NONLATIN_EUROPEAN",
+        "destination": "assets/minecraft/textures/font/nonlatin_european.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_00",
+        "destination": "assets/minecraft/textures/font/unicode_page_00.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_01",
+        "destination": "assets/minecraft/textures/font/unicode_page_01.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_02",
+        "destination": "assets/minecraft/textures/font/unicode_page_02.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_03",
+        "destination": "assets/minecraft/textures/font/unicode_page_03.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_04",
+        "destination": "assets/minecraft/textures/font/unicode_page_04.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_05",
+        "destination": "assets/minecraft/textures/font/unicode_page_05.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_06",
+        "destination": "assets/minecraft/textures/font/unicode_page_06.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_07",
+        "destination": "assets/minecraft/textures/font/unicode_page_07.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_09",
+        "destination": "assets/minecraft/textures/font/unicode_page_09.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_0A",
+        "destination": "assets/minecraft/textures/font/unicode_page_0a.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_0B",
+        "destination": "assets/minecraft/textures/font/unicode_page_0b.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_0C",
+        "destination": "assets/minecraft/textures/font/unicode_page_0c.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_0D",
+        "destination": "assets/minecraft/textures/font/unicode_page_0d.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_0E",
+        "destination": "assets/minecraft/textures/font/unicode_page_0e.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_0F",
+        "destination": "assets/minecraft/textures/font/unicode_page_0f.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_10",
+        "destination": "assets/minecraft/textures/font/unicode_page_10.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_11",
+        "destination": "assets/minecraft/textures/font/unicode_page_11.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_12",
+        "destination": "assets/minecraft/textures/font/unicode_page_12.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_13",
+        "destination": "assets/minecraft/textures/font/unicode_page_13.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_14",
+        "destination": "assets/minecraft/textures/font/unicode_page_14.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_15",
+        "destination": "assets/minecraft/textures/font/unicode_page_15.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_16",
+        "destination": "assets/minecraft/textures/font/unicode_page_16.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_17",
+        "destination": "assets/minecraft/textures/font/unicode_page_17.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_18",
+        "destination": "assets/minecraft/textures/font/unicode_page_18.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_19",
+        "destination": "assets/minecraft/textures/font/unicode_page_19.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_1A",
+        "destination": "assets/minecraft/textures/font/unicode_page_1a.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_1B",
+        "destination": "assets/minecraft/textures/font/unicode_page_1b.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_1C",
+        "destination": "assets/minecraft/textures/font/unicode_page_1c.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_1D",
+        "destination": "assets/minecraft/textures/font/unicode_page_1d.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_1E",
+        "destination": "assets/minecraft/textures/font/unicode_page_1e.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_1F",
+        "destination": "assets/minecraft/textures/font/unicode_page_1f.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_20",
+        "destination": "assets/minecraft/textures/font/unicode_page_20.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_21",
+        "destination": "assets/minecraft/textures/font/unicode_page_21.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_22",
+        "destination": "assets/minecraft/textures/font/unicode_page_22.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_23",
+        "destination": "assets/minecraft/textures/font/unicode_page_23.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_24",
+        "destination": "assets/minecraft/textures/font/unicode_page_24.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_25",
+        "destination": "assets/minecraft/textures/font/unicode_page_25.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_26",
+        "destination": "assets/minecraft/textures/font/unicode_page_26.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_27",
+        "destination": "assets/minecraft/textures/font/unicode_page_27.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_28",
+        "destination": "assets/minecraft/textures/font/unicode_page_28.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_29",
+        "destination": "assets/minecraft/textures/font/unicode_page_29.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_2A",
+        "destination": "assets/minecraft/textures/font/unicode_page_2a.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_2B",
+        "destination": "assets/minecraft/textures/font/unicode_page_2b.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_2C",
+        "destination": "assets/minecraft/textures/font/unicode_page_2c.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_2D",
+        "destination": "assets/minecraft/textures/font/unicode_page_2d.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_2E",
+        "destination": "assets/minecraft/textures/font/unicode_page_2e.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_2F",
+        "destination": "assets/minecraft/textures/font/unicode_page_2f.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_30",
+        "destination": "assets/minecraft/textures/font/unicode_page_30.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_31",
+        "destination": "assets/minecraft/textures/font/unicode_page_31.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_32",
+        "destination": "assets/minecraft/textures/font/unicode_page_32.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_33",
+        "destination": "assets/minecraft/textures/font/unicode_page_33.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_34",
+        "destination": "assets/minecraft/textures/font/unicode_page_34.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_35",
+        "destination": "assets/minecraft/textures/font/unicode_page_35.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_36",
+        "destination": "assets/minecraft/textures/font/unicode_page_36.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_37",
+        "destination": "assets/minecraft/textures/font/unicode_page_37.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_38",
+        "destination": "assets/minecraft/textures/font/unicode_page_38.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_39",
+        "destination": "assets/minecraft/textures/font/unicode_page_39.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_3A",
+        "destination": "assets/minecraft/textures/font/unicode_page_3a.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_3B",
+        "destination": "assets/minecraft/textures/font/unicode_page_3b.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_3C",
+        "destination": "assets/minecraft/textures/font/unicode_page_3c.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_3D",
+        "destination": "assets/minecraft/textures/font/unicode_page_3d.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_3E",
+        "destination": "assets/minecraft/textures/font/unicode_page_3e.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_3F",
+        "destination": "assets/minecraft/textures/font/unicode_page_3f.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_40",
+        "destination": "assets/minecraft/textures/font/unicode_page_40.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_41",
+        "destination": "assets/minecraft/textures/font/unicode_page_41.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_42",
+        "destination": "assets/minecraft/textures/font/unicode_page_42.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_43",
+        "destination": "assets/minecraft/textures/font/unicode_page_43.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_44",
+        "destination": "assets/minecraft/textures/font/unicode_page_44.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_45",
+        "destination": "assets/minecraft/textures/font/unicode_page_45.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_46",
+        "destination": "assets/minecraft/textures/font/unicode_page_46.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_47",
+        "destination": "assets/minecraft/textures/font/unicode_page_47.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_48",
+        "destination": "assets/minecraft/textures/font/unicode_page_48.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_49",
+        "destination": "assets/minecraft/textures/font/unicode_page_49.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_4A",
+        "destination": "assets/minecraft/textures/font/unicode_page_4a.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_4B",
+        "destination": "assets/minecraft/textures/font/unicode_page_4b.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_4C",
+        "destination": "assets/minecraft/textures/font/unicode_page_4c.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_4D",
+        "destination": "assets/minecraft/textures/font/unicode_page_4d.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_4E",
+        "destination": "assets/minecraft/textures/font/unicode_page_4e.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_4F",
+        "destination": "assets/minecraft/textures/font/unicode_page_4f.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_50",
+        "destination": "assets/minecraft/textures/font/unicode_page_50.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_51",
+        "destination": "assets/minecraft/textures/font/unicode_page_51.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_52",
+        "destination": "assets/minecraft/textures/font/unicode_page_52.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_53",
+        "destination": "assets/minecraft/textures/font/unicode_page_53.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_54",
+        "destination": "assets/minecraft/textures/font/unicode_page_54.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_55",
+        "destination": "assets/minecraft/textures/font/unicode_page_55.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_56",
+        "destination": "assets/minecraft/textures/font/unicode_page_56.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_57",
+        "destination": "assets/minecraft/textures/font/unicode_page_57.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_58",
+        "destination": "assets/minecraft/textures/font/unicode_page_58.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_59",
+        "destination": "assets/minecraft/textures/font/unicode_page_59.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_5A",
+        "destination": "assets/minecraft/textures/font/unicode_page_5a.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_5B",
+        "destination": "assets/minecraft/textures/font/unicode_page_5b.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_5C",
+        "destination": "assets/minecraft/textures/font/unicode_page_5c.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_5D",
+        "destination": "assets/minecraft/textures/font/unicode_page_5d.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_5E",
+        "destination": "assets/minecraft/textures/font/unicode_page_5e.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_5F",
+        "destination": "assets/minecraft/textures/font/unicode_page_5f.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_60",
+        "destination": "assets/minecraft/textures/font/unicode_page_60.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_61",
+        "destination": "assets/minecraft/textures/font/unicode_page_61.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_62",
+        "destination": "assets/minecraft/textures/font/unicode_page_62.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_63",
+        "destination": "assets/minecraft/textures/font/unicode_page_63.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_64",
+        "destination": "assets/minecraft/textures/font/unicode_page_64.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_65",
+        "destination": "assets/minecraft/textures/font/unicode_page_65.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_66",
+        "destination": "assets/minecraft/textures/font/unicode_page_66.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_67",
+        "destination": "assets/minecraft/textures/font/unicode_page_67.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_68",
+        "destination": "assets/minecraft/textures/font/unicode_page_68.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_69",
+        "destination": "assets/minecraft/textures/font/unicode_page_69.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_6A",
+        "destination": "assets/minecraft/textures/font/unicode_page_6a.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_6B",
+        "destination": "assets/minecraft/textures/font/unicode_page_6b.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_6C",
+        "destination": "assets/minecraft/textures/font/unicode_page_6c.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_6D",
+        "destination": "assets/minecraft/textures/font/unicode_page_6d.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_6E",
+        "destination": "assets/minecraft/textures/font/unicode_page_6e.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_6F",
+        "destination": "assets/minecraft/textures/font/unicode_page_6f.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_70",
+        "destination": "assets/minecraft/textures/font/unicode_page_70.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_71",
+        "destination": "assets/minecraft/textures/font/unicode_page_71.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_72",
+        "destination": "assets/minecraft/textures/font/unicode_page_72.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_73",
+        "destination": "assets/minecraft/textures/font/unicode_page_73.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_74",
+        "destination": "assets/minecraft/textures/font/unicode_page_74.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_75",
+        "destination": "assets/minecraft/textures/font/unicode_page_75.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_76",
+        "destination": "assets/minecraft/textures/font/unicode_page_76.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_77",
+        "destination": "assets/minecraft/textures/font/unicode_page_77.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_78",
+        "destination": "assets/minecraft/textures/font/unicode_page_78.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_79",
+        "destination": "assets/minecraft/textures/font/unicode_page_79.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_7A",
+        "destination": "assets/minecraft/textures/font/unicode_page_7a.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_7B",
+        "destination": "assets/minecraft/textures/font/unicode_page_7b.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_7C",
+        "destination": "assets/minecraft/textures/font/unicode_page_7c.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_7D",
+        "destination": "assets/minecraft/textures/font/unicode_page_7d.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_7E",
+        "destination": "assets/minecraft/textures/font/unicode_page_7e.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_7F",
+        "destination": "assets/minecraft/textures/font/unicode_page_7f.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_80",
+        "destination": "assets/minecraft/textures/font/unicode_page_80.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_81",
+        "destination": "assets/minecraft/textures/font/unicode_page_81.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_82",
+        "destination": "assets/minecraft/textures/font/unicode_page_82.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_83",
+        "destination": "assets/minecraft/textures/font/unicode_page_83.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_84",
+        "destination": "assets/minecraft/textures/font/unicode_page_84.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_85",
+        "destination": "assets/minecraft/textures/font/unicode_page_85.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_86",
+        "destination": "assets/minecraft/textures/font/unicode_page_86.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_87",
+        "destination": "assets/minecraft/textures/font/unicode_page_87.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_88",
+        "destination": "assets/minecraft/textures/font/unicode_page_88.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_89",
+        "destination": "assets/minecraft/textures/font/unicode_page_89.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_8A",
+        "destination": "assets/minecraft/textures/font/unicode_page_8a.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_8B",
+        "destination": "assets/minecraft/textures/font/unicode_page_8b.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_8C",
+        "destination": "assets/minecraft/textures/font/unicode_page_8c.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_8D",
+        "destination": "assets/minecraft/textures/font/unicode_page_8d.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_8E",
+        "destination": "assets/minecraft/textures/font/unicode_page_8e.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_8F",
+        "destination": "assets/minecraft/textures/font/unicode_page_8f.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_90",
+        "destination": "assets/minecraft/textures/font/unicode_page_90.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_91",
+        "destination": "assets/minecraft/textures/font/unicode_page_91.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_92",
+        "destination": "assets/minecraft/textures/font/unicode_page_92.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_93",
+        "destination": "assets/minecraft/textures/font/unicode_page_93.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_94",
+        "destination": "assets/minecraft/textures/font/unicode_page_94.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_95",
+        "destination": "assets/minecraft/textures/font/unicode_page_95.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_96",
+        "destination": "assets/minecraft/textures/font/unicode_page_96.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_97",
+        "destination": "assets/minecraft/textures/font/unicode_page_97.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_98",
+        "destination": "assets/minecraft/textures/font/unicode_page_98.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_99",
+        "destination": "assets/minecraft/textures/font/unicode_page_99.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_9A",
+        "destination": "assets/minecraft/textures/font/unicode_page_9a.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_9B",
+        "destination": "assets/minecraft/textures/font/unicode_page_9b.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_9C",
+        "destination": "assets/minecraft/textures/font/unicode_page_9c.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_9D",
+        "destination": "assets/minecraft/textures/font/unicode_page_9d.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_9E",
+        "destination": "assets/minecraft/textures/font/unicode_page_9e.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_9F",
+        "destination": "assets/minecraft/textures/font/unicode_page_9f.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_A0",
+        "destination": "assets/minecraft/textures/font/unicode_page_a0.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_A1",
+        "destination": "assets/minecraft/textures/font/unicode_page_a1.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_A2",
+        "destination": "assets/minecraft/textures/font/unicode_page_a2.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_A3",
+        "destination": "assets/minecraft/textures/font/unicode_page_a3.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_A4",
+        "destination": "assets/minecraft/textures/font/unicode_page_a4.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_A5",
+        "destination": "assets/minecraft/textures/font/unicode_page_a5.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_A6",
+        "destination": "assets/minecraft/textures/font/unicode_page_a6.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_A7",
+        "destination": "assets/minecraft/textures/font/unicode_page_a7.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_A8",
+        "destination": "assets/minecraft/textures/font/unicode_page_a8.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_A9",
+        "destination": "assets/minecraft/textures/font/unicode_page_a9.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_AA",
+        "destination": "assets/minecraft/textures/font/unicode_page_aa.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_AB",
+        "destination": "assets/minecraft/textures/font/unicode_page_ab.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_AC",
+        "destination": "assets/minecraft/textures/font/unicode_page_ac.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_AD",
+        "destination": "assets/minecraft/textures/font/unicode_page_ad.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_AE",
+        "destination": "assets/minecraft/textures/font/unicode_page_ae.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_AF",
+        "destination": "assets/minecraft/textures/font/unicode_page_af.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_B0",
+        "destination": "assets/minecraft/textures/font/unicode_page_b0.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_B1",
+        "destination": "assets/minecraft/textures/font/unicode_page_b1.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_B2",
+        "destination": "assets/minecraft/textures/font/unicode_page_b2.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_B3",
+        "destination": "assets/minecraft/textures/font/unicode_page_b3.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_B4",
+        "destination": "assets/minecraft/textures/font/unicode_page_b4.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_B5",
+        "destination": "assets/minecraft/textures/font/unicode_page_b5.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_B6",
+        "destination": "assets/minecraft/textures/font/unicode_page_b6.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_B7",
+        "destination": "assets/minecraft/textures/font/unicode_page_b7.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_B8",
+        "destination": "assets/minecraft/textures/font/unicode_page_b8.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_B9",
+        "destination": "assets/minecraft/textures/font/unicode_page_b9.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_BA",
+        "destination": "assets/minecraft/textures/font/unicode_page_ba.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_BB",
+        "destination": "assets/minecraft/textures/font/unicode_page_bb.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_BC",
+        "destination": "assets/minecraft/textures/font/unicode_page_bc.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_BD",
+        "destination": "assets/minecraft/textures/font/unicode_page_bd.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_BE",
+        "destination": "assets/minecraft/textures/font/unicode_page_be.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_BF",
+        "destination": "assets/minecraft/textures/font/unicode_page_bf.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_C0",
+        "destination": "assets/minecraft/textures/font/unicode_page_c0.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_C1",
+        "destination": "assets/minecraft/textures/font/unicode_page_c1.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_C2",
+        "destination": "assets/minecraft/textures/font/unicode_page_c2.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_C3",
+        "destination": "assets/minecraft/textures/font/unicode_page_c3.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_C4",
+        "destination": "assets/minecraft/textures/font/unicode_page_c4.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_C5",
+        "destination": "assets/minecraft/textures/font/unicode_page_c5.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_C6",
+        "destination": "assets/minecraft/textures/font/unicode_page_c6.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_C7",
+        "destination": "assets/minecraft/textures/font/unicode_page_c7.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_C8",
+        "destination": "assets/minecraft/textures/font/unicode_page_c8.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_C9",
+        "destination": "assets/minecraft/textures/font/unicode_page_c9.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_CA",
+        "destination": "assets/minecraft/textures/font/unicode_page_ca.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_CB",
+        "destination": "assets/minecraft/textures/font/unicode_page_cb.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_CC",
+        "destination": "assets/minecraft/textures/font/unicode_page_cc.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_CD",
+        "destination": "assets/minecraft/textures/font/unicode_page_cd.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_CE",
+        "destination": "assets/minecraft/textures/font/unicode_page_ce.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_CF",
+        "destination": "assets/minecraft/textures/font/unicode_page_cf.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_D0",
+        "destination": "assets/minecraft/textures/font/unicode_page_d0.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_D1",
+        "destination": "assets/minecraft/textures/font/unicode_page_d1.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_D2",
+        "destination": "assets/minecraft/textures/font/unicode_page_d2.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_D3",
+        "destination": "assets/minecraft/textures/font/unicode_page_d3.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_D4",
+        "destination": "assets/minecraft/textures/font/unicode_page_d4.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_D5",
+        "destination": "assets/minecraft/textures/font/unicode_page_d5.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_D6",
+        "destination": "assets/minecraft/textures/font/unicode_page_d6.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_D7",
+        "destination": "assets/minecraft/textures/font/unicode_page_d7.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_F9",
+        "destination": "assets/minecraft/textures/font/unicode_page_f9.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_FA",
+        "destination": "assets/minecraft/textures/font/unicode_page_fa.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_FB",
+        "destination": "assets/minecraft/textures/font/unicode_page_fb.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_FC",
+        "destination": "assets/minecraft/textures/font/unicode_page_fc.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_FD",
+        "destination": "assets/minecraft/textures/font/unicode_page_fd.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_FE",
+        "destination": "assets/minecraft/textures/font/unicode_page_fe.png"
+    },
+    {
+        "source": "TEXTURE_UNICODE_PAGE_FF",
+        "destination": "assets/minecraft/textures/font/unicode_page_ff.png"
+    }
+]

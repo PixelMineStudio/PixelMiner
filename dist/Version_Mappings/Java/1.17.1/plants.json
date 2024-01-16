@@ -1,0 +1,418 @@
+[
+    {
+        "source": "TEXTURE_AZALEA_LEAVES",
+        "destination": "assets/minecraft/textures/block/azalea_leaves.png"
+    },
+    {
+        "source": "TEXTURE_AZALEA_PLANT",
+        "destination": "assets/minecraft/textures/block/azalea_plant.png"
+    },
+    {
+        "source": "TEXTURE_AZALEA_SIDE",
+        "destination": "assets/minecraft/textures/block/azalea_side.png"
+    },
+    {
+        "source": "TEXTURE_AZALEA_TOP",
+        "destination": "assets/minecraft/textures/block/azalea_top.png"
+    },
+    {
+        "source": "TEXTURE_DRIPLEAF_BIG_SIDE",
+        "destination": "assets/minecraft/textures/block/big_dripleaf_side.png"
+    },
+    {
+        "source": "TEXTURE_DRIPLEAF_BIG_STEM",
+        "destination": "assets/minecraft/textures/block/big_dripleaf_stem.png"
+    },
+    {
+        "source": "TEXTURE_DRIPLEAF_BIG_TIP",
+        "destination": "assets/minecraft/textures/block/big_dripleaf_tip.png"
+    },
+    {
+        "source": "TEXTURE_DRIPLEAF_BIG_TOP",
+        "destination": "assets/minecraft/textures/block/big_dripleaf_top.png"
+    },
+    {
+        "source": "TEXTURE_VINES_CAVE",
+        "destination": "assets/minecraft/textures/block/cave_vines.png"
+    },
+    {
+        "source": "TEXTURE_VINES_CAVE_LIT",
+        "destination": "assets/minecraft/textures/block/cave_vines_lit.png"
+    },
+    {
+        "source": "TEXTURE_VINES_CAVE_PLANT",
+        "destination": "assets/minecraft/textures/block/cave_vines_plant.png"
+    },
+    {
+        "source": "TEXTURE_VINES_CAVE_PLANT_LIT",
+        "destination": "assets/minecraft/textures/block/cave_vines_plant_lit.png"
+    },
+    {
+        "source": "TEXTURE_AZALEA_FLOWERING_LEAVES",
+        "destination": "assets/minecraft/textures/block/flowering_azalea_leaves.png"
+    },
+    {
+        "source": "TEXTURE_AZALEA_FLOWERING_SIDE",
+        "destination": "assets/minecraft/textures/block/flowering_azalea_side.png"
+    },
+    {
+        "source": "TEXTURE_AZALEA_FLOWERING_TOP",
+        "destination": "assets/minecraft/textures/block/flowering_azalea_top.png"
+    },
+    {
+        "source": "TEXTURE_GLOW_LICHEN",
+        "destination": "assets/minecraft/textures/block/glow_lichen.png"
+    },
+    {
+        "source": "TEXTURE_ROOTS_HANGING",
+        "destination": "assets/minecraft/textures/block/hanging_roots.png"
+    },
+    {
+        "source": "TEXTURE_MOSS_BLOCK",
+        "destination": "assets/minecraft/textures/block/moss_block.png"
+    },
+    {
+        "source": "TEXTURE_AZALEA_BUSH_POTTED_PLANT",
+        "destination": "assets/minecraft/textures/block/potted_azalea_bush_plant.png"
+    },
+    {
+        "source": "TEXTURE_AZALEA_BUSH_POTTED_SIDE",
+        "destination": "assets/minecraft/textures/block/potted_azalea_bush_side.png"
+    },
+    {
+        "source": "TEXTURE_AZALEA_BUSH_POTTED_TOP",
+        "destination": "assets/minecraft/textures/block/potted_azalea_bush_top.png"
+    },
+    {
+        "source": "TEXTURE_AZALEA_FLOWERING_BUSH_POTTED_PLANT",
+        "destination": "assets/minecraft/textures/block/potted_flowering_azalea_bush_plant.png"
+    },
+    {
+        "source": "TEXTURE_AZALEA_FLOWERING_BUSH_POTTED_SIDE",
+        "destination": "assets/minecraft/textures/block/potted_flowering_azalea_bush_side.png"
+    },
+    {
+        "source": "TEXTURE_AZALEA_FLOWERING_BUSH_POTTED_TOP",
+        "destination": "assets/minecraft/textures/block/potted_flowering_azalea_bush_top.png"
+    },
+    {
+        "source": "TEXTURE_DRIPLEAF_SMALL_SIDE",
+        "destination": "assets/minecraft/textures/block/small_dripleaf_side.png"
+    },
+    {
+        "source": "TEXTURE_DRIPLEAF_SMALL_STEM_BOTTOM",
+        "destination": "assets/minecraft/textures/block/small_dripleaf_stem_bottom.png"
+    },
+    {
+        "source": "TEXTURE_DRIPLEAF_SMALL_STEM_TOP",
+        "destination": "assets/minecraft/textures/block/small_dripleaf_stem_top.png"
+    },
+    {
+        "source": "TEXTURE_DRIPLEAF_SMALL_TOP",
+        "destination": "assets/minecraft/textures/block/small_dripleaf_top.png"
+    },
+    {
+        "source": "TEXTURE_SPORE_BLOSSOM",
+        "destination": "assets/minecraft/textures/block/spore_blossom.png"
+    },
+    {
+        "source": "TEXTURE_SPORE_BLOSSOM_BASE",
+        "destination": "assets/minecraft/textures/block/spore_blossom_base.png"
+    },
+    {
+        "source": "TEXTURE_GLOW_BERRIES",
+        "destination": "assets/minecraft/textures/item/glow_berries.png"
+    },
+    {
+        "source": "TEXTURE_SEA_PICKLE_ITEM",
+        "destination": "assets/minecraft/textures/item/sea_pickle.png"
+    },
+    {
+        "source": "TEXTURE_SEAGRASS_ITEM",
+        "destination": "assets/minecraft/textures/item/seagrass.png"
+    },
+    {
+        "source": "TEXTURE_ALLIUM",
+        "destination": "assets/minecraft/textures/block/allium.png"
+    },
+    {
+        "source": "TEXTURE_AZURE_BLUET",
+        "destination": "assets/minecraft/textures/block/azure_bluet.png"
+    },
+    {
+        "source": "TEXTURE_BLUE_ORCHID",
+        "destination": "assets/minecraft/textures/block/blue_orchid.png"
+    },
+    {
+        "source": "TEXTURE_BROWN_MUSHROOM",
+        "destination": "assets/minecraft/textures/block/brown_mushroom.png"
+    },
+    {
+        "source": "TEXTURE_BROWN_MUSHROOM_BLOCK",
+        "destination": "assets/minecraft/textures/block/brown_mushroom_block.png"
+    },
+    {
+        "source": "TEXTURE_CACTUS_BOTTOM",
+        "destination": "assets/minecraft/textures/block/cactus_bottom.png"
+    },
+    {
+        "source": "TEXTURE_CACTUS_SIDE",
+        "destination": "assets/minecraft/textures/block/cactus_side.png"
+    },
+    {
+        "source": "TEXTURE_CACTUS_TOP",
+        "destination": "assets/minecraft/textures/block/cactus_top.png"
+    },
+    {
+        "source": "TEXTURE_CORNFLOWER",
+        "destination": "assets/minecraft/textures/block/cornflower.png"
+    },
+    {
+        "source": "TEXTURE_CRIMSON_FUNGUS",
+        "destination": "assets/minecraft/textures/block/crimson_fungus.png"
+    },
+    {
+        "source": "TEXTURE_CRIMSON_ROOTS",
+        "destination": "assets/minecraft/textures/block/crimson_roots.png"
+    },
+    {
+        "source": "TEXTURE_CRIMSON_ROOTS_POT",
+        "destination": "assets/minecraft/textures/block/crimson_roots_pot.png"
+    },
+    {
+        "source": "TEXTURE_DANDELION",
+        "destination": "assets/minecraft/textures/block/dandelion.png"
+    },
+    {
+        "source": "TEXTURE_DEAD_BUSH",
+        "destination": "assets/minecraft/textures/block/dead_bush.png"
+    },
+    {
+        "source": "TEXTURE_DRIED_KELP",
+        "destination": "assets/minecraft/textures/item/dried_kelp.png"
+    },
+    {
+        "source": "TEXTURE_DRIED_KELP_BOTTOM",
+        "destination": "assets/minecraft/textures/block/dried_kelp_bottom.png"
+    },
+    {
+        "source": "TEXTURE_DRIED_KELP_SIDE",
+        "destination": "assets/minecraft/textures/block/dried_kelp_side.png"
+    },
+    {
+        "source": "TEXTURE_DRIED_KELP_TOP",
+        "destination": "assets/minecraft/textures/block/dried_kelp_top.png"
+    },
+    {
+        "source": "TEXTURE_FERN",
+        "destination": "assets/minecraft/textures/block/fern.png"
+    },
+    {
+        "source": "TEXTURE_GRASS",
+        "destination": "assets/minecraft/textures/block/grass.png"
+    },
+    {
+        "source": "TEXTURE_KELP",
+        "destination": "assets/minecraft/textures/item/kelp.png"
+    },
+    {
+        "source": "TEXTURE_KELP_BLOCK",
+        "destination": "assets/minecraft/textures/block/kelp.png"
+    },
+    {
+        "source": "TEXTURE_KELP_PLANT",
+        "destination": "assets/minecraft/textures/block/kelp_plant.png"
+    },
+    {
+        "source": "TEXTURE_LARGE_FERN_BOTTOM",
+        "destination": "assets/minecraft/textures/block/large_fern_bottom.png"
+    },
+    {
+        "source": "TEXTURE_LARGE_FERN_TOP",
+        "destination": "assets/minecraft/textures/block/large_fern_top.png"
+    },
+    {
+        "source": "TEXTURE_LILAC_BOTTOM",
+        "destination": "assets/minecraft/textures/block/lilac_bottom.png"
+    },
+    {
+        "source": "TEXTURE_LILAC_TOP",
+        "destination": "assets/minecraft/textures/block/lilac_top.png"
+    },
+    {
+        "source": "TEXTURE_LILY_OF_THE_VALLEY",
+        "destination": "assets/minecraft/textures/block/lily_of_the_valley.png"
+    },
+    {
+        "source": "TEXTURE_LILY_PAD",
+        "destination": "assets/minecraft/textures/block/lily_pad.png"
+    },
+    {
+        "source": "TEXTURE_MUSHROOM_BLOCK_INSIDE",
+        "destination": "assets/minecraft/textures/block/mushroom_block_inside.png"
+    },
+    {
+        "source": "TEXTURE_MUSHROOM_STEM",
+        "destination": "assets/minecraft/textures/block/mushroom_stem.png"
+    },
+    {
+        "source": "TEXTURE_NETHER_SPROUTS",
+        "destination": "assets/minecraft/textures/block/nether_sprouts.png"
+    },
+    {
+        "source": "TEXTURE_NETHER_SPROUTS_ITEM",
+        "destination": "assets/minecraft/textures/item/nether_sprouts.png"
+    },
+    {
+        "source": "TEXTURE_ORANGE_TULIP",
+        "destination": "assets/minecraft/textures/block/orange_tulip.png"
+    },
+    {
+        "source": "TEXTURE_OXEYE_DAISY",
+        "destination": "assets/minecraft/textures/block/oxeye_daisy.png"
+    },
+    {
+        "source": "TEXTURE_PEONY_BOTTOM",
+        "destination": "assets/minecraft/textures/block/peony_bottom.png"
+    },
+    {
+        "source": "TEXTURE_PEONY_TOP",
+        "destination": "assets/minecraft/textures/block/peony_top.png"
+    },
+    {
+        "source": "TEXTURE_PINK_TULIP",
+        "destination": "assets/minecraft/textures/block/pink_tulip.png"
+    },
+    {
+        "source": "TEXTURE_POPPY",
+        "destination": "assets/minecraft/textures/block/poppy.png"
+    },
+    {
+        "source": "TEXTURE_RED_MUSHROOM",
+        "destination": "assets/minecraft/textures/block/red_mushroom.png"
+    },
+    {
+        "source": "TEXTURE_RED_MUSHROOM_BLOCK",
+        "destination": "assets/minecraft/textures/block/red_mushroom_block.png"
+    },
+    {
+        "source": "TEXTURE_RED_TULIP",
+        "destination": "assets/minecraft/textures/block/red_tulip.png"
+    },
+    {
+        "source": "TEXTURE_ROSE_BUSH_BOTTOM",
+        "destination": "assets/minecraft/textures/block/rose_bush_bottom.png"
+    },
+    {
+        "source": "TEXTURE_ROSE_BUSH_TOP",
+        "destination": "assets/minecraft/textures/block/rose_bush_top.png"
+    },
+    {
+        "source": "TEXTURE_SAPLING_ACACIA",
+        "destination": "assets/minecraft/textures/block/acacia_sapling.png"
+    },
+    {
+        "source": "TEXTURE_SAPLING_BIRCH",
+        "destination": "assets/minecraft/textures/block/birch_sapling.png"
+    },
+    {
+        "source": "TEXTURE_SAPLING_DARKOAK",
+        "destination": "assets/minecraft/textures/block/dark_oak_sapling.png"
+    },
+    {
+        "source": "TEXTURE_SAPLING_JUNGLE",
+        "destination": "assets/minecraft/textures/block/jungle_sapling.png"
+    },
+    {
+        "source": "TEXTURE_SAPLING_OAK",
+        "destination": "assets/minecraft/textures/block/oak_sapling.png"
+    },
+    {
+        "source": "TEXTURE_SAPLING_SPRUCE",
+        "destination": "assets/minecraft/textures/block/spruce_sapling.png"
+    },
+    {
+        "source": "TEXTURE_SEA_PICKLE",
+        "destination": "assets/minecraft/textures/block/sea_pickle.png"
+    },
+    {
+        "source": "TEXTURE_SEAGRASS",
+        "destination": "assets/minecraft/textures/block/seagrass.png"
+    },
+    {
+        "source": "TEXTURE_SHROOMLIGHT",
+        "destination": "assets/minecraft/textures/block/shroomlight.png"
+    },
+    {
+        "source": "TEXTURE_SUNFLOWER_BACK",
+        "destination": "assets/minecraft/textures/block/sunflower_back.png"
+    },
+    {
+        "source": "TEXTURE_SUNFLOWER_BOTTOM",
+        "destination": "assets/minecraft/textures/block/sunflower_bottom.png"
+    },
+    {
+        "source": "TEXTURE_SUNFLOWER_FRONT",
+        "destination": "assets/minecraft/textures/block/sunflower_front.png"
+    },
+    {
+        "source": "TEXTURE_SUNFLOWER_TOP",
+        "destination": "assets/minecraft/textures/block/sunflower_top.png"
+    },
+    {
+        "source": "TEXTURE_TALL_GRASS_BOTTOM",
+        "destination": "assets/minecraft/textures/block/tall_grass_bottom.png"
+    },
+    {
+        "source": "TEXTURE_TALL_GRASS_TOP",
+        "destination": "assets/minecraft/textures/block/tall_grass_top.png"
+    },
+    {
+        "source": "TEXTURE_TALL_SEAGRASS_BOTTOM",
+        "destination": "assets/minecraft/textures/block/tall_seagrass_bottom.png"
+    },
+    {
+        "source": "TEXTURE_TALL_SEAGRASS_TOP",
+        "destination": "assets/minecraft/textures/block/tall_seagrass_top.png"
+    },
+    {
+        "source": "TEXTURE_TWISTING_VINES",
+        "destination": "assets/minecraft/textures/block/twisting_vines.png"
+    },
+    {
+        "source": "TEXTURE_TWISTING_VINES_PLANT",
+        "destination": "assets/minecraft/textures/block/twisting_vines_plant.png"
+    },
+    {
+        "source": "TEXTURE_VINE",
+        "destination": "assets/minecraft/textures/block/vine.png"
+    },
+    {
+        "source": "TEXTURE_WARPED_FUNGUS",
+        "destination": "assets/minecraft/textures/block/warped_fungus.png"
+    },
+    {
+        "source": "TEXTURE_WARPED_ROOTS",
+        "destination": "assets/minecraft/textures/block/warped_roots.png"
+    },
+    {
+        "source": "TEXTURE_WARPED_ROOTS_POT",
+        "destination": "assets/minecraft/textures/block/warped_roots_pot.png"
+    },
+    {
+        "source": "TEXTURE_WEEPING_VINES",
+        "destination": "assets/minecraft/textures/block/weeping_vines.png"
+    },
+    {
+        "source": "TEXTURE_WEEPING_VINES_PLANT",
+        "destination": "assets/minecraft/textures/block/weeping_vines_plant.png"
+    },
+    {
+        "source": "TEXTURE_WHITE_TULIP",
+        "destination": "assets/minecraft/textures/block/white_tulip.png"
+    },
+    {
+        "source": "TEXTURE_WITHER_ROSE",
+        "destination": "assets/minecraft/textures/block/wither_rose.png"
+    }
+]

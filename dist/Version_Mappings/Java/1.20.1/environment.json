@@ -1,0 +1,30 @@
+[
+    {
+        "source": "TEXTURE_CLOUDS",
+        "destination": "assets/minecraft/textures/environment/clouds.png"
+    },
+    {
+        "source": "TEXTURE_COLORMAP_FOLIAGE",
+        "destination": "assets/minecraft/textures/colormap/foliage.png"
+    },
+    {
+        "source": "TEXTURE_COLORMAP_GRASS",
+        "destination": "assets/minecraft/textures/colormap/grass.png"
+    },
+    {
+        "source": "TEXTURE_END_SKY",
+        "destination": "assets/minecraft/textures/environment/end_sky.png"
+    },
+    {
+        "source": "TEXTURE_MOON_PHASES",
+        "destination": "assets/minecraft/textures/environment/moon_phases.png"
+    },
+    {
+        "source": "TEXTURE_SUN",
+        "destination": "assets/minecraft/textures/environment/sun.png"
+    },
+    {
+        "source": "TEXTURE_WHITE",
+        "destination": "assets/minecraft/textures/misc/white.png"
+    }
+]

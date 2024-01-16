@@ -1,0 +1,10 @@
+[
+    {
+        "source": "META_PACK_BEDROCK",
+        "destination": "manifest.json"
+    },
+    {
+        "source": "TEXTURE_PACK",
+        "destination": "pack_icon.png"
+    }
+]

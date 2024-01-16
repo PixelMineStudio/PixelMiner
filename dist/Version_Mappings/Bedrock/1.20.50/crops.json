@@ -1,0 +1,146 @@
+[
+    {
+        "source": "TEXTURE_PITCHER_CROP_BOTTOM",
+        "destination": "textures/blocks/pitcher_crop_bottom.png"
+    },
+    {
+        "source": "TEXTURE_PITCHER_CROP_BOTTOM_STAGE_1",
+        "destination": "textures/blocks/pitcher_crop_bottom_stage_1.png"
+    },
+    {
+        "source": "TEXTURE_PITCHER_CROP_BOTTOM_STAGE_2",
+        "destination": "textures/blocks/pitcher_crop_bottom_stage_2.png"
+    },
+    {
+        "source": "TEXTURE_PITCHER_CROP_BOTTOM_STAGE_3",
+        "destination": "textures/blocks/pitcher_crop_bottom_stage_3.png"
+    },
+    {
+        "source": "TEXTURE_PITCHER_CROP_BOTTOM_STAGE_4",
+        "destination": "textures/blocks/pitcher_crop_bottom_stage_4.png"
+    },
+    {
+        "source": "TEXTURE_PITCHER_CROP_SIDE",
+        "destination": "textures/blocks/pitcher_crop_side.png"
+    },
+    {
+        "source": "TEXTURE_PITCHER_CROP_TOP",
+        "destination": "textures/blocks/pitcher_crop_top.png"
+    },
+    {
+        "source": "TEXTURE_PITCHER_CROP_TOP_STAGE_3",
+        "destination": "textures/blocks/pitcher_crop_top_stage_3.png"
+    },
+    {
+        "source": "TEXTURE_PITCHER_CROP_TOP_STAGE_4",
+        "destination": "textures/blocks/pitcher_crop_top_stage_4.png"
+    },
+    {
+        "source": "TEXTURE_PITCHER_POD",
+        "destination": "textures/items/pitcher_pod.png"
+    },
+    {
+        "source": "TEXTURE_TORCHFLOWER_SEEDS",
+        "destination": "textures/items/torchflower_seeds.png"
+    },
+    {
+        "source": "TEXTURE_TORCHFLOWER",
+        "destination": "textures/blocks/torchflower.png"
+    },
+    {
+        "source": "TEXTURE_APPLE",
+        "destination": "textures/items/apple.png"
+    },
+    {
+        "source": "TEXTURE_BAMBOO",
+        "destination": "textures/items/bamboo.png"
+    },
+    {
+        "source": "TEXTURE_BAMBOO_LEAF_SINGLE",
+        "destination": "textures/blocks/bamboo_singleleaf.png"
+    },
+    {
+        "source": "TEXTURE_BEETROOT",
+        "destination": "textures/items/beetroot.png"
+    },
+    {
+        "source": "TEXTURE_CARROT",
+        "destination": "textures/items/carrot.png"
+    },
+    {
+        "source": "TEXTURE_CARROTS_STAGE3",
+        "destination": "textures/blocks/carrots_stage3.png"
+    },
+    {
+        "source": "TEXTURE_CHORUS_FLOWER",
+        "destination": "textures/blocks/chorus_flower.png"
+    },
+    {
+        "source": "TEXTURE_CHORUS_FLOWER_DEAD",
+        "destination": "textures/blocks/chorus_flower_dead.png"
+    },
+    {
+        "source": "TEXTURE_CHORUS_FRUIT",
+        "destination": "textures/items/chorus_fruit.png"
+    },
+    {
+        "source": "TEXTURE_CHORUS_PLANT",
+        "destination": "textures/blocks/chorus_plant.png"
+    },
+    {
+        "source": "TEXTURE_MELON_SIDE",
+        "destination": "textures/blocks/melon_side.png"
+    },
+    {
+        "source": "TEXTURE_MELON_TOP",
+        "destination": "textures/blocks/melon_top.png"
+    },
+    {
+        "source": "TEXTURE_NETHER_WART",
+        "destination": "textures/items/nether_wart.png"
+    },
+    {
+        "source": "TEXTURE_POTATO",
+        "destination": "textures/items/potato.png"
+    },
+    {
+        "source": "TEXTURE_PUMPKIN_SIDE",
+        "destination": "textures/blocks/pumpkin_side.png"
+    },
+    {
+        "source": "TEXTURE_PUMPKIN_TOP",
+        "destination": "textures/blocks/pumpkin_top.png"
+    },
+    {
+        "source": "TEXTURE_SWEET_BERRIES",
+        "destination": "textures/items/sweet_berries.png"
+    },
+    {
+        "source": "TEXTURE_SWEET_BERRY_BUSH_STAGE0",
+        "destination": "textures/blocks/sweet_berry_bush_stage0.png"
+    },
+    {
+        "source": "TEXTURE_SWEET_BERRY_BUSH_STAGE1",
+        "destination": "textures/blocks/sweet_berry_bush_stage1.png"
+    },
+    {
+        "source": "TEXTURE_SWEET_BERRY_BUSH_STAGE2",
+        "destination": "textures/blocks/sweet_berry_bush_stage2.png"
+    },
+    {
+        "source": "TEXTURE_SWEET_BERRY_BUSH_STAGE3",
+        "destination": "textures/blocks/sweet_berry_bush_stage3.png"
+    },
+    {
+        "source": "TEXTURE_WHEAT",
+        "destination": "textures/items/wheat.png"
+    },
+    {
+        "source": "TEXTURE_WHEAT_BLOCK_SIDE",
+        "destination": "textures/blocks/hay_block_side.png"
+    },
+    {
+        "source": "TEXTURE_WHEAT_BLOCK_TOP",
+        "destination": "textures/blocks/hay_block_top.png"
+    }
+]

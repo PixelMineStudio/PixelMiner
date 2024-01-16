@@ -1,0 +1,10 @@
+[
+    {
+        "source": "TEXTURE_SPONGE",
+        "destination": "assets/minecraft/textures/blocks/sponge.png"
+    },
+    {
+        "source": "TEXTURE_SPONGE_WET",
+        "destination": "assets/minecraft/textures/blocks/sponge_wet.png"
+    }
+]

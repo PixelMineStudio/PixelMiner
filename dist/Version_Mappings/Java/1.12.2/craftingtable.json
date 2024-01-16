@@ -1,0 +1,94 @@
+[
+    {
+        "source": "TEXTURE_BREWING_STAND",
+        "destination": "assets/minecraft/textures/blocks/brewing_stand.png"
+    },
+    {
+        "source": "TEXTURE_BREWING_STAND_BASE",
+        "destination": "assets/minecraft/textures/blocks/brewing_stand_base.png"
+    },
+    {
+        "source": "TEXTURE_BREWING_STAND_ITEM",
+        "destination": "assets/minecraft/textures/items/brewing_stand.png"
+    },
+    {
+        "source": "TEXTURE_CAULDRON_BOTTOM",
+        "destination": "assets/minecraft/textures/blocks/cauldron_bottom.png"
+    },
+    {
+        "source": "TEXTURE_CAULDRON_INNER",
+        "destination": "assets/minecraft/textures/blocks/cauldron_inner.png"
+    },
+    {
+        "source": "TEXTURE_CAULDRON_ITEM",
+        "destination": "assets/minecraft/textures/items/cauldron.png"
+    },
+    {
+        "source": "TEXTURE_CAULDRON_SIDE",
+        "destination": "assets/minecraft/textures/blocks/cauldron_side.png"
+    },
+    {
+        "source": "TEXTURE_CAULDRON_TOP",
+        "destination": "assets/minecraft/textures/blocks/cauldron_top.png"
+    },
+    {
+        "source": "TEXTURE_CRAFTING_TABLE_FRONT",
+        "destination": "assets/minecraft/textures/blocks/crafting_table_front.png"
+    },
+    {
+        "source": "TEXTURE_CRAFTING_TABLE_SIDE",
+        "destination": "assets/minecraft/textures/blocks/crafting_table_side.png"
+    },
+    {
+        "source": "TEXTURE_CRAFTING_TABLE_TOP",
+        "destination": "assets/minecraft/textures/blocks/crafting_table_top.png"
+    },
+    {
+        "source": "TEXTURE_ANVIL_TOP_DAMAGED",
+        "destination": "assets/minecraft/textures/blocks/anvil_top_damaged_2.png"
+    },
+    {
+        "source": "TEXTURE_ANVIL",
+        "destination": "assets/minecraft/textures/blocks/anvil_base.png"
+    },
+    {
+        "source": "TEXTURE_ANVIL_TOP",
+        "destination": "assets/minecraft/textures/blocks/anvil_top_damaged_0.png"
+    },
+    {
+        "source": "TEXTURE_ANVIL_TOP_CHIPPED",
+        "destination": "assets/minecraft/textures/blocks/anvil_top_damaged_1.png"
+    },
+    {
+        "source": "TEXTURE_ENCHANTING_TABLE_BOOK",
+        "destination": "assets/minecraft/textures/entity/enchanting_table_book.png"
+    },
+    {
+        "source": "TEXTURE_ENCHANTING_TABLE_BOTTOM",
+        "destination": "assets/minecraft/textures/blocks/enchanting_table_bottom.png"
+    },
+    {
+        "source": "TEXTURE_ENCHANTING_TABLE_SIDE",
+        "destination": "assets/minecraft/textures/blocks/enchanting_table_side.png"
+    },
+    {
+        "source": "TEXTURE_ENCHANTING_TABLE_TOP",
+        "destination": "assets/minecraft/textures/blocks/enchanting_table_top.png"
+    },
+    {
+        "source": "TEXTURE_FURNACE_FRONT",
+        "destination": "assets/minecraft/textures/blocks/furnace_front_off.png"
+    },
+    {
+        "source": "TEXTURE_FURNACE_FRONT_ON",
+        "destination": "assets/minecraft/textures/blocks/furnace_front_on.png"
+    },
+    {
+        "source": "TEXTURE_FURNACE_SIDE",
+        "destination": "assets/minecraft/textures/blocks/furnace_side.png"
+    },
+    {
+        "source": "TEXTURE_FURNACE_TOP",
+        "destination": "assets/minecraft/textures/blocks/furnace_top.png"
+    }
+]

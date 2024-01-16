@@ -1,0 +1,110 @@
+[
+    {
+        "source": "TEXTURE_GLOWSTONE_DUST",
+        "destination": "assets/minecraft/textures/item/glowstone_dust.png"
+    },
+    {
+        "source": "TEXTURE_COAL",
+        "destination": "assets/minecraft/textures/item/coal.png"
+    },
+    {
+        "source": "TEXTURE_COAL_BLOCK",
+        "destination": "assets/minecraft/textures/block/coal_block.png"
+    },
+    {
+        "source": "TEXTURE_COAL_ORE",
+        "destination": "assets/minecraft/textures/block/coal_ore.png"
+    },
+    {
+        "source": "TEXTURE_DIAMOND",
+        "destination": "assets/minecraft/textures/item/diamond.png"
+    },
+    {
+        "source": "TEXTURE_DIAMOND_BLOCK",
+        "destination": "assets/minecraft/textures/block/diamond_block.png"
+    },
+    {
+        "source": "TEXTURE_DIAMOND_ORE",
+        "destination": "assets/minecraft/textures/block/diamond_ore.png"
+    },
+    {
+        "source": "TEXTURE_EMERALD",
+        "destination": "assets/minecraft/textures/item/emerald.png"
+    },
+    {
+        "source": "TEXTURE_EMERALD_BLOCK",
+        "destination": "assets/minecraft/textures/block/emerald_block.png"
+    },
+    {
+        "source": "TEXTURE_EMERALD_ORE",
+        "destination": "assets/minecraft/textures/block/emerald_ore.png"
+    },
+    {
+        "source": "TEXTURE_GLOWSTONE",
+        "destination": "assets/minecraft/textures/block/glowstone.png"
+    },
+    {
+        "source": "MCMETA_GLOWSTONE",
+        "destination": "assets/minecraft/textures/block/glowstone.png.mcmeta"
+    },
+    {
+        "source": "TEXTURE_GOLD_BLOCK",
+        "destination": "assets/minecraft/textures/block/gold_block.png"
+    },
+    {
+        "source": "TEXTURE_GOLD_INGOT",
+        "destination": "assets/minecraft/textures/item/gold_ingot.png"
+    },
+    {
+        "source": "TEXTURE_GOLD_NUGGET",
+        "destination": "assets/minecraft/textures/item/gold_nugget.png"
+    },
+    {
+        "source": "TEXTURE_GOLD_ORE",
+        "destination": "assets/minecraft/textures/block/gold_ore.png"
+    },
+    {
+        "source": "TEXTURE_IRON_BLOCK",
+        "destination": "assets/minecraft/textures/block/iron_block.png"
+    },
+    {
+        "source": "TEXTURE_IRON_INGOT",
+        "destination": "assets/minecraft/textures/item/iron_ingot.png"
+    },
+    {
+        "source": "TEXTURE_IRON_NUGGET",
+        "destination": "assets/minecraft/textures/item/iron_nugget.png"
+    },
+    {
+        "source": "TEXTURE_IRON_ORE",
+        "destination": "assets/minecraft/textures/block/iron_ore.png"
+    },
+    {
+        "source": "TEXTURE_LAPIS_BLOCK",
+        "destination": "assets/minecraft/textures/block/lapis_block.png"
+    },
+    {
+        "source": "TEXTURE_LAPIS_LAZULI",
+        "destination": "assets/minecraft/textures/item/lapis_lazuli.png"
+    },
+    {
+        "source": "TEXTURE_LAPIS_ORE",
+        "destination": "assets/minecraft/textures/block/lapis_ore.png"
+    },
+    {
+        "source": "TEXTURE_RUBY",
+        "destination": "assets/minecraft/textures/item/ruby.png"
+    },
+    {
+        "source": "TEXTURE_REDSTONE_BLOCK",
+        "destination": "assets/minecraft/textures/block/redstone_block.png"
+    },
+    {
+        "source": "TEXTURE_REDSTONE_DUST",
+        "destination": "assets/minecraft/textures/item/redstone.png"
+    },
+    {
+        "source": "TEXTURE_REDSTONE_ORE",
+        "destination": "assets/minecraft/textures/block/redstone_ore.png"
+    }
+]

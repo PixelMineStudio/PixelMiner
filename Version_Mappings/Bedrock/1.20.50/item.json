@@ -1,0 +1,198 @@
+[
+    {
+        "source": "TEXTURE_MUSIC_DISC_RELIC",
+        "destination": "textures/items/music_disc_relic.png"
+    },
+    {
+        "source": "TEXTURE_LIGHTNING_ROD",
+        "destination": "textures/blocks/lightning_rod.png"
+    },
+    {
+        "source": "TEXTURE_BEACON",
+        "destination": "textures/blocks/beacon.png"
+    },
+    {
+        "source": "TEXTURE_CAMPFIRE",
+        "destination": "textures/items/campfire.png"
+    },
+    {
+        "source": "TEXTURE_CAMPFIRE_LOG",
+        "destination": "textures/blocks/campfire_log.png"
+    },
+    {
+        "source": "TEXTURE_CAMPFIRE_LOG_LIT",
+        "destination": "textures/blocks/campfire_log_lit.png"
+    },
+    {
+        "source": "TEXTURE_CAMPFIRE_LOG_SOUL_LIT",
+        "destination": "textures/blocks/soul_campfire_log_lit.png"
+    },
+    {
+        "source": "TEXTURE_CAMPFIRE_SOUL",
+        "destination": "textures/items/soul_campfire.png"
+    },
+    {
+        "source": "TEXTURE_CHAIN_ITEM",
+        "destination": "textures/items/chain.png"
+    },
+    {
+        "source": "TEXTURE_DRAGON_EGG",
+        "destination": "textures/blocks/dragon_egg.png"
+    },
+    {
+        "source": "TEXTURE_END_CRYSTAL_ITEM",
+        "destination": "textures/items/end_crystal.png"
+    },
+    {
+        "source": "TEXTURE_END_ROD",
+        "destination": "textures/blocks/end_rod.png"
+    },
+    {
+        "source": "TEXTURE_ENDER_EYE",
+        "destination": "textures/items/ender_eye.png"
+    },
+    {
+        "source": "TEXTURE_ENDER_PEARL",
+        "destination": "textures/items/ender_pearl.png"
+    },
+    {
+        "source": "TEXTURE_FLINT",
+        "destination": "textures/items/flint.png"
+    },
+    {
+        "source": "TEXTURE_IRON_BARS",
+        "destination": "textures/blocks/iron_bars.png"
+    },
+    {
+        "source": "TEXTURE_ITEM_FRAME_ITEM",
+        "destination": "textures/items/item_frame.png"
+    },
+    {
+        "source": "TEXTURE_ITEM_FRAME_GLOWING_ITEM",
+        "destination": "textures/items/glow_item_frame.png"
+    },
+    {
+        "source": "TEXTURE_ITEM_FRAME_GLOWING",
+        "destination": "textures/blocks/glow_item_frame.png"
+    },
+    {
+        "source": "TEXTURE_LANTERN",
+        "destination": "textures/blocks/lantern.png"
+    },
+    {
+        "source": "TEXTURE_LANTERN_ITEM",
+        "destination": "textures/items/lantern.png"
+    },
+    {
+        "source": "TEXTURE_LANTERN_SOUL",
+        "destination": "textures/blocks/soul_lantern.png"
+    },
+    {
+        "source": "TEXTURE_LANTERN_SOUL_ITEM",
+        "destination": "textures/items/soul_lantern.png"
+    },
+    {
+        "source": "TEXTURE_ECHO_SHARD",
+        "destination": "textures/items/echo_shard.png"
+    },
+    {
+        "source": "TEXTURE_GOAT_HORN",
+        "destination": "textures/items/goat_horn.png"
+    },
+    {
+        "source": "TEXTURE_DISC_FRAGMENT_5",
+        "destination": "textures/items/disc_fragment_5.png"
+    },
+    {
+        "source": "TEXTURE_NAME_TAG",
+        "destination": "textures/items/name_tag.png"
+    },
+    {
+        "source": "TEXTURE_NETHER_STAR",
+        "destination": "textures/items/nether_star.png"
+    },
+    {
+        "source": "TEXTURE_PAINTING",
+        "destination": "textures/items/painting.png"
+    },
+    {
+        "source": "TEXTURE_PAPER",
+        "destination": "textures/items/paper.png"
+    },
+    {
+        "source": "TEXTURE_POTION_EXPERIENCE_BOTTLE",
+        "destination": "textures/items/experience_bottle.png"
+    },
+    {
+        "source": "TEXTURE_POTION_OVERLAY",
+        "destination": "textures/items/potion_overlay.png"
+    },
+    {
+        "source": "TEXTURE_SNOWBALL",
+        "destination": "textures/items/snowball.png"
+    },
+    {
+        "source": "TEXTURE_STICK",
+        "destination": "textures/items/stick.png"
+    },
+    {
+        "source": "TEXTURE_TNT_BOTTOM",
+        "destination": "textures/blocks/tnt_bottom.png"
+    },
+    {
+        "source": "TEXTURE_TNT_SIDE",
+        "destination": "textures/blocks/tnt_side.png"
+    },
+    {
+        "source": "TEXTURE_TNT_TOP",
+        "destination": "textures/blocks/tnt_top.png"
+    },
+    {
+        "source": "TEXTURE_TORCH_SOUL",
+        "destination": "textures/blocks/soul_torch.png"
+    },
+    {
+        "source": "TEXTURE_LEATHER",
+        "destination": "textures/items/leather.png"
+    },
+    {
+        "source": "TEXTURE_SADDLE",
+        "destination": "textures/items/saddle.png"
+    },
+    {
+        "source": "TEXTURE_TORCH_REDSTONE_OFF",
+        "destination": "textures/blocks/redstone_torch_off.png"
+    },
+    {
+        "source": "TEXTURE_BELL_BOTTOM",
+        "destination": "textures/blocks/bell_bottom.png"
+    },
+    {
+        "source": "TEXTURE_BELL_SIDE",
+        "destination": "textures/blocks/bell_side.png"
+    },
+    {
+        "source": "TEXTURE_BELL_TOP",
+        "destination": "textures/blocks/bell_top.png"
+    },
+    {
+        "source": "TEXTURE_BOOKSHELF",
+        "destination": "textures/blocks/bookshelf.png"
+    },
+    {
+        "source": "TEXTURE_JUKEBOX_SIDE",
+        "destination": "textures/blocks/jukebox_side.png"
+    },
+    {
+        "source": "TEXTURE_JUKEBOX_TOP",
+        "destination": "textures/blocks/jukebox_top.png"
+    },
+    {
+        "source": "TEXTURE_LODESTONE_SIDE",
+        "destination": "textures/blocks/lodestone_side.png"
+    },
+    {
+        "source": "TEXTURE_LODESTONE_TOP",
+        "destination": "textures/blocks/lodestone_top.png"
+    }
+]

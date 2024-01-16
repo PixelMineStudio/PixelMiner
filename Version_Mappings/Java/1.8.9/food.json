@@ -1,0 +1,118 @@
+[
+    {
+        "source": "TEXTURE_BEEF_COOKED",
+        "destination": "assets/minecraft/textures/items/beef_cooked.png"
+    },
+    {
+        "source": "TEXTURE_BEEF_RAW",
+        "destination": "assets/minecraft/textures/items/beef_raw.png"
+    },
+    {
+        "source": "TEXTURE_BREAD",
+        "destination": "assets/minecraft/textures/items/bread.png"
+    },
+    {
+        "source": "TEXTURE_CAKE",
+        "destination": "assets/minecraft/textures/items/cake.png"
+    },
+    {
+        "source": "TEXTURE_CAKE_BOTTOM",
+        "destination": "assets/minecraft/textures/blocks/cake_bottom.png"
+    },
+    {
+        "source": "TEXTURE_CAKE_INNER",
+        "destination": "assets/minecraft/textures/blocks/cake_inner.png"
+    },
+    {
+        "source": "TEXTURE_CAKE_SIDE",
+        "destination": "assets/minecraft/textures/blocks/cake_side.png"
+    },
+    {
+        "source": "TEXTURE_CAKE_TOP",
+        "destination": "assets/minecraft/textures/blocks/cake_top.png"
+    },
+    {
+        "source": "TEXTURE_CHICKEN_COOKED",
+        "destination": "assets/minecraft/textures/items/chicken_cooked.png"
+    },
+    {
+        "source": "TEXTURE_CHICKEN_RAW",
+        "destination": "assets/minecraft/textures/items/chicken_raw.png"
+    },
+    {
+        "source": "TEXTURE_COOKIE",
+        "destination": "assets/minecraft/textures/items/cookie.png"
+    },
+    {
+        "source": "TEXTURE_EGG",
+        "destination": "assets/minecraft/textures/items/egg.png"
+    },
+    {
+        "source": "TEXTURE_FISH_COD_COOKED",
+        "destination": "assets/minecraft/textures/items/fish_cod_cooked.png"
+    },
+    {
+        "source": "TEXTURE_FISH_COD_RAW",
+        "destination": "assets/minecraft/textures/items/fish_cod_raw.png"
+    },
+    {
+        "source": "TEXTURE_FISH_PUFFERFISH_RAW",
+        "destination": "assets/minecraft/textures/items/fish_pufferfish_raw.png"
+    },
+    {
+        "source": "TEXTURE_FISH_SALMON_COOKED",
+        "destination": "assets/minecraft/textures/items/fish_salmon_cooked.png"
+    },
+    {
+        "source": "TEXTURE_FISH_SALMON_RAW",
+        "destination": "assets/minecraft/textures/items/fish_salmon_raw.png"
+    },
+    {
+        "source": "TEXTURE_FISH_TROPICAL_RAW",
+        "destination": "assets/minecraft/textures/items/fish_clownfish_raw.png"
+    },
+    {
+        "source": "TEXTURE_MUTTON_COOKED",
+        "destination": "assets/minecraft/textures/items/mutton_cooked.png"
+    },
+    {
+        "source": "TEXTURE_MUTTON_RAW",
+        "destination": "assets/minecraft/textures/items/mutton_raw.png"
+    },
+    {
+        "source": "TEXTURE_PORKCHOP_COOKED",
+        "destination": "assets/minecraft/textures/items/porkchop_cooked.png"
+    },
+    {
+        "source": "TEXTURE_PORKCHOP_RAW",
+        "destination": "assets/minecraft/textures/items/porkchop_raw.png"
+    },
+    {
+        "source": "TEXTURE_PUMPKIN_PIE",
+        "destination": "assets/minecraft/textures/items/pumpkin_pie.png"
+    },
+    {
+        "source": "TEXTURE_RABBIT_COOKED",
+        "destination": "assets/minecraft/textures/items/rabbit_cooked.png"
+    },
+    {
+        "source": "TEXTURE_RABBIT_RAW",
+        "destination": "assets/minecraft/textures/items/rabbit_raw.png"
+    },
+    {
+        "source": "TEXTURE_SOUP_BOWL",
+        "destination": "assets/minecraft/textures/items/bowl.png"
+    },
+    {
+        "source": "TEXTURE_SOUP_MUSHROOM",
+        "destination": "assets/minecraft/textures/items/mushroom_stew.png"
+    },
+    {
+        "source": "TEXTURE_SOUP_RABBIT",
+        "destination": "assets/minecraft/textures/items/rabbit_stew.png"
+    },
+    {
+        "source": "TEXTURE_SUGAR",
+        "destination": "assets/minecraft/textures/items/sugar.png"
+    }
+]

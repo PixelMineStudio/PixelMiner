@@ -1,0 +1,130 @@
+[
+    {
+        "source": "TEXTURE_CORAL_BRAIN",
+        "destination": "assets/minecraft/textures/block/brain_coral.png"
+    },
+    {
+        "source": "TEXTURE_CORAL_BRAIN_BLOCK",
+        "destination": "assets/minecraft/textures/block/brain_coral_block.png"
+    },
+    {
+        "source": "TEXTURE_CORAL_BRAIN_DEAD",
+        "destination": "assets/minecraft/textures/block/dead_brain_coral.png"
+    },
+    {
+        "source": "TEXTURE_CORAL_BRAIN_DEAD_BLOCK",
+        "destination": "assets/minecraft/textures/block/dead_brain_coral_block.png"
+    },
+    {
+        "source": "TEXTURE_CORAL_BRAIN_DEAD_FAN",
+        "destination": "assets/minecraft/textures/block/dead_brain_coral_fan.png"
+    },
+    {
+        "source": "TEXTURE_CORAL_BRAIN_FAN",
+        "destination": "assets/minecraft/textures/block/brain_coral_fan.png"
+    },
+    {
+        "source": "TEXTURE_CORAL_BUBBLE",
+        "destination": "assets/minecraft/textures/block/bubble_coral.png"
+    },
+    {
+        "source": "TEXTURE_CORAL_BUBBLE_BLOCK",
+        "destination": "assets/minecraft/textures/block/bubble_coral_block.png"
+    },
+    {
+        "source": "TEXTURE_CORAL_BUBBLE_DEAD",
+        "destination": "assets/minecraft/textures/block/dead_bubble_coral.png"
+    },
+    {
+        "source": "TEXTURE_CORAL_BUBBLE_DEAD_BLOCK",
+        "destination": "assets/minecraft/textures/block/dead_bubble_coral_block.png"
+    },
+    {
+        "source": "TEXTURE_CORAL_BUBBLE_DEAD_FAN",
+        "destination": "assets/minecraft/textures/block/dead_bubble_coral_fan.png"
+    },
+    {
+        "source": "TEXTURE_CORAL_BUBBLE_FAN",
+        "destination": "assets/minecraft/textures/block/bubble_coral_fan.png"
+    },
+    {
+        "source": "TEXTURE_CORAL_FIRE",
+        "destination": "assets/minecraft/textures/block/fire_coral.png"
+    },
+    {
+        "source": "TEXTURE_CORAL_FIRE_BLOCK",
+        "destination": "assets/minecraft/textures/block/fire_coral_block.png"
+    },
+    {
+        "source": "TEXTURE_CORAL_FIRE_DEAD",
+        "destination": "assets/minecraft/textures/block/dead_fire_coral.png"
+    },
+    {
+        "source": "TEXTURE_CORAL_FIRE_DEAD_BLOCK",
+        "destination": "assets/minecraft/textures/block/dead_fire_coral_block.png"
+    },
+    {
+        "source": "TEXTURE_CORAL_FIRE_DEAD_FAN",
+        "destination": "assets/minecraft/textures/block/dead_fire_coral_fan.png"
+    },
+    {
+        "source": "TEXTURE_CORAL_FIRE_FAN",
+        "destination": "assets/minecraft/textures/block/fire_coral_fan.png"
+    },
+    {
+        "source": "TEXTURE_CORAL_HORN",
+        "destination": "assets/minecraft/textures/block/horn_coral.png"
+    },
+    {
+        "source": "TEXTURE_CORAL_HORN_BLOCK",
+        "destination": "assets/minecraft/textures/block/horn_coral_block.png"
+    },
+    {
+        "source": "TEXTURE_CORAL_HORN_DEAD",
+        "destination": "assets/minecraft/textures/block/dead_horn_coral.png"
+    },
+    {
+        "source": "TEXTURE_CORAL_HORN_DEAD_BLOCK",
+        "destination": "assets/minecraft/textures/block/dead_horn_coral_block.png"
+    },
+    {
+        "source": "TEXTURE_CORAL_HORN_DEAD_FAN",
+        "destination": "assets/minecraft/textures/block/dead_horn_coral_fan.png"
+    },
+    {
+        "source": "TEXTURE_CORAL_HORN_FAN",
+        "destination": "assets/minecraft/textures/block/horn_coral_fan.png"
+    },
+    {
+        "source": "TEXTURE_CORAL_TUBE",
+        "destination": "assets/minecraft/textures/block/tube_coral.png"
+    },
+    {
+        "source": "TEXTURE_CORAL_TUBE_BLOCK",
+        "destination": "assets/minecraft/textures/block/tube_coral_block.png"
+    },
+    {
+        "source": "TEXTURE_CORAL_TUBE_DEAD",
+        "destination": "assets/minecraft/textures/block/dead_tube_coral.png"
+    },
+    {
+        "source": "TEXTURE_CORAL_TUBE_DEAD_BLOCK",
+        "destination": "assets/minecraft/textures/block/dead_tube_coral_block.png"
+    },
+    {
+        "source": "TEXTURE_CORAL_TUBE_DEAD_FAN",
+        "destination": "assets/minecraft/textures/block/dead_tube_coral_fan.png"
+    },
+    {
+        "source": "TEXTURE_CORAL_TUBE_FAN",
+        "destination": "assets/minecraft/textures/block/tube_coral_fan.png"
+    },
+    {
+        "source": "TEXTURE_SPONGE",
+        "destination": "assets/minecraft/textures/block/sponge.png"
+    },
+    {
+        "source": "TEXTURE_SPONGE_WET",
+        "destination": "assets/minecraft/textures/block/wet_sponge.png"
+    }
+]

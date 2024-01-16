@@ -1,0 +1,139 @@
+[
+    {
+        "source": "TEXTURE_CANDLE",
+        "destination": "textures/blocks/candles/candle.png"
+    },
+    {
+        "source": "TEXTURE_CANDLE_LIT",
+        "destination": "textures/blocks/candles/candle_lit.png"
+    },
+
+    {
+        "source": "TEXTURE_CANDLE_BLACK",
+        "destination": "textures/blocks/candles/black_candle.png"
+    },
+    {
+        "source": "TEXTURE_CANDLE_BLACK_LIT",
+        "destination": "textures/blocks/candles/black_candle_lit.png"
+    },
+    {
+        "source": "TEXTURE_CANDLE_BLUE",
+        "destination": "textures/blocks/candles/blue_candle.png"
+    },
+    {
+        "source": "TEXTURE_CANDLE_BLUE_LIT",
+        "destination": "textures/blocks/candles/blue_candle_lit.png"
+    },
+    {
+        "source": "TEXTURE_CANDLE_BROWN",
+        "destination": "textures/blocks/candles/brown_candle.png"
+    },
+    {
+        "source": "TEXTURE_CANDLE_BROWN_LIT",
+        "destination": "textures/blocks/candles/brown_candle_lit.png"
+    },
+    {
+        "source": "TEXTURE_CANDLE_CYAN",
+        "destination": "textures/blocks/candles/cyan_candle.png"
+    },
+    {
+        "source": "TEXTURE_CANDLE_CYAN_LIT",
+        "destination": "textures/blocks/candles/cyan_candle_lit.png"
+    },
+    {
+        "source": "TEXTURE_CANDLE_GRAY",
+        "destination": "textures/blocks/candles/gray_candle.png"
+    },
+    {
+        "source": "TEXTURE_CANDLE_GRAY_LIT",
+        "destination": "textures/blocks/candles/gray_candle_lit.png"
+    },
+    {
+        "source": "TEXTURE_CANDLE_GREEN",
+        "destination": "textures/blocks/candles/green_candle.png"
+    },
+    {
+        "source": "TEXTURE_CANDLE_GREEN_LIT",
+        "destination": "textures/blocks/candles/green_candle_lit.png"
+    },
+    {
+        "source": "TEXTURE_CANDLE_LIGHT_BLUE",
+        "destination": "textures/blocks/candles/light_blue_candle.png"
+    },
+    {
+        "source": "TEXTURE_CANDLE_LIGHT_BLUE_LIT",
+        "destination": "textures/blocks/candles/light_blue_candle_lit.png"
+    },
+    {
+        "source": "TEXTURE_CANDLE_LIGHT_GRAY",
+        "destination": "textures/blocks/candles/light_gray_candle.png"
+    },
+    {
+        "source": "TEXTURE_CANDLE_LIGHT_GRAY_LIT",
+        "destination": "textures/blocks/candles/light_gray_candle_lit.png"
+    },
+    {
+        "source": "TEXTURE_CANDLE_LIME",
+        "destination": "textures/blocks/candles/lime_candle.png"
+    },
+    {
+        "source": "TEXTURE_CANDLE_LIME_LIT",
+        "destination": "textures/blocks/candles/lime_candle_lit.png"
+    },
+    {
+        "source": "TEXTURE_CANDLE_MAGENTA",
+        "destination": "textures/blocks/candles/magenta_candle.png"
+    },
+    {
+        "source": "TEXTURE_CANDLE_MAGENTA_LIT",
+        "destination": "textures/blocks/candles/magenta_candle_lit.png"
+    },
+    {
+        "source": "TEXTURE_CANDLE_ORANGE",
+        "destination": "textures/blocks/candles/orange_candle.png"
+    },
+    {
+        "source": "TEXTURE_CANDLE_ORANGE_LIT",
+        "destination": "textures/blocks/candles/orange_candle_lit.png"
+    },
+    {
+        "source": "TEXTURE_CANDLE_PINK",
+        "destination": "textures/blocks/candles/pink_candle.png"
+    },
+    {
+        "source": "TEXTURE_CANDLE_PINK_LIT",
+        "destination": "textures/blocks/candles/pink_candle_lit.png"
+    },
+    {
+        "source": "TEXTURE_CANDLE_PURPLE",
+        "destination": "textures/blocks/candles/purple_candle.png"
+    },
+    {
+        "source": "TEXTURE_CANDLE_PURPLE_LIT",
+        "destination": "textures/blocks/candles/purple_candle_lit.png"
+    },
+    {
+        "source": "TEXTURE_CANDLE_RED",
+        "destination": "textures/blocks/candles/red_candle.png"
+    },
+    {
+        "source": "TEXTURE_CANDLE_RED_LIT",
+        "destination": "textures/blocks/candles/red_candle_lit.png"
+    },
+    {
+        "source": "TEXTURE_CANDLE_WHITE",
+        "destination": "textures/blocks/candles/white_candle.png"
+    },
+    {
+        "source": "TEXTURE_CANDLE_WHITE_LIT",
+        "destination": "textures/blocks/candles/white_candle_lit.png"
+    },
+    {
+        "source": "TEXTURE_CANDLE_YELLOW",
+        "destination": "textures/blocks/candles/yellow_candle.png"
+    },
+    {
+        "source": "TEXTURE_CANDLE_YELLOW_LIT",
+        "destination": "textures/blocks/candles/yellow_candle_lit.png"
+    }
+]

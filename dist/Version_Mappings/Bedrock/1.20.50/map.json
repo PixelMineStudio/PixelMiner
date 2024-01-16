@@ -1,0 +1,10 @@
+[
+    {
+        "source": "TEXTURE_MAP_BACKGROUND",
+        "destination": "textures/map/map_background.png"
+    },
+    {
+        "source": "TEXTURE_MAP_ICONS",
+        "destination": "textures/map/map_icons.png"
+    }
+]

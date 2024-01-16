@@ -1,0 +1,66 @@
+[
+    {
+        "source": "TEXTURE_INK_SAC",
+        "destination": "assets/minecraft/textures/items/dye_powder_black.png"
+    },
+    {
+        "source": "TEXTURE_LAPIS_LAZULI",
+        "destination": "assets/minecraft/textures/items/dye_powder_blue.png"
+    },
+    {
+        "source": "TEXTURE_COCOA_BEANS",
+        "destination": "assets/minecraft/textures/items/dye_powder_brown.png"
+    },
+    {
+        "source": "TEXTURE_CYAN_DYE",
+        "destination": "assets/minecraft/textures/items/dye_powder_cyan.png"
+    },
+    {
+        "source": "TEXTURE_GRAY_DYE",
+        "destination": "assets/minecraft/textures/items/dye_powder_gray.png"
+    },
+    {
+        "source": "TEXTURE_GREEN_DYE",
+        "destination": "assets/minecraft/textures/items/dye_powder_green.png"
+    },
+    {
+        "source": "TEXTURE_LIGHT_BLUE_DYE",
+        "destination": "assets/minecraft/textures/items/dye_powder_light_blue.png"
+    },
+    {
+        "source": "TEXTURE_LIGHT_GRAY_DYE",
+        "destination": "assets/minecraft/textures/items/dye_powder_silver.png"
+    },
+    {
+        "source": "TEXTURE_LIME_DYE",
+        "destination": "assets/minecraft/textures/items/dye_powder_lime.png"
+    },
+    {
+        "source": "TEXTURE_MAGENTA_DYE",
+        "destination": "assets/minecraft/textures/items/dye_powder_magenta.png"
+    },
+    {
+        "source": "TEXTURE_ORANGE_DYE",
+        "destination": "assets/minecraft/textures/items/dye_powder_orange.png"
+    },
+    {
+        "source": "TEXTURE_PINK_DYE",
+        "destination": "assets/minecraft/textures/items/dye_powder_pink.png"
+    },
+    {
+        "source": "TEXTURE_PURPLE_DYE",
+        "destination": "assets/minecraft/textures/items/dye_powder_purple.png"
+    },
+    {
+        "source": "TEXTURE_RED_DYE",
+        "destination": "assets/minecraft/textures/items/dye_powder_red.png"
+    },
+    {
+        "source": "TEXTURE_BONE_MEAL",
+        "destination": "assets/minecraft/textures/items/dye_powder_white.png"
+    },
+    {
+        "source": "TEXTURE_YELLOW_DYE",
+        "destination": "assets/minecraft/textures/items/dye_powder_yellow.png"
+    }
+]

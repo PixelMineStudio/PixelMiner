@@ -1,0 +1,130 @@
+[
+    {
+        "source": "TEXTURE_CONCRETE_BLACK",
+        "destination": "assets/minecraft/textures/blocks/concrete_black.png"
+    },
+    {
+        "source": "TEXTURE_CONCRETE_BLUE",
+        "destination": "assets/minecraft/textures/blocks/concrete_blue.png"
+    },
+    {
+        "source": "TEXTURE_CONCRETE_BROWN",
+        "destination": "assets/minecraft/textures/blocks/concrete_brown.png"
+    },
+    {
+        "source": "TEXTURE_CONCRETE_CYAN",
+        "destination": "assets/minecraft/textures/blocks/concrete_cyan.png"
+    },
+    {
+        "source": "TEXTURE_CONCRETE_GRAY",
+        "destination": "assets/minecraft/textures/blocks/concrete_gray.png"
+    },
+    {
+        "source": "TEXTURE_CONCRETE_GREEN",
+        "destination": "assets/minecraft/textures/blocks/concrete_green.png"
+    },
+    {
+        "source": "TEXTURE_CONCRETE_LIGHTBLUE",
+        "destination": "assets/minecraft/textures/blocks/concrete_light_blue.png"
+    },
+    {
+        "source": "TEXTURE_CONCRETE_LIGHTGRAY",
+        "destination": "assets/minecraft/textures/blocks/concrete_silver.png"
+    },
+    {
+        "source": "TEXTURE_CONCRETE_LIME",
+        "destination": "assets/minecraft/textures/blocks/concrete_lime.png"
+    },
+    {
+        "source": "TEXTURE_CONCRETE_MAGENTA",
+        "destination": "assets/minecraft/textures/blocks/concrete_magenta.png"
+    },
+    {
+        "source": "TEXTURE_CONCRETE_ORANGE",
+        "destination": "assets/minecraft/textures/blocks/concrete_orange.png"
+    },
+    {
+        "source": "TEXTURE_CONCRETE_PINK",
+        "destination": "assets/minecraft/textures/blocks/concrete_pink.png"
+    },
+    {
+        "source": "TEXTURE_CONCRETE_POWDER_BLACK",
+        "destination": "assets/minecraft/textures/blocks/concrete_powder_black.png"
+    },
+    {
+        "source": "TEXTURE_CONCRETE_POWDER_BLUE",
+        "destination": "assets/minecraft/textures/blocks/concrete_powder_blue.png"
+    },
+    {
+        "source": "TEXTURE_CONCRETE_POWDER_BROWN",
+        "destination": "assets/minecraft/textures/blocks/concrete_powder_brown.png"
+    },
+    {
+        "source": "TEXTURE_CONCRETE_POWDER_CYAN",
+        "destination": "assets/minecraft/textures/blocks/concrete_powder_cyan.png"
+    },
+    {
+        "source": "TEXTURE_CONCRETE_POWDER_GRAY",
+        "destination": "assets/minecraft/textures/blocks/concrete_powder_gray.png"
+    },
+    {
+        "source": "TEXTURE_CONCRETE_POWDER_GREEN",
+        "destination": "assets/minecraft/textures/blocks/concrete_powder_green.png"
+    },
+    {
+        "source": "TEXTURE_CONCRETE_POWDER_LIGHTBLUE_",
+        "destination": "assets/minecraft/textures/blocks/concrete_powder_light_blue.png"
+    },
+    {
+        "source": "TEXTURE_CONCRETE_POWDER_LIGHTGRAY",
+        "destination": "assets/minecraft/textures/blocks/concrete_powder_silver.png"
+    },
+    {
+        "source": "TEXTURE_CONCRETE_POWDER_LIME",
+        "destination": "assets/minecraft/textures/blocks/concrete_powder_lime.png"
+    },
+    {
+        "source": "TEXTURE_CONCRETE_POWDER_MAGENTA",
+        "destination": "assets/minecraft/textures/blocks/concrete_powder_magenta.png"
+    },
+    {
+        "source": "TEXTURE_CONCRETE_POWDER_ORANGE",
+        "destination": "assets/minecraft/textures/blocks/concrete_powder_orange.png"
+    },
+    {
+        "source": "TEXTURE_CONCRETE_POWDER_PINK",
+        "destination": "assets/minecraft/textures/blocks/concrete_powder_pink.png"
+    },
+    {
+        "source": "TEXTURE_CONCRETE_POWDER_PURPLE",
+        "destination": "assets/minecraft/textures/blocks/concrete_powder_purple.png"
+    },
+    {
+        "source": "TEXTURE_CONCRETE_POWDER_RED",
+        "destination": "assets/minecraft/textures/blocks/concrete_powder_red.png"
+    },
+    {
+        "source": "TEXTURE_CONCRETE_POWDER_WHITE",
+        "destination": "assets/minecraft/textures/blocks/concrete_powder_white.png"
+    },
+    {
+        "source": "TEXTURE_CONCRETE_POWDER_YELLOW",
+        "destination": "assets/minecraft/textures/blocks/concrete_powder_yellow.png"
+    },
+    {
+        "source": "TEXTURE_CONCRETE_PURPLE",
+        "destination": "assets/minecraft/textures/blocks/concrete_purple.png"
+    },
+    {
+        "source": "TEXTURE_CONCRETE_RED",
+        "destination": "assets/minecraft/textures/blocks/concrete_red.png"
+    },
+    {
+        "source": "TEXTURE_CONCRETE_WHITE",
+        "destination": "assets/minecraft/textures/blocks/concrete_white.png"
+    },
+    {
+        "source": "TEXTURE_CONCRETE_YELLOW",
+        "destination": "assets/minecraft/textures/blocks/concrete_yellow.png"
+    }
+]

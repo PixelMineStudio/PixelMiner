@@ -1,0 +1,30 @@
+[
+    {
+        "source": "TEXTURE_CHEST_CHRISTMAS_DOUBLE",
+        "destination": "assets/minecraft/textures/entity/chest/christmas_double.png"
+    },
+    {
+        "source": "TEXTURE_CHEST_NORMAL_DOUBLE",
+        "destination": "assets/minecraft/textures/entity/chest/normal_double.png"
+    },
+    {
+        "source": "TEXTURE_CHEST_TRAPPED_DOUBLE",
+        "destination": "assets/minecraft/textures/entity/chest/trapped_double.png"
+    },
+    {
+        "source": "TEXTURE_CHEST_CHRISTMAS",
+        "destination": "assets/minecraft/textures/entity/chest/christmas.png"
+    },
+    {
+        "source": "TEXTURE_CHEST_ENDER",
+        "destination": "assets/minecraft/textures/entity/chest/ender.png"
+    },
+    {
+        "source": "TEXTURE_CHEST_NORMAL",
+        "destination": "assets/minecraft/textures/entity/chest/normal.png"
+    },
+    {
+        "source": "TEXTURE_CHEST_TRAPPED",
+        "destination": "assets/minecraft/textures/entity/chest/trapped.png"
+    }
+]

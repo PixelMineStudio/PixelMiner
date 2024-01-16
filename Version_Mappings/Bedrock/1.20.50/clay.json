@@ -1,0 +1,102 @@
+[
+    {
+        "source": "TEXTURE_ANGLER_POTTERY_SHERD",
+        "destination": "textures/items/angler_pottery_sherd.png"
+    },
+    {
+        "source": "TEXTURE_ARCHER_POTTERY_SHERD",
+        "destination": "textures/items/archer_pottery_sherd.png"
+    },
+    {
+        "source": "TEXTURE_ARMS_UP_POTTERY_SHERD",
+        "destination": "textures/items/arms_up_pottery_sherd.png"
+    },
+    {
+        "source": "TEXTURE_BLADE_POTTERY_SHERD",
+        "destination": "textures/items/blade_pottery_sherd.png"
+    },
+    {
+        "source": "TEXTURE_BREWER_POTTERY_SHERD",
+        "destination": "textures/items/brewer_pottery_sherd.png"
+    },
+    {
+        "source": "TEXTURE_BURN_POTTERY_SHERD",
+        "destination": "textures/items/burn_pottery_sherd.png"
+    },
+    {
+        "source": "TEXTURE_DANGER_POTTERY_SHERD",
+        "destination": "textures/items/danger_pottery_sherd.png"
+    },
+    {
+        "source": "TEXTURE_EXPLORER_POTTERY_SHERD",
+        "destination": "textures/items/explorer_pottery_sherd.png"
+    },
+    {
+        "source": "TEXTURE_FRIEND_POTTERY_SHERD",
+        "destination": "textures/items/friend_pottery_sherd.png"
+    },
+    {
+        "source": "TEXTURE_HEARTBREAK_POTTERY_SHERD",
+        "destination": "textures/items/heartbreak_pottery_sherd.png"
+    },
+    {
+        "source": "TEXTURE_HEART_POTTERY_SHERD",
+        "destination": "textures/items/heart_pottery_sherd.png"
+    },
+    {
+        "source": "TEXTURE_HOWL_POTTERY_SHERD",
+        "destination": "textures/items/howl_pottery_sherd.png"
+    },
+    {
+        "source": "TEXTURE_MINER_POTTERY_SHERD",
+        "destination": "textures/items/miner_pottery_sherd.png"
+    },
+    {
+        "source": "TEXTURE_MOURNER_POTTERY_SHERD",
+        "destination": "textures/items/mourner_pottery_sherd.png"
+    },
+    {
+        "source": "TEXTURE_PLENTY_POTTERY_SHERD",
+        "destination": "textures/items/plenty_pottery_sherd.png"
+    },
+    {
+        "source": "TEXTURE_PRIZE_POTTERY_SHERD",
+        "destination": "textures/items/prize_pottery_sherd.png"
+    },
+    {
+        "source": "TEXTURE_SHEAF_POTTERY_SHERD",
+        "destination": "textures/items/sheaf_pottery_sherd.png"
+    },
+    {
+        "source": "TEXTURE_SHELTER_POTTERY_SHERD",
+        "destination": "textures/items/shelter_pottery_sherd.png"
+    },
+    {
+        "source": "TEXTURE_SKULL_POTTERY_SHERD",
+        "destination": "textures/items/skull_pottery_sherd.png"
+    },
+    {
+        "source": "TEXTURE_SNORT_POTTERY_SHERD",
+        "destination": "textures/items/snort_pottery_sherd.png"
+    },
+    {
+        "source": "TEXTURE_BRICK",
+        "destination": "textures/items/brick.png"
+    },
+    {
+        "source": "TEXTURE_CLAY_BALL",
+        "destination": "textures/items/clay_ball.png"
+    },
+    {
+        "source": "TEXTURE_CLAY_BLOCK",
+        "destination": "textures/blocks/clay.png"
+    },
+    {
+        "source": "TEXTURE_FLOWER_POT",
+        "destination": "textures/blocks/flower_pot.png"
+    },
+    {
+        "source": "TEXTURE_FLOWER_POT_ITEM",
+        "destination": "textures/items/flower_pot.png"
+    }
+]

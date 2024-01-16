@@ -1,0 +1,190 @@
+[
+    {
+        "source": "TEXTURE_GLOWSTONE_DUST",
+        "destination": "assets/minecraft/textures/items/glowstone_dust.png"
+    },
+    {
+        "source": "TEXTURE_ANCIENT_DEBRIS_SIDE",
+        "destination": "assets/minecraft/textures/blocks/ancient_debris_side.png"
+    },
+    {
+        "source": "TEXTURE_ANCIENT_DEBRIS_TOP",
+        "destination": "assets/minecraft/textures/blocks/ancient_debris_top.png"
+    },
+    {
+        "source": "TEXTURE_COAL",
+        "destination": "assets/minecraft/textures/items/coal.png"
+    },
+    {
+        "source": "TEXTURE_COAL_BLOCK",
+        "destination": "assets/minecraft/textures/blocks/coal_block.png"
+    },
+    {
+        "source": "TEXTURE_COPPER_ORE",
+        "destination": "assets/minecraft/textures/blocks/copper_ore.png"
+    },
+    {
+        "source": "TEXTURE_DEEPSLATE_COAL_ORE",
+        "destination": "assets/minecraft/textures/blocks/deepslate_coal_ore.png"
+    },
+    {
+        "source": "TEXTURE_DEEPSLATE_COPPER_ORE",
+        "destination": "assets/minecraft/textures/blocks/deepslate_copper_ore.png"
+    },
+    {
+        "source": "TEXTURE_DEEPSLATE_DIAMOND_ORE",
+        "destination": "assets/minecraft/textures/blocks/deepslate_diamond_ore.png"
+    },
+    {
+        "source": "TEXTURE_DEEPSLATE_EMERALD_ORE",
+        "destination": "assets/minecraft/textures/blocks/deepslate_emerald_ore.png"
+    },
+    {
+        "source": "TEXTURE_DEEPSLATE_GOLD_ORE",
+        "destination": "assets/minecraft/textures/blocks/deepslate_gold_ore.png"
+    },
+    {
+        "source": "TEXTURE_DEEPSLATE_IRON_ORE",
+        "destination": "assets/minecraft/textures/blocks/deepslate_iron_ore.png"
+    },
+    {
+        "source": "TEXTURE_DEEPSLATE_LAPIS_ORE",
+        "destination": "assets/minecraft/textures/blocks/deepslate_lapis_ore.png"
+    },
+    {
+        "source": "TEXTURE_DEEPSLATE_REDSTONE_ORE",
+        "destination": "assets/minecraft/textures/blocks/deepslate_redstone_ore.png"
+    },
+    {
+        "source": "TEXTURE_COPPER_RAW_BLOCK",
+        "destination": "assets/minecraft/textures/blocks/raw_copper_block.png"
+    },
+    {
+        "source": "TEXTURE_GOLD_RAW_BLOCK",
+        "destination": "assets/minecraft/textures/blocks/raw_gold_block.png"
+    },
+    {
+        "source": "TEXTURE_IRON_RAW_BLOCK",
+        "destination": "assets/minecraft/textures/blocks/raw_iron_block.png"
+    },
+    {
+        "source": "TEXTURE_COPPER_RAW",
+        "destination": "assets/minecraft/textures/items/raw_copper.png"
+    },
+    {
+        "source": "TEXTURE_GOLD_RAW",
+        "destination": "assets/minecraft/textures/items/raw_gold.png"
+    },
+    {
+        "source": "TEXTURE_IRON_RAW",
+        "destination": "assets/minecraft/textures/items/raw_iron.png"
+    },
+    {
+        "source": "TEXTURE_COAL_ORE",
+        "destination": "assets/minecraft/textures/blocks/coal_ore.png"
+    },
+    {
+        "source": "TEXTURE_DIAMOND",
+        "destination": "assets/minecraft/textures/items/diamond.png"
+    },
+    {
+        "source": "TEXTURE_DIAMOND_BLOCK",
+        "destination": "assets/minecraft/textures/blocks/diamond_block.png"
+    },
+    {
+        "source": "TEXTURE_DIAMOND_ORE",
+        "destination": "assets/minecraft/textures/blocks/diamond_ore.png"
+    },
+    {
+        "source": "TEXTURE_EMERALD",
+        "destination": "assets/minecraft/textures/items/emerald.png"
+    },
+    {
+        "source": "TEXTURE_EMERALD_BLOCK",
+        "destination": "assets/minecraft/textures/blocks/emerald_block.png"
+    },
+    {
+        "source": "TEXTURE_EMERALD_ORE",
+        "destination": "assets/minecraft/textures/blocks/emerald_ore.png"
+    },
+    {
+        "source": "TEXTURE_GLOWSTONE",
+        "destination": "assets/minecraft/textures/blocks/glowstone.png"
+    },
+    {
+        "source": "MCMETA_GLOWSTONE",
+        "destination": "assets/minecraft/textures/block/glowstone.png.mcmeta"
+    },
+    {
+        "source": "TEXTURE_GOLD_BLOCK",
+        "destination": "assets/minecraft/textures/blocks/gold_block.png"
+    },
+    {
+        "source": "TEXTURE_GOLD_INGOT",
+        "destination": "assets/minecraft/textures/items/gold_ingot.png"
+    },
+    {
+        "source": "TEXTURE_GOLD_NUGGET",
+        "destination": "assets/minecraft/textures/items/gold_nugget.png"
+    },
+    {
+        "source": "TEXTURE_GOLD_ORE",
+        "destination": "assets/minecraft/textures/blocks/gold_ore.png"
+    },
+    {
+        "source": "TEXTURE_IRON_BLOCK",
+        "destination": "assets/minecraft/textures/blocks/iron_block.png"
+    },
+    {
+        "source": "TEXTURE_IRON_INGOT",
+        "destination": "assets/minecraft/textures/items/iron_ingot.png"
+    },
+    {
+        "source": "TEXTURE_IRON_NUGGET",
+        "destination": "assets/minecraft/textures/items/iron_nugget.png"
+    },
+    {
+        "source": "TEXTURE_IRON_ORE",
+        "destination": "assets/minecraft/textures/blocks/iron_ore.png"
+    },
+    {
+        "source": "TEXTURE_LAPIS_BLOCK",
+        "destination": "assets/minecraft/textures/blocks/lapis_block.png"
+    },
+    {
+        "source": "TEXTURE_LAPIS_LAZULI",
+        "destination": "assets/minecraft/textures/items/lapis_lazuli.png"
+    },
+    {
+        "source": "TEXTURE_LAPIS_ORE",
+        "destination": "assets/minecraft/textures/blocks/lapis_ore.png"
+    },
+    {
+        "source": "TEXTURE_NETHER_GOLD_ORE",
+        "destination": "assets/minecraft/textures/blocks/nether_gold_ore.png"
+    },
+    {
+        "source": "TEXTURE_NETHERITE_BLOCK",
+        "destination": "assets/minecraft/textures/blocks/netherite_block.png"
+    },
+    {
+        "source": "TEXTURE_NETHERITE_INGOT",
+        "destination": "assets/minecraft/textures/items/netherite_ingot.png"
+    },
+    {
+        "source": "TEXTURE_NETHERITE_SCRAP",
+        "destination": "assets/minecraft/textures/items/netherite_scrap.png"
+    },
+    {
+        "source": "TEXTURE_REDSTONE_BLOCK",
+        "destination": "assets/minecraft/textures/blocks/redstone_block.png"
+    },
+    {
+        "source": "TEXTURE_REDSTONE_DUST",
+        "destination": "assets/minecraft/textures/items/redstone.png"
+    },
+    {
+        "source": "TEXTURE_REDSTONE_ORE",
+        "destination": "assets/minecraft/textures/blocks/redstone_ore.png"
+    }
+]

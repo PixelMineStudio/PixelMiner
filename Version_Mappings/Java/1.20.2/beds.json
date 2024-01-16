@@ -1,0 +1,178 @@
+[
+    {
+        "type": "stamp",
+        "source": [
+            { "uid": "TEXTURE_BED_RED", "copy": [0, 0, 44, 22], "position": [0, 0] },
+            { "uid": "TEXTURE_BED_RED", "copy": [0, 22, 44, 38], "position": [0, 28] },
+            { "uid": "TEXTURE_BED_RED", "copy": [6, 38, 22, 44], "rotate": 180, "position": [22, 22] },
+            { "uid": "TEXTURE_BED_RED", "copy": [50, 0, 62, 24], "position": [50, 0] }
+        ],
+        "destination": "assets/minecraft/textures/entity/bed/red.png",
+        "canvas_size": [64, 64]
+    },
+    {
+        "type": "stamp",
+        "source": [
+            { "uid": "TEXTURE_BED_BLACK", "copy": [0, 0, 44, 22], "position": [0, 0] },
+            { "uid": "TEXTURE_BED_BLACK", "copy": [0, 22, 44, 38], "position": [0, 28] },
+            { "uid": "TEXTURE_BED_BLACK", "copy": [6, 38, 22, 44], "rotate": 180, "position": [22, 22] },
+            { "uid": "TEXTURE_BED_BLACK", "copy": [50, 0, 62, 24], "position": [50, 0] }
+        ],
+        "destination": "assets/minecraft/textures/entity/bed/black.png",
+        "canvas_size": [64, 64]
+    },
+    {
+        "type": "stamp",
+        "source": [
+            { "uid": "TEXTURE_BED_BLUE", "copy": [0, 0, 44, 22], "position": [0, 0] },
+            { "uid": "TEXTURE_BED_BLUE", "copy": [0, 22, 44, 38], "position": [0, 28] },
+            { "uid": "TEXTURE_BED_BLUE", "copy": [6, 38, 22, 44], "rotate": 180, "position": [22, 22] },
+            { "uid": "TEXTURE_BED_BLUE", "copy": [50, 0, 62, 24], "position": [50, 0] }
+        ],
+        "destination": "assets/minecraft/textures/entity/bed/blue.png",
+        "canvas_size": [64, 64]
+    },
+    {
+        "type": "stamp",
+        "source": [
+            { "uid": "TEXTURE_BED_BROWN", "copy": [0, 0, 44, 22], "position": [0, 0] },
+            { "uid": "TEXTURE_BED_BROWN", "copy": [0, 22, 44, 38], "position": [0, 28] },
+            { "uid": "TEXTURE_BED_BROWN", "copy": [6, 38, 22, 44], "rotate": 180, "position": [22, 22] },
+            { "uid": "TEXTURE_BED_BROWN", "copy": [50, 0, 62, 24], "position": [50, 0] }
+        ],
+        "destination": "assets/minecraft/textures/entity/bed/brown.png",
+        "canvas_size": [64, 64]
+    },
+    {
+        "type": "stamp",
+        "source": [
+            { "uid": "TEXTURE_BED_CYAN", "copy": [0, 0, 44, 22], "position": [0, 0] },
+            { "uid": "TEXTURE_BED_CYAN", "copy": [0, 22, 44, 38], "position": [0, 28] },
+            { "uid": "TEXTURE_BED_CYAN", "copy": [6, 38, 22, 44], "rotate": 180, "position": [22, 22] },
+            { "uid": "TEXTURE_BED_CYAN", "copy": [50, 0, 62, 24], "position": [50, 0] }
+        ],
+        "destination": "assets/minecraft/textures/entity/bed/cyan.png",
+        "canvas_size": [64, 64]
+    },
+    {
+        "type": "stamp",
+        "source": [
+            { "uid": "TEXTURE_BED_GRAY", "copy": [0, 0, 44, 22], "position": [0, 0] },
+            { "uid": "TEXTURE_BED_GRAY", "copy": [0, 22, 44, 38], "position": [0, 28] },
+            { "uid": "TEXTURE_BED_GRAY", "copy": [6, 38, 22, 44], "rotate": 180, "position": [22, 22] },
+            { "uid": "TEXTURE_BED_GRAY", "copy": [50, 0, 62, 24], "position": [50, 0] }
+        ],
+        "destination": "assets/minecraft/textures/entity/bed/gray.png",
+        "canvas_size": [64, 64]
+    },
+    {
+        "type": "stamp",
+        "source": [
+            { "uid": "TEXTURE_BED_GREEN", "copy": [0, 0, 44, 22], "position": [0, 0] },
+            { "uid": "TEXTURE_BED_GREEN", "copy": [0, 22, 44, 38], "position": [0, 28] },
+            { "uid": "TEXTURE_BED_GREEN", "copy": [6, 38, 22, 44], "rotate": 180, "position": [22, 22] },
+            { "uid": "TEXTURE_BED_GREEN", "copy": [50, 0, 62, 24], "position": [50, 0] }
+        ],
+        "destination": "assets/minecraft/textures/entity/bed/green.png",
+        "canvas_size": [64, 64]
+    },
+    {
+        "type": "stamp",
+        "source": [
+            { "uid": "TEXTURE_BED_LIGHT_BLUE", "copy": [0, 0, 44, 22], "position": [0, 0] },
+            { "uid": "TEXTURE_BED_LIGHT_BLUE", "copy": [0, 22, 44, 38], "position": [0, 28] },
+            { "uid": "TEXTURE_BED_LIGHT_BLUE", "copy": [6, 38, 22, 44], "rotate": 180, "position": [22, 22] },
+            { "uid": "TEXTURE_BED_LIGHT_BLUE", "copy": [50, 0, 62, 24], "position": [50, 0] }
+        ],
+        "destination": "assets/minecraft/textures/entity/bed/light_blue.png",
+        "canvas_size": [64, 64]
+    },
+    {
+        "type": "stamp",
+        "source": [
+            { "uid": "TEXTURE_BED_LIGHT_GRAY", "copy": [0, 0, 44, 22], "position": [0, 0] },
+            { "uid": "TEXTURE_BED_LIGHT_GRAY", "copy": [0, 22, 44, 38], "position": [0, 28] },
+            { "uid": "TEXTURE_BED_LIGHT_GRAY", "copy": [6, 38, 22, 44], "rotate": 180, "position": [22, 22] },
+            { "uid": "TEXTURE_BED_LIGHT_GRAY", "copy": [50, 0, 62, 24], "position": [50, 0] }
+        ],
+        "destination": "assets/minecraft/textures/entity/bed/light_gray.png",
+        "canvas_size": [64, 64]
+    },
+    {
+        "type": "stamp",
+        "source": [
+            { "uid": "TEXTURE_BED_LIME", "copy": [0, 0, 44, 22], "position": [0, 0] },
+            { "uid": "TEXTURE_BED_LIME", "copy": [0, 22, 44, 38], "position": [0, 28] },
+            { "uid": "TEXTURE_BED_LIME", "copy": [6, 38, 22, 44], "rotate": 180, "position": [22, 22] },
+            { "uid": "TEXTURE_BED_LIME", "copy": [50, 0, 62, 24], "position": [50, 0] }
+        ],
+        "destination": "assets/minecraft/textures/entity/bed/lime.png",
+        "canvas_size": [64, 64]
+    },
+    {
+        "type": "stamp",
+        "source": [
+            { "uid": "TEXTURE_BED_MAGENTA", "copy": [0, 0, 44, 22], "position": [0, 0] },
+            { "uid": "TEXTURE_BED_MAGENTA", "copy": [0, 22, 44, 38], "position": [0, 28] },
+            { "uid": "TEXTURE_BED_MAGENTA", "copy": [6, 38, 22, 44], "rotate": 180, "position": [22, 22] },
+            { "uid": "TEXTURE_BED_MAGENTA", "copy": [50, 0, 62, 24], "position": [50, 0] }
+        ],
+        "destination": "assets/minecraft/textures/entity/bed/magenta.png",
+        "canvas_size": [64, 64]
+    },
+    {
+        "type": "stamp",
+        "source": [
+            { "uid": "TEXTURE_BED_ORANGE", "copy": [0, 0, 44, 22], "position": [0, 0] },
+            { "uid": "TEXTURE_BED_ORANGE", "copy": [0, 22, 44, 38], "position": [0, 28] },
+            { "uid": "TEXTURE_BED_ORANGE", "copy": [6, 38, 22, 44], "rotate": 180, "position": [22, 22] },
+            { "uid": "TEXTURE_BED_ORANGE", "copy": [50, 0, 62, 24], "position": [50, 0] }
+        ],
+        "destination": "assets/minecraft/textures/entity/bed/orange.png",
+        "canvas_size": [64, 64]
+    },
+    {
+        "type": "stamp",
+        "source": [
+            { "uid": "TEXTURE_BED_PINK", "copy": [0, 0, 44, 22], "position": [0, 0] },
+            { "uid": "TEXTURE_BED_PINK", "copy": [0, 22, 44, 38], "position": [0, 28] },
+            { "uid": "TEXTURE_BED_PINK", "copy": [6, 38, 22, 44], "rotate": 180, "position": [22, 22] },
+            { "uid": "TEXTURE_BED_PINK", "copy": [50, 0, 62, 24], "position": [50, 0] }
+        ],
+        "destination": "assets/minecraft/textures/entity/bed/pink.png",
+        "canvas_size": [64, 64]
+    },
+    {
+        "type": "stamp",
+        "source": [
+            { "uid": "TEXTURE_BED_PURPLE", "copy": [0, 0, 44, 22], "position": [0, 0] },
+            { "uid": "TEXTURE_BED_PURPLE", "copy": [0, 22, 44, 38], "position": [0, 28] },
+            { "uid": "TEXTURE_BED_PURPLE", "copy": [6, 38, 22, 44], "rotate": 180, "position": [22, 22] },
+            { "uid": "TEXTURE_BED_PURPLE", "copy": [50, 0, 62, 24], "position": [50, 0] }
+        ],
+        "destination": "assets/minecraft/textures/entity/bed/purple.png",
+        "canvas_size": [64, 64]
+    },
+    {
+        "type": "stamp",
+        "source": [
+            { "uid": "TEXTURE_BED_WHITE", "copy": [0, 0, 44, 22], "position": [0, 0] },
+            { "uid": "TEXTURE_BED_WHITE", "copy": [0, 22, 44, 38], "position": [0, 28] },
+            { "uid": "TEXTURE_BED_WHITE", "copy": [6, 38, 22, 44], "rotate": 180, "position": [22, 22] },
+            { "uid": "TEXTURE_BED_WHITE", "copy": [50, 0, 62, 24], "position": [50, 0] }
+        ],
+        "destination": "assets/minecraft/textures/entity/bed/white.png",
+        "canvas_size": [64, 64]
+    },
+    {
+        "type": "stamp",
+        "source": [
+            { "uid": "TEXTURE_BED_YELLOW", "copy": [0, 0, 44, 22], "position": [0, 0] },
+            { "uid": "TEXTURE_BED_YELLOW", "copy": [0, 22, 44, 38], "position": [0, 28] },
+            { "uid": "TEXTURE_BED_YELLOW", "copy": [6, 38, 22, 44], "rotate": 180, "position": [22, 22] },
+            { "uid": "TEXTURE_BED_YELLOW", "copy": [50, 0, 62, 24], "position": [50, 0] }
+        ],
+        "destination": "assets/minecraft/textures/entity/bed/yellow.png",
+        "canvas_size": [64, 64]
+    }
+]

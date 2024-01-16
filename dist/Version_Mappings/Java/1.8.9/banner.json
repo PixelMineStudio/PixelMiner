@@ -1,0 +1,170 @@
+[
+    {
+        "source": "TEXTURE_BANNER_BASE",
+        "destination": "assets/minecraft/textures/entity/banner_base.png"
+    },
+    {
+        "source": "TEXTURE_BANNER_BASE_ITEM",
+        "destination": "assets/minecraft/textures/items/banner_base.png"
+    },
+    {
+        "source": "TEXTURE_BANNER_BORDER",
+        "destination": "assets/minecraft/textures/entity/banner/border.png"
+    },
+    {
+        "source": "TEXTURE_BANNER_BRICKS",
+        "destination": "assets/minecraft/textures/entity/banner/bricks.png"
+    },
+    {
+        "source": "TEXTURE_BANNER_CIRCLE",
+        "destination": "assets/minecraft/textures/entity/banner/circle.png"
+    },
+    {
+        "source": "TEXTURE_BANNER_CREEPER",
+        "destination": "assets/minecraft/textures/entity/banner/creeper.png"
+    },
+    {
+        "source": "TEXTURE_BANNER_CROSS",
+        "destination": "assets/minecraft/textures/entity/banner/cross.png"
+    },
+    {
+        "source": "TEXTURE_BANNER_CURLY_BORDER",
+        "destination": "assets/minecraft/textures/entity/banner/curly_border.png"
+    },
+    {
+        "source": "TEXTURE_BANNER_DIAGONAL_LEFT",
+        "destination": "assets/minecraft/textures/entity/banner/diagonal_left.png"
+    },
+    {
+        "source": "TEXTURE_BANNER_DIAGONAL_RIGHT",
+        "destination": "assets/minecraft/textures/entity/banner/diagonal_right.png"
+    },
+    {
+        "source": "TEXTURE_BANNER_DIAGONAL_UP_LEFT",
+        "destination": "assets/minecraft/textures/entity/banner/diagonal_up_left.png"
+    },
+    {
+        "source": "TEXTURE_BANNER_DIAGONAL_UP_RIGHT",
+        "destination": "assets/minecraft/textures/entity/banner/diagonal_up_right.png"
+    },
+    {
+        "source": "TEXTURE_BANNER_FLOWER",
+        "destination": "assets/minecraft/textures/entity/banner/flower.png"
+    },
+    {
+        "source": "TEXTURE_BANNER_GRADIENT",
+        "destination": "assets/minecraft/textures/entity/banner/gradient.png"
+    },
+    {
+        "source": "TEXTURE_BANNER_GRADIENT_UP",
+        "destination": "assets/minecraft/textures/entity/banner/gradient_up.png"
+    },
+    {
+        "source": "TEXTURE_BANNER_HALF_HORIZONTAL",
+        "destination": "assets/minecraft/textures/entity/banner/half_horizontal.png"
+    },
+    {
+        "source": "TEXTURE_BANNER_HALF_HORIZONTAL_BOTTOM",
+        "destination": "assets/minecraft/textures/entity/banner/half_horizontal_bottom.png"
+    },
+    {
+        "source": "TEXTURE_BANNER_HALF_VERTICAL",
+        "destination": "assets/minecraft/textures/entity/banner/half_vertical.png"
+    },
+    {
+        "source": "TEXTURE_BANNER_HALF_VERTICAL_RIGHT",
+        "destination": "assets/minecraft/textures/entity/banner/half_vertical_right.png"
+    },
+    {
+        "source": "TEXTURE_BANNER_MOJANG",
+        "destination": "assets/minecraft/textures/entity/banner/mojang.png"
+    },
+    {
+        "source": "TEXTURE_BANNER_PATTERN_CREEPER",
+        "destination": "assets/minecraft/textures/items/banner_overlay.png"
+    },
+    {
+        "source": "TEXTURE_BANNER_RHOMBUS",
+        "destination": "assets/minecraft/textures/entity/banner/rhombus.png"
+    },
+    {
+        "source": "TEXTURE_BANNER_SKULL",
+        "destination": "assets/minecraft/textures/entity/banner/skull.png"
+    },
+    {
+        "source": "TEXTURE_BANNER_SMALL_STRIPES",
+        "destination": "assets/minecraft/textures/entity/banner/small_stripes.png"
+    },
+    {
+        "source": "TEXTURE_BANNER_SQUARE_BOTTOM_LEFT",
+        "destination": "assets/minecraft/textures/entity/banner/square_bottom_left.png"
+    },
+    {
+        "source": "TEXTURE_BANNER_SQUARE_BOTTOM_RIGHT",
+        "destination": "assets/minecraft/textures/entity/banner/square_bottom_right.png"
+    },
+    {
+        "source": "TEXTURE_BANNER_SQUARE_TOP_LEFT",
+        "destination": "assets/minecraft/textures/entity/banner/square_top_left.png"
+    },
+    {
+        "source": "TEXTURE_BANNER_SQUARE_TOP_RIGHT",
+        "destination": "assets/minecraft/textures/entity/banner/square_top_right.png"
+    },
+    {
+        "source": "TEXTURE_BANNER_STRAIGHT_CROSS",
+        "destination": "assets/minecraft/textures/entity/banner/straight_cross.png"
+    },
+    {
+        "source": "TEXTURE_BANNER_STRIPE_BOTTOM",
+        "destination": "assets/minecraft/textures/entity/banner/stripe_bottom.png"
+    },
+    {
+        "source": "TEXTURE_BANNER_STRIPE_CENTER",
+        "destination": "assets/minecraft/textures/entity/banner/stripe_center.png"
+    },
+    {
+        "source": "TEXTURE_BANNER_STRIPE_DOWNLEFT",
+        "destination": "assets/minecraft/textures/entity/banner/stripe_downleft.png"
+    },
+    {
+        "source": "TEXTURE_BANNER_STRIPE_DOWNRIGHT",
+        "destination": "assets/minecraft/textures/entity/banner/stripe_downright.png"
+    },
+    {
+        "source": "TEXTURE_BANNER_STRIPE_LEFT",
+        "destination": "assets/minecraft/textures/entity/banner/stripe_left.png"
+    },
+    {
+        "source": "TEXTURE_BANNER_STRIPE_MIDDLE",
+        "destination": "assets/minecraft/textures/entity/banner/stripe_middle.png"
+    },
+    {
+        "source": "TEXTURE_BANNER_STRIPE_RIGHT",
+        "destination": "assets/minecraft/textures/entity/banner/stripe_right.png"
+    },
+    {
+        "source": "TEXTURE_BANNER_STRIPE_TOP",
+        "destination": "assets/minecraft/textures/entity/banner/stripe_top.png"
+    },
+    {
+        "source": "TEXTURE_BANNER_TRIANGLE_BOTTOM",
+        "destination": "assets/minecraft/textures/entity/banner/triangle_bottom.png"
+    },
+    {
+        "source": "TEXTURE_BANNER_TRIANGLE_TOP",
+        "destination": "assets/minecraft/textures/entity/banner/triangle_top.png"
+    },
+    {
+        "source": "TEXTURE_BANNER_TRIANGLES_BOTTOM",
+        "destination": "assets/minecraft/textures/entity/banner/triangles_bottom.png"
+    },
+    {
+        "source": "TEXTURE_BANNER_TRIANGLES_TOP",
+        "destination": "assets/minecraft/textures/entity/banner/triangles_top.png"
+    },
+    {
+        "source": "TEXTURE_BASE_BANNER",
+        "destination": "assets/minecraft/textures/entity/banner/base.png"
+    }
+]

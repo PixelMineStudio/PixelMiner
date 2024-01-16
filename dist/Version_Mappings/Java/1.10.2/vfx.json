@@ -1,0 +1,402 @@
+[
+    {
+        "type": "stamp",
+        "source": [
+            { "uid": "TEXTURE_GENERIC_0"   , "position": [  0,   0] },
+            { "uid": "TEXTURE_GENERIC_1"   , "position": [  8,   0] },
+            { "uid": "TEXTURE_GENERIC_2"   , "position": [ 16,   0] },
+            { "uid": "TEXTURE_GENERIC_3"   , "position": [ 24,   0] },
+            { "uid": "TEXTURE_GENERIC_4"   , "position": [ 32,   0] },
+            { "uid": "TEXTURE_GENERIC_5"   , "position": [ 40,   0] },
+            { "uid": "TEXTURE_GENERIC_6"   , "position": [ 48,   0] },
+            { "uid": "TEXTURE_GENERIC_7"   , "position": [ 56,   0] },
+            { "uid": "TEXTURE_SPLASH_0"    , "position": [ 16,   8] },
+            { "uid": "TEXTURE_SPLASH_1"    , "position": [ 24,   8] },
+            { "uid": "TEXTURE_SPLASH_2"    , "position": [ 32,   8] },
+            { "uid": "TEXTURE_BUBBLE"      , "position": [  0,  16] },
+            { "uid": "TEXTURE_FISHING_HOOK", "position": [  8,  16] },
+            { "uid": "TEXTURE_FLASH"       , "position": [ 32,  16] },
+            { "uid": "TEXTURE_FLAME"       , "position": [  0,  24] },
+            { "uid": "TEXTURE_LAVA"        , "position": [  8,  24] },
+            { "uid": "TEXTURE_NOTE"        , "position": [  0,  32] },
+            { "uid": "TEXTURE_CRITICAL_HIT", "position": [  8,  32] },
+            { "uid": "TEXTURE_LAVA"        , "position": [ 16,  32] },
+            { "uid": "TEXTURE_DAMAGE"      , "position": [ 24,  32] },
+            { "uid": "TEXTURE_HEART"       , "position": [  0,  40] },
+            { "uid": "TEXTURE_ANGRY"       , "position": [  8,  40] },
+            { "uid": "TEXTURE_GLINT"       , "position": [ 16,  40] },
+            { "uid": "TEXTURE_LAVA"        , "position": [ 24,  40] },
+            { "uid": "TEXTURE_LAVA"        , "position": [  0,  48] },
+            { "uid": "TEXTURE_LAVA"        , "position": [  8,  48] },
+            { "uid": "TEXTURE_DRIP_HANG"   , "position": [  0,  56] },
+            { "uid": "TEXTURE_DRIP_FALL"   , "position": [  8,  56] },
+            { "uid": "TEXTURE_DRIP_LAND"   , "position": [ 16,  56] },
+            { "uid": "TEXTURE_EFFECT_0"    , "position": [  0,  64] },
+            { "uid": "TEXTURE_EFFECT_1"    , "position": [  8,  64] },
+            { "uid": "TEXTURE_EFFECT_2"    , "position": [ 16,  64] },
+            { "uid": "TEXTURE_EFFECT_3"    , "position": [ 24,  64] },
+            { "uid": "TEXTURE_EFFECT_4"    , "position": [ 32,  64] },
+            { "uid": "TEXTURE_EFFECT_5"    , "position": [ 40,  64] },
+            { "uid": "TEXTURE_EFFECT_6"    , "position": [ 48,  64] },
+            { "uid": "TEXTURE_EFFECT_7"    , "position": [ 56,  64] },
+            { "uid": "TEXTURE_SPELL_0"     , "position": [  0,  72] },
+            { "uid": "TEXTURE_SPELL_1"     , "position": [  8,  72] },
+            { "uid": "TEXTURE_SPELL_2"     , "position": [ 16,  72] },
+            { "uid": "TEXTURE_SPELL_3"     , "position": [ 24,  72] },
+            { "uid": "TEXTURE_SPELL_4"     , "position": [ 32,  72] },
+            { "uid": "TEXTURE_SPELL_5"     , "position": [ 40,  72] },
+            { "uid": "TEXTURE_SPELL_6"     , "position": [ 48,  72] },
+            { "uid": "TEXTURE_SPELL_7"     , "position": [ 56,  72] },
+            { "uid": "TEXTURE_SPARK_0"     , "position": [  0,  80] },
+            { "uid": "TEXTURE_SPARK_1"     , "position": [  8,  80] },
+            { "uid": "TEXTURE_SPARK_2"     , "position": [ 16,  80] },
+            { "uid": "TEXTURE_SPARK_3"     , "position": [ 24,  80] },
+            { "uid": "TEXTURE_SPARK_4"     , "position": [ 32,  80] },
+            { "uid": "TEXTURE_SPARK_5"     , "position": [ 40,  80] },
+            { "uid": "TEXTURE_SPARK_6"     , "position": [ 48,  80] },
+            { "uid": "TEXTURE_SPARK_7"     , "position": [ 56,  80] },
+            { "uid": "TEXTURE_GLITTER_0"   , "position": [  0,  88] },
+            { "uid": "TEXTURE_GLITTER_1"   , "position": [  8,  88] },
+            { "uid": "TEXTURE_GLITTER_2"   , "position": [ 16,  88] },
+            { "uid": "TEXTURE_GLITTER_3"   , "position": [ 24,  88] },
+            { "uid": "TEXTURE_GLITTER_4"   , "position": [ 32,  88] },
+            { "uid": "TEXTURE_GLITTER_5"   , "position": [ 40,  88] },
+            { "uid": "TEXTURE_GLITTER_6"   , "position": [ 48,  88] },
+            { "uid": "TEXTURE_GLITTER_7"   , "position": [ 56,  88] },
+            { "uid": "TEXTURE_SGA_A"       , "position": [  8, 112] },
+            { "uid": "TEXTURE_SGA_B"       , "position": [ 16, 112] },
+            { "uid": "TEXTURE_SGA_C"       , "position": [ 24, 112] },
+            { "uid": "TEXTURE_SGA_D"       , "position": [ 32, 112] },
+            { "uid": "TEXTURE_SGA_E"       , "position": [ 40, 112] },
+            { "uid": "TEXTURE_SGA_F"       , "position": [ 48, 112] },
+            { "uid": "TEXTURE_SGA_G"       , "position": [ 56, 112] },
+            { "uid": "TEXTURE_SGA_H"       , "position": [ 64, 112] },
+            { "uid": "TEXTURE_SGA_I"       , "position": [ 72, 112] },
+            { "uid": "TEXTURE_SGA_J"       , "position": [ 80, 112] },
+            { "uid": "TEXTURE_SGA_K"       , "position": [ 88, 112] },
+            { "uid": "TEXTURE_SGA_L"       , "position": [ 96, 112] },
+            { "uid": "TEXTURE_SGA_M"       , "position": [104, 112] },
+            { "uid": "TEXTURE_SGA_N"       , "position": [112, 112] },
+            { "uid": "TEXTURE_SGA_O"       , "position": [120, 112] },
+            { "uid": "TEXTURE_SGA_P"       , "position": [  0, 120] },
+            { "uid": "TEXTURE_SGA_Q"       , "position": [  8, 120] },
+            { "uid": "TEXTURE_SGA_R"       , "position": [ 16, 120] },
+            { "uid": "TEXTURE_SGA_S"       , "position": [ 24, 120] },
+            { "uid": "TEXTURE_SGA_T"       , "position": [ 32, 120] },
+            { "uid": "TEXTURE_SGA_U"       , "position": [ 40, 120] },
+            { "uid": "TEXTURE_SGA_V"       , "position": [ 48, 120] },
+            { "uid": "TEXTURE_SGA_W"       , "position": [ 56, 120] },
+            { "uid": "TEXTURE_SGA_X"       , "position": [ 56, 120] },
+            { "uid": "TEXTURE_SGA_Y"       , "position": [ 56, 120] },
+            { "uid": "TEXTURE_SGA_Z"       , "position": [ 56, 120] }
+        ],
+        "destination": "assets/minecraft/textures/particle/particles.png",
+        "canvas_size": [128, 128]
+    },
+    {
+        "type": "grid",
+        "source": [
+            "TEXTURE_EXPLOSION_0",
+            "TEXTURE_EXPLOSION_1",
+            "TEXTURE_EXPLOSION_2",
+            "TEXTURE_EXPLOSION_3",
+            "TEXTURE_EXPLOSION_4",
+            "TEXTURE_EXPLOSION_5",
+            "TEXTURE_EXPLOSION_6",
+            "TEXTURE_EXPLOSION_7",
+            "TEXTURE_EXPLOSION_8",
+            "TEXTURE_EXPLOSION_9",
+            "TEXTURE_EXPLOSION_10",
+            "TEXTURE_EXPLOSION_11",
+            "TEXTURE_EXPLOSION_12",
+            "TEXTURE_EXPLOSION_13",
+            "TEXTURE_EXPLOSION_14",
+            "TEXTURE_EXPLOSION_15"
+        ],
+        "destination": "assets/minecraft/textures/entity/explosion.png",
+        "grid_size": [
+            4,
+            4
+        ]
+    },
+    {
+        "type": "grid",
+        "source": [
+            "TEXTURE_SWEEP_0",
+            "TEXTURE_SWEEP_1",
+            "TEXTURE_SWEEP_2",
+            "TEXTURE_SWEEP_3",
+            "TEXTURE_SWEEP_4",
+            "TEXTURE_SWEEP_5",
+            "TEXTURE_SWEEP_6",
+            "TEXTURE_SWEEP_7"
+        ],
+        "destination": "assets/minecraft/textures/entity/sweep.png",
+        "grid_size": [
+            4,
+            2
+        ]
+    },
+    {
+        "source": "TEXTURE_FOOTPRINT",
+        "destination": "assets/minecraft/textures/particle/footprint.png"
+    },
+    {
+        "source": "TEXTURE_BEACON_BEAM_BLOCK",
+        "destination": "assets/minecraft/textures/entity/beacon_beam.png"
+    },
+    {
+        "source": "TEXTURE_DESTROY_STAGE_0",
+        "destination": "assets/minecraft/textures/blocks/destroy_stage_0.png"
+    },
+    {
+        "source": "TEXTURE_DESTROY_STAGE_1",
+        "destination": "assets/minecraft/textures/blocks/destroy_stage_1.png"
+    },
+    {
+        "source": "TEXTURE_DESTROY_STAGE_2",
+        "destination": "assets/minecraft/textures/blocks/destroy_stage_2.png"
+    },
+    {
+        "source": "TEXTURE_DESTROY_STAGE_3",
+        "destination": "assets/minecraft/textures/blocks/destroy_stage_3.png"
+    },
+    {
+        "source": "TEXTURE_DESTROY_STAGE_4",
+        "destination": "assets/minecraft/textures/blocks/destroy_stage_4.png"
+    },
+    {
+        "source": "TEXTURE_DESTROY_STAGE_5",
+        "destination": "assets/minecraft/textures/blocks/destroy_stage_5.png"
+    },
+    {
+        "source": "TEXTURE_DESTROY_STAGE_6",
+        "destination": "assets/minecraft/textures/blocks/destroy_stage_6.png"
+    },
+    {
+        "source": "TEXTURE_DESTROY_STAGE_7",
+        "destination": "assets/minecraft/textures/blocks/destroy_stage_7.png"
+    },
+    {
+        "source": "TEXTURE_DESTROY_STAGE_8",
+        "destination": "assets/minecraft/textures/blocks/destroy_stage_8.png"
+    },
+    {
+        "source": "TEXTURE_DESTROY_STAGE_9",
+        "destination": "assets/minecraft/textures/blocks/destroy_stage_9.png"
+    },
+    {
+        "source": "TEXTURE_DITHER",
+        "destination": "assets/minecraft/textures/effect/dither.png"
+    },
+    {
+        "source": "TEXTURE_ENCHANTED_ITEM_GLINT",
+        "destination": "assets/minecraft/textures/misc/enchanted_item_glint.png"
+    },
+    {
+        "source": "TEXTURE_END_CRYSTAL_BEAM",
+        "destination": "assets/minecraft/textures/entity/endercrystal/endercrystal_beam.png"
+    },
+    {
+        "source": "TEXTURE_END_GATEWAY_BEAM",
+        "destination": "assets/minecraft/textures/entity/end_gateway_beam.png"
+    },
+    {
+        "source": "TEXTURE_END_PORTAL",
+        "destination": "assets/minecraft/textures/entity/end_portal.png"
+    },
+    {
+        "type": "grid",
+        "source": [
+            "TEXTURE_EXPERIENCE_ORB_01",
+            "TEXTURE_EXPERIENCE_ORB_02",
+            "TEXTURE_EXPERIENCE_ORB_03",
+            "TEXTURE_EXPERIENCE_ORB_04",
+            "TEXTURE_EXPERIENCE_ORB_05",
+            "TEXTURE_EXPERIENCE_ORB_06",
+            "TEXTURE_EXPERIENCE_ORB_07",
+            "TEXTURE_EXPERIENCE_ORB_08",
+            "TEXTURE_EXPERIENCE_ORB_09",
+            "TEXTURE_EXPERIENCE_ORB_10",
+            "TEXTURE_EXPERIENCE_ORB_11",
+            "TEXTURE_EXPERIENCE_ORB_12",
+            "TEXTURE_EXPERIENCE_ORB_13",
+            "TEXTURE_EXPERIENCE_ORB_14",
+            "TEXTURE_EXPERIENCE_ORB_15",
+            "TEXTURE_EXPERIENCE_ORB_16"
+        ],
+        "destination": "assets/minecraft/textures/entity/experience_orb.png",
+        "grid_size": [
+            4,
+            4
+        ]
+    },
+    {
+        "type": "grid",
+        "source": [
+            "TEXTURE_FIRE_0_FRAME0000",
+            "TEXTURE_FIRE_0_FRAME0001",
+            "TEXTURE_FIRE_0_FRAME0002",
+            "TEXTURE_FIRE_0_FRAME0003",
+            "TEXTURE_FIRE_0_FRAME0004",
+            "TEXTURE_FIRE_0_FRAME0005",
+            "TEXTURE_FIRE_0_FRAME0006",
+            "TEXTURE_FIRE_0_FRAME0007",
+            "TEXTURE_FIRE_0_FRAME0008",
+            "TEXTURE_FIRE_0_FRAME0009",
+            "TEXTURE_FIRE_0_FRAME0010",
+            "TEXTURE_FIRE_0_FRAME0011",
+            "TEXTURE_FIRE_0_FRAME0012",
+            "TEXTURE_FIRE_0_FRAME0013",
+            "TEXTURE_FIRE_0_FRAME0014",
+            "TEXTURE_FIRE_0_FRAME0015",
+            "TEXTURE_FIRE_0_FRAME0016",
+            "TEXTURE_FIRE_0_FRAME0017",
+            "TEXTURE_FIRE_0_FRAME0018",
+            "TEXTURE_FIRE_0_FRAME0019",
+            "TEXTURE_FIRE_0_FRAME0020",
+            "TEXTURE_FIRE_0_FRAME0021",
+            "TEXTURE_FIRE_0_FRAME0022",
+            "TEXTURE_FIRE_0_FRAME0023",
+            "TEXTURE_FIRE_0_FRAME0024",
+            "TEXTURE_FIRE_0_FRAME0025",
+            "TEXTURE_FIRE_0_FRAME0026",
+            "TEXTURE_FIRE_0_FRAME0027",
+            "TEXTURE_FIRE_0_FRAME0028",
+            "TEXTURE_FIRE_0_FRAME0029",
+            "TEXTURE_FIRE_0_FRAME0030",
+            "TEXTURE_FIRE_0_FRAME0031"
+        ],
+        "destination": "assets/minecraft/textures/blocks/fire_layer_0.png",
+        "grid_size": [
+            1,
+            32
+        ]
+    },
+    {
+        "type": "grid",
+        "source": [
+            "TEXTURE_FIRE_0_FRAME0000",
+            "TEXTURE_FIRE_0_FRAME0001",
+            "TEXTURE_FIRE_0_FRAME0002",
+            "TEXTURE_FIRE_0_FRAME0003",
+            "TEXTURE_FIRE_0_FRAME0004",
+            "TEXTURE_FIRE_0_FRAME0005",
+            "TEXTURE_FIRE_0_FRAME0006",
+            "TEXTURE_FIRE_0_FRAME0007",
+            "TEXTURE_FIRE_0_FRAME0008",
+            "TEXTURE_FIRE_0_FRAME0009",
+            "TEXTURE_FIRE_0_FRAME0010",
+            "TEXTURE_FIRE_0_FRAME0011",
+            "TEXTURE_FIRE_0_FRAME0012",
+            "TEXTURE_FIRE_0_FRAME0013",
+            "TEXTURE_FIRE_0_FRAME0014",
+            "TEXTURE_FIRE_0_FRAME0015",
+            "TEXTURE_FIRE_0_FRAME0016",
+            "TEXTURE_FIRE_0_FRAME0017",
+            "TEXTURE_FIRE_0_FRAME0018",
+            "TEXTURE_FIRE_0_FRAME0019",
+            "TEXTURE_FIRE_0_FRAME0020",
+            "TEXTURE_FIRE_0_FRAME0021",
+            "TEXTURE_FIRE_0_FRAME0022",
+            "TEXTURE_FIRE_0_FRAME0023",
+            "TEXTURE_FIRE_0_FRAME0024",
+            "TEXTURE_FIRE_0_FRAME0025",
+            "TEXTURE_FIRE_0_FRAME0026",
+            "TEXTURE_FIRE_0_FRAME0027",
+            "TEXTURE_FIRE_0_FRAME0028",
+            "TEXTURE_FIRE_0_FRAME0029",
+            "TEXTURE_FIRE_0_FRAME0030",
+            "TEXTURE_FIRE_0_FRAME0031"
+        ],
+        "destination": "assets/minecraft/textures/blocks/fire_layer_1.png",
+        "grid_size": [
+            1,
+            32
+        ]
+    },
+    {
+        "source": "MCMETA_FIRE_LAYER_0",
+        "destination": "assets/minecraft/textures/blocks/fire_layer_0.png.mcmeta"
+    },
+    {
+        "source": "MCMETA_FIRE_LAYER_1",
+        "destination": "assets/minecraft/textures/blocks/fire_layer_1.png.mcmeta"
+    },
+    {
+        "source": "TEXTURE_FORCEFIELD",
+        "destination": "assets/minecraft/textures/misc/forcefield.png"
+    },
+    {
+        "source": "TEXTURE_LAVA_FLOW",
+        "destination": "assets/minecraft/textures/blocks/lava_flow.png"
+    },
+    {
+        "source": "MCMETA_LAVA_FLOW",
+        "destination": "assets/minecraft/textures/blocks/lava_flow.png.mcmeta"
+    },
+    {
+        "source": "TEXTURE_LAVA_STILL",
+        "destination": "assets/minecraft/textures/blocks/lava_still.png"
+    },
+    {
+        "source": "MCMETA_LAVA_STILL",
+        "destination": "assets/minecraft/textures/blocks/lava_still.png.mcmeta"
+    },
+    {
+        "source": "TEXTURE_NETHER_PORTAL",
+        "destination": "assets/minecraft/textures/blocks/portal.png"
+    },
+    {
+        "source"     : "MCMETA_NETHER_PORTAL"                      ,
+        "destination": "assets/minecraft/textures/blocks/portal.png.mcmeta"
+    },
+    {
+        "source": "TEXTURE_PUMPKINBLUR",
+        "destination": "assets/minecraft/textures/misc/pumpkinblur.png"
+    },
+    {
+        "source": "TEXTURE_RAIN",
+        "destination": "assets/minecraft/textures/environment/rain.png"
+    },
+    {
+        "source": "TEXTURE_SHADOW",
+        "destination": "assets/minecraft/textures/misc/shadow.png"
+    },
+    {
+        "source": "TEXTURE_SHULKER_SPARK",
+        "destination": "assets/minecraft/textures/entity/shulker/spark.png"
+    },
+    {
+        "source": "TEXTURE_SNOWFALL",
+        "destination": "assets/minecraft/textures/environment/snow.png"
+    },
+    {
+        "source": "TEXTURE_UNDERWATER",
+        "destination": "assets/minecraft/textures/misc/underwater.png"
+    },
+    {
+        "source": "TEXTURE_VIGNETTE",
+        "destination": "assets/minecraft/textures/misc/vignette.png"
+    },
+    {
+        "source": "TEXTURE_WATER_FLOW",
+        "destination": "assets/minecraft/textures/blocks/water_flow.png"
+    },
+    {
+        "source": "MCMETA_WATER_FLOW",
+        "destination": "assets/minecraft/textures/blocks/water_flow.png.mcmeta"
+    },
+    {
+        "source": "TEXTURE_WATER_OVERLAY",
+        "destination": "assets/minecraft/textures/blocks/water_overlay.png"
+    },
+    {
+        "source": "TEXTURE_WATER_STILL",
+        "destination": "assets/minecraft/textures/blocks/water_still.png"
+    },
+    {
+        "source": "MCMETA_WATER_STILL",
+        "destination": "assets/minecraft/textures/blocks/water_still.png.mcmeta"
+    }
+]

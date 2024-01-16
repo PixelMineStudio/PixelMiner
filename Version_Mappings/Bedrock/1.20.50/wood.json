@@ -1,0 +1,130 @@
+[
+    {
+        "source": "TEXTURE_CHERRY_BOAT_ITEM",
+        "destination": "textures/items/cherry_boat.png"
+    },
+    {
+        "source": "TEXTURE_CHERRY_CHEST_BOAT_ITEM",
+        "destination": "textures/items/cherry_chest_boat.png"
+    },
+    {
+        "source": "TEXTURE_CHERRY_DOOR_ITEM",
+        "destination": "textures/items/cherry_door.png"
+    },
+    {
+        "source": "TEXTURE_CHERRY_HANGING_SIGN_ITEM",
+        "destination": "textures/items/cherry_hanging_sign.png"
+    },
+    {
+        "source": "TEXTURE_CHERRY_SIGN_ITEM",
+        "destination": "textures/items/cherry_sign.png"
+    },
+    {
+        "source": "TEXTURE_ACACIA_HANGING_SIGN_ITEM",
+        "destination": "textures/items/acacia_hanging_sign.png"
+    },
+    {
+        "source": "TEXTURE_BAMBOO_RAFT_CHEST_ITEM",
+        "destination": "textures/items/bamboo_chest_raft.png"
+    },
+    {
+        "source": "TEXTURE_BAMBOO_DOOR_ITEM",
+        "destination": "textures/items/bamboo_door.png"
+    },
+    {
+        "source": "TEXTURE_BAMBOO_HANGING_SIGN_ITEM",
+        "destination": "textures/items/bamboo_hanging_sign.png"
+    },
+    {
+        "source": "TEXTURE_BAMBOO_RAFT_ITEM",
+        "destination": "textures/items/bamboo_raft.png"
+    },
+    {
+        "source": "TEXTURE_BAMBOO_SIGN_ITEM",
+        "destination": "textures/items/bamboo_sign.png"
+    },
+    {
+        "source": "TEXTURE_BIRCH_HANGING_SIGN_ITEM",
+        "destination": "textures/items/birch_hanging_sign.png"
+    },
+    {
+        "source": "TEXTURE_CRIMSON_HANGING_SIGN_ITEM",
+        "destination": "textures/items/crimson_hanging_sign.png"
+    },
+    {
+        "source": "TEXTURE_DARK_OAK_HANGING_SIGN_ITEM",
+        "destination": "textures/items/dark_oak_hanging_sign.png"
+    },
+    {
+        "source": "TEXTURE_JUNGLE_HANGING_SIGN_ITEM",
+        "destination": "textures/items/jungle_hanging_sign.png"
+    },
+    {
+        "source": "TEXTURE_MANGROVE_HANGING_SIGN_ITEM",
+        "destination": "textures/items/mangrove_hanging_sign.png"
+    },
+    {
+        "source": "TEXTURE_OAK_HANGING_SIGN_ITEM",
+        "destination": "textures/items/oak_hanging_sign.png"
+    },
+    {
+        "source": "TEXTURE_SPRUCE_HANGING_SIGN_ITEM",
+        "destination": "textures/items/spruce_hanging_sign.png"
+    },
+    {
+        "source": "TEXTURE_WARPED_HANGING_SIGN_ITEM",
+        "destination": "textures/items/warped_hanging_sign.png"
+    },
+    {
+        "source": "TEXTURE_ACACIA_BOAT_CHEST_ITEM",
+        "destination": "textures/items/acacia_chest_boat.png"
+    },
+    {
+        "source": "TEXTURE_BIRCH_BOAT_CHEST_ITEM",
+        "destination": "textures/items/birch_chest_boat.png"
+    },
+    {
+        "source": "TEXTURE_DARK_OAK_BOAT_CHEST_ITEM",
+        "destination": "textures/items/dark_oak_chest_boat.png"
+    },
+    {
+        "source": "TEXTURE_JUNGLE_BOAT_CHEST_ITEM",
+        "destination": "textures/items/jungle_chest_boat.png"
+    },
+    {
+        "source": "TEXTURE_MANGROVE_BOAT_ITEM",
+        "destination": "textures/items/mangrove_boat.png"
+    },
+    {
+        "source": "TEXTURE_MANGROVE_BOAT_CHEST_ITEM",
+        "destination": "textures/items/mangrove_chest_boat.png"
+    },
+    {
+        "source": "TEXTURE_MANGROVE_DOOR_ITEM",
+        "destination": "textures/items/mangrove_door.png"
+    },
+    {
+        "source": "TEXTURE_MANGROVE_SIGN_ITEM",
+        "destination": "textures/items/mangrove_sign.png"
+    },
+    {
+        "source": "TEXTURE_OAK_BOAT_CHEST_ITEM",
+        "destination": "textures/items/oak_chest_boat.png"
+    },
+    {
+        "source": "TEXTURE_SPRUCE_BOAT_CHEST_ITEM",
+        "destination": "textures/items/spruce_chest_boat.png"
+    },
+    {
+        "source": "TEXTURE_CHARCOAL",
+        "destination": "textures/items/charcoal.png"
+    },
+    {
+        "source": "TEXTURE_CRIMSON_DOOR",
+        "destination": "textures/items/crimson_door.png"
+    },
+    {
+        "source": "TEXTURE_WARPED_DOOR",
+        "destination": "textures/items/warped_door.png"
+    }
+]

@@ -1,0 +1,534 @@
+[
+    {
+        "source": "TEXTURE_AMETHYST_BUD_SMALL",
+        "destination": "assets/minecraft/textures/block/small_amethyst_bud.png"
+    },
+    {
+        "source": "TEXTURE_AMETHYST_SHARD",
+        "destination": "assets/minecraft/textures/item/amethyst_shard.png"
+    },
+    {
+        "source": "TEXTURE_AMETHYST_BLOCK",
+        "destination": "assets/minecraft/textures/block/amethyst_block.png"
+    },
+    {
+        "source": "TEXTURE_AMETHYST_CLUSTER",
+        "destination": "assets/minecraft/textures/block/amethyst_cluster.png"
+    },
+    {
+        "source": "TEXTURE_AMETHYST_BUDDING",
+        "destination": "assets/minecraft/textures/block/budding_amethyst.png"
+    },
+    {
+        "source": "TEXTURE_AMETHYST_BUD_LARGE",
+        "destination": "assets/minecraft/textures/block/large_amethyst_bud.png"
+    },
+    {
+        "source": "TEXTURE_AMETHYST_BUD_MEDIUM",
+        "destination": "assets/minecraft/textures/block/medium_amethyst_bud.png"
+    },
+    {
+        "source": "TEXTURE_CALCITE",
+        "destination": "assets/minecraft/textures/block/calcite.png"
+    },
+    {
+        "source": "TEXTURE_DEEPSLATE_CHISELED",
+        "destination": "assets/minecraft/textures/block/chiseled_deepslate.png"
+    },
+    {
+        "source": "TEXTURE_DEEPSLATE_COBBLED",
+        "destination": "assets/minecraft/textures/block/cobbled_deepslate.png"
+    },
+    {
+        "source": "TEXTURE_COPPER_BLOCK",
+        "destination": "assets/minecraft/textures/block/copper_block.png"
+    },
+    {
+        "source": "TEXTURE_DEEPSLATE_BRICKS_CRACKED",
+        "destination": "assets/minecraft/textures/block/cracked_deepslate_bricks.png"
+    },
+    {
+        "source": "TEXTURE_DEEPSLATE_TILES_CRACKED",
+        "destination": "assets/minecraft/textures/block/cracked_deepslate_tiles.png"
+    },
+    {
+        "source": "TEXTURE_COPPER_CUT",
+        "destination": "assets/minecraft/textures/block/cut_copper.png"
+    },
+    {
+        "source": "TEXTURE_DEEPSLATE",
+        "destination": "assets/minecraft/textures/block/deepslate.png"
+    },
+    {
+        "source": "TEXTURE_DEEPSLATE_BRICKS",
+        "destination": "assets/minecraft/textures/block/deepslate_bricks.png"
+    },
+    {
+        "source": "TEXTURE_DEEPSLATE_TILES",
+        "destination": "assets/minecraft/textures/block/deepslate_tiles.png"
+    },
+    {
+        "source": "TEXTURE_DEEPSLATE_TOP",
+        "destination": "assets/minecraft/textures/block/deepslate_top.png"
+    },
+    {
+        "source": "TEXTURE_DRIPSTONE_BLOCK",
+        "destination": "assets/minecraft/textures/block/dripstone_block.png"
+    },
+    {
+        "source": "TEXTURE_COPPER_EXPOSED",
+        "destination": "assets/minecraft/textures/block/exposed_copper.png"
+    },
+    {
+        "source": "TEXTURE_COPPER_CUT_EXPOSED",
+        "destination": "assets/minecraft/textures/block/exposed_cut_copper.png"
+    },
+    {
+        "source": "TEXTURE_DRIPSTONE_POINTED_DOWN_BASE",
+        "destination": "assets/minecraft/textures/block/pointed_dripstone_down_base.png"
+    },
+    {
+        "source": "TEXTURE_DRIPSTONE_POINTED_DOWN_FRUSTUM",
+        "destination": "assets/minecraft/textures/block/pointed_dripstone_down_frustum.png"
+    },
+    {
+        "source": "TEXTURE_DRIPSTONE_POINTED_DOWN_MIDDLE",
+        "destination": "assets/minecraft/textures/block/pointed_dripstone_down_middle.png"
+    },
+    {
+        "source": "TEXTURE_DRIPSTONE_POINTED_DOWN_TIP",
+        "destination": "assets/minecraft/textures/block/pointed_dripstone_down_tip.png"
+    },
+    {
+        "source": "TEXTURE_DRIPSTONE_POINTED_DOWN_TIP_MERGE",
+        "destination": "assets/minecraft/textures/block/pointed_dripstone_down_tip_merge.png"
+    },
+    {
+        "source": "TEXTURE_DRIPSTONE_POINTED_UP_BASE",
+        "destination": "assets/minecraft/textures/block/pointed_dripstone_up_base.png"
+    },
+    {
+        "source": "TEXTURE_DRIPSTONE_POINTED_UP_FRUSTUM",
+        "destination": "assets/minecraft/textures/block/pointed_dripstone_up_frustum.png"
+    },
+    {
+        "source": "TEXTURE_DRIPSTONE_POINTED_UP_MIDDLE",
+        "destination": "assets/minecraft/textures/block/pointed_dripstone_up_middle.png"
+    },
+    {
+        "source": "TEXTURE_DRIPSTONE_POINTED_UP_TIP",
+        "destination": "assets/minecraft/textures/block/pointed_dripstone_up_tip.png"
+    },
+    {
+        "source": "TEXTURE_DRIPSTONE_POINTED_UP_TIP_MERGE",
+        "destination": "assets/minecraft/textures/block/pointed_dripstone_up_tip_merge.png"
+    },
+    {
+        "source": "TEXTURE_COPPER_OXIDIZED",
+        "destination": "assets/minecraft/textures/block/oxidized_copper.png"
+    },
+    {
+        "source": "TEXTURE_COPPER_CUT_OXIDIZED",
+        "destination": "assets/minecraft/textures/block/oxidized_cut_copper.png"
+    },
+    {
+        "source": "TEXTURE_DEEPSLATE_POLISHED",
+        "destination": "assets/minecraft/textures/block/polished_deepslate.png"
+    },
+    {
+        "source": "TEXTURE_SNOW_POWDER",
+        "destination": "assets/minecraft/textures/block/powder_snow.png"
+    },
+    {
+        "source": "TEXTURE_DIRT_ROOTED",
+        "destination": "assets/minecraft/textures/block/rooted_dirt.png"
+    },
+    {
+        "source": "TEXTURE_SCULK_SENSOR_BOTTOM",
+        "destination": "assets/minecraft/textures/block/sculk_sensor_bottom.png"
+    },
+    {
+        "source": "TEXTURE_SCULK_SENSOR_SIDE",
+        "destination": "assets/minecraft/textures/block/sculk_sensor_side.png"
+    },
+    {
+        "source": "TEXTURE_SCULK_SENSOR_TENDRIL_ACTIVE",
+        "destination": "assets/minecraft/textures/block/sculk_sensor_tendril_active.png"
+    },
+    {
+        "source": "TEXTURE_SCULK_SENSOR_TENDRIL_INACTIVE",
+        "destination": "assets/minecraft/textures/block/sculk_sensor_tendril_inactive.png"
+    },
+    {
+        "source": "TEXTURE_SCULK_SENSOR_TOP",
+        "destination": "assets/minecraft/textures/block/sculk_sensor_top.png"
+    },
+    {
+        "source": "TEXTURE_BASALT_SMOOTH",
+        "destination": "assets/minecraft/textures/block/smooth_basalt.png"
+    },
+    {
+        "source": "TEXTURE_TUFF",
+        "destination": "assets/minecraft/textures/block/tuff.png"
+    },
+    {
+        "source": "TEXTURE_COPPER_WEATHERED",
+        "destination": "assets/minecraft/textures/block/weathered_copper.png"
+    },
+    {
+        "source": "TEXTURE_COPPER_CUT_WEATHERED",
+        "destination": "assets/minecraft/textures/block/weathered_cut_copper.png"
+    },
+    {
+        "source": "TEXTURE_DRIPSTONE_POINTED",
+        "destination": "assets/minecraft/textures/item/pointed_dripstone.png"
+    },
+    {
+        "source": "TEXTURE_SNOW_POWDER_OUTLINE",
+        "destination": "assets/minecraft/textures/misc/powder_snow_outline.png"
+    },
+    {
+        "source": "TEXTURE_ANDESITE",
+        "destination": "assets/minecraft/textures/block/andesite.png"
+    },
+    {
+        "source": "TEXTURE_ANDESITE_POLISHED",
+        "destination": "assets/minecraft/textures/block/polished_andesite.png"
+    },
+    {
+        "source": "TEXTURE_BASALT_SIDE",
+        "destination": "assets/minecraft/textures/block/basalt_side.png"
+    },
+    {
+        "source": "TEXTURE_BASALT_SIDE_POLISHED",
+        "destination": "assets/minecraft/textures/block/polished_basalt_side.png"
+    },
+    {
+        "source": "TEXTURE_BASALT_TOP",
+        "destination": "assets/minecraft/textures/block/basalt_top.png"
+    },
+    {
+        "source": "TEXTURE_BASALT_TOP_POLISHED",
+        "destination": "assets/minecraft/textures/block/polished_basalt_top.png"
+    },
+    {
+        "source": "TEXTURE_BEDROCK",
+        "destination": "assets/minecraft/textures/block/bedrock.png"
+    },
+    {
+        "source": "TEXTURE_BLACKSTONE",
+        "destination": "assets/minecraft/textures/block/blackstone.png"
+    },
+    {
+        "source": "TEXTURE_BLACKSTONE_BRICKS_POLISHED",
+        "destination": "assets/minecraft/textures/block/polished_blackstone_bricks.png"
+    },
+    {
+        "source": "TEXTURE_BLACKSTONE_BRICKS_POLISHED_CRACKED",
+        "destination": "assets/minecraft/textures/block/cracked_polished_blackstone_bricks.png"
+    },
+    {
+        "source": "TEXTURE_BLACKSTONE_GILDED",
+        "destination": "assets/minecraft/textures/block/gilded_blackstone.png"
+    },
+    {
+        "source": "TEXTURE_BLACKSTONE_POLISHED",
+        "destination": "assets/minecraft/textures/block/polished_blackstone.png"
+    },
+    {
+        "source": "TEXTURE_BLACKSTONE_POLISHED_CHISELED",
+        "destination": "assets/minecraft/textures/block/chiseled_polished_blackstone.png"
+    },
+    {
+        "source": "TEXTURE_BLACKSTONE_TOP",
+        "destination": "assets/minecraft/textures/block/blackstone_top.png"
+    },
+    {
+        "source": "TEXTURE_BONE_BLOCK_SIDE",
+        "destination": "assets/minecraft/textures/block/bone_block_side.png"
+    },
+    {
+        "source": "TEXTURE_BONE_BLOCK_TOP",
+        "destination": "assets/minecraft/textures/block/bone_block_top.png"
+    },
+    {
+        "source": "TEXTURE_COBBLESTONE",
+        "destination": "assets/minecraft/textures/block/cobblestone.png"
+    },
+    {
+        "source": "TEXTURE_COBBLESTONE_MOSSY",
+        "destination": "assets/minecraft/textures/block/mossy_cobblestone.png"
+    },
+    {
+        "source": "TEXTURE_CRIMSON_NYLIUM",
+        "destination": "assets/minecraft/textures/block/crimson_nylium.png"
+    },
+    {
+        "source": "TEXTURE_CRIMSON_NYLIUM_SIDE",
+        "destination": "assets/minecraft/textures/block/crimson_nylium_side.png"
+    },
+    {
+        "source": "TEXTURE_DIORITE",
+        "destination": "assets/minecraft/textures/block/diorite.png"
+    },
+    {
+        "source": "TEXTURE_DIORITE_POLISHED",
+        "destination": "assets/minecraft/textures/block/polished_diorite.png"
+    },
+    {
+        "source": "TEXTURE_DIRT",
+        "destination": "assets/minecraft/textures/block/dirt.png"
+    },
+    {
+        "source": "TEXTURE_DIRT_PATH_SIDE",
+        "destination": "assets/minecraft/textures/block/dirt_path_side.png"
+    },
+    {
+        "source": "TEXTURE_DIRT_PATH_TOP",
+        "destination": "assets/minecraft/textures/block/dirt_path_top.png"
+    },
+    {
+        "source": "TEXTURE_DIRT_COARSE",
+        "destination": "assets/minecraft/textures/block/coarse_dirt.png"
+    },
+    {
+        "source": "TEXTURE_DIRT_GRASS_BLOCK_SIDE",
+        "destination": "assets/minecraft/textures/block/grass_block_side.png"
+    },
+    {
+        "source": "TEXTURE_DIRT_GRASS_BLOCK_SIDE_OVERLAY",
+        "destination": "assets/minecraft/textures/block/grass_block_side_overlay.png"
+    },
+    {
+        "source": "TEXTURE_DIRT_GRASS_BLOCK_SNOW",
+        "destination": "assets/minecraft/textures/block/grass_block_snow.png"
+    },
+    {
+        "source": "TEXTURE_DIRT_GRASS_BLOCK_TOP",
+        "destination": "assets/minecraft/textures/block/grass_block_top.png"
+    },
+    {
+        "source": "TEXTURE_DIRT_MYCELIUM_SIDE",
+        "destination": "assets/minecraft/textures/block/mycelium_side.png"
+    },
+    {
+        "source": "TEXTURE_DIRT_MYCELIUM_TOP",
+        "destination": "assets/minecraft/textures/block/mycelium_top.png"
+    },
+    {
+        "source": "TEXTURE_DIRT_PODZOL_SIDE",
+        "destination": "assets/minecraft/textures/block/podzol_side.png"
+    },
+    {
+        "source": "TEXTURE_DIRT_PODZOL_TOP",
+        "destination": "assets/minecraft/textures/block/podzol_top.png"
+    },
+    {
+        "source": "TEXTURE_END_PORTAL_FRAME_EYE",
+        "destination": "assets/minecraft/textures/block/end_portal_frame_eye.png"
+    },
+    {
+        "source": "TEXTURE_END_PORTAL_FRAME_SIDE",
+        "destination": "assets/minecraft/textures/block/end_portal_frame_side.png"
+    },
+    {
+        "source": "TEXTURE_END_PORTAL_FRAME_TOP",
+        "destination": "assets/minecraft/textures/block/end_portal_frame_top.png"
+    },
+    {
+        "source": "TEXTURE_END_STONE",
+        "destination": "assets/minecraft/textures/block/end_stone.png"
+    },
+    {
+        "source": "TEXTURE_END_STONE_BRICKS",
+        "destination": "assets/minecraft/textures/block/end_stone_bricks.png"
+    },
+    {
+        "source": "TEXTURE_GRANITE",
+        "destination": "assets/minecraft/textures/block/granite.png"
+    },
+    {
+        "source": "TEXTURE_GRANITE_POLISHED",
+        "destination": "assets/minecraft/textures/block/polished_granite.png"
+    },
+    {
+        "source": "TEXTURE_GRAVEL",
+        "destination": "assets/minecraft/textures/block/gravel.png"
+    },
+    {
+        "source": "TEXTURE_ICE",
+        "destination": "assets/minecraft/textures/block/ice.png"
+    },
+    {
+        "source": "TEXTURE_ICE_BLUE",
+        "destination": "assets/minecraft/textures/block/blue_ice.png"
+    },
+    {
+        "source": "TEXTURE_ICE_FROSTED_0",
+        "destination": "assets/minecraft/textures/block/frosted_ice_0.png"
+    },
+    {
+        "source": "TEXTURE_ICE_FROSTED_1",
+        "destination": "assets/minecraft/textures/block/frosted_ice_1.png"
+    },
+    {
+        "source": "TEXTURE_ICE_FROSTED_2",
+        "destination": "assets/minecraft/textures/block/frosted_ice_2.png"
+    },
+    {
+        "source": "TEXTURE_ICE_FROSTED_3",
+        "destination": "assets/minecraft/textures/block/frosted_ice_3.png"
+    },
+    {
+        "source": "TEXTURE_ICE_PACKED",
+        "destination": "assets/minecraft/textures/block/packed_ice.png"
+    },
+    {
+        "source": "TEXTURE_MAGMA",
+        "destination": "assets/minecraft/textures/block/magma.png"
+    },
+    {
+        "source": "MCMETA_MAGMA",
+        "destination": "assets/minecraft/textures/block/magma.png.mcmeta"
+    },
+    {
+        "source": "TEXTURE_NETHER_BRICKS",
+        "destination": "assets/minecraft/textures/block/nether_bricks.png"
+    },
+    {
+        "source": "TEXTURE_NETHER_BRICKS_CHISELED",
+        "destination": "assets/minecraft/textures/block/chiseled_nether_bricks.png"
+    },
+    {
+        "source": "TEXTURE_NETHER_BRICKS_CRACKED",
+        "destination": "assets/minecraft/textures/block/cracked_nether_bricks.png"
+    },
+    {
+        "source": "TEXTURE_NETHER_BRICKS_RED",
+        "destination": "assets/minecraft/textures/block/red_nether_bricks.png"
+    },
+    {
+        "source": "TEXTURE_NETHERRACK",
+        "destination": "assets/minecraft/textures/block/netherrack.png"
+    },
+    {
+        "source": "TEXTURE_NETHERRACK_WARPED_NYLIUM",
+        "destination": "assets/minecraft/textures/block/warped_nylium.png"
+    },
+    {
+        "source": "TEXTURE_NETHERRACK_WARPED_NYLIUM_SIDE",
+        "destination": "assets/minecraft/textures/block/warped_nylium_side.png"
+    },
+    {
+        "source": "TEXTURE_OBSIDIAN",
+        "destination": "assets/minecraft/textures/block/obsidian.png"
+    },
+    {
+        "source": "TEXTURE_OBSIDIAN_CRYING",
+        "destination": "assets/minecraft/textures/block/crying_obsidian.png"
+    },
+    {
+        "source": "TEXTURE_PURPUR_BLOCK",
+        "destination": "assets/minecraft/textures/block/purpur_block.png"
+    },
+    {
+        "source": "TEXTURE_PURPUR_PILLAR",
+        "destination": "assets/minecraft/textures/block/purpur_pillar.png"
+    },
+    {
+        "source": "TEXTURE_PURPUR_PILLAR_TOP",
+        "destination": "assets/minecraft/textures/block/purpur_pillar_top.png"
+    },
+    {
+        "source": "TEXTURE_SAND",
+        "destination": "assets/minecraft/textures/block/sand.png"
+    },
+    {
+        "source": "TEXTURE_SAND_RED",
+        "destination": "assets/minecraft/textures/block/red_sand.png"
+    },
+    {
+        "source": "TEXTURE_SAND_SOUL",
+        "destination": "assets/minecraft/textures/block/soul_sand.png"
+    },
+    {
+        "source": "TEXTURE_SANDSTONE",
+        "destination": "assets/minecraft/textures/block/sandstone.png"
+    },
+    {
+        "source": "TEXTURE_SANDSTONE_BOTTOM",
+        "destination": "assets/minecraft/textures/block/sandstone_bottom.png"
+    },
+    {
+        "source": "TEXTURE_SANDSTONE_CHISELED",
+        "destination": "assets/minecraft/textures/block/chiseled_sandstone.png"
+    },
+    {
+        "source": "TEXTURE_SANDSTONE_CUT",
+        "destination": "assets/minecraft/textures/block/cut_sandstone.png"
+    },
+    {
+        "source": "TEXTURE_SANDSTONE_RED",
+        "destination": "assets/minecraft/textures/block/red_sandstone.png"
+    },
+    {
+        "source": "TEXTURE_SANDSTONE_RED_BOTTOM",
+        "destination": "assets/minecraft/textures/block/red_sandstone_bottom.png"
+    },
+    {
+        "source": "TEXTURE_SANDSTONE_RED_CHISELED",
+        "destination": "assets/minecraft/textures/block/chiseled_red_sandstone.png"
+    },
+    {
+        "source": "TEXTURE_SANDSTONE_RED_CUT",
+        "destination": "assets/minecraft/textures/block/cut_red_sandstone.png"
+    },
+    {
+        "source": "TEXTURE_SANDSTONE_RED_TOP",
+        "destination": "assets/minecraft/textures/block/red_sandstone_top.png"
+    },
+    {
+        "source": "TEXTURE_SANDSTONE_TOP",
+        "destination": "assets/minecraft/textures/block/sandstone_top.png"
+    },
+    {
+        "source": "TEXTURE_SLIME_BLOCK",
+        "destination": "assets/minecraft/textures/block/slime_block.png"
+    },
+    {
+        "source": "TEXTURE_SMOOTH_STONE",
+        "destination": "assets/minecraft/textures/block/smooth_stone.png"
+    },
+    {
+        "source": "TEXTURE_SMOOTH_STONE_SLAB_SIDE",
+        "destination": "assets/minecraft/textures/block/smooth_stone_slab_side.png"
+    },
+    {
+        "source": "TEXTURE_SNOW",
+        "destination": "assets/minecraft/textures/block/snow.png"
+    },
+    {
+        "source": "TEXTURE_SOUL_SOIL",
+        "destination": "assets/minecraft/textures/block/soul_soil.png"
+    },
+    {
+        "source": "TEXTURE_STONE",
+        "destination": "assets/minecraft/textures/block/stone.png"
+    },
+    {
+        "source": "TEXTURE_STONE_BRICKS",
+        "destination": "assets/minecraft/textures/block/stone_bricks.png"
+    },
+    {
+        "source": "TEXTURE_STONE_BRICKS_CHISELED",
+        "destination": "assets/minecraft/textures/block/chiseled_stone_bricks.png"
+    },
+    {
+        "source": "TEXTURE_STONE_BRICKS_CRACKED",
+        "destination": "assets/minecraft/textures/block/cracked_stone_bricks.png"
+    },
+    {
+        "source": "TEXTURE_STONE_BRICKS_MOSSY",
+        "destination": "assets/minecraft/textures/block/mossy_stone_bricks.png"
+    }
+]

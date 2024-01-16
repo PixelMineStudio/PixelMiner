@@ -1,0 +1,22 @@
+[
+    {
+        "source": "TEXTURE_MAP",
+        "destination": "assets/minecraft/textures/item/map.png"
+    },
+    {
+        "source": "TEXTURE_MAP_BACKGROUND",
+        "destination": "assets/minecraft/textures/map/map_background.png"
+    },
+    {
+        "source": "TEXTURE_MAP_FILLED",
+        "destination": "assets/minecraft/textures/item/filled_map.png"
+    },
+    {
+        "source": "TEXTURE_MAP_FILLED_MARKINGS",
+        "destination": "assets/minecraft/textures/item/filled_map_markings.png"
+    },
+    {
+        "source": "TEXTURE_MAP_ICONS",
+        "destination": "assets/minecraft/textures/map/map_icons.png"
+    }
+]

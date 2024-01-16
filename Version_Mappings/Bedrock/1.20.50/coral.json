@@ -1,0 +1,6 @@
+[
+    {
+        "source": "TEXTURE_SPONGE",
+        "destination": "textures/blocks/sponge.png"
+    }
+]

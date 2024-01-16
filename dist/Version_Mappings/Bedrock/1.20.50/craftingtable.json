@@ -1,0 +1,190 @@
+[
+    {
+        "source": "TEXTURE_BLAST_FURNACE_FRONT_ON",
+        "destination": "textures/blocks/blast_furnace_front_on.png"
+    },
+    {
+        "source": "TEXTURE_BLAST_FURNACE_SIDE",
+        "destination": "textures/blocks/blast_furnace_side.png"
+    },
+    {
+        "source": "TEXTURE_BLAST_FURNACE_TOP",
+        "destination": "textures/blocks/blast_furnace_top.png"
+    },
+    {
+        "source": "TEXTURE_BREWING_STAND",
+        "destination": "textures/blocks/brewing_stand.png"
+    },
+    {
+        "source": "TEXTURE_BREWING_STAND_BASE",
+        "destination": "textures/blocks/brewing_stand_base.png"
+    },
+    {
+        "source": "TEXTURE_BREWING_STAND_ITEM",
+        "destination": "textures/items/brewing_stand.png"
+    },
+    {
+        "source": "TEXTURE_CARTOGRAPHY_TABLE_SIDE1",
+        "destination": "textures/blocks/cartography_table_side1.png"
+    },
+    {
+        "source": "TEXTURE_CARTOGRAPHY_TABLE_SIDE2",
+        "destination": "textures/blocks/cartography_table_side2.png"
+    },
+    {
+        "source": "TEXTURE_CARTOGRAPHY_TABLE_SIDE3",
+        "destination": "textures/blocks/cartography_table_side3.png"
+    },
+    {
+        "source": "TEXTURE_CARTOGRAPHY_TABLE_TOP",
+        "destination": "textures/blocks/cartography_table_top.png"
+    },
+    {
+        "source": "TEXTURE_CAULDRON_BOTTOM",
+        "destination": "textures/blocks/cauldron_bottom.png"
+    },
+    {
+        "source": "TEXTURE_CAULDRON_INNER",
+        "destination": "textures/blocks/cauldron_inner.png"
+    },
+    {
+        "source": "TEXTURE_CAULDRON_ITEM",
+        "destination": "textures/items/cauldron.png"
+    },
+    {
+        "source": "TEXTURE_CAULDRON_SIDE",
+        "destination": "textures/blocks/cauldron_side.png"
+    },
+    {
+        "source": "TEXTURE_CAULDRON_TOP",
+        "destination": "textures/blocks/cauldron_top.png"
+    },
+    {
+        "source": "TEXTURE_COMPOSTER_BOTTOM",
+        "destination": "textures/blocks/composter_bottom.png"
+    },
+    {
+        "source": "TEXTURE_COMPOSTER_SIDE",
+        "destination": "textures/blocks/composter_side.png"
+    },
+    {
+        "source": "TEXTURE_COMPOSTER_TOP",
+        "destination": "textures/blocks/composter_top.png"
+    },
+    {
+        "source": "TEXTURE_CRAFTING_TABLE_FRONT",
+        "destination": "textures/blocks/crafting_table_front.png"
+    },
+    {
+        "source": "TEXTURE_CRAFTING_TABLE_SIDE",
+        "destination": "textures/blocks/crafting_table_side.png"
+    },
+    {
+        "source": "TEXTURE_CRAFTING_TABLE_TOP",
+        "destination": "textures/blocks/crafting_table_top.png"
+    },
+    {
+        "source": "TEXTURE_ENCHANTING_TABLE_BOOK",
+        "destination": "textures/entity/enchanting_table_book.png"
+    },
+    {
+        "source": "TEXTURE_ENCHANTING_TABLE_BOTTOM",
+        "destination": "textures/blocks/enchanting_table_bottom.png"
+    },
+    {
+        "source": "TEXTURE_ENCHANTING_TABLE_SIDE",
+        "destination": "textures/blocks/enchanting_table_side.png"
+    },
+    {
+        "source": "TEXTURE_ENCHANTING_TABLE_TOP",
+        "destination": "textures/blocks/enchanting_table_top.png"
+    },
+    {
+        "source": "TEXTURE_FURNACE_FRONT_ON",
+        "destination": "textures/blocks/furnace_front_on.png"
+    },
+    {
+        "source": "TEXTURE_FURNACE_SIDE",
+        "destination": "textures/blocks/furnace_side.png"
+    },
+    {
+        "source": "TEXTURE_FURNACE_TOP",
+        "destination": "textures/blocks/furnace_top.png"
+    },
+    {
+        "source": "TEXTURE_LECTERN_BASE",
+        "destination": "textures/blocks/lectern_base.png"
+    },
+    {
+        "source": "TEXTURE_LECTERN_FRONT",
+        "destination": "textures/blocks/lectern_front.png"
+    },
+    {
+        "source": "TEXTURE_LECTERN_SIDES",
+        "destination": "textures/blocks/lectern_sides.png"
+    },
+    {
+        "source": "TEXTURE_LECTERN_TOP",
+        "destination": "textures/blocks/lectern_top.png"
+    },
+    {
+        "source": "TEXTURE_LOOM_BOTTOM",
+        "destination": "textures/blocks/loom_bottom.png"
+    },
+    {
+        "source": "TEXTURE_LOOM_FRONT",
+        "destination": "textures/blocks/loom_front.png"
+    },
+    {
+        "source": "TEXTURE_LOOM_SIDE",
+        "destination": "textures/blocks/loom_side.png"
+    },
+    {
+        "source": "TEXTURE_LOOM_TOP",
+        "destination": "textures/blocks/loom_top.png"
+    },
+    {
+        "source": "TEXTURE_SMITHING_TABLE_BOTTOM",
+        "destination": "textures/blocks/smithing_table_bottom.png"
+    },
+    {
+        "source": "TEXTURE_SMITHING_TABLE_FRONT",
+        "destination": "textures/blocks/smithing_table_front.png"
+    },
+    {
+        "source": "TEXTURE_SMITHING_TABLE_SIDE",
+        "destination": "textures/blocks/smithing_table_side.png"
+    },
+    {
+        "source": "TEXTURE_SMITHING_TABLE_TOP",
+        "destination": "textures/blocks/smithing_table_top.png"
+    },
+    {
+        "source": "TEXTURE_SMOKER_BOTTOM",
+        "destination": "textures/blocks/smoker_bottom.png"
+    },
+    {
+        "source": "TEXTURE_SMOKER_FRONT_ON",
+        "destination": "textures/blocks/smoker_front_on.png"
+    },
+    {
+        "source": "TEXTURE_SMOKER_SIDE",
+        "destination": "textures/blocks/smoker_side.png"
+    },
+    {
+        "source": "TEXTURE_SMOKER_TOP",
+        "destination": "textures/blocks/smoker_top.png"
+    },
+    {
+        "source": "TEXTURE_STONECUTTER_BOTTOM",
+        "destination": "textures/blocks/stonecutter_bottom.png"
+    },
+    {
+        "source": "TEXTURE_STONECUTTER_SIDE",
+        "destination": "textures/blocks/stonecutter_side.png"
+    },
+    {
+        "source": "TEXTURE_STONECUTTER_TOP",
+        "destination": "textures/blocks/stonecutter_top.png"
+    }
+]

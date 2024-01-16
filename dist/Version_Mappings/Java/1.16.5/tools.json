@@ -1,0 +1,675 @@
+[
+
+    {
+        "source": "TEXTURE_ARROW",
+        "destination": "assets/minecraft/textures/entity/arrow.png"
+    },
+    {
+        "source": "TEXTURE_ARROW_ITEM",
+        "destination": "assets/minecraft/textures/item/arrow.png"
+    },
+    {
+        "source": "TEXTURE_ARROW_PROJECTILE",
+        "destination": "assets/minecraft/textures/entity/projectiles/arrow.png"
+    },
+    {
+        "source": "TEXTURE_ARROW_SPECTRAL",
+        "destination": "assets/minecraft/textures/entity/projectiles/spectral_arrow.png"
+    },
+    {
+        "source": "TEXTURE_ARROW_TIPPED",
+        "destination": "assets/minecraft/textures/entity/projectiles/tipped_arrow.png"
+    },
+    {
+        "source": "TEXTURE_BOW",
+        "destination": "assets/minecraft/textures/item/bow.png"
+    },
+    {
+        "source": "TEXTURE_BOW_PULLING_0",
+        "destination": "assets/minecraft/textures/item/bow_pulling_0.png"
+    },
+    {
+        "source": "TEXTURE_BOW_PULLING_1",
+        "destination": "assets/minecraft/textures/item/bow_pulling_1.png"
+    },
+    {
+        "source": "TEXTURE_BOW_PULLING_2",
+        "destination": "assets/minecraft/textures/item/bow_pulling_2.png"
+    },
+    {
+        "source": "TEXTURE_BUCKET",
+        "destination": "assets/minecraft/textures/item/bucket.png"
+    },
+    {
+        "source": "TEXTURE_BUCKET_COD",
+        "destination": "assets/minecraft/textures/item/cod_bucket.png"
+    },
+    {
+        "source": "TEXTURE_BUCKET_LAVA",
+        "destination": "assets/minecraft/textures/item/lava_bucket.png"
+    },
+    {
+        "source": "TEXTURE_BUCKET_MILK",
+        "destination": "assets/minecraft/textures/item/milk_bucket.png"
+    },
+    {
+        "source": "TEXTURE_BUCKET_PUFFERFISH",
+        "destination": "assets/minecraft/textures/item/pufferfish_bucket.png"
+    },
+    {
+        "source": "TEXTURE_BUCKET_WATER",
+        "destination": "assets/minecraft/textures/item/water_bucket.png"
+    },
+    {
+        "source": "TEXTURE_CARROT_ON_A_STICK",
+        "destination": "assets/minecraft/textures/item/carrot_on_a_stick.png"
+    },
+    {
+        "source": "TEXTURE_CROSSBOW_BOLT",
+        "destination": "assets/minecraft/textures/item/crossbow_arrow.png"
+    },
+    {
+        "source": "TEXTURE_CROSSBOW_FIREWORK",
+        "destination": "assets/minecraft/textures/item/crossbow_firework.png"
+    },
+    {
+        "source": "TEXTURE_CROSSBOW_PULLING_0",
+        "destination": "assets/minecraft/textures/item/crossbow_pulling_0.png"
+    },
+    {
+        "source": "TEXTURE_CROSSBOW_PULLING_1",
+        "destination": "assets/minecraft/textures/item/crossbow_pulling_1.png"
+    },
+    {
+        "source": "TEXTURE_CROSSBOW_PULLING_2",
+        "destination": "assets/minecraft/textures/item/crossbow_pulling_2.png"
+    },
+    {
+        "source": "TEXTURE_CROSSBOW_STANDBY",
+        "destination": "assets/minecraft/textures/item/crossbow_standby.png"
+    },
+    {
+        "source": "TEXTURE_DIAMOND_AXE",
+        "destination": "assets/minecraft/textures/item/diamond_axe.png"
+    },
+    {
+        "source": "TEXTURE_DIAMOND_HOE",
+        "destination": "assets/minecraft/textures/item/diamond_hoe.png"
+    },
+    {
+        "source": "TEXTURE_DIAMOND_PICKAXE",
+        "destination": "assets/minecraft/textures/item/diamond_pickaxe.png"
+    },
+    {
+        "source": "TEXTURE_DIAMOND_SHOVEL",
+        "destination": "assets/minecraft/textures/item/diamond_shovel.png"
+    },
+    {
+        "source": "TEXTURE_DIAMOND_SWORD",
+        "destination": "assets/minecraft/textures/item/diamond_sword.png"
+    },
+    {
+        "source": "TEXTURE_ELYTRA",
+        "destination": "assets/minecraft/textures/entity/elytra.png"
+    },
+    {
+        "source": "TEXTURE_ELYTRA_BROKEN",
+        "destination": "assets/minecraft/textures/item/broken_elytra.png"
+    },
+    {
+        "source": "TEXTURE_ELYTRA_ITEM",
+        "destination": "assets/minecraft/textures/item/elytra.png"
+    },
+    {
+        "source": "TEXTURE_FISHING_HOOK",
+        "destination": "assets/minecraft/textures/entity/fishing_hook.png"
+    },
+    {
+        "source": "TEXTURE_FISHING_ROD",
+        "destination": "assets/minecraft/textures/item/fishing_rod.png"
+    },
+    {
+        "source": "TEXTURE_FISHING_ROD_CAST",
+        "destination": "assets/minecraft/textures/item/fishing_rod_cast.png"
+    },
+    {
+        "source": "TEXTURE_FLINT_AND_STEEL",
+        "destination": "assets/minecraft/textures/item/flint_and_steel.png"
+    },
+    {
+        "source": "TEXTURE_GOLDEN_AXE",
+        "destination": "assets/minecraft/textures/item/golden_axe.png"
+    },
+    {
+        "source": "TEXTURE_GOLDEN_HOE",
+        "destination": "assets/minecraft/textures/item/golden_hoe.png"
+    },
+    {
+        "source": "TEXTURE_GOLDEN_PICKAXE",
+        "destination": "assets/minecraft/textures/item/golden_pickaxe.png"
+    },
+    {
+        "source": "TEXTURE_GOLDEN_SHOVEL",
+        "destination": "assets/minecraft/textures/item/golden_shovel.png"
+    },
+    {
+        "source": "TEXTURE_GOLDEN_SWORD",
+        "destination": "assets/minecraft/textures/item/golden_sword.png"
+    },
+    {
+        "source": "TEXTURE_IRON_AXE",
+        "destination": "assets/minecraft/textures/item/iron_axe.png"
+    },
+    {
+        "source": "TEXTURE_IRON_HOE",
+        "destination": "assets/minecraft/textures/item/iron_hoe.png"
+    },
+    {
+        "source": "TEXTURE_IRON_PICKAXE",
+        "destination": "assets/minecraft/textures/item/iron_pickaxe.png"
+    },
+    {
+        "source": "TEXTURE_IRON_SHOVEL",
+        "destination": "assets/minecraft/textures/item/iron_shovel.png"
+    },
+    {
+        "source": "TEXTURE_IRON_SWORD",
+        "destination": "assets/minecraft/textures/item/iron_sword.png"
+    },
+    {
+        "source": "TEXTURE_LEAD",
+        "destination": "assets/minecraft/textures/item/lead.png"
+    },
+    {
+        "source": "TEXTURE_LEAD_KNOT",
+        "destination": "assets/minecraft/textures/entity/lead_knot.png"
+    },
+    {
+        "source": "TEXTURE_NETHERITE_AXE",
+        "destination": "assets/minecraft/textures/item/netherite_axe.png"
+    },
+    {
+        "source": "TEXTURE_NETHERITE_HOE",
+        "destination": "assets/minecraft/textures/item/netherite_hoe.png"
+    },
+    {
+        "source": "TEXTURE_NETHERITE_PICKAXE",
+        "destination": "assets/minecraft/textures/item/netherite_pickaxe.png"
+    },
+    {
+        "source": "TEXTURE_NETHERITE_SHOVEL",
+        "destination": "assets/minecraft/textures/item/netherite_shovel.png"
+    },
+    {
+        "source": "TEXTURE_NETHERITE_SWORD",
+        "destination": "assets/minecraft/textures/item/netherite_sword.png"
+    },
+    {
+        "source": "TEXTURE_SALMON_BUCKET",
+        "destination": "assets/minecraft/textures/item/salmon_bucket.png"
+    },
+    {
+        "source": "TEXTURE_SHEARS",
+        "destination": "assets/minecraft/textures/item/shears.png"
+    },
+    {
+        "source": "TEXTURE_SPECTRAL_ARROW",
+        "destination": "assets/minecraft/textures/item/spectral_arrow.png"
+    },
+    {
+        "source": "TEXTURE_STONE_AXE",
+        "destination": "assets/minecraft/textures/item/stone_axe.png"
+    },
+    {
+        "source": "TEXTURE_STONE_HOE",
+        "destination": "assets/minecraft/textures/item/stone_hoe.png"
+    },
+    {
+        "source": "TEXTURE_STONE_PICKAXE",
+        "destination": "assets/minecraft/textures/item/stone_pickaxe.png"
+    },
+    {
+        "source": "TEXTURE_STONE_SHOVEL",
+        "destination": "assets/minecraft/textures/item/stone_shovel.png"
+    },
+    {
+        "source": "TEXTURE_STONE_SWORD",
+        "destination": "assets/minecraft/textures/item/stone_sword.png"
+    },
+    {
+        "source": "TEXTURE_TIPPED_ARROW_BASE",
+        "destination": "assets/minecraft/textures/item/tipped_arrow_base.png"
+    },
+    {
+        "source": "TEXTURE_TIPPED_ARROW_HEAD",
+        "destination": "assets/minecraft/textures/item/tipped_arrow_head.png"
+    },
+    {
+        "source": "TEXTURE_TOTEM_OF_UNDYING",
+        "destination": "assets/minecraft/textures/item/totem_of_undying.png"
+    },
+    {
+        "source": "TEXTURE_TRIDENT",
+        "destination": "assets/minecraft/textures/entity/trident.png"
+    },
+    {
+        "source": "TEXTURE_TRIDENT_ITEM",
+        "destination": "assets/minecraft/textures/item/trident.png"
+    },
+    {
+        "source": "TEXTURE_TRIDENT_RIPTIDE",
+        "destination": "assets/minecraft/textures/entity/trident_riptide.png"
+    },
+    {
+        "source": "TEXTURE_TROPICAL_FISH_BUCKET",
+        "destination": "assets/minecraft/textures/item/tropical_fish_bucket.png"
+    },
+    {
+        "source": "TEXTURE_WARPED_FUNGUS_ON_A_STICK",
+        "destination": "assets/minecraft/textures/item/warped_fungus_on_a_stick.png"
+    },
+    {
+        "source": "TEXTURE_WOODEN_AXE",
+        "destination": "assets/minecraft/textures/item/wooden_axe.png"
+    },
+    {
+        "source": "TEXTURE_WOODEN_HOE",
+        "destination": "assets/minecraft/textures/item/wooden_hoe.png"
+    },
+    {
+        "source": "TEXTURE_WOODEN_PICKAXE",
+        "destination": "assets/minecraft/textures/item/wooden_pickaxe.png"
+    },
+    {
+        "source": "TEXTURE_WOODEN_SHOVEL",
+        "destination": "assets/minecraft/textures/item/wooden_shovel.png"
+    },
+    {
+        "source": "TEXTURE_WOODEN_SWORD",
+        "destination": "assets/minecraft/textures/item/wooden_sword.png"
+    },
+    {
+        "source": "TEXTURE_CLOCK_00",
+        "destination": "assets/minecraft/textures/item/clock_00.png"
+    },
+    {
+        "source": "TEXTURE_CLOCK_01",
+        "destination": "assets/minecraft/textures/item/clock_01.png"
+    },
+    {
+        "source": "TEXTURE_CLOCK_02",
+        "destination": "assets/minecraft/textures/item/clock_02.png"
+    },
+    {
+        "source": "TEXTURE_CLOCK_03",
+        "destination": "assets/minecraft/textures/item/clock_03.png"
+    },
+    {
+        "source": "TEXTURE_CLOCK_04",
+        "destination": "assets/minecraft/textures/item/clock_04.png"
+    },
+    {
+        "source": "TEXTURE_CLOCK_05",
+        "destination": "assets/minecraft/textures/item/clock_05.png"
+    },
+    {
+        "source": "TEXTURE_CLOCK_06",
+        "destination": "assets/minecraft/textures/item/clock_06.png"
+    },
+    {
+        "source": "TEXTURE_CLOCK_07",
+        "destination": "assets/minecraft/textures/item/clock_07.png"
+    },
+    {
+        "source": "TEXTURE_CLOCK_08",
+        "destination": "assets/minecraft/textures/item/clock_08.png"
+    },
+    {
+        "source": "TEXTURE_CLOCK_09",
+        "destination": "assets/minecraft/textures/item/clock_09.png"
+    },
+    {
+        "source": "TEXTURE_CLOCK_10",
+        "destination": "assets/minecraft/textures/item/clock_10.png"
+    },
+    {
+        "source": "TEXTURE_CLOCK_11",
+        "destination": "assets/minecraft/textures/item/clock_11.png"
+    },
+    {
+        "source": "TEXTURE_CLOCK_12",
+        "destination": "assets/minecraft/textures/item/clock_12.png"
+    },
+    {
+        "source": "TEXTURE_CLOCK_13",
+        "destination": "assets/minecraft/textures/item/clock_13.png"
+    },
+    {
+        "source": "TEXTURE_CLOCK_14",
+        "destination": "assets/minecraft/textures/item/clock_14.png"
+    },
+    {
+        "source": "TEXTURE_CLOCK_15",
+        "destination": "assets/minecraft/textures/item/clock_15.png"
+    },
+    {
+        "source": "TEXTURE_CLOCK_16",
+        "destination": "assets/minecraft/textures/item/clock_16.png"
+    },
+    {
+        "source": "TEXTURE_CLOCK_17",
+        "destination": "assets/minecraft/textures/item/clock_17.png"
+    },
+    {
+        "source": "TEXTURE_CLOCK_18",
+        "destination": "assets/minecraft/textures/item/clock_18.png"
+    },
+    {
+        "source": "TEXTURE_CLOCK_19",
+        "destination": "assets/minecraft/textures/item/clock_19.png"
+    },
+    {
+        "source": "TEXTURE_CLOCK_20",
+        "destination": "assets/minecraft/textures/item/clock_20.png"
+    },
+    {
+        "source": "TEXTURE_CLOCK_21",
+        "destination": "assets/minecraft/textures/item/clock_21.png"
+    },
+    {
+        "source": "TEXTURE_CLOCK_22",
+        "destination": "assets/minecraft/textures/item/clock_22.png"
+    },
+    {
+        "source": "TEXTURE_CLOCK_23",
+        "destination": "assets/minecraft/textures/item/clock_23.png"
+    },
+    {
+        "source": "TEXTURE_CLOCK_24",
+        "destination": "assets/minecraft/textures/item/clock_24.png"
+    },
+    {
+        "source": "TEXTURE_CLOCK_25",
+        "destination": "assets/minecraft/textures/item/clock_25.png"
+    },
+    {
+        "source": "TEXTURE_CLOCK_26",
+        "destination": "assets/minecraft/textures/item/clock_26.png"
+    },
+    {
+        "source": "TEXTURE_CLOCK_27",
+        "destination": "assets/minecraft/textures/item/clock_27.png"
+    },
+    {
+        "source": "TEXTURE_CLOCK_28",
+        "destination": "assets/minecraft/textures/item/clock_28.png"
+    },
+    {
+        "source": "TEXTURE_CLOCK_29",
+        "destination": "assets/minecraft/textures/item/clock_29.png"
+    },
+    {
+        "source": "TEXTURE_CLOCK_30",
+        "destination": "assets/minecraft/textures/item/clock_30.png"
+    },
+    {
+        "source": "TEXTURE_CLOCK_31",
+        "destination": "assets/minecraft/textures/item/clock_31.png"
+    },
+    {
+        "source": "TEXTURE_CLOCK_32",
+        "destination": "assets/minecraft/textures/item/clock_32.png"
+    },
+    {
+        "source": "TEXTURE_CLOCK_33",
+        "destination": "assets/minecraft/textures/item/clock_33.png"
+    },
+    {
+        "source": "TEXTURE_CLOCK_34",
+        "destination": "assets/minecraft/textures/item/clock_34.png"
+    },
+    {
+        "source": "TEXTURE_CLOCK_35",
+        "destination": "assets/minecraft/textures/item/clock_35.png"
+    },
+    {
+        "source": "TEXTURE_CLOCK_36",
+        "destination": "assets/minecraft/textures/item/clock_36.png"
+    },
+    {
+        "source": "TEXTURE_CLOCK_37",
+        "destination": "assets/minecraft/textures/item/clock_37.png"
+    },
+    {
+        "source": "TEXTURE_CLOCK_38",
+        "destination": "assets/minecraft/textures/item/clock_38.png"
+    },
+    {
+        "source": "TEXTURE_CLOCK_39",
+        "destination": "assets/minecraft/textures/item/clock_39.png"
+    },
+    {
+        "source": "TEXTURE_CLOCK_40",
+        "destination": "assets/minecraft/textures/item/clock_40.png"
+    },
+    {
+        "source": "TEXTURE_CLOCK_41",
+        "destination": "assets/minecraft/textures/item/clock_41.png"
+    },
+    {
+        "source": "TEXTURE_CLOCK_42",
+        "destination": "assets/minecraft/textures/item/clock_42.png"
+    },
+    {
+        "source": "TEXTURE_CLOCK_43",
+        "destination": "assets/minecraft/textures/item/clock_43.png"
+    },
+    {
+        "source": "TEXTURE_CLOCK_44",
+        "destination": "assets/minecraft/textures/item/clock_44.png"
+    },
+    {
+        "source": "TEXTURE_CLOCK_45",
+        "destination": "assets/minecraft/textures/item/clock_45.png"
+    },
+    {
+        "source": "TEXTURE_CLOCK_46",
+        "destination": "assets/minecraft/textures/item/clock_46.png"
+    },
+    {
+        "source": "TEXTURE_CLOCK_47",
+        "destination": "assets/minecraft/textures/item/clock_47.png"
+    },
+    {
+        "source": "TEXTURE_CLOCK_48",
+        "destination": "assets/minecraft/textures/item/clock_48.png"
+    },
+    {
+        "source": "TEXTURE_CLOCK_49",
+        "destination": "assets/minecraft/textures/item/clock_49.png"
+    },
+    {
+        "source": "TEXTURE_CLOCK_50",
+        "destination": "assets/minecraft/textures/item/clock_50.png"
+    },
+    {
+        "source": "TEXTURE_CLOCK_51",
+        "destination": "assets/minecraft/textures/item/clock_51.png"
+    },
+    {
+        "source": "TEXTURE_CLOCK_52",
+        "destination": "assets/minecraft/textures/item/clock_52.png"
+    },
+    {
+        "source": "TEXTURE_CLOCK_53",
+        "destination": "assets/minecraft/textures/item/clock_53.png"
+    },
+    {
+        "source": "TEXTURE_CLOCK_54",
+        "destination": "assets/minecraft/textures/item/clock_54.png"
+    },
+    {
+        "source": "TEXTURE_CLOCK_55",
+        "destination": "assets/minecraft/textures/item/clock_55.png"
+    },
+    {
+        "source": "TEXTURE_CLOCK_56",
+        "destination": "assets/minecraft/textures/item/clock_56.png"
+    },
+    {
+        "source": "TEXTURE_CLOCK_57",
+        "destination": "assets/minecraft/textures/item/clock_57.png"
+    },
+    {
+        "source": "TEXTURE_CLOCK_58",
+        "destination": "assets/minecraft/textures/item/clock_58.png"
+    },
+    {
+        "source": "TEXTURE_CLOCK_59",
+        "destination": "assets/minecraft/textures/item/clock_59.png"
+    },
+    {
+        "source": "TEXTURE_CLOCK_60",
+        "destination": "assets/minecraft/textures/item/clock_60.png"
+    },
+    {
+        "source": "TEXTURE_CLOCK_61",
+        "destination": "assets/minecraft/textures/item/clock_61.png"
+    },
+    {
+        "source": "TEXTURE_CLOCK_62",
+        "destination": "assets/minecraft/textures/item/clock_62.png"
+    },
+    {
+        "source": "TEXTURE_CLOCK_63",
+        "destination": "assets/minecraft/textures/item/clock_63.png"
+    },
+    {
+        "source": "TEXTURE_COMPASS_00",
+        "destination": "assets/minecraft/textures/item/compass_00.png"
+    },
+    {
+        "source": "TEXTURE_COMPASS_01",
+        "destination": "assets/minecraft/textures/item/compass_01.png"
+    },
+    {
+        "source": "TEXTURE_COMPASS_02",
+        "destination": "assets/minecraft/textures/item/compass_02.png"
+    },
+    {
+        "source": "TEXTURE_COMPASS_03",
+        "destination": "assets/minecraft/textures/item/compass_03.png"
+    },
+    {
+        "source": "TEXTURE_COMPASS_04",
+        "destination": "assets/minecraft/textures/item/compass_04.png"
+    },
+    {
+        "source": "TEXTURE_COMPASS_05",
+        "destination": "assets/minecraft/textures/item/compass_05.png"
+    },
+    {
+        "source": "TEXTURE_COMPASS_06",
+        "destination": "assets/minecraft/textures/item/compass_06.png"
+    },
+    {
+        "source": "TEXTURE_COMPASS_07",
+        "destination": "assets/minecraft/textures/item/compass_07.png"
+    },
+    {
+        "source": "TEXTURE_COMPASS_08",
+        "destination": "assets/minecraft/textures/item/compass_08.png"
+    },
+    {
+        "source": "TEXTURE_COMPASS_09",
+        "destination": "assets/minecraft/textures/item/compass_09.png"
+    },
+    {
+        "source": "TEXTURE_COMPASS_10",
+        "destination": "assets/minecraft/textures/item/compass_10.png"
+    },
+    {
+        "source": "TEXTURE_COMPASS_11",
+        "destination": "assets/minecraft/textures/item/compass_11.png"
+    },
+    {
+        "source": "TEXTURE_COMPASS_12",
+        "destination": "assets/minecraft/textures/item/compass_12.png"
+    },
+    {
+        "source": "TEXTURE_COMPASS_13",
+        "destination": "assets/minecraft/textures/item/compass_13.png"
+    },
+    {
+        "source": "TEXTURE_COMPASS_14",
+        "destination": "assets/minecraft/textures/item/compass_14.png"
+    },
+    {
+        "source": "TEXTURE_COMPASS_15",
+        "destination": "assets/minecraft/textures/item/compass_15.png"
+    },
+    {
+        "source": "TEXTURE_COMPASS_16",
+        "destination": "assets/minecraft/textures/item/compass_16.png"
+    },
+    {
+        "source": "TEXTURE_COMPASS_17",
+        "destination": "assets/minecraft/textures/item/compass_17.png"
+    },
+    {
+        "source": "TEXTURE_COMPASS_18",
+        "destination": "assets/minecraft/textures/item/compass_18.png"
+    },
+    {
+        "source": "TEXTURE_COMPASS_19",
+        "destination": "assets/minecraft/textures/item/compass_19.png"
+    },
+    {
+        "source": "TEXTURE_COMPASS_20",
+        "destination": "assets/minecraft/textures/item/compass_20.png"
+    },
+    {
+        "source": "TEXTURE_COMPASS_21",
+        "destination": "assets/minecraft/textures/item/compass_21.png"
+    },
+    {
+        "source": "TEXTURE_COMPASS_22",
+        "destination": "assets/minecraft/textures/item/compass_22.png"
+    },
+    {
+        "source": "TEXTURE_COMPASS_23",
+        "destination": "assets/minecraft/textures/item/compass_23.png"
+    },
+    {
+        "source": "TEXTURE_COMPASS_24",
+        "destination": "assets/minecraft/textures/item/compass_24.png"
+    },
+    {
+        "source": "TEXTURE_COMPASS_25",
+        "destination": "assets/minecraft/textures/item/compass_25.png"
+    },
+    {
+        "source": "TEXTURE_COMPASS_26",
+        "destination": "assets/minecraft/textures/item/compass_26.png"
+    },
+    {
+        "source": "TEXTURE_COMPASS_27",
+        "destination": "assets/minecraft/textures/item/compass_27.png"
+    },
+    {
+        "source": "TEXTURE_COMPASS_28",
+        "destination": "assets/minecraft/textures/item/compass_28.png"
+    },
+    {
+        "source": "TEXTURE_COMPASS_29",
+        "destination": "assets/minecraft/textures/item/compass_29.png"
+    },
+    {
+        "source": "TEXTURE_COMPASS_30",
+        "destination": "assets/minecraft/textures/item/compass_30.png"
+    },
+    {
+        "source": "TEXTURE_COMPASS_31",
+        "destination": "assets/minecraft/textures/item/compass_31.png"
+    }
+]

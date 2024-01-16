@@ -1,0 +1,62 @@
+[
+    {
+        "source": "TEXTURE_BREAD",
+        "destination": "textures/items/bread.png"
+    },
+    {
+        "source": "TEXTURE_CAKE",
+        "destination": "textures/items/cake.png"
+    },
+    {
+        "source": "TEXTURE_CAKE_BOTTOM",
+        "destination": "textures/blocks/cake_bottom.png"
+    },
+    {
+        "source": "TEXTURE_CAKE_INNER",
+        "destination": "textures/blocks/cake_inner.png"
+    },
+    {
+        "source": "TEXTURE_CAKE_SIDE",
+        "destination": "textures/blocks/cake_side.png"
+    },
+    {
+        "source": "TEXTURE_CAKE_TOP",
+        "destination": "textures/blocks/cake_top.png"
+    },
+    {
+        "source": "TEXTURE_COOKIE",
+        "destination": "textures/items/cookie.png"
+    },
+    {
+        "source": "TEXTURE_EGG",
+        "destination": "textures/items/egg.png"
+    },
+    {
+        "source": "TEXTURE_PUMPKIN_PIE",
+        "destination": "textures/items/pumpkin_pie.png"
+    },
+    {
+        "source": "TEXTURE_SOUP_BEETROOT",
+        "destination": "textures/items/beetroot_soup.png"
+    },
+    {
+        "source": "TEXTURE_SOUP_BOWL",
+        "destination": "textures/items/bowl.png"
+    },
+    {
+        "source": "TEXTURE_SOUP_MUSHROOM",
+        "destination": "textures/items/mushroom_stew.png"
+    },
+    {
+        "source": "TEXTURE_SOUP_RABBIT",
+        "destination": "textures/items/rabbit_stew.png"
+    },
+    {
+        "source": "TEXTURE_SOUP_SUSPICIOUS",
+        "destination": "textures/items/suspicious_stew.png"
+    },
+    {
+        "source": "TEXTURE_SUGAR",
+        "destination": "textures/items/sugar.png"
+    }
+]
