@@ -263,12 +263,22 @@ class PackImporter:
 
         print("Import process completed.")
         
-    #Extract a zip file to a temporary directory
     def _extract_zip_to_temp(self, zip_path):
         temp_dir = tempfile.mkdtemp()
         print(f"Extracting {zip_path} to temporary directory {temp_dir}")
         with zipfile.ZipFile(zip_path, 'r') as zip_ref:
             zip_ref.extractall(temp_dir)
+            
+            # Check if the contents are in a nested directory
+            top_level_contents = os.listdir(temp_dir)
+            if len(top_level_contents) == 1 and os.path.isdir(os.path.join(temp_dir, top_level_contents[0])):
+                nested_dir = os.path.join(temp_dir, top_level_contents[0])
+                # Move contents up one level
+                for filename in os.listdir(nested_dir):
+                    shutil.move(os.path.join(nested_dir, filename), temp_dir)
+                # Remove the now empty nested directory
+                os.rmdir(nested_dir)
+        
         return temp_dir
 
     def _create_new_config_files(self, new_pack_name, template_source_mapping, template_pack_config, template_build_config, new_source_dir, pack_import_path):
