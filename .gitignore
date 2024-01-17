@@ -1,0 +1,7 @@
+
+_temp_images/*
+build/*
+dist/*
+__pycache__/*
+Pack_Builds/*
+scripts/__pycache__/*

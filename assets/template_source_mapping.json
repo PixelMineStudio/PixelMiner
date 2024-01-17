@@ -1,10 +1,12 @@
 {
     "META_PACK_JAVA": {
         "path"  : "pack/pack.mcmeta",
+        "fallback": "assets/template_pack.mcmeta",
         "inject": "TRUE"
     },
     "META_PACK_BEDROCK": {
         "path"  : "pack/manifest.json",
+        "fallback": "assets/template_manifest.json",
         "inject": "TRUE"
     },
     "TEXTURE_PACK": {

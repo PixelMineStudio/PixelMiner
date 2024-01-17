@@ -44,6 +44,17 @@ def load_version_to_pack_format(file_path):
 def format_pack_version_number(version_list):
     return '.'.join(str(number) for number in version_list)
 
+def get_path(pack_dir, source):
+    path = source.get('path', '')
+    print(f"File path: {os.path.join(pack_dir, path)}")
+    if not os.path.exists(os.path.join(pack_dir, path)):
+        fallback = source.get('fallback', '')
+        print(f"File missing, checking fallback: {fallback}")
+        if os.path.exists(fallback):
+            shutil.copy(fallback, os.path.join(pack_dir, path))
+
+    return path
+
 def load_uid_mappings(uid_mapping_file, current_version):
     """Load the UID to file path mappings with version handling, including inheritance from previous versions."""
     with open(uid_mapping_file, 'r') as file:
@@ -210,7 +221,7 @@ def resolution_adjustments(source_dir, dest_dir, mappings, uid_mappings, scale_f
             # Process grid type atlas
             for uid in mapping['source']:
                 uid_info = uid_mappings.get(uid, {})
-                original_path = uid_info.get('path', '')
+                original_path = get_path(source_dir, uid_info)
                 if original_path:
                     logging.warning(f"Processing grid UID '{uid}': {original_path}")
                     downsample = uid_info.get('downsample', '')
@@ -221,7 +232,7 @@ def resolution_adjustments(source_dir, dest_dir, mappings, uid_mappings, scale_f
             for atlas_mapping in mapping['source']:
                 uid = atlas_mapping['uid']
                 uid_info = uid_mappings.get(uid, {})
-                original_path = uid_info.get('path', '')
+                original_path = get_path(source_dir, uid_info)
                 if original_path:
                     logging.warning(f"Processing stamp UID '{uid}': {original_path}")
                     downsample = uid_info.get('downsample', '')
@@ -231,7 +242,7 @@ def resolution_adjustments(source_dir, dest_dir, mappings, uid_mappings, scale_f
             # Process regular texture
             uid = mapping['source']
             uid_info = uid_mappings.get(uid, {})
-            original_path = uid_info.get('path', '')
+            original_path = get_path(source_dir, uid_info)
             if original_path:
                 logging.warning(f"Processing regular texture '{uid}': {original_path}")
                 downsample = uid_info.get('downsample', '')
@@ -254,6 +265,21 @@ def apply_mappings(resolution_dir, dest_dir, mappings, uid_mappings):
             dest_path = os.path.join(dest_dir, mapping['destination'])
             atlas_type = mapping['type']
 
+            # Check if at least one image exists for the atlas
+            atlas_has_valid_image = False
+            for source in atlas_mappings:
+                if atlas_type in ['stamp', 'tga']:
+                    source = source['uid']
+                uid_info = uid_mappings.get(source, {})
+                img_path = os.path.join(resolution_dir, get_path(resolution_dir, uid_info).replace('/', os.sep))
+                if os.path.exists(img_path):
+                    atlas_has_valid_image = True
+                    break
+
+            if not atlas_has_valid_image:
+                logging.warning(f"Skipping atlas compilation due to no valid images found for atlas type '{atlas_type}'")
+                continue
+
             if atlas_type == 'grid':
                 grid_size = tuple(mapping['grid_size'])
                 atlas_handler.compile_atlas(resolution_dir, atlas_mappings, dest_path, atlas_type, uid_mappings, grid_size)
@@ -267,7 +293,7 @@ def apply_mappings(resolution_dir, dest_dir, mappings, uid_mappings):
         else:
             uid = mapping['source']
             uid_info = uid_mappings.get(uid, {})
-            original_path = uid_info.get('path', '')
+            original_path = get_path(resolution_dir, uid_info)
             if original_path:
                 source_path = os.path.join(resolution_dir, original_path.replace('/', os.sep))
                 dest_path = os.path.join(dest_dir, mapping['destination'].replace('/', os.sep))

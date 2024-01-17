@@ -221,21 +221,26 @@ class PackImporter:
 
         for mapping in mappings:
             if 'type' in mapping:  # Check if UID is part of an atlas
-                print(f"Converting {mapping['destination']} texture atlas to textures type: {mapping['type']}")
-                atlas_type = mapping['type']
-                grid_size = mapping.get("grid_size")
-                canvas_size = mapping.get("canvas_size")
                 atlas_path = os.path.join(pack_import_path, mapping['destination'])
-                scale_factor = self.calculate_scale_factor_for_atlas(atlas_path, mapping, uid_mappings, atlas_type, grid_size, canvas_size)
-                self.deconstruct_atlas(source_dir, atlas_path, mapping, uid_mappings, atlas_type, grid_size, canvas_size, scale_factor)
+                if not os.path.exists(atlas_path):
+                    print(f"Warning: Texture not found - {atlas_path}")
+                    continue
+                else:
+                    print(f"Converting {mapping['destination']} texture atlas to textures type: {mapping['type']}")
+                    atlas_type = mapping['type']
+                    grid_size = mapping.get("grid_size")
+                    canvas_size = mapping.get("canvas_size")
+                    scale_factor = self.calculate_scale_factor_for_atlas(atlas_path, mapping, uid_mappings, atlas_type, grid_size, canvas_size)
+                    self.deconstruct_atlas(source_dir, atlas_path, mapping, uid_mappings, atlas_type, grid_size, canvas_size, scale_factor)
             else:
                 uid = mapping['source']
                 uid_info = uid_mappings.get(uid, None)
+
                 if not uid_info:
                     print(f"Warning: No UID found - {uid}")
                     continue
                 else:
-                    actual_dest_path = uid_info.get("path", "")
+                    actual_dest_path = uid_info.get('path', '')
                     if not actual_dest_path:
                         print(f"Warning: No path found for UID - {uid}")
                         continue

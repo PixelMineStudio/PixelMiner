@@ -1,0 +1,18 @@
+{
+    "format_version": %pack_format%,
+    "header": {
+        "description": "%description%",
+        "name": "%name%_%resolution%",
+        "uuid": "%pack_uuid%",
+        "version": %pack_version_number%,
+        "min_engine_version": %version%
+    },
+    "modules": [
+        {
+            "description": "%description%",
+            "type": "resources",
+            "uuid": "%module_uuid%",
+            "version": %pack_version_number%
+        }
+    ]
+}

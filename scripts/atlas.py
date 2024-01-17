@@ -133,7 +133,6 @@ class AtlasHandler:
 
                 else:
                     logging.info(f"Error: Missing image file for UID '{uid}' in atlas '{output_path}'.")
-                    raise ValueError(f"Missing image file for UID '{uid}'.")
 
             # Merge alpha channel if it's set
             if alpha_channel:
