@@ -8,14 +8,14 @@ Build Process for Texture Packs
 
 Been working on a project over the holidays that I've wanted to make for about 5 years. It's a resource pack builder. So it takes your textures in your resource pack and let's you organize them into a more artist friendly set of source file directories, then compiles versions of those textures for all minecraft versions, java and bedrock.
 
-## Installation
+### Installation
 
 1. Download the latest release here: https://github.com/PixelMineStudio/PixelMiner/releases/latest
 2. Copy to your preferred working dirctory
 3. Run PixelMiner.exe
 4. Some folders and files should be automatically created
 
-## Features
+### Features
 
 So far the list of features is something like this:
 
@@ -35,7 +35,7 @@ So far the list of features is something like this:
 - **Pack Importer**: You can import multiple resource packs and the importer will rename and move all textures as specified in your pack mapping.
 - **Source Explorer**: The GUI allows you to explore all source files and open then directly or their source folder.
 
-## Limitations & Things to Improve
+### Limitations & Things to Improve
 
 - TGA files are currently made by combining the Java PNGs in a destructive manner, meaning that the import of these files doesn't allow for their creation to be reversed.
 - Version Mapping files are very time consuming to edit, since they contain a lot of duplicate data.
@@ -120,7 +120,7 @@ Since the source files are connected through the build process by the UIDs, it i
 
 You can have as many subdirectories as you want, although I would advise against it. All files are displayed in the editor by their root directory. So Mobs are all in their own subdirectories, but in the editor they all appear under the MOB folder.
 
-## Resolution and Version Overrides
+### Resolution and Version Overrides
 
 It is possible to create version overrides as well as 
 
@@ -150,7 +150,7 @@ sword_diamond_32px.png <-- 32x32 resolution
 
 In this example the original version is 256x256 pixels, to the 128px version would be a downsample of the original, the 64px and the 32px verisons would be used without rescale and the 16px version would be a downsample of the original.
 
-## Placeholder previews
+### Placeholder previews
 
 You can edit missing file placeholders that are in the "assets" folder.
 
@@ -166,7 +166,7 @@ The source mapping file for each resource pack can include fallback files for an
     }
 ```
 
-## Variable Injections
+### Variable Injections
 
 Add "inject": "TRUE" to any source file definition will cause the build process to open the file (assuming it is a text file) and attempt to replace any %placeholder% variables with the same name as any of the variables defined in the pack.config. This is how the build process is able to handle pack.mcmeta, version.mcmeta and manifest.json file difference in various platforms and formats.
 
@@ -226,7 +226,7 @@ Each json item needs a "source" which is a UID and a "destination" which is the 
 
 More complex definitions are possible using the "type" key and can be "grid", "stamp" or "tga" values.
 
-#### GRID Atlas
+### GRID Atlas
 
 The Grid type is the most simple atlas type. You give it a list of UIDs and a grid size and it places the textures into the grid. Just be careful that the number of textures does not exceed the total grid size. Shit explodes.
 
@@ -259,7 +259,7 @@ The Grid type is the most simple atlas type. You give it a list of UIDs and a gr
     }
 ```
 
-#### STAMP Atlas
+### STAMP Atlas
 
 The "stamp" type of atlas is one where the individual images are placed onto the atlas like stickers.
 
@@ -383,7 +383,7 @@ Note: The positions are relative to the original images sizes as defined in the 
     },
 ```
 
-#### TGA Atlas
+### TGA Atlas
 
 Technically "tga" are the "stamp" type atlas but the RGB is filled 100% white first. I will probably remove this in the future and just make a way to generate a solid colour image as a layer in the atlas. Anyway, so all of this you can technically use as part of the "stamp" atlas type if you wanted to.
 
