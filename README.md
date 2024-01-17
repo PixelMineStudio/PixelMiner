@@ -13,6 +13,9 @@ Been working on a project over the holidays that I've wanted to make for about 5
 2. Copy to your preferred working dirctory
 3. Run PixelMiner.exe
 4. Some folders and files should be automatically created
+5. Import an existing resource pack: https://github.com/PixelMineStudio/PixelMiner/wiki/Importing-Resource-Packs
+6. Edit your pack as needed
+7. Build to various minecraft versions: https://github.com/PixelMineStudio/PixelMiner/wiki/Building-Versions
 
 ### Features
 
@@ -23,6 +26,7 @@ So far the list of features is something like this:
 - **Custom File Locations**: Work from any drive of folder path.
 - **Community-driven Conversions**: If a new pack format for Minecraft comes out you can edit the mapping files yourself without having to wait for any updates.
 - **Variable Injection** Text files can be injected with custom variables for things like pack.mcmeta or manifest.json files.
+- **File Fallbacks** Specify fallback files to be used during the build process if the pack is missing those files.
 - **Complex Atlas Creation**: 
     - Grid style, where you either specify a list of images and it populates the grid
     - Sticker style, where you load each image and tell it exactly where you want it to go within a canvas
