@@ -1,7 +1,6 @@
 ![PIXELMINER](https://github.com/PixelMineStudio/PixelMiner/assets/6824189/dae85673-d7bf-42f5-8485-ce790923c45f)
 # PixelMiner
 
-
 Build Process for Texture Packs
 
 ![image](https://github.com/PixelMineStudio/PixelMiner/assets/6824189/4c984fce-561d-4dba-b8df-76e8f5b576c4)
@@ -40,6 +39,8 @@ So far the list of features is something like this:
 - TGA files are currently made by combining the Java PNGs in a destructive manner, meaning that the import of these files doesn't allow for their creation to be reversed.
 - Version Mapping files are very time consuming to edit, since they contain a lot of duplicate data.
 - While it is technically possible to include model files in the version mappings there is no system for automatically importing the textures used by those models, so you need to add entries in source and version mappings for for each model you want to add any new textures used by those models.
+
+---
 
 ## Importing Resource Packs
 
@@ -176,6 +177,8 @@ Add "inject": "TRUE" to any source file definition will cause the build process 
         "inject": "TRUE"
     }
 ```
+
+---
 
 ## Building Versions
 
