@@ -35,7 +35,15 @@ So far the list of features is something like this:
 - **Pack Importer**: You can import multiple resource packs and the importer will rename and move all textures as specified in your pack mapping.
 - **Source Explorer**: The GUI allows you to explore all source files and open then directly or their source folder.
 
+## Limitations & Things to Improve
+
+- TGA files are currently made by combining the Java PNGs in a destructive manner, meaning that the import of these files doesn't allow for their creation to be reversed.
+- Version Mapping files are very time consuming to edit, since they contain a lot of duplicate data.
+- While it is technically possible to include model files in the version mappings there is no system for automatically importing the textures used by those models, so you need to add entries in source and version mappings for for each model you want to add any new textures used by those models.
+
 ## Importing Resource Packs
+
+![image](https://github.com/PixelMineStudio/PixelMiner/assets/6824189/08dc6f33-8391-4f01-90dc-6279c8fce63a)
 
 The pack importer looks up the pack_format and reverses the build process for that version, pushing the files into a specified source directory. You can do this with your existing resource_pack or any of the minecraft defaults.
 
@@ -143,7 +151,20 @@ sword_diamond_32px.png <-- 32x32 resolution
 In this example the original version is 256x256 pixels, to the 128px version would be a downsample of the original, the 64px and the 32px verisons would be used without rescale and the 16px version would be a downsample of the original.
 
 ## Placeholder previews
-If you create a folder called "assets"
+
+You can edit missing file placeholders that are in the "assets" folder.
+
+**Fallback Files**
+
+The source mapping file for each resource pack can include fallback files for any files that will be applied during the build process. This is primarily used for converting Java to Bedrock, since when you import a Bedrock pack it will not include a pack.mcmeta file by default.
+
+```
+    "META_PACK_JAVA": {
+        "path": "pack/pack.mcmeta",
+        "fallback": "assets/template_pack.mcmeta",
+        "inject": "TRUE"
+    }
+```
 
 ## Variable Injections
 
@@ -157,6 +178,8 @@ Add "inject": "TRUE" to any source file definition will cause the build process 
 ```
 
 ## Building Versions
+
+![image](https://github.com/PixelMineStudio/PixelMiner/assets/6824189/e36092b4-3ac3-4507-b552-ddb411dd4e5d)
 
 **Version_Mappings/version_mappings.json**
 
