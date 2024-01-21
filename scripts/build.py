@@ -46,10 +46,10 @@ def format_pack_version_number(version_list):
 
 def get_path(pack_dir, source):
     path = source.get('path', '')
-    print(f"File path: {os.path.join(pack_dir, path)}")
+    #print(f"File path: {os.path.join(pack_dir, path)}")
     if not os.path.exists(os.path.join(pack_dir, path)):
         fallback = source.get('fallback', '')
-        print(f"File missing, checking fallback: {fallback}")
+        #print(f"File missing, checking fallback: {fallback}")
         if os.path.exists(fallback):
             shutil.copy(fallback, os.path.join(pack_dir, path))
 
@@ -249,7 +249,7 @@ def resolution_adjustments(source_dir, dest_dir, mappings, uid_mappings, scale_f
                 logging.warning(f"Downsample '{uid}'?: {downsample}")
                 process_file(source_dir, dest_dir, original_path, uid_info, scale_factor, pack_variables)
 
-        print(f"\r[{i}/{total_files}] source files found...", end="")
+        #print(f"\r[{i}/{total_files}] source files found...", end="")
 
 def apply_mappings(resolution_dir, dest_dir, mappings, uid_mappings):
     total_files = len(mappings)
@@ -289,7 +289,7 @@ def apply_mappings(resolution_dir, dest_dir, mappings, uid_mappings):
             else:
                 logging.warning(f"Warning: Unknown atlas type - {atlas_type}")
 
-            print(f"\r[{i}/{total_files}] atlas compiled...", end="")
+            #print(f"\r[{i}/{total_files}] atlas compiled...", end="")
         else:
             uid = mapping['source']
             uid_info = uid_mappings.get(uid, {})
@@ -301,7 +301,7 @@ def apply_mappings(resolution_dir, dest_dir, mappings, uid_mappings):
                 os.makedirs(os.path.dirname(dest_path), exist_ok=True)
                 if os.path.exists(source_path):
                     shutil.copy2(source_path, dest_path)
-                    print(f"\r[{i}/{total_files}] files copied...", end="")
+                    #print(f"\r[{i}/{total_files}] files copied...", end="")
                 else:
                     logging.warning(f"Warning: Source file not found - {source_path}")
 
@@ -345,6 +345,7 @@ def main(config_path):
 
         for version, version_info in versions.items():
             pack_variables["pack_format"] = version_info["pack_format"]
+            print(f"Pack_Format: {pack_variables['pack_format']}")
             zip_extension = version_info.get("zip_extension", ".zip")
 
             if os.path.exists(os.path.join(platform_mappings_dir, version)):

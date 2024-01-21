@@ -4,6 +4,11 @@
         "fallback": "assets/template_pack.mcmeta",
         "inject": "TRUE"
     },
+    "META_PACK_VERSION_JAVA": {
+        "path"  : "pack/version.json",
+        "fallback": "assets/template_version.json",
+        "inject": "TRUE"
+    },
     "META_PACK_BEDROCK": {
         "path"  : "pack/manifest.json",
         "fallback": "assets/template_manifest.json",
@@ -97,53 +102,37 @@
         "path": "block/weathered_chiseled_copper.png",
         "resolution": [16, 16]
     },
-    "TEXTURE_COPPER_DOOR": {
-        "path": "block/copper_door.png",
+    "TEXTURE_COPPER_DOOR_ITEM": {
+        "path": "block/copper_door_item.png",
         "resolution": [16, 16]
     },
-    "TEXTURE_COPPER_DOOR_BOTTOM": {
-        "path": "block/copper_door_bottom.png",
+    "TEXTURE_COPPER_DOOR": {
+        "path": "block/copper_door.png",
+        "resolution": [16, 32]
+    },
+    "TEXTURE_COPPER_DOOR_EXPOSED_ITEM": {
+        "path": "block/exposed_copper_door_item.png",
         "resolution": [16, 16]
     },
     "TEXTURE_COPPER_DOOR_EXPOSED": {
         "path": "block/exposed_copper_door.png",
-        "resolution": [16, 16]
+        "resolution": [16, 32]
     },
-    "TEXTURE_COPPER_DOOR_EXPOSED_BOTTOM": {
-        "path": "block/exposed_copper_door_bottom.png",
-        "resolution": [16, 16]
-    },
-    "TEXTURE_COPPER_DOOR_EXPOSED_TOP": {
-        "path": "block/exposed_copper_door_top.png",
+    "TEXTURE_COPPER_DOOR_OXIDIZED_ITEM": {
+        "path": "block/oxidized_copper_door_item.png",
         "resolution": [16, 16]
     },
     "TEXTURE_COPPER_DOOR_OXIDIZED": {
         "path": "block/oxidized_copper_door.png",
-        "resolution": [16, 16]
+        "resolution": [16, 32]
     },
-    "TEXTURE_COPPER_DOOR_OXIDIZED_BOTTOM": {
-        "path": "block/oxidized_copper_door_bottom.png",
-        "resolution": [16, 16]
-    },
-    "TEXTURE_COPPER_DOOR_OXIDIZED_TOP": {
-        "path": "block/oxidized_copper_door_top.png",
-        "resolution": [16, 16]
-    },
-    "TEXTURE_COPPER_DOOR_TOP": {
-        "path": "block/copper_door_top.png",
+    "TEXTURE_COPPER_DOOR_WEATHERED_ITEM": {
+        "path": "block/weathered_copper_door_item.png",
         "resolution": [16, 16]
     },
     "TEXTURE_COPPER_DOOR_WEATHERED": {
         "path": "block/weathered_copper_door.png",
-        "resolution": [16, 16]
-    },
-    "TEXTURE_COPPER_DOOR_WEATHERED_BOTTOM": {
-        "path": "block/weathered_copper_door_bottom.png",
-        "resolution": [16, 16]
-    },
-    "TEXTURE_COPPER_DOOR_WEATHERED_TOP": {
-        "path": "block/weathered_copper_door_top.png",
-        "resolution": [16, 16]
+        "resolution": [16, 32]
     },
     "TEXTURE_COPPER_GRATE": {
         "path": "block/copper_grate.png",
@@ -2338,32 +2327,24 @@
         "path": "wood/cherry_boat.png",
         "resolution": [128, 64]
     },
-    "TEXTURE_CHERRY_BOAT_CHEST": {
-        "path": "wood/cherry_boat_chest.png",
-        "resolution": [128, 128]
-    },
     "TEXTURE_CHERRY_BOAT_ITEM": {
         "path": "wood/cherry_boat_item.png",
         "resolution": [16, 16]
     },
-    "TEXTURE_CHERRY_CHEST_BOAT_ITEM": {
-        "path": "wood/cherry_chest_boat_item.png",
+    "TEXTURE_CHERRY_BOAT_CHEST": {
+        "path": "wood/cherry_boat_chest.png",
+        "resolution": [128, 128]
+    },
+    "TEXTURE_CHERRY_BOAT_CHEST_ITEM": {
+        "path": "wood/cherry_boat_chest_item.png",
         "resolution": [16, 16]
     },
-    "TEXTURE_CHERRY_DOOR_BOTTOM": {
-        "path": "wood/cherry_door_bottom.png",
-        "resolution": [16, 16]
+    "TEXTURE_CHERRY_DOOR": {
+        "path": "wood/cherry_door.png",
+        "resolution": [16, 32]
     },
     "TEXTURE_CHERRY_DOOR_ITEM": {
         "path": "wood/cherry_door_item.png",
-        "resolution": [16, 16]
-    },
-    "TEXTURE_CHERRY_DOOR_TOP": {
-        "path": "wood/cherry_door_top.png",
-        "resolution": [16, 16]
-    },
-    "TEXTURE_CHERRY_HANGING_SIGN_ITEM": {
-        "path": "wood/cherry_hanging_sign_item.png",
         "resolution": [16, 16]
     },
     "TEXTURE_CHERRY_LEAVES": {
@@ -2375,11 +2356,11 @@
         "resolution": [16, 16]
     },
     "TEXTURE_CHERRY_LOG_STRIPPED": {
-        "path": "wood/stripped_cherry_log.png",
+        "path": "wood/cherry_log_stripped.png",
         "resolution": [16, 16]
     },
-    "TEXTURE_CHERRY_LOG_STRIPPED_TOP": {
-        "path": "wood/stripped_cherry_log_top.png",
+    "TEXTURE_CHERRY_LOG_TOP_STRIPPED": {
+        "path": "wood/cherry_log_top_stripped.png",
         "resolution": [16, 16]
     },
     "TEXTURE_CHERRY_LOG_TOP": {
@@ -2398,12 +2379,16 @@
         "path": "wood/cherry_sign.png",
         "resolution": [64, 32]
     },
+    "TEXTURE_CHERRY_SIGN_ITEM": {
+        "path": "wood/cherry_sign_item.png",
+        "resolution": [16, 16]
+    },
     "TEXTURE_CHERRY_SIGN_HANGING": {
         "path": "wood/cherry_sign_hanging.png",
         "resolution": [64, 32]
     },
-    "TEXTURE_CHERRY_SIGN_ITEM": {
-        "path": "wood/cherry_sign_item.png",
+    "TEXTURE_CHERRY_SIGN_HANGING_ITEM": {
+        "path": "wood/cherry_hanging_sign_item.png",
         "resolution": [16, 16]
     },
     "TEXTURE_CHERRY_TRAPDOOR": {
@@ -2423,7 +2408,79 @@
         "resolution": [128, 128]
     },
     "TEXTURE_GUI_CHERRY_SIGN_HANGING": {
-        "path": "gui/cherry_sign_hanging.png",
+        "path": "wood/cherry_sign_hanging_gui.png",
+        "resolution": [16, 16]
+    },
+    "TEXTURE_ACACIA_SIGN_HANGING": {
+        "path": "wood/acacia_sign_hanging.png",
+        "resolution": [64, 32]
+    },
+    "TEXTURE_ACACIA_SIGN_HANGING_ITEM": {
+        "path": "wood/acacia_sign_hanging_item.png",
+        "resolution": [16, 16]
+    },
+    "TEXTURE_ACACIA_BOAT": {
+        "path": "wood/acacia_boat.png",
+        "resolution": [128, 64]
+    },
+    "TEXTURE_ACACIA_BOAT_ITEM": {
+        "path": "wood/acacia_boat_item.png",
+        "resolution": [16, 16]
+    },
+    "TEXTURE_ACACIA_BOAT_CHEST": {
+        "path": "wood/acacia_boat_chest.png",
+        "resolution": [128, 128]
+    },
+    "TEXTURE_ACACIA_BOAT_CHEST_ITEM": {
+        "path": "wood/acacia_boat_chest_item.png",
+        "resolution": [16, 16]
+    },
+    "TEXTURE_ACACIA_DOOR": {
+        "path": "wood/acacia_door.png",
+        "resolution": [16, 32]
+    },
+    "TEXTURE_ACACIA_DOOR_ITEM": {
+        "path": "wood/acacia_door_item.png",
+        "resolution": [16, 16]
+    },
+    "TEXTURE_ACACIA_LEAVES": {
+        "path": "wood/acacia_leaves.png",
+        "resolution": [16, 16]
+    },
+    "TEXTURE_ACACIA_LEAVES_OPAQUE": {
+        "path": "wood/acacia_leaves_opaque.png",
+        "resolution": [16, 16]
+    },
+    "TEXTURE_ACACIA_LOG": {
+        "path": "wood/acacia_log.png",
+        "resolution": [16, 16]
+    },
+    "TEXTURE_ACACIA_LOG_STRIPPED": {
+        "path": "wood/acacia_log_stripped.png",
+        "resolution": [16, 16]
+    },
+    "TEXTURE_ACACIA_LOG_TOP": {
+        "path": "wood/acacia_log_top.png",
+        "resolution": [16, 16]
+    },
+    "TEXTURE_ACACIA_LOG_TOP_STRIPPED": {
+        "path": "wood/acacia_log_top_stripped.png",
+        "resolution": [16, 16]
+    },
+    "TEXTURE_ACACIA_PLANKS": {
+        "path": "wood/acacia_planks.png",
+        "resolution": [16, 16]
+    },
+    "TEXTURE_ACACIA_SIGN": {
+        "path": "wood/acacia_sign.png",
+        "resolution": [64, 32]
+    },
+    "TEXTURE_ACACIA_SIGN_ITEM": {
+        "path": "wood/acacia_sign_item.png",
+        "resolution": [16, 16]
+    },
+    "TEXTURE_ACACIA_TRAPDOOR": {
+        "path": "wood/acacia_trapdoor.png",
         "resolution": [16, 16]
     },
     "TEXTURE_GUI_EMPTY_SLOT_AMETHYST_SHARD": {
@@ -2642,14 +2699,6 @@
         "path": "crops/torchflower_seeds.png",
         "resolution": [16, 16]
     },
-    "TEXTURE_ACACIA_HANGING_SIGN_ITEM": {
-        "path": "wood/acacia_sign_hanging_item.png",
-        "resolution": [16, 16]
-    },
-    "TEXTURE_ACACIA_SIGN_HANGING": {
-        "path": "wood/acacia_sign_hanging.png",
-        "resolution": [64, 32]
-    },
     "TEXTURE_BAMBOO_BLOCK": {
         "path": "wood/bamboo_block.png",
         "resolution": [16, 16]
@@ -2662,25 +2711,25 @@
         "path": "wood/bamboo_boat.png",
         "resolution": [128, 64]
     },
+    "TEXTURE_BAMBOO_BOAT_ITEM": {
+        "path": "wood/bamboo_boat_item.png",
+        "resolution": [16, 16]
+    },
     "TEXTURE_BAMBOO_BOAT_CHEST": {
         "path": "wood/bamboo_boat_chest.png",
         "resolution": [128, 128]
     },
-    "TEXTURE_BAMBOO_RAFT_CHEST_ITEM": {
-        "path": "wood/bamboo_raft_chest_item.png",
-        "resolution": [16, 16]
-    },
-    "TEXTURE_BAMBOO_DOOR_BOTTOM": {
-        "path": "wood/bamboo_door_bottom.png",
+    "TEXTURE_BAMBOO_BOAT_CHEST_ITEM": {
+        "path": "wood/bamboo_boat_chest_item.png",
         "resolution": [16, 16]
     },
     "TEXTURE_BAMBOO_DOOR_ITEM": {
         "path": "wood/bamboo_door.png",
         "resolution": [16, 16]
     },
-    "TEXTURE_BAMBOO_DOOR_TOP": {
+    "TEXTURE_BAMBOO_DOOR": {
         "path": "wood/bamboo_door_top.png",
-        "resolution": [16, 16]
+        "resolution": [16, 32]
     },
     "TEXTURE_BAMBOO_FENCE": {
         "path": "wood/bamboo_fence.png",
@@ -2690,15 +2739,7 @@
         "path": "wood/bamboo_fence_gate.png",
         "resolution": [16, 16]
     },
-    "TEXTURE_BAMBOO_FENCE_GATE_PARTICLE": {
-        "path": "wood/bamboo_fence_gate_particle.png",
-        "resolution": [16, 16]
-    },
-    "TEXTURE_BAMBOO_FENCE_PARTICLE": {
-        "path": "wood/bamboo_fence_particle.png",
-        "resolution": [16, 16]
-    },
-    "TEXTURE_BAMBOO_HANGING_SIGN_ITEM": {
+    "TEXTURE_BAMBOO_SIGN_HANGING_ITEM": {
         "path": "wood/bamboo_hanging_sign.png",
         "resolution": [16, 16]
     },
@@ -2708,10 +2749,6 @@
     },
     "TEXTURE_BAMBOO_PLANKS": {
         "path": "wood/bamboo_planks.png",
-        "resolution": [16, 16]
-    },
-    "TEXTURE_BAMBOO_RAFT_ITEM": {
-        "path": "wood/bamboo_raft_item.png",
         "resolution": [16, 16]
     },
     "TEXTURE_BAMBOO_SIGN": {
@@ -2727,24 +2764,36 @@
         "resolution": [16, 16]
     },
     "TEXTURE_BAMBOO_STRIPPED_BLOCK": {
-        "path": "wood/stripped_bamboo_block.png",
+        "path": "wood/bamboo_stripped_block.png",
         "resolution": [16, 16]
     },
     "TEXTURE_BAMBOO_STRIPPED_BLOCK_TOP": {
-        "path": "wood/stripped_bamboo_block_top.png",
+        "path": "wood/bamboo_stripped_block_top.png",
         "resolution": [16, 16]
     },
     "TEXTURE_BAMBOO_TRAPDOOR": {
         "path": "wood/bamboo_trapdoor.png",
         "resolution": [16, 16]
     },
-    "TEXTURE_BIRCH_HANGING_SIGN_ITEM": {
-        "path": "wood/birch_hanging_sign_item.png",
+    "TEXTURE_BAMBOO_LEAF_LARGE": {
+        "path": "crops/bamboo_leaf_large.png",
         "resolution": [16, 16]
     },
-    "TEXTURE_BIRCH_SIGN_HANGING": {
-        "path": "wood/birch_sign_hanging.png",
-        "resolution": [64, 32]
+    "TEXTURE_BAMBOO_LEAF_SINGLE": {
+        "path": "crops/bamboo_leaf_single.png",
+        "resolution": [16, 16]
+    },
+    "TEXTURE_BAMBOO_LEAF_SMALL": {
+        "path": "crops/bamboo_leaf_small.png",
+        "resolution": [16, 16]
+    },
+    "TEXTURE_BAMBOO_STAGE0": {
+        "path": "crops/bamboo_stage0.png",
+        "resolution": [16, 16]
+    },
+    "TEXTURE_BAMBOO_STALK": {
+        "path": "crops/bamboo_stalk.png",
+        "resolution": [16, 16]
     },
     "TEXTURE_BOOKSHELF_CHISELED_EMPTY": {
         "path": "storage/chiseled_bookshelf_empty.png",
@@ -2766,15 +2815,7 @@
         "path": "mob/camel/camel.png",
         "resolution": [128, 128]
     },
-    "TEXTURE_CRIMSON_HANGING_SIGN_ITEM": {
-        "path": "wood/crimson_hanging_sign_item.png",
-        "resolution": [16, 16]
-    },
-    "TEXTURE_CRIMSON_SIGN_HANGING": {
-        "path": "wood/crimson_sign_hanging.png",
-        "resolution": [64, 32]
-    },
-    "TEXTURE_DARK_OAK_HANGING_SIGN_ITEM": {
+    "TEXTURE_DARK_OAK_SIGN_HANGING_ITEM": {
         "path": "wood/dark_oak_hanging_sign_item.png",
         "resolution": [16, 16]
     },
@@ -2783,50 +2824,90 @@
         "resolution": [64, 32]
     },
     "TEXTURE_GUI_ACACIA_SIGN_HANGING": {
-        "path": "wood/acacia_sign_hanging.png",
+        "path": "wood/acacia_sign_hanging_gui.png",
         "resolution": [16, 16]
     },
     "TEXTURE_GUI_BAMBOO_SIGN_HANGING": {
-        "path": "wood/bamboo_sign_hanging.png",
+        "path": "wood/bamboo_sign_hanging_gui.png",
         "resolution": [16, 16]
     },
     "TEXTURE_GUI_BIRCH_SIGN_HANGING": {
-        "path": "wood/birch_sign_hanging.png",
+        "path": "wood/birch_sign_hanging_gui.png",
+        "resolution": [16, 16]
+    },
+    "TEXTURE_GUI_CHERRY_SIGN_HANGING": {
+        "path": "wood/cherry_sign_hanging_gui.png",
         "resolution": [16, 16]
     },
     "TEXTURE_GUI_CRIMSON_SIGN_HANGING": {
-        "path": "wood/crimson_sign_hanging.png",
+        "path": "wood/crimson_sign_hanging_gui.png",
         "resolution": [16, 16]
     },
     "TEXTURE_GUI_DARK_OAK_SIGN_HANGING": {
-        "path": "wood/dark_oak_sign_hanging.png",
+        "path": "wood/dark_oak_sign_hanging_gui.png",
         "resolution": [16, 16]
     },
     "TEXTURE_GUI_JUNGLE_SIGN_HANGING": {
-        "path": "wood/jungle_sign_hanging.png",
-        "resolution": [16, 16]
-    },
-    "TEXTURE_GUI_MANGROVE_SIGN_HANGING": {
-        "path": "wood/mangrove_sign_hanging.png",
+        "path": "wood/jungle_sign_hanging_gui.png",
         "resolution": [16, 16]
     },
     "TEXTURE_GUI_OAK_SIGN_HANGING": {
-        "path": "wood/oak_sign_hanging.png",
+        "path": "wood/oak_sign_hanging_gui.png",
         "resolution": [16, 16]
     },
     "TEXTURE_GUI_SPRUCE_SIGN_HANGING": {
-        "path": "wood/spruce_sign_hanging.png",
+        "path": "wood/spruce_sign_hanging_gui.png",
         "resolution": [16, 16]
     },
     "TEXTURE_GUI_WARPED_SIGN_HANGING": {
-        "path": "wood/warped_sign_hanging.png",
+        "path": "wood/warped_sign_hanging_gui.png",
+        "resolution": [16, 16]
+    },
+    "TEXTURE_GUI_ACACIA_SIGN": {
+        "path": "wood/acacia_sign_gui.png",
+        "resolution": [16, 16]
+    },
+    "TEXTURE_GUI_BAMBOO_SIGN": {
+        "path": "wood/bamboo_sign_gui.png",
+        "resolution": [16, 16]
+    },
+    "TEXTURE_GUI_BIRCH_SIGN": {
+        "path": "wood/birch_sign_gui.png",
+        "resolution": [16, 16]
+    },
+    "TEXTURE_GUI_CHERRY_SIGN": {
+        "path": "wood/cherry_sign_gui.png",
+        "resolution": [16, 16]
+    },
+    "TEXTURE_GUI_CRIMSON_SIGN": {
+        "path": "wood/crimson_sign_gui.png",
+        "resolution": [16, 16]
+    },
+    "TEXTURE_GUI_DARK_OAK_SIGN": {
+        "path": "wood/dark_oak_sign_gui.png",
+        "resolution": [16, 16]
+    },
+    "TEXTURE_GUI_JUNGLE_SIGN": {
+        "path": "wood/jungle_sign_gui.png",
+        "resolution": [16, 16]
+    },
+    "TEXTURE_GUI_OAK_SIGN": {
+        "path": "wood/oak_sign_gui.png",
+        "resolution": [16, 16]
+    },
+    "TEXTURE_GUI_SPRUCE_SIGN": {
+        "path": "wood/spruce_sign_gui.png",
+        "resolution": [16, 16]
+    },
+    "TEXTURE_GUI_WARPED_SIGN": {
+        "path": "wood/warped_sign_gui.png",
         "resolution": [16, 16]
     },
     "TEXTURE_ITEM_FRAME_GLOWING_ITEM": {
         "path": "item/item_frame_glowing_item.png",
         "resolution": [16, 16]
     },
-    "TEXTURE_JUNGLE_HANGING_SIGN_ITEM": {
+    "TEXTURE_JUNGLE_SIGN_HANGING_ITEM": {
         "path": "wood/jungle_hanging_sign_item.png",
         "resolution": [16, 16]
     },
@@ -2834,15 +2915,7 @@
         "path": "wood/jungle_sign_hanging.png",
         "resolution": [64, 32]
     },
-    "TEXTURE_MANGROVE_HANGING_SIGN_ITEM": {
-        "path": "wood/mangrove_hanging_sign_item.png",
-        "resolution": [16, 16]
-    },
-    "TEXTURE_MANGROVE_SIGN_HANGING": {
-        "path": "wood/mangrove_sign_hanging.png",
-        "resolution": [64, 32]
-    },
-    "TEXTURE_OAK_HANGING_SIGN_ITEM": {
+    "TEXTURE_OAK_SIGN_HANGING_ITEM": {
         "path": "wood/oak_hanging_sign_item.png",
         "resolution": [16, 16]
     },
@@ -2922,7 +2995,7 @@
         "path": "player/zuri_wide.png",
         "resolution": [64, 64]
     },
-    "TEXTURE_SPRUCE_HANGING_SIGN_ITEM": {
+    "TEXTURE_SPRUCE_SIGN_HANGING_ITEM": {
         "path": "wood/spruce_hanging_sign_item.png",
         "resolution": [16, 16]
     },
@@ -2930,21 +3003,13 @@
         "path": "wood/spruce_sign_hanging.png",
         "resolution": [64, 32]
     },
-    "TEXTURE_WARPED_HANGING_SIGN_ITEM": {
+    "TEXTURE_WARPED_SIGN_HANGING_ITEM": {
         "path": "wood/warped_hanging_sign_item.png",
         "resolution": [16, 16]
     },
     "TEXTURE_WARPED_SIGN_HANGING": {
         "path": "wood/warped_sign_hanging.png",
         "resolution": [64, 32]
-    },
-    "TEXTURE_ACACIA_BOAT_CHEST": {
-        "path": "wood/acacia_boat_chest.png",
-        "resolution": [128, 128]
-    },
-    "TEXTURE_ACACIA_BOAT_CHEST_ITEM": {
-        "path": "wood/acacia_boat_chest_item.png",
-        "resolution": [16, 16]
     },
     "TEXTURE_ALLAY": {
         "path": "mob/allay.png",
@@ -3034,14 +3099,6 @@
     "TEXTURE_DRIPLEAF_BIG_LEAF": {
         "path": "plants/dripleaf_big_leaf.png",
         "resolution": [16, 32]
-    },
-    "TEXTURE_BIRCH_BOAT_CHEST": {
-        "path": "wood/birch_boat_chest.png",
-        "resolution": [128, 128]
-    },
-    "TEXTURE_BIRCH_BOAT_CHEST_ITEM": {
-        "path": "wood/birch_boat_chest_item.png",
-        "resolution": [16, 16]
     },
     "TEXTURE_BUCKET_AXOLOTL": {
         "path": "tools/bucket_axolotl.png",
@@ -3254,14 +3311,6 @@
     "TEXTURE_DARKNESS": {
         "path": "vfx/darkness.png",
         "resolution": [18, 18]
-    },
-    "TEXTURE_DARK_OAK_BOAT_CHEST": {
-        "path": "wood/dark_oak.png",
-        "resolution": [128, 128]
-    },
-    "TEXTURE_DARK_OAK_BOAT_CHEST_ITEM": {
-        "path": "wood/dark_oak_chest_boat_item.png",
-        "resolution": [16, 16]
     },
     "TEXTURE_DEEPSLATE": {
         "path": "block/deepslate.png",
@@ -3651,14 +3700,6 @@
         "path": "item/glow_item_frame.png",
         "resolution": [16, 16]
     },
-    "TEXTURE_JUNGLE_BOAT_CHEST": {
-        "path": "wood/jungle_boat_chest.png",
-        "resolution": [128, 128]
-    },
-    "TEXTURE_JUNGLE_BOAT_CHEST_ITEM": {
-        "path": "wood/jungle_chest_boat_item.png",
-        "resolution": [16, 16]
-    },
     "TEXTURE_LIGHT": {
         "path": "tools/light.png",
         "resolution": [16, 16]
@@ -3735,32 +3776,44 @@
         "path": "tools/light_15.png",
         "resolution": [16, 16]
     },
+    "TEXTURE_GUI_MANGROVE_SIGN_HANGING": {
+        "path": "wood/mangrove_sign_hanging_gui.png",
+        "resolution": [16, 16]
+    },
+    "TEXTURE_GUI_MANGROVE_SIGN": {
+        "path": "wood/mangrove_sign_gui.png",
+        "resolution": [16, 16]
+    },
+    "TEXTURE_MANGROVE_SIGN_HANGING_ITEM": {
+        "path": "wood/mangrove_hanging_sign_item.png",
+        "resolution": [16, 16]
+    },
+    "TEXTURE_MANGROVE_SIGN_HANGING": {
+        "path": "wood/mangrove_sign_hanging.png",
+        "resolution": [64, 32]
+    },
     "TEXTURE_MANGROVE_BOAT": {
         "path": "wood/mangrove_boat.png",
         "resolution": [128, 64]
-    },
-    "TEXTURE_MANGROVE_BOAT_CHEST": {
-        "path": "wood/mangrove_boat_chest.png",
-        "resolution": [128, 128]
     },
     "TEXTURE_MANGROVE_BOAT_ITEM": {
         "path": "wood/mangrove_boat_item.png",
         "resolution": [16, 16]
     },
+    "TEXTURE_MANGROVE_BOAT_CHEST": {
+        "path": "wood/mangrove_boat_chest.png",
+        "resolution": [128, 128]
+    },
     "TEXTURE_MANGROVE_BOAT_CHEST_ITEM": {
         "path": "wood/mangrove_chest_boat_item.png",
         "resolution": [16, 16]
     },
-    "TEXTURE_MANGROVE_DOOR_BOTTOM": {
-        "path": "wood/mangrove_door_bottom.png",
-        "resolution": [16, 16]
+    "TEXTURE_MANGROVE_DOOR": {
+        "path": "wood/mangrove_door.png",
+        "resolution": [16, 32]
     },
     "TEXTURE_MANGROVE_DOOR_ITEM": {
         "path": "wood/mangrove_door_item.png",
-        "resolution": [16, 16]
-    },
-    "TEXTURE_MANGROVE_DOOR_TOP": {
-        "path": "wood/mangrove_door_top.png",
         "resolution": [16, 16]
     },
     "TEXTURE_MANGROVE_LEAVES": {
@@ -3772,11 +3825,11 @@
         "resolution": [16, 16]
     },
     "TEXTURE_MANGROVE_LOG_STRIPPED": {
-        "path": "wood/stripped_mangrove_log.png",
+        "path": "wood/mangrove_log_stripped.png",
         "resolution": [16, 16]
     },
-    "TEXTURE_MANGROVE_LOG_STRIPPED_TOP": {
-        "path": "wood/stripped_mangrove_log_top.png",
+    "TEXTURE_MANGROVE_LOG_TOP_STRIPPED": {
+        "path": "wood/mangrove_log_top_stripped.png",
         "resolution": [16, 16]
     },
     "TEXTURE_MANGROVE_LOG_TOP": {
@@ -3849,6 +3902,14 @@
     },
     "TEXTURE_MUSIC_DISC_OTHERSIDE": {
         "path": "item/music_disc_otherside.png",
+        "resolution": [16, 16]
+    },
+    "TEXTURE_OAK_BOAT": {
+        "path": "wood/oak_boat.png",
+        "resolution": [128, 64]
+    },
+    "TEXTURE_OAK_BOAT_ITEM": {
+        "path": "wood/oak_boat_item.png",
         "resolution": [16, 16]
     },
     "TEXTURE_OAK_BOAT_CHEST": {
@@ -4365,6 +4426,14 @@
     },
     "TEXTURE_SPORE_BLOSSOM_BASE": {
         "path": "plants/spore_blossom_base.png",
+        "resolution": [16, 16]
+    },
+    "TEXTURE_SPRUCE_BOAT": {
+        "path": "wood/spruce_boat.png",
+        "resolution": [128, 64]
+    },
+    "TEXTURE_SPRUCE_BOAT_ITEM": {
+        "path": "wood/spruce_boat_item.png",
         "resolution": [16, 16]
     },
     "TEXTURE_SPRUCE_BOAT_CHEST": {
@@ -6032,26 +6101,6 @@
         "path": "crops/bamboo.png",
         "resolution": [16, 16]
     },
-    "TEXTURE_BAMBOO_LEAF_LARGE": {
-        "path": "crops/bamboo_leaf_large.png",
-        "resolution": [16, 16]
-    },
-    "TEXTURE_BAMBOO_LEAF_SINGLE": {
-        "path": "crops/bamboo_leaf_single.png",
-        "resolution": [16, 16]
-    },
-    "TEXTURE_BAMBOO_LEAF_SMALL": {
-        "path": "crops/bamboo_leaf_small.png",
-        "resolution": [16, 16]
-    },
-    "TEXTURE_BAMBOO_STAGE0": {
-        "path": "crops/bamboo_stage0.png",
-        "resolution": [16, 16]
-    },
-    "TEXTURE_BAMBOO_STALK": {
-        "path": "crops/bamboo_stalk.png",
-        "resolution": [16, 16]
-    },
     "TEXTURE_BEETROOT": {
         "path": "crops/beetroot.png",
         "resolution": [16, 16]
@@ -6396,6 +6445,11 @@
     },
     "TEXTURE_COLORMAP_GRASS": {
         "path": "environment/colormap_grass.png",
+        "resolution": [256, 256],
+        "downsample": "FALSE"
+    },
+    "TEXTURE_COLORMAP_BIRCH": {
+        "path": "environment/colormap_birch.png",
         "resolution": [256, 256],
         "downsample": "FALSE"
     },
@@ -8283,9 +8337,13 @@
         "path": "item/iron_bars.png",
         "resolution": [16, 16]
     },
+    "TEXTURE_IRON_DOOR_ITEM": {
+        "path": "item/iron_door_item.png",
+        "resolution": [16, 16]
+    },
     "TEXTURE_IRON_DOOR": {
         "path": "item/iron_door.png",
-        "resolution": [16, 16]
+        "resolution": [16, 32]
     },
     "TEXTURE_ITEM_FRAME": {
         "path": "item/item_frame.png",
@@ -8467,9 +8525,69 @@
         "path": "item/bell.png",
         "resolution": [16, 16]
     },
-    "TEXTURE_BED_ITEM": {
-        "path": "bed/bed_item.png",
-        "resolution": [16, 16]
+    "TEXTURE_BED_BLACK_ITEM": {
+        "path": "bed/bed_black_item.png",
+        "resolution": [64, 64]
+    },
+    "TEXTURE_BED_BLUE_ITEM": {
+        "path": "bed/bed_blue_item.png",
+        "resolution": [64, 64]
+    },
+    "TEXTURE_BED_BROWN_ITEM": {
+        "path": "bed/bed_brown_item.png",
+        "resolution": [64, 64]
+    },
+    "TEXTURE_BED_CYAN_ITEM": {
+        "path": "bed/bed_cyan_item.png",
+        "resolution": [64, 64]
+    },
+    "TEXTURE_BED_GRAY_ITEM": {
+        "path": "bed/bed_gray_item.png",
+        "resolution": [64, 64]
+    },
+    "TEXTURE_BED_GREEN_ITEM": {
+        "path": "bed/bed_green_item.png",
+        "resolution": [64, 64]
+    },
+    "TEXTURE_BED_LIGHT_BLUE_ITEM": {
+        "path": "bed/bed_light_blue_item.png",
+        "resolution": [64, 64]
+    },
+    "TEXTURE_BED_LIGHT_GRAY_ITEM": {
+        "path": "bed/bed_light_gray_item.png",
+        "resolution": [64, 64]
+    },
+    "TEXTURE_BED_LIME_ITEM": {
+        "path": "bed/bed_lime_item.png",
+        "resolution": [64, 64]
+    },
+    "TEXTURE_BED_MAGENTA_ITEM": {
+        "path": "bed/bed_magenta_item.png",
+        "resolution": [64, 64]
+    },
+    "TEXTURE_BED_ORANGE_ITEM": {
+        "path": "bed/bed_orange_item.png",
+        "resolution": [64, 64]
+    },
+    "TEXTURE_BED_PINK_ITEM": {
+        "path": "bed/bed_pink_item.png",
+        "resolution": [64, 64]
+    },
+    "TEXTURE_BED_PURPLE_ITEM": {
+        "path": "bed/bed_purple_item.png",
+        "resolution": [64, 64]
+    },
+    "TEXTURE_BED_RED_ITEM": {
+        "path": "bed/bed_red_item.png",
+        "resolution": [64, 64]
+    },
+    "TEXTURE_BED_WHITE_ITEM": {
+        "path": "bed/bed_white_item.png",
+        "resolution": [64, 64]
+    },
+    "TEXTURE_BED_YELLOW_ITEM": {
+        "path": "bed/bed_yellow_item.png",
+        "resolution": [64, 64]
     },
     "TEXTURE_BED_BLACK": {
         "path": "bed/bed_black.png",
@@ -10827,14 +10945,6 @@
     },
     "TEXTURE_HOPPER_TOP": {
         "path": "redstone/hopper_top.png",
-        "resolution": [16, 16]
-    },
-    "TEXTURE_IRON_DOOR_BOTTOM": {
-        "path": "redstone/iron_door_bottom.png",
-        "resolution": [16, 16]
-    },
-    "TEXTURE_IRON_DOOR_TOP": {
-        "path": "redstone/iron_door_top.png",
         "resolution": [16, 16]
     },
     "TEXTURE_IRON_TRAPDOOR": {
@@ -14217,60 +14327,20 @@
         "path": "wood/ladder.png",
         "resolution": [16, 16]
     },
-    "TEXTURE_ACACIA_BOAT": {
-        "path": "wood/acacia_boat.png",
-        "resolution": [128, 64]
-    },
-    "TEXTURE_ACACIA_BOAT_ITEM": {
-        "path": "wood/acacia_boat_item.png",
-        "resolution": [16, 16]
-    },
-    "TEXTURE_ACACIA_DOOR": {
-        "path": "wood/acacia_door.png",
-        "resolution": [16, 16]
-    },
-    "TEXTURE_ACACIA_DOOR_BOTTOM": {
-        "path": "wood/acacia_door_bottom.png",
-        "resolution": [16, 16]
-    },
-    "TEXTURE_ACACIA_DOOR_TOP": {
-        "path": "wood/acacia_door_top.png",
-        "resolution": [16, 16]
-    },
-    "TEXTURE_ACACIA_LEAVES": {
-        "path": "wood/acacia_leaves.png",
-        "resolution": [16, 16]
-    },
-    "TEXTURE_ACACIA_LOG": {
-        "path": "wood/acacia_log.png",
-        "resolution": [16, 16]
-    },
-    "TEXTURE_ACACIA_LOG_STRIPPED": {
-        "path": "wood/acacia_log_stripped.png",
-        "resolution": [16, 16]
-    },
-    "TEXTURE_ACACIA_LOG_TOP": {
-        "path": "wood/acacia_log_top.png",
-        "resolution": [16, 16]
-    },
-    "TEXTURE_ACACIA_LOG_TOP_STRIPPED": {
-        "path": "wood/acacia_log_top_stripped.png",
-        "resolution": [16, 16]
-    },
-    "TEXTURE_ACACIA_PLANKS": {
-        "path": "wood/acacia_planks.png",
-        "resolution": [16, 16]
-    },
-    "TEXTURE_ACACIA_SIGN": {
-        "path": "wood/acacia_sign.png",
+    "TEXTURE_BIRCH_SIGN": {
+        "path": "wood/birch_sign.png",
         "resolution": [64, 32]
     },
-    "TEXTURE_ACACIA_SIGN_ITEM": {
-        "path": "wood/acacia_sign_item.png",
+    "TEXTURE_BIRCH_SIGN_ITEM": {
+        "path": "wood/birch_sign_item.png",
         "resolution": [16, 16]
     },
-    "TEXTURE_ACACIA_TRAPDOOR": {
-        "path": "wood/acacia_trapdoor.png",
+    "TEXTURE_BIRCH_SIGN_HANGING": {
+        "path": "wood/birch_sign_hanging.png",
+        "resolution": [64, 32]
+    },
+    "TEXTURE_BIRCH_SIGN_HANGING_ITEM": {
+        "path": "wood/birch_hanging_sign_item.png",
         "resolution": [16, 16]
     },
     "TEXTURE_BIRCH_BOAT": {
@@ -14281,16 +14351,24 @@
         "path": "wood/birch_boat_item.png",
         "resolution": [16, 16]
     },
+    "TEXTURE_BIRCH_BOAT_CHEST": {
+        "path": "wood/birch_boat_chest.png",
+        "resolution": [128, 64]
+    },
+    "TEXTURE_BIRCH_BOAT_CHEST_ITEM": {
+        "path": "wood/birch_boat_chest_item.png",
+        "resolution": [16, 16]
+    },
     "TEXTURE_BIRCH_DOOR": {
         "path": "wood/birch_door.png",
+        "resolution": [16, 32]
+    },
+    "TEXTURE_BIRCH_DOOR_ITEM": {
+        "path": "wood/birch_door_item.png",
         "resolution": [16, 16]
     },
-    "TEXTURE_BIRCH_DOOR_BOTTOM": {
-        "path": "wood/birch_door_bottom.png",
-        "resolution": [16, 16]
-    },
-    "TEXTURE_BIRCH_DOOR_TOP": {
-        "path": "wood/birch_door_top.png",
+    "TEXTURE_BIRCH_LEAVES_OPAQUE": {
+        "path": "wood/birch_leaves_opaque.png",
         "resolution": [16, 16]
     },
     "TEXTURE_BIRCH_LEAVES": {
@@ -14317,14 +14395,6 @@
         "path": "wood/birch_planks.png",
         "resolution": [16, 16]
     },
-    "TEXTURE_BIRCH_SIGN": {
-        "path": "wood/birch_sign.png",
-        "resolution": [64, 32]
-    },
-    "TEXTURE_BIRCH_SIGN_ITEM": {
-        "path": "wood/birch_sign_item.png",
-        "resolution": [16, 16]
-    },
     "TEXTURE_BIRCH_TRAPDOOR": {
         "path": "wood/birch_trapdoor.png",
         "resolution": [16, 16]
@@ -14333,26 +14403,26 @@
         "path": "wood/charcoal.png",
         "resolution": [16, 16]
     },
+    "TEXTURE_CRIMSON_DOOR_ITEM": {
+        "path": "wood/crimson_door_item.png",
+        "resolution": [16, 16]
+    },
     "TEXTURE_CRIMSON_DOOR": {
-        "path": "wood/crimson_door.png",
-        "resolution": [16, 16]
-    },
-    "TEXTURE_CRIMSON_DOOR_BOTTOM": {
         "path": "wood/crimson_door_bottom.png",
-        "resolution": [16, 16]
-    },
-    "TEXTURE_CRIMSON_DOOR_TOP": {
-        "path": "wood/crimson_door_top.png",
-        "resolution": [16, 16]
+        "resolution": [16, 32]
     },
     "TEXTURE_CRIMSON_LEAVES": {
         "path": "wood/crimson_leaves.png",
         "resolution": [16, 16]
     },
-    "TEXTURE_CRIMSON_LOG": {
-        "path": "wood/crimson_log.png",
-        "resolution": [16, 80]
+    "MCMETA_CRIMSON_LOG": {
+        "path": "wood//crimson_log.png.mcmeta"
     },
+    "TEXTURE_CRIMSON_LOG_00": { "path": "wood/crimson_log_00.png", "resolution": [16, 16] },
+    "TEXTURE_CRIMSON_LOG_01": { "path": "wood/crimson_log_01.png", "resolution": [16, 16] },
+    "TEXTURE_CRIMSON_LOG_02": { "path": "wood/crimson_log_02.png", "resolution": [16, 16] },
+    "TEXTURE_CRIMSON_LOG_03": { "path": "wood/crimson_log_03.png", "resolution": [16, 16] },
+    "TEXTURE_CRIMSON_LOG_04": { "path": "wood/crimson_log_04.png", "resolution": [16, 16] },
     "TEXTURE_CRIMSON_LOG_TOP": {
         "path": "wood/crimson_log_top.png",
         "resolution": [16, 16]
@@ -14368,6 +14438,14 @@
     "TEXTURE_CRIMSON_SIGN_ITEM": {
         "path": "wood/crimson_sign_item.png",
         "resolution": [16, 16]
+    },
+    "TEXTURE_CRIMSON_SIGN_HANGING_ITEM": {
+        "path": "wood/crimson_hanging_sign_item.png",
+        "resolution": [16, 16]
+    },
+    "TEXTURE_CRIMSON_SIGN_HANGING": {
+        "path": "wood/crimson_sign_hanging.png",
+        "resolution": [64, 32]
     },
     "TEXTURE_CRIMSON_STEM_STRIPPED": {
         "path": "wood/crimson_stem_stripped.png",
@@ -14389,17 +14467,21 @@
         "path": "wood/dark_oak_boat_item.png",
         "resolution": [16, 16]
     },
+    "TEXTURE_DARK_OAK_BOAT_CHEST": {
+        "path": "wood/dark_oak_boat_chest.png",
+        "resolution": [128, 64]
+    },
+    "TEXTURE_DARK_OAK_BOAT_CHEST_ITEM": {
+        "path": "wood/dark_oak_boat_chest_item.png",
+        "resolution": [16, 16]
+    },
+    "TEXTURE_DARK_OAK_DOOR_ITEM": {
+        "path": "wood/dark_oak_door_item.png",
+        "resolution": [16, 16]
+    },
     "TEXTURE_DARK_OAK_DOOR": {
         "path": "wood/dark_oak_door.png",
-        "resolution": [16, 16]
-    },
-    "TEXTURE_DARK_OAK_DOOR_BOTTOM": {
-        "path": "wood/dark_oak_door_bottom.png",
-        "resolution": [16, 16]
-    },
-    "TEXTURE_DARK_OAK_DOOR_TOP": {
-        "path": "wood/dark_oak_door_top.png",
-        "resolution": [16, 16]
+        "resolution": [16, 32]
     },
     "TEXTURE_DARK_OAK_LEAVES": {
         "path": "wood/dark_oak_leaves.png",
@@ -14445,17 +14527,21 @@
         "path": "wood/jungle_boat_item.png",
         "resolution": [16, 16]
     },
+    "TEXTURE_JUNGLE_BOAT_CHEST": {
+        "path": "wood/jungle_boat_chest.png",
+        "resolution": [128, 128]
+    },
+    "TEXTURE_JUNGLE_BOAT_CHEST_ITEM": {
+        "path": "wood/jungle_boat_chest_item.png",
+        "resolution": [16, 16]
+    },
+    "TEXTURE_JUNGLE_DOOR_ITEM": {
+        "path": "wood/jungle_door_item.png",
+        "resolution": [16, 16]
+    },
     "TEXTURE_JUNGLE_DOOR": {
         "path": "wood/jungle_door.png",
-        "resolution": [16, 16]
-    },
-    "TEXTURE_JUNGLE_DOOR_BOTTOM": {
-        "path": "wood/jungle_door_bottom.png",
-        "resolution": [16, 16]
-    },
-    "TEXTURE_JUNGLE_DOOR_TOP": {
-        "path": "wood/jungle_door_top.png",
-        "resolution": [16, 16]
+        "resolution": [16, 32]
     },
     "TEXTURE_JUNGLE_LEAVES": {
         "path": "wood/jungle_leaves.png",
@@ -14493,25 +14579,13 @@
         "path": "wood/jungle_trapdoor.png",
         "resolution": [16, 16]
     },
-    "TEXTURE_OAK_BOAT": {
-        "path": "wood/oak_boat.png",
-        "resolution": [128, 64]
-    },
-    "TEXTURE_OAK_BOAT_ITEM": {
-        "path": "wood/oak_boat_item.png",
+    "TEXTURE_OAK_DOOR_ITEM": {
+        "path": "wood/oak_door_item.png",
         "resolution": [16, 16]
     },
     "TEXTURE_OAK_DOOR": {
         "path": "wood/oak_door.png",
-        "resolution": [16, 16]
-    },
-    "TEXTURE_OAK_DOOR_BOTTOM": {
-        "path": "wood/oak_door_bottom.png",
-        "resolution": [16, 16]
-    },
-    "TEXTURE_OAK_DOOR_TOP": {
-        "path": "wood/oak_door_top.png",
-        "resolution": [16, 16]
+        "resolution": [16, 32]
     },
     "TEXTURE_OAK_LEAVES": {
         "path": "wood/oak_leaves.png",
@@ -14549,25 +14623,13 @@
         "path": "wood/oak_trapdoor.png",
         "resolution": [16, 16]
     },
-    "TEXTURE_SPRUCE_BOAT": {
-        "path": "wood/spruce_boat.png",
-        "resolution": [128, 64]
-    },
-    "TEXTURE_SPRUCE_BOAT_ITEM": {
-        "path": "wood/spruce_boat_item.png",
+    "TEXTURE_SPRUCE_DOOR_ITEM": {
+        "path": "wood/spruce_door_item.png",
         "resolution": [16, 16]
     },
     "TEXTURE_SPRUCE_DOOR": {
         "path": "wood/spruce_door.png",
-        "resolution": [16, 16]
-    },
-    "TEXTURE_SPRUCE_DOOR_BOTTOM": {
-        "path": "wood/spruce_door_bottom.png",
-        "resolution": [16, 16]
-    },
-    "TEXTURE_SPRUCE_DOOR_TOP": {
-        "path": "wood/spruce_door_top.png",
-        "resolution": [16, 16]
+        "resolution": [16, 32]
     },
     "TEXTURE_SPRUCE_LEAVES": {
         "path": "wood/spruce_leaves.png",
@@ -14605,17 +14667,13 @@
         "path": "wood/spruce_trapdoor.png",
         "resolution": [16, 16]
     },
+    "TEXTURE_WARPED_DOOR_ITEM": {
+        "path": "wood/warped_door_item.png",
+        "resolution": [16, 16]
+    },
     "TEXTURE_WARPED_DOOR": {
         "path": "wood/warped_door.png",
-        "resolution": [16, 16]
-    },
-    "TEXTURE_WARPED_DOOR_BOTTOM": {
-        "path": "wood/warped_door_bottom.png",
-        "resolution": [16, 16]
-    },
-    "TEXTURE_WARPED_DOOR_TOP": {
-        "path": "wood/warped_door_top.png",
-        "resolution": [16, 16]
+        "resolution": [16, 32]
     },
     "TEXTURE_WARPED_LEAVES": {
         "path": "wood/warped_leaves.png",
