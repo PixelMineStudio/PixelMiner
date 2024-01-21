@@ -4,8 +4,9 @@ import shutil
 import zipfile
 import json
 import yaml
+import re
 import tempfile
-from PIL import Image
+from PIL import Image, ImageOps
 
 class PackImporter:
     def __init__(self, new_pack_name, pack_import_path, template_source_mapping, template_pack_config, template_build_config):
@@ -71,7 +72,7 @@ class PackImporter:
         if not os.path.exists(version_dir):
             print(f"No mappings found for version {version}")
             return mappings
-        print(f"Files in the directory: {os.listdir(version_dir)}")
+        #print(f"Files in the directory: {os.listdir(version_dir)}")
         for category_file in os.listdir(version_dir):
             if category_file.endswith('.json'):
                 with open(os.path.join(version_dir, category_file), 'r') as file:
@@ -129,7 +130,13 @@ class PackImporter:
                     os.makedirs(os.path.dirname(output_path), exist_ok=True)
                     extracted_image.save(output_path)
 
-            elif atlas_type == 'stamp':
+            elif atlas_type in ['stamp', 'tga']:
+                
+                # Check if mapping['source'] is a single item (not a list)
+                if not isinstance(mapping['source'], list):
+                    # Convert the single item into a list containing one dictionary with the 'uid' key
+                    mapping['source'] = [{'uid': mapping['source']}]
+
                 for item in reversed(mapping['source']):
                     uid = item['uid']
                     uid_info = uid_mappings.get(uid, {})
@@ -188,11 +195,12 @@ class PackImporter:
                     directory = os.path.dirname(output_path)
                     os.makedirs(directory, exist_ok=True)
                     img_canvas.save(output_path)
+
             else:
                 print(f"Unknown atlas type '{atlas_type}'")
                 return
 
-        print("Atlas deconstruction completed.")
+        #print("Atlas deconstruction completed.")
 
     def calculate_scale_factor_for_atlas(self, atlas_path, mapping, uid_mappings, atlas_type, grid_size=None, canvas_size=None):
         # Load the actual atlas image to get its size
@@ -214,10 +222,16 @@ class PackImporter:
 
         return [int(scale_factor_x), int(scale_factor_y)]
     
-    #Copy files from resource pack to source directory based on UID mappings
     def _import_resource_pack(self, pack_import_path, source_dir, mappings, uid_mappings):
         print(f"Starting import from {pack_import_path} to {source_dir}")
         missing_textures = []  # List to store missing textures
+        pack_config_updates = {}  # Dictionary to store extracted variables
+
+        # Load placeholders from the pack.config template
+        placeholders = self._load_pack_config_placeholders()
+
+        # Load version mapping variables
+        version_mapping_vars = self._load_version_mapping_variables()
 
         for mapping in mappings:
             if 'type' in mapping:  # Check if UID is part of an atlas
@@ -226,7 +240,7 @@ class PackImporter:
                     print(f"Warning: Texture not found - {atlas_path}")
                     continue
                 else:
-                    print(f"Converting {mapping['destination']} texture atlas to textures type: {mapping['type']}")
+                    #print(f"Converting {mapping['destination']} texture atlas to textures type: {mapping['type']}")
                     atlas_type = mapping['type']
                     grid_size = mapping.get("grid_size")
                     canvas_size = mapping.get("canvas_size")
@@ -235,6 +249,31 @@ class PackImporter:
             else:
                 uid = mapping['source']
                 uid_info = uid_mappings.get(uid, None)
+
+                if uid_info and uid_info.get("inject") == "TRUE":
+                    file_path = os.path.join(pack_import_path, mapping['destination'])
+                    if os.path.exists(file_path):
+                        extracted_vars, file_content = self._extract_variables_from_file(file_path, placeholders)
+                        pack_config_updates.update(extracted_vars)
+
+                        # Ensure the destination directory exists before saving the file
+                        destination_file_path = os.path.join(source_dir, uid_info['path'])
+                        os.makedirs(os.path.dirname(destination_file_path), exist_ok=True)
+                        # Replace file content with placeholders and save
+                        with open(os.path.join(destination_file_path), 'w') as file:
+                            file.write(file_content)
+
+                        with open(destination_file_path, 'r') as file:
+                            json_content = json.load(file)
+
+                        # Apply version mapping variables to this file
+                        for key in version_mapping_vars:
+                            self._replace_in_json(json_content, key, f'%{key}%')
+
+                        with open(destination_file_path, 'w') as file:
+                            json.dump(json_content, file, indent=2)
+
+                        continue
 
                 if not uid_info:
                     print(f"Warning: No UID found - {uid}")
@@ -251,7 +290,7 @@ class PackImporter:
                         if os.path.exists(source_path):
                             os.makedirs(os.path.dirname(dest_path), exist_ok=True)
                             shutil.copy2(source_path, dest_path)
-                            print(f"Copied {source_path} to {dest_path}")
+                            #print(f"Copied {source_path} to {dest_path}")
                         else:
                             missing_textures.append(source_path)  # Add missing texture to the list
 
@@ -261,8 +300,111 @@ class PackImporter:
             for texture in missing_textures:
                 print(texture)
 
+        # Update pack.config with extracted variables
+        self._update_pack_config(pack_config_updates)
         print("Import process completed.")
+
+    def _load_version_mapping_variables(self):
+        #Load all keys (including nested keys) from the version_mapping file.
+        #Returns a list of keys as strings.
+        with open(self.pack_format_to_version_file, 'r') as file:
+            version_mapping = json.load(file)
+
+        keys_list = []
+
+        def extract_keys(json_obj, prefix=''):
+            for key, value in json_obj.items():
+                keys_list.append(key)
+                full_key = f"{prefix}{key}" if prefix else key
+                if isinstance(value, dict):
+                    extract_keys(value, full_key + '.')
+                elif key not in keys_list:
+                    keys_list.append(key)
+
+        extract_keys(version_mapping)
+        keys_list = list(dict.fromkeys(keys_list))
+
+        return keys_list
+
+    def _load_pack_config_placeholders(self):
+        #Load placeholders from the pack.config template.
+        #Returns a list of keys (placeholders).
+        with open(self.template_pack_config, 'r') as file:
+            template_config = yaml.safe_load(file)
+        return list(template_config.keys())
+
+    def _extract_variables_from_file(self, file_path, placeholders):
+        #Extract variables from a JSON file and replace them with '%placeholder%'.
+        #print(f"Processing file: {file_path}")
         
+        with open(file_path, 'r') as file:
+            content = file.read()
+        #print(f"content: {content}")
+        # Load the content as JSON
+        try:
+            json_content = json.loads(content)
+        except json.JSONDecodeError:
+            print(f"Error decoding JSON from file: {file_path}")
+            return {}, content
+        #print(f"json_content: {json_content}")
+
+        extracted_vars = {}
+        for placeholder in placeholders:
+            #print(f"Looking for placeholder: {placeholder}")
+            value = self._extract_from_json(json_content, placeholder)
+            #print(f"value: {value}")
+            if value is not None:
+                extracted_vars[placeholder] = value
+                #print(f"Found value for {placeholder}: {value}")
+                # Replace the value in the JSON structure
+                self._replace_in_json(json_content, placeholder, f'%{placeholder}%')
+
+            #else:
+                #print(f"Placeholder {placeholder} not found.")
+
+        # Convert the modified JSON content back to string
+        modified_content = json.dumps(json_content, indent=2)
+        #print(f"extracted_vars: {extracted_vars}")
+        return extracted_vars, modified_content
+
+    def _extract_from_json(self, json_content, key):
+        #Extract a value from nested JSON content based on a single key.
+        #The function will navigate through the nested structure to find the key.
+
+        if isinstance(json_content, dict):
+            if key in json_content:
+                return json_content[key]
+            for k, v in json_content.items():
+                if isinstance(v, dict):
+                    result = self._extract_from_json(v, key)
+                    if result is not None:
+                        return result
+        return None
+
+    def _replace_in_json(self, json_content, key, replacement):
+        #Replace a value in nested JSON based on a single key.
+        if isinstance(json_content, dict):
+            if key in json_content:
+                json_content[key] = replacement
+            else:
+                for k, v in json_content.items():
+                    if isinstance(v, dict):
+                        self._replace_in_json(v, key, replacement)
+
+    def _update_pack_config(self, updates):
+        #Update the pack.config file with new variables in YAML format.
+        pack_config_file = os.path.join(self.source_dir, 'pack.config')
+        
+        with open(pack_config_file, 'r') as file:
+            pack_config = yaml.safe_load(file)
+
+        pack_config.update(updates)
+
+        with open(pack_config_file, 'w') as file:
+            yaml.dump(pack_config, file, default_flow_style=False, sort_keys=False)
+
+        print("Updated pack.config with extracted variables.")
+            
     def _extract_zip_to_temp(self, zip_path):
         temp_dir = tempfile.mkdtemp()
         print(f"Extracting {zip_path} to temporary directory {temp_dir}")

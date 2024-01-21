@@ -222,9 +222,14 @@ def main(page: ft.Page):
     def load_source_mapping(source_mapping_file, source_dir):
         with open(source_mapping_file, 'r') as file:
             source_mapping = json.load(file)
+        items = []
         for key, item in source_mapping.items():
             item['path'] = os.path.join(source_dir, item.get('path', ''))
-        return source_mapping
+            items.append((key, item))
+        # Sort the list of tuples by the 'path' key in the item
+        sorted_items = sorted(items, key=lambda x: x[1]['path'])
+        return dict(sorted_items)
+
     
     # Function to toggle the visibility of overlay container's controls
     def toggle_visibility(container, visible):
