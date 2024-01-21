@@ -399,13 +399,17 @@ def main(page: ft.Page):
 
             start_build_process()
 
+        def close_build_confirm(e):
+            build_dialog.open = False
+            page.update()
+
         def show_build_confirmation_dialog():
             global build_dialog
             build_dialog = ft.AlertDialog(
                 title=ft.Text("Confirm Build"),
                 actions=[
                     ft.TextButton("Confirm", on_click=on_build_confirm),
-                    ft.TextButton("Cancel", on_click=on_build_cancel),
+                    ft.TextButton("Cancel", on_click=close_build_confirm),
                 ],
                 modal=True
             )

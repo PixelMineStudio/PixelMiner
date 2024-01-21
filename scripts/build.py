@@ -2,6 +2,7 @@ import argparse
 import os
 import logging
 import json
+from unittest import skip
 import yaml
 import shutil
 import zipfile
@@ -345,8 +346,14 @@ def main(config_path):
 
         for version, version_info in versions.items():
             pack_variables["pack_format"] = version_info["pack_format"]
-            print(f"Pack_Format: {pack_variables['pack_format']}")
+            #print(f"Pack_Format: {pack_variables['pack_format']}")
             zip_extension = version_info.get("zip_extension", ".zip")
+
+            skip_build = version_info.get("skip_build")
+
+            if skip_build == "TRUE":
+                print(f"Skipping Build: {platform} {version}")
+                continue
 
             if os.path.exists(os.path.join(platform_mappings_dir, version)):
                 platform_mappings_dir = os.path.join(mappings_dir, platform)
@@ -375,9 +382,11 @@ def main(config_path):
                     shutil.rmtree(resolution_dir)
                     shutil.rmtree(version_dir)
         
-        else:
-            logging.warning(f"Warning: {version} version for {platform} platform could not be found in {mappings_dir} Mapping Directory so it could not be created.")
-            print(f"Warning: {version} version for {platform} platform could not be found in {mappings_dir} Mapping Directory so it could not be created.")
+            else:
+                logging.warning(f"Warning: {version} version for {platform} platform could not be found in {mappings_dir} Mapping Directory so it could not be created.")
+                print(f"Warning: {version} version for {platform} platform could not be found in {mappings_dir} Mapping Directory so it could not be created.")
+
+    print(f"Build process complete!")
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Resource Pack Generator')
